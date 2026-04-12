@@ -1,0 +1,8 @@
+fastapi==0.115.3
+uvicorn[standard]==0.32.0
+python-dotenv==1.0.1
+httpx==0.27.2
+
+# For future RAG/vector search and scraping (not yet used in code):
+chromadb==0.5.18
+beautifulsoup4==4.12.3
