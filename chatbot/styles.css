@@ -1,0 +1,186 @@
+/* Basic styles for the Interactive Campus Info AI Agent frontend.
+ * Keep it clean, minimal, and readable.
+ */
+
+:root {
+  --bg-color: #f4f5fb;
+  --accent-color: #0057b8;
+  --accent-light: #e3f2ff;
+  --text-color: #222;
+  --assistant-bg: #ffffff;
+  --user-bg: #0057b8;
+  --user-text: #ffffff;
+  --border-radius: 10px;
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top, #ffffff 0, #f4f5fb 55%, #e6ebf5 100%);
+  color: var(--text-color);
+}
+
+.app-container {
+  max-width: 960px;
+  margin: 24px auto;
+  padding: 16px;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadow-soft);
+}
+
+.logo-wrapper {
+  flex-shrink: 0;
+}
+
+.logo-img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.title-wrapper h1 {
+  margin: 0 0 4px 0;
+  font-size: 1.1rem;
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.chat-container {
+  margin-top: 20px;
+  padding: 16px 20px 20px;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: var(--shadow-soft);
+  display: flex;
+  flex-direction: column;
+  min-height: 420px;
+}
+
+.chat-window {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 4px;
+  margin-bottom: 12px;
+}
+
+.message {
+  display: flex;
+  margin: 6px 0;
+}
+
+.message-user {
+  justify-content: flex-end;
+}
+
+.message-assistant {
+  justify-content: flex-start;
+}
+
+.bubble {
+  max-width: 80%;
+  padding: 8px 12px;
+  border-radius: var(--border-radius);
+  font-size: 0.93rem;
+  line-height: 1.4;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+.message-user .bubble {
+  background: var(--user-bg);
+  color: var(--user-text);
+  border-bottom-right-radius: 2px;
+}
+
+.message-assistant .bubble {
+  background: var(--assistant-bg);
+  border-left: 3px solid var(--accent-color);
+  border-bottom-left-radius: 2px;
+}
+
+.chat-input-row {
+  display: flex;
+  gap: 8px;
+  margin-top: auto;
+}
+
+.chat-input-row input[type="text"] {
+  flex: 1;
+  padding: 10px 12px;
+  border-radius: 999px;
+  border: 1px solid #d0d4e4;
+  font-size: 0.95rem;
+}
+
+.chat-input-row input[type="text"]:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 2px var(--accent-light);
+}
+
+.chat-input-row button {
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: none;
+  background: var(--accent-color);
+  color: #ffffff;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: background 0.15s ease, transform 0.05s ease;
+}
+
+.chat-input-row button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.chat-input-row button:hover:not(:disabled) {
+  background: #004195;
+}
+
+.chat-input-row button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.hint {
+  margin-top: 8px;
+  font-size: 0.8rem;
+  color: #777;
+}
+
+@media (max-width: 640px) {
+  .app-container {
+    margin: 12px auto;
+    padding: 8px;
+  }
+
+  .app-header {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .title-wrapper h1 {
+    font-size: 0.98rem;
+  }
+
+  .subtitle {
+    font-size: 0.8rem;
+  }
+}
