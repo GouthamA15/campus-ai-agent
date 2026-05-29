@@ -118,6 +118,9 @@ Example output JSON:
 	"page_count": 2,
 	"extracted_at": "2026-01-01T00:00:00+00:00",
 	"content_length": 1234,
+	"document_type": "circular",
+	"text_extracted": true,
+	"needs_ocr": false,
 	"pages": [
 		{"page_number": 1, "content": "Page 1 text..."},
 		{"page_number": 2, "content": "Page 2 text..."}
@@ -127,6 +130,11 @@ Example output JSON:
 ```
 
 Migration note: older outputs may contain a single `content` string. Re-run `python -m scraper.pdf_parser --all` (or `--file ...`) to regenerate JSONs with `pages` + `full_content`.
+
+Additional metadata:
+- `document_type` is classified using deterministic keyword rules (no AI/LLM).
+- `text_extracted` is `false` when `content_length == 0`.
+- If `needs_ocr == true`, the JSON includes `ocr_status: "pending"` (Phase 4 does not run OCR; it only marks readiness).
 
 Parse a single PDF:
 
@@ -141,9 +149,12 @@ python -m scraper.pdf_parser --file data/pdfs/sample.pdf --cleanup
 ```
 
 Cleanup details:
-- Scans the first 10 and last 5 non-empty lines of each page
-- Normalizes lines (lowercase, strips punctuation/dashes, removes years/date-ranges/postal codes/standalone numbers)
-- Removes lines that appear on >= `--cleanup-threshold` fraction of pages
+- Uses pdfplumber word coordinates to collect candidate header/footer *lines* from:
+	- Top zone: first ~15% of page height
+	- Bottom zone: last ~10–15% of page height
+- Normalizes aggressively (lowercase, strips punctuation/dashes, removes years/date-ranges/postal codes/standalone numbers)
+- Clusters similar candidates using token-set similarity (Jaccard/overlap), so formatting variants still match
+- Removes only the detected repeated header/footer lines (does not blindly crop regions)
 
 Tune repeated-line threshold (fraction or percent):
 
