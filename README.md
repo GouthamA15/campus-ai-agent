@@ -42,7 +42,7 @@ using official university resources instead of relying solely on generic LLM kno
 
 # 🏗 System Architecture
 
-![Workflow Architecture](screenshots/architecture.png)
+![Workflow Architecture](assets/screenshots/architecture.png)
 
 ---
 
