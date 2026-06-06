@@ -190,3 +190,53 @@ When cleanup is enabled, the output JSON includes:
 	]
 }
 ```
+
+## Phase 2A: PDF Chunking Engine
+
+This reads only the parsed PDF JSON from `data/pdf_text/` and writes retrieval-ready chunks to `data/pdf_chunks/`.
+
+Run on one file:
+
+```bash
+python -m scraper.pdf_chunker --file data/pdf_text/example.json
+```
+
+Run on all parsed PDF JSON files:
+
+```bash
+python -m scraper.pdf_chunker --all
+```
+
+Chunking modes:
+- Syllabus: unit/textbooks/references/course outcome sections
+- Academic regulations: numbered or titled regulation sections
+- Exam schedules and timetables: one complete timetable chunk
+- Generic university documents: heading-based chunks, then fixed-size windows if no headings are found
+
+For syllabus documents, unit chunks inherit optional subject metadata (`subject_name`, `course_code`) and use subject-prefixed chunk IDs when a subject heading is detected, for example `physics_unit_1`.
+
+Output schema:
+
+```json
+{
+	"source_pdf": "example.pdf",
+	"document_type": "circular",
+	"chunk_count": 2,
+	"chunks": [
+		{
+			"chunk_id": "example_section_1",
+			"chunk_type": "section",
+			"section_title": "NOTICE",
+			"page_start": 1,
+			"page_end": 1,
+			"content": "...",
+			"metadata": {
+				"source_pdf": "example.pdf",
+				"document_type": "circular",
+				"chunk_strategy": "heading_sections",
+				"word_count": 142
+			}
+		}
+	]
+}
+```
