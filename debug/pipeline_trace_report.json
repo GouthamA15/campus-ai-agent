@@ -1,0 +1,516 @@
+[
+  {
+    "query": "What is the attendance requirement?",
+    "structured_query": {
+      "original_query": "What is the attendance requirement?",
+      "normalized_query": "what is the attendance requirement",
+      "query_type": "rules",
+      "intent": "lookup",
+      "entities": [
+        "Attendance"
+      ],
+      "keywords": [
+        "attendance",
+        "requirement"
+      ],
+      "possible_document_types": [
+        "rules"
+      ],
+      "possible_sources": [
+        "pdf"
+      ],
+      "metadata_filters": {
+        "document_type": "rules",
+        "source_type": "pdf"
+      },
+      "confidence": 1.0
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "rules_examination",
+          "score": 0.7576,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "rules_examination_branch_as_per_the_notification_issued",
+          "score": 0.6829,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+          "score": 0.663,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "rules_examination_and_the_examinations_pertaining_to_the_other_semesters_conducted",
+          "score": 0.6494,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "rules_rules_of_promotion_are_as_shown_in_the_below_table",
+          "score": 0.6469,
+          "doc": "rules.pdf"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 9,
+      "documents_included": 2
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the rules.pdf document, a \"regular programme of study\" means putting in attendance of not less than 75%.",
+      "input_tokens": 2966,
+      "output_tokens": 26,
+      "total_tokens": 2992,
+      "latency_ms": 413,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "Show Data Science syllabus.",
+    "structured_query": {
+      "original_query": "Show Data Science syllabus.",
+      "normalized_query": "show data science syllabus",
+      "query_type": "general",
+      "intent": "information",
+      "entities": [
+        "Syllabus",
+        "Data Science"
+      ],
+      "keywords": [
+        "data",
+        "science",
+        "syllabus"
+      ],
+      "possible_document_types": [
+        "syllabus"
+      ],
+      "possible_sources": [
+        "pdf"
+      ],
+      "metadata_filters": {
+        "document_type": "syllabus",
+        "source_type": "pdf",
+        "department": "Data Science"
+      },
+      "confidence": 0.8
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "admissions.php.json_chunk_7",
+          "score": 0.7527,
+          "doc": "http://kucet.ac.in/admissions.php"
+        },
+        {
+          "id": "syllabus_new.php.json_chunk_0",
+          "score": 0.7355,
+          "doc": "http://kucet.ac.in/syllabus_new.php"
+        },
+        {
+          "id": "btech_year4_csd_sem8_unit_1",
+          "score": 0.7311,
+          "doc": "btech_year4_csd_sem8.pdf"
+        },
+        {
+          "id": "admissions.php.json_chunk_15",
+          "score": 0.7293,
+          "doc": "http://kucet.ac.in/admissions.php"
+        },
+        {
+          "id": "6_database_management_systems_lab_unit_6",
+          "score": 0.7276,
+          "doc": "btech_year2_csd_sem4.pdf"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 20,
+      "documents_included": 10
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the provided context, the Data Science syllabus is available in the following documents:\n\n1. btech_year4_csd_sem8.pdf: \n   - UNIT \u2013 I: Introduction to core concepts and technologies\n   - UNIT-V: Applications of Data Science, Technologies for visualization, Bokeh (Python)\n\n2. btech_year2_csd_sem4.pdf: \n   - UNIT - I: INTRODUCTION - Data Science: Benefits and uses, Data Science Process, Data Mining, Data Warehousing\n   - Course Code and Titles: \n     - PCS-401 Database Management Systems\n     - PCS-402 Introduction to Data Science\n     - PCS-403 Design and Analysis of Algorithms\n     - PCS-404 (no title mentioned)\n     - PCS-401L (lab)\n\n3. btech_year3_csd_sem5.pdf: \n   - Course Code and Titles: \n     - PCS-501DS Software Engineering\n     - PCS-502DS Operating System\n     - PE-I* Professional Elective \u2013 I*\n     - PCS-503DS Data Mining\n     - HS3108 Managerial Economics and Accountancy\n     - PCS-501DSL Software Engineering Lab\n     - PE-I** Professional Elective \u2013I Lab**\n\n4. btech_year2_csd_sem3.pdf: \n   - Course Code and Titles: \n     - BSC-301 Mathematics and Statistical Foundations\n     - PCS-301 Data Structures using \u201cC\u201d\n     - PCS-302 Computer Architecture & Organization\n     - PCS-303 OOP Through JAVA\n     - PCS-304 Elements of Computer Science\n     - PCS-301L Data Structures Lab\n     - PCS-303L OOP Through JAVA Lab\n     - MC-310 Environment Science\n\n5. btech_year3_csd_sem6.pdf: \n   - Course Code and Titles: \n     - PCS-601DS Computer Networks\n     - PCS-602DS Introduction to Data Analytics & Visualization\n     - PE-II* Professional Elective \u2013II*\n     - OE-I* Open Elective-I\n     - PCS-603DS Machine Learning\n\nPlease refer to the respective documents for detailed information on the Data Science syllabus.",
+      "input_tokens": 2912,
+      "output_tokens": 446,
+      "total_tokens": 3358,
+      "latency_ms": 1176,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "List scholarship details.",
+    "structured_query": {
+      "original_query": "List scholarship details.",
+      "normalized_query": "list scholarship details",
+      "query_type": "list",
+      "intent": "lookup",
+      "entities": [
+        "Scholarship"
+      ],
+      "keywords": [
+        "scholarship"
+      ],
+      "possible_document_types": [],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {},
+      "confidence": 1.0
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "best-practices.php.json_chunk_3",
+          "score": 0.7047,
+          "doc": "http://kucet.ac.in/best-practices.php"
+        },
+        {
+          "id": "index.php.json_chunk_21",
+          "score": 0.6828,
+          "doc": "http://kucet.ac.in/index.php"
+        },
+        {
+          "id": "alumini_main.json_chunk_7",
+          "score": 0.6723,
+          "doc": "http://kucet.ac.in/alumini_main"
+        },
+        {
+          "id": "office_main.php.json_chunk_11",
+          "score": 0.6523,
+          "doc": "http://kucet.ac.in/office_main.php"
+        },
+        {
+          "id": "index.php.json_chunk_29",
+          "score": 0.6305,
+          "doc": "http://kucet.ac.in/index.php"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 20,
+      "documents_included": 14
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the provided context, the following scholarship details are available:\n\n1. Scholarship Program \u2013 25 Jan 2025 (for First Year Girls)\n2. Student Support & Scholarships: Offering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions.\n3. Documents required for Fresh and Renewal Scholarship (mentioned in the office_main.php document)\n\nAdditionally, the Gold_Medal_List_July_2025_.pdf document lists various gold medals awarded to students, including:\n\n1. DR.D.S. REDDY GOLD MEDAL\n2. SRI J. LAXMAIAH TEACHER GOLD MEDAL\n3. SRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL\n4. SMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL\n5. MARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL\n6. SRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL\n7. LATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL\n\nPlease note that the information available is limited to the provided context, and more details might be available on the university's website or other sources.",
+      "input_tokens": 5465,
+      "output_tokens": 269,
+      "total_tokens": 5734,
+      "latency_ms": 3863,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "How many seats are available in Data Science?",
+    "structured_query": {
+      "original_query": "How many seats are available in Data Science?",
+      "normalized_query": "how many seats are available in data science",
+      "query_type": "statistics",
+      "intent": "information",
+      "entities": [
+        "Data Science"
+      ],
+      "keywords": [
+        "seats",
+        "available",
+        "data",
+        "science"
+      ],
+      "possible_document_types": [],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {
+        "department": "Data Science"
+      },
+      "confidence": 0.9
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "admissions.php.json_chunk_7",
+          "score": 0.7183,
+          "doc": "http://kucet.ac.in/admissions.php"
+        },
+        {
+          "id": "admissions.php.json_chunk_15",
+          "score": 0.7063,
+          "doc": "http://kucet.ac.in/admissions.php"
+        },
+        {
+          "id": "cse_po_data_science_2",
+          "score": 0.6981,
+          "doc": "CSE_PO.pdf"
+        },
+        {
+          "id": "btech_year4_csd_sem8_unit_1",
+          "score": 0.6806,
+          "doc": "btech_year4_csd_sem8.pdf"
+        },
+        {
+          "id": "6_database_management_systems_lab_unit_6",
+          "score": 0.6611,
+          "doc": "btech_year2_csd_sem4.pdf"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 20,
+      "documents_included": 12
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the admissions page (http://kucet.ac.in/admissions.php), the seat intake for Data Science is not explicitly stated. However, two sets of numbers are provided: 66, 55, 58, 66 and 0, 12, 15. Without clear column headers, it's difficult to determine the exact meaning of these numbers. Therefore, the information on the number of seats available in Data Science is unavailable in the current knowledge base.",
+      "input_tokens": 2604,
+      "output_tokens": 97,
+      "total_tokens": 2701,
+      "latency_ms": 9682,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "Where is the Mechanical Engineering department?",
+    "structured_query": {
+      "original_query": "Where is the Mechanical Engineering department?",
+      "normalized_query": "where is the mechanical engineering department",
+      "query_type": "location",
+      "intent": "lookup",
+      "entities": [
+        "Mechanical Engineering",
+        "Department"
+      ],
+      "keywords": [
+        "mechanical",
+        "engineering",
+        "department"
+      ],
+      "possible_document_types": [
+        "department"
+      ],
+      "possible_sources": [
+        "web"
+      ],
+      "metadata_filters": {
+        "document_type": "department",
+        "source_type": "web",
+        "department": "Mechanical Engineering"
+      },
+      "confidence": 1.0
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "MECHANICAL-info.php.json_chunk_14",
+          "score": 0.834,
+          "doc": "http://kucet.ac.in/MECHANICAL-info.php"
+        },
+        {
+          "id": "MECHANICAL-info.php.json_chunk_0",
+          "score": 0.7789,
+          "doc": "http://kucet.ac.in/MECHANICAL-info.php"
+        },
+        {
+          "id": "MECHANICAL-info.php.json_chunk_5",
+          "score": 0.7381,
+          "doc": "http://kucet.ac.in/MECHANICAL-info.php"
+        },
+        {
+          "id": "MECHANICAL-info.php.json_chunk_58",
+          "score": 0.7222,
+          "doc": "http://kucet.ac.in/MECHANICAL-info.php"
+        },
+        {
+          "id": "MECHANICAL-info.php.json_chunk_3",
+          "score": 0.7202,
+          "doc": "http://kucet.ac.in/MECHANICAL-info.php"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 19,
+      "documents_included": 10
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "The physical location of the Mechanical Engineering department is not available in the current knowledge base. However, you can visit the department's webpage at http://kucet.ac.in/MECHANICAL-info.php for more information.",
+      "input_tokens": 2042,
+      "output_tokens": 45,
+      "total_tokens": 2087,
+      "latency_ms": 11399,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "What are the eligibility criteria for B.Tech admission?",
+    "structured_query": {
+      "original_query": "What are the eligibility criteria for B.Tech admission?",
+      "normalized_query": "what are the eligibility criteria for bachelor of technology admission",
+      "query_type": "eligibility",
+      "intent": "information",
+      "entities": [
+        "Admission"
+      ],
+      "keywords": [
+        "eligibility",
+        "criteria",
+        "bachelor",
+        "technology",
+        "admission"
+      ],
+      "possible_document_types": [
+        "notification",
+        "webpage"
+      ],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {},
+      "confidence": 0.9
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "recruitment_notification_for_indian_navy_short_service_commission_ssc_officers_june_2027_course_eligibility_conditions",
+          "score": 0.7949,
+          "doc": "Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf"
+        },
+        {
+          "id": "recruitment_notification_for_indian_navy_short_service_commission_ssc_officers_june_2027_course_eligibility_conditions_2",
+          "score": 0.7876,
+          "doc": "Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf"
+        },
+        {
+          "id": "rules_rules_and_regulations",
+          "score": 0.7468,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "MTech-cse-info.php.json_chunk_40",
+          "score": 0.7447,
+          "doc": "http://kucet.ac.in/MTech-cse-info.php"
+        },
+        {
+          "id": "ECE-info.php.json_chunk_24",
+          "score": 0.7358,
+          "doc": "http://kucet.ac.in/ECE-info.php"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 8,
+      "documents_included": 6
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the rules.pdf document, the eligibility criteria for B.Tech admission are as follows: \n\nA candidate for admission to the Four Year Degree Program in Engineering & Technology must have passed the Intermediate Examination of the Board of Intermediate Education, Government of Telangana with Mathematics, Physics, and Chemistry as optional courses, or any other examination recognized by the Kakatiya University as equivalent thereto. \n\nAdditionally, all eligible applicants shall have to qualify at the common Entrance Examination, and the candidates will be admitted strictly in accordance with the merit secured at the Entrance Examination (EAMCET) conducted by the state government of Telangana.",
+      "input_tokens": 2123,
+      "output_tokens": 129,
+      "total_tokens": 2252,
+      "latency_ms": 13540,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  },
+  {
+    "query": "What certificates can students request through the college?",
+    "structured_query": {
+      "original_query": "What certificates can students request through the college?",
+      "normalized_query": "what certificates can students request through the college",
+      "query_type": "general",
+      "intent": "information",
+      "entities": [],
+      "keywords": [
+        "certificates",
+        "students",
+        "request",
+        "through",
+        "college"
+      ],
+      "possible_document_types": [],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {},
+      "confidence": 0.6
+    },
+    "retrieval_stats": {
+      "count": 20,
+      "top_chunks": [
+        {
+          "id": "office_main.php.json_chunk_11",
+          "score": 0.7258,
+          "doc": "http://kucet.ac.in/office_main.php"
+        },
+        {
+          "id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+          "score": 0.688,
+          "doc": "rules.pdf"
+        },
+        {
+          "id": "exam_fee_late_fee_t_otal",
+          "score": 0.6696,
+          "doc": "Exam.pdf"
+        },
+        {
+          "id": "ncc-airwing.php.json_chunk_5",
+          "score": 0.6603,
+          "doc": "http://kucet.ac.in/ncc-airwing.php"
+        },
+        {
+          "id": "rules_examination_2",
+          "score": 0.6503,
+          "doc": "rules.pdf"
+        }
+      ]
+    },
+    "context_stats": {
+      "initial_chunks": 20,
+      "final_blocks": 15,
+      "documents_included": 10
+    },
+    "llm_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the provided context, specifically the \"Office\" page on the KUCET website (http://kucet.ac.in/office_main.php), students can request certificates related to \"Fresh and Renewal Scholarship\" and possibly other certificates, but the specific types are not detailed. Additionally, as mentioned in the rules.pdf document, students who have been declared successful in the whole examination can be given a Provisional Certificate, and they also have to obtain a Degree Certificate (convocation) from the University.",
+      "input_tokens": 4069,
+      "output_tokens": 103,
+      "total_tokens": 4172,
+      "latency_ms": 20784,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "query": "What is the attendance requirement?",
+    "response_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the rules.pdf document, a regular programme of study means putting in attendance of not less than 75%. The cumulative monthly attendance in each subject and the aggregate attendance shall be displayed on the respective department notice board.",
+      "input_tokens": 2894,
+      "output_tokens": 45,
+      "total_tokens": 2939,
+      "latency_ms": 513,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    },
+    "valid": true
+  },
+  {
+    "query": "Show Data Science syllabus.",
+    "response_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the provided context, the Data Science syllabus is available in the following documents:\n\n1. btech_year4_csd_sem8.pdf: \n   UNIT \u2013 I: Introduction to core concepts and technologies, data science process, data science toolkit, Types of data, Example applications.\n   UNIT-V: Applications of Data Science, Technologies for visualization, Bokeh (Python), Recent trends in various data collection and analysis techniques, various visualization techniques, application development methods of used in data science.\n\n2. btech_year2_csd_sem4.pdf: \n   UNIT - I: Data Science: Benefits and uses, facets of data, Data Science Process, Defining research goals, Retrieving data, Data preparation, Exploratory Data analysis, build the model, presenting findings and building applications, Data Mining, Data Warehousing, Basic Statistical descriptions of Data.\n\n3. btech_year3_csd_sem5.pdf: \n   PCS-501DS: Software Engineering\n   PCS-502DS: Operating System\n   PCS-503DS: Data Mining\n   PCS-501DSL: Software Engineering Lab\n   PE-I**: Professional Elective \u2013I Lab\n\n4. btech_year2_csd_sem3.pdf: \n   BSC-301: Mathematics and Statistical Foundations\n   PCS-301: Data Structures using \u201cC\u201d\n   PCS-302: Computer Architecture & Organization\n   PCS-303: OOP Through JAVA\n   PCS-304: Elements of Computer Science\n   PCS-301L: Data Structures Lab\n   PCS-303L: OOP Through JAVA Lab\n\n5. btech_year3_csd_sem6.pdf: \n   PCS-601DS: Computer Networks\n   PCS-602DS: Introduction to Data Analytics & Visualization\n   PE-II*: Professional Elective \u2013II\n   OE-I*: Open Elective-I\n   PCS-603DS: Machine Learning\n\nPlease refer to the respective documents for detailed information on the Data Science syllabus.",
+      "input_tokens": 2768,
+      "output_tokens": 401,
+      "total_tokens": 3169,
+      "latency_ms": 1059,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    },
+    "valid": true
+  },
+  {
+    "query": "List scholarship details.",
+    "response_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "According to the provided context, the following scholarship details are available:\n\n1. Scholarship Program \u2013 25 Jan 2025 (for First Year Girls) - As stated in the document http://kucet.ac.in/index.php.\n2. Student Support & Scholarships: Offering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions - As mentioned in the document http://kucet.ac.in/alumini_main.\n3. Documents required for Fresh and Renewal Scholarship - As stated in the document http://kucet.ac.in/office_main.php.\n\nAdditionally, the Gold_Medal_List_July_2025_.pdf document lists various gold medals awarded to students, including:\n\n1. DR.D.S. REDDY GOLD MEDAL\n2. SRI J. LAXMAIAH TEACHER GOLD MEDAL\n3. SRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL\n4. SMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL\n5. MARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL\n6. SRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL\n7. LATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL\n\nThese gold medals are awarded to students in various branches and years, as specified in the document.",
+      "input_tokens": 5257,
+      "output_tokens": 302,
+      "total_tokens": 5559,
+      "latency_ms": 12968,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    },
+    "valid": true
+  },
+  {
+    "query": "How many seats are available in Data Science?",
+    "response_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "The information about the number of seats available in Data Science is not available in the current knowledge base.",
+      "input_tokens": 2482,
+      "output_tokens": 21,
+      "total_tokens": 2503,
+      "latency_ms": 12473,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    },
+    "valid": true
+  },
+  {
+    "query": "Where is the Mechanical Engineering department?",
+    "response_stats": {
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "response": "The information about the location of the Mechanical Engineering department is not available in the current knowledge base.",
+      "input_tokens": 1805,
+      "output_tokens": 20,
+      "total_tokens": 1825,
+      "latency_ms": 9348,
+      "finish_reason": "stop",
+      "success": true,
+      "error": null
+    },
+    "valid": true
+  }
+]

@@ -48,6 +48,8 @@ def _is_junk_line(line: str) -> bool:
 def _is_heading(line: str) -> bool:
     """Heuristic to detect a heading line."""
     line = line.strip()
+    if line.startswith('|') and line.endswith('|'):
+        return False
     if len(line) < 5 or len(line) > 80:
         return False
     if line.isdigit():

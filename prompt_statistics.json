@@ -1,0 +1,27 @@
+[
+  {
+    "query": "What is the attendance requirement?",
+    "estimated_tokens": 3275,
+    "documents_referenced": 2
+  },
+  {
+    "query": "Show Data Science syllabus.",
+    "estimated_tokens": 2281,
+    "documents_referenced": 10
+  },
+  {
+    "query": "List scholarship details.",
+    "estimated_tokens": 4091,
+    "documents_referenced": 14
+  },
+  {
+    "query": "How many seats are available in Data Science?",
+    "estimated_tokens": 2171,
+    "documents_referenced": 12
+  },
+  {
+    "query": "Where is the Mechanical Engineering department?",
+    "estimated_tokens": 2171,
+    "documents_referenced": 10
+  }
+]

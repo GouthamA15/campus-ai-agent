@@ -1,0 +1,166 @@
+{
+  "What is the attendance requirement?": {
+    "original_query": "What is the attendance requirement?",
+    "normalized_query": "what is the attendance requirement",
+    "query_type": "rules",
+    "intent": "lookup",
+    "entities": [
+      "Attendance"
+    ],
+    "keywords": [
+      "attendance",
+      "requirement"
+    ],
+    "possible_document_types": [
+      "rules"
+    ],
+    "possible_sources": [
+      "pdf"
+    ],
+    "metadata_filters": {
+      "document_type": "rules",
+      "source_type": "pdf"
+    },
+    "confidence": 1.0
+  },
+  "Show Data Science syllabus.": {
+    "original_query": "Show Data Science syllabus.",
+    "normalized_query": "show data science syllabus",
+    "query_type": "general",
+    "intent": "information",
+    "entities": [
+      "Syllabus",
+      "Data Science"
+    ],
+    "keywords": [
+      "data",
+      "science",
+      "syllabus"
+    ],
+    "possible_document_types": [
+      "syllabus"
+    ],
+    "possible_sources": [
+      "pdf"
+    ],
+    "metadata_filters": {
+      "document_type": "syllabus",
+      "source_type": "pdf",
+      "department": "Data Science"
+    },
+    "confidence": 0.8
+  },
+  "List scholarship details.": {
+    "original_query": "List scholarship details.",
+    "normalized_query": "list scholarship details",
+    "query_type": "list",
+    "intent": "lookup",
+    "entities": [
+      "Scholarship"
+    ],
+    "keywords": [
+      "scholarship"
+    ],
+    "possible_document_types": [],
+    "possible_sources": [
+      "either"
+    ],
+    "metadata_filters": {},
+    "confidence": 1.0
+  },
+  "How many seats are available in Data Science?": {
+    "original_query": "How many seats are available in Data Science?",
+    "normalized_query": "how many seats are available in data science",
+    "query_type": "statistics",
+    "intent": "information",
+    "entities": [
+      "Data Science"
+    ],
+    "keywords": [
+      "seats",
+      "available",
+      "data",
+      "science"
+    ],
+    "possible_document_types": [],
+    "possible_sources": [
+      "either"
+    ],
+    "metadata_filters": {
+      "department": "Data Science"
+    },
+    "confidence": 0.9
+  },
+  "Where is the Mechanical Engineering department?": {
+    "original_query": "Where is the Mechanical Engineering department?",
+    "normalized_query": "where is the mechanical engineering department",
+    "query_type": "location",
+    "intent": "lookup",
+    "entities": [
+      "Mechanical Engineering",
+      "Department"
+    ],
+    "keywords": [
+      "mechanical",
+      "engineering",
+      "department"
+    ],
+    "possible_document_types": [
+      "department"
+    ],
+    "possible_sources": [
+      "web"
+    ],
+    "metadata_filters": {
+      "document_type": "department",
+      "source_type": "web",
+      "department": "Mechanical Engineering"
+    },
+    "confidence": 1.0
+  },
+  "What are the eligibility criteria for B.Tech admission?": {
+    "original_query": "What are the eligibility criteria for B.Tech admission?",
+    "normalized_query": "what are the eligibility criteria for bachelor of technology admission",
+    "query_type": "eligibility",
+    "intent": "information",
+    "entities": [
+      "Admission"
+    ],
+    "keywords": [
+      "eligibility",
+      "criteria",
+      "bachelor",
+      "technology",
+      "admission"
+    ],
+    "possible_document_types": [
+      "notification",
+      "webpage"
+    ],
+    "possible_sources": [
+      "either"
+    ],
+    "metadata_filters": {},
+    "confidence": 0.9
+  },
+  "What certificates can students request through the college?": {
+    "original_query": "What certificates can students request through the college?",
+    "normalized_query": "what certificates can students request through the college",
+    "query_type": "general",
+    "intent": "information",
+    "entities": [],
+    "keywords": [
+      "certificates",
+      "students",
+      "request",
+      "through",
+      "college"
+    ],
+    "possible_document_types": [],
+    "possible_sources": [
+      "either"
+    ],
+    "metadata_filters": {},
+    "confidence": 0.6
+  }
+}

@@ -1,0 +1,2144 @@
+
+
+==================================================
+QUERY: What is the attendance requirement?
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+3.2 "A regular programme of study" means putting in attendance of not less than 75%.
+(The cumulative monthly attendance in each subject and the aggregate attendance
+shall be displayed on the respective department notice board)
+3.3. a) In special cases and for sufficient cause shown, the Vice-Chancelloi- may on the
+specific recommendation of the Principal / Head of the Department, condone the
+deficiency in attendance to the extent of 10% on medical grounds subject to
+submission of medical certificate and payment of condonation fee.
+b) However in respect of women candidates who seek condonation of attendance due
+to pregnancy, the Vice-Chancellor may condone the deficiency in attendance to the
+extent of 15% (as against 10% Condonation for others) on medical grounds subject to
+submission of medical certificate to this effect. Such condonation Permitted only once
+during the programme of study.
+3.4 The prescribed fee for condonation of attendance on medical grounds shall be paid
+through Challan/Demand Draft drawn in favour of The Registrar, Kakatiya
+University, Warangal and payable at Warangal.
+3.5 Attendance of N.C.C/N.S.S. Camps or inter collegiate or inter University or Inter
+State or international matches or debates or Educational Excursions or such other inter
+University activities as approved by the authorities involving journeys outside the city
+in which the college is situated will not be counted as absence. However, Such absence
+shall not exceed, four weeks in the total period of instructions. Such leave should not
+be availed twice during the programme of study.
+3.6 The attendance shall be calculated on the aggregate attendance of all the courses
+offered during the semester and reckoned from the date of commencement of classes
+/ date of readmission in case of detained candidates as per the almanac communicated
+by The Dean, Faculty of Engineering and Technology, Kakatiya University.
+KUCE & T - Rules and Regulations for Under Graduate programme B.Tecli 4-year Degree Programme vii
+3.7 In case of the candidates who fail to the required attendance in a program of Study,
+he/she shall be detained in the same class and will not be permitted to appear for the
+University examination. Such candidates shall have to seek readmission into the
+same class during subsequent year in order to appear for the examination after
+fulfillin the attendance requirements and on payment of requisite tuition fee.
+g
+3,8. a) Candidates admitted to the first year through an entrance test and do not have the
+requisite attendance but have not less than 40% attendance can seek readmission
+without once again appearing for the entrance test
+b) In respect of candidates of such programs where the admissions are governed
+through an entrance test, candidates of B.Tech. 1st Semester who do not have
+the minimum 40% attendance would lose their seat and they will have to seek
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Examination branch as per the notification issued
+9.5 No candidate shall be allowed to put in attendance for multiple programme and appear
+at examinations for the same simultaneously.
+KUCE & T Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xv
+9.6 Students who have appeared once at any examination of the program need not put in
+fresh attendance, if they wish to reappear at the corresponding examination,
+notwithstanding the fact that the University may have introduced new courses. They
+will, however, have to appear at the examinations according to the scheme of
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the
+candidate to appear in the Examination, and this Hall-Ticket shall have to be produced
+by the Candidate before he/she is admitted to the premises where the Examination is
+conducted.
+9.3 A Candidate who does not present himself / herself for the examination for any reason
+whatsoever, excepting shortage of attendance, shall not be entitled to claim refund of
+whole or part of the examination fee for subsequent Examination(s).
+9.4 A candidate after he/she has been declared successful in the whole examination, shall
+be given a Provisional Certificate indicating the year of examination, the programme
+in which he/she was examined and, the overall Grade (CGPA) secured. However, the
+candidates have to obtain Degree Certificate (convocation) from the University
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Examination and the examinations pertaining to the other semesters conducted
+thereafter will be called as Supplementary Examinations.
+4.12 To enable the B.Tech. Final Year students to complete the program requirements in time,
+there shall be a Make-up Exam, for VIII semester only, which will be scheduled within one
+month after publication of results of VIII semester (SEE) Main Examinations
+4.13. All the examinations in Theory Course shall be conducted as written examination
+for duration as prescribed in the Scheme of Examination. The examination in
+Laboratory Courses shall be conducted as written and oral together by carrying out
+the experiments as required in the specific Laboratory Course for the specified
+duration. Laboratory record of experiments conducted during semester is also required
+to be produced at the semester end examination. For the Project work (mini or major),
+the related document (report) is to be produced at the time of oral examination.
+KUCE & T - Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme x
+4.14 All the general rules for examinations (given under 9) shall be adhered to
+4.15 A candidate shall he deemed t h fully passed a course (Theory/Practical), if he/
+o ave
+she secures not less than the minimum marks/grade as prescribed. Minimum pass
+marks / grade in the University Examinations (SEE) plus CIE (add together) shall be.
+i) Each Theory Subject: 40% E Grade
+ii) Each Practical Course and Project: 50% - D Grade
+iii) Drawing Course treated as practical /Lab course; 50% D Grade
+Important Note: The candidate has to appear at the Semester End Examination (SEE)
+in all the Practical / Laboratory Drawing Courses compulsorily irrespective of marks
+secured under CIE
+4.16. If a candidate in any semester examination of the program fails to secure the minimum
+marks/grade in any subject then he/she shall have to appear only in the failed course
+of the semester.
+5. RULES OF PROMOTION:
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Rules of Promotion are as shown in the below table.
+S.No. Semester / Class Conditions to be fulfilled for Promotion
+1. Regular program of study of B.Tech. I- Semester and
+From I - Semester to
+registration* fro the I - Semester Examination
+II - Semester
+2. From II - Semester to a) Regular program of study of B.Tech. H - Semester b)
+III - Semester Must have earned at least 50% of credits prescribed for
+B.Tech. I - Semester & II - Semester put together.
+3. From III - Semester Regular program of study of B.Tech. Ill - Semester and
+to IV - Semester registration* for the III - Semester Examination
+4. From IV - Semester a) Regular program of study of B.Tech. IV - Semester
+to V- Semester b) No. of backlog credits, if any of B.Tech. I, II, III and
+IV Semesters put together shall riot exceed 50% of
+the total No. of credits prescribed.
+KUCE & T Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xi
+registration* fro the I - Semester Examination
+Must have earned at least 50% of credits prescribed for
+B.Tech. I - Semester & II - Semester put together.
+registration* for the III - Semester Examination
+b) No. of backlog credits, if any of B.Tech. I, II, III and
+IV Semesters put together shall riot exceed 50% of
+the total No. of credits prescribed.
+From V -Semester to
+Regular program of study of B.Tech. V - Semester a d
+5. n
+VI - Semester
+registration* for the V-Semester Examination
+From VI -
+6.
+Semester a) Regular program of study of B.Tech. VI- Semester.
+to VII - Semester
+From VII to VIII b R) e N guo l. a o r f p rb oa gc rk al mog o c fr se td ui dts y. oif f a Bn .y T eo cf hB . . VT Ie Ic -h . S I e mto e V stI e r
+Semester Semestersput together shall not exceed 50% of the total
+7.
+and registration* from the VII – Semester
+No. of Credits prescribed
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Note: * Registration means obtaining a Hall ticket for the said examination
+1. If a candidate has more Than permitted number of credits as backlogs, he/she will be
+detained. The candidate who wishes to take readmission into the year in which he/
+she is detained has to pay the total tuition fee of that year and all the credits earned
+during that year shall become null and void.
+2. If the number of credits permitted as backlogs is not a whole number, the credits are
+rounded to next higher digit/whole number.
+6. GRADING SYSTEM:
+6 .1 Candidates who have passed all the examinations of the B.Tech. Degree Program
+shall be awarded Division in accordance with the grades secured by them in all eight
+Semesters taken together, including the ClE marks secured in those semesters.
+The Grade secured by the candidate will be shown in the Memorandum of Marks as
+per his/her performance both in SEE and CIE together and as per the norms indicated
+in clause 4.3.
+A minimum Cumulative Grade Point Average (CGPA) of 5 is required for the award
+of Degree. The consolidated memorandum of marks will reflect the Credits & Grade
+obtained by the candidates in all the course of B.Tech. Programme
+6.2 Semester Grade Point Average (SGPA) & Cumulative Grade Point Average (CGPA)
+Calculations:
+a) SGPA = I (Letter Grade Point x Credits) I ∑, Credits
+• SGPA is calculated up to second decimal point.
+• SGPA is calculated only when all subjects in that semester are Cleared I Passed.
+KUCE & T - RuleS and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xii
+n
+registration* for the V-Semester Examination
+Semester
+Illustration of calculation of SGPA
+Course/Subject Credits Letter Grade tirade Points Credit Points
+4
+Course I 8 4x8 = 32
+4
+Course 2 4x10=40
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+9 GENERAL RULES OF EXAMINATIONS;
+9.1 Application for permission to appear at every examination shall be made on the
+prescribed form, accompanied by three passport size full face photographs (not profile)
+which along with the necessary certificates regarding attendance, practical work etc.,
+and the prescribed fee, should be sent to the Controller of Examination; (COE) K.U
+through HOD and the Principal of the College where candidate is enrolled as a regular
+student.
+9.2 When a candidate’s application is found in order and he/she is eligible to appear at an
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+examination/overall subject knowledge.
+Note: A course which is evaluated based on CIE with no University Examination as per the
+scheme is treated as Pass when the candidate obtains 50% in CIE.
+4.9 The details of instruction period, examination schedule, vacation etc. shall be notified
+by the Dean, Faculty of Engineering and Technology, Kakatiya University.
+4.10 The medium of instruction and examination shall be in English.
+4.11 At the end of each semester, Semester End Examination shall be conducted as
+prescribed in the respective Schemes of Examination. The examinations pertaining to
+the semester conducted immediately after the semester is termed as Main
+
+----------------------------------
+Document: http://kucet.ac.in/office_main.php
+Title: Office
+Heading: Certificate Issue Duration
+Source: WEB
+Content:
+Certificate Issue Duration
+Documents required for Fresh and Renewal Scholarship
+
+----------------------------------
+
+
+What is the attendance requirement?
+
+
+==================================================
+QUERY: Show Data Science syllabus.
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: DATA SCIENCE
+Source: WEB
+Content:
+DATA SCIENCE
+66
+55
+58
+66
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: DATA SCIENCE
+Source: WEB
+Content:
+DATA SCIENCE
+0
+12
+15
+
+----------------------------------
+Document: http://kucet.ac.in/syllabus_new.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: ECET:
+Source: WEB
+Content:
+ECET:
+Syllabus
+
+----------------------------------
+Document: http://kucet.ac.in/syllabus_new.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Sem 2
+Source: WEB
+Content:
+Sem 2
+Syllabus PDF (Year 1 Sem 1)
+Syllabus PDF (Year 1 Sem 2)
+
+----------------------------------
+Document: http://kucet.ac.in/syllabus_new.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Sem 4
+Source: WEB
+Content:
+Sem 4
+Syllabus PDF (Year 2 Sem 3)
+Syllabus PDF (Year 2 Sem 4)
+
+----------------------------------
+Document: http://kucet.ac.in/syllabus_new.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Sem 8
+Source: WEB
+Content:
+Sem 8
+Syllabus PDF (Year 4 Sem 7)
+Syllabus PDF (Year 4 Sem 8)
+
+----------------------------------
+Document: btech_year4_csd_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT – I
+Introduction to core concepts and technologies: Introduction, Terminology, data science process, data
+science toolkit, Types of data, Example applications.
+
+----------------------------------
+Document: btech_year4_csd_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT-V
+Applications of Data Science, Technologies for visualization, Bokeh (Python). Recent trends in various data
+collection and analysis techniques, various visualization techniques, application development methods of
+used in data science.
+
+----------------------------------
+Document: btech_year4_csd_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Cathy O‘Neil and Rachel Schutt. Doing Data Science, Straight Talk from The Frontline. O‘Reilly.
+2. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. v2.1, Cambridge
+University Press.
+BIG DATA ANALYTICS (PE4202CS)
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT - I
+INTRODUCTION:
+Data Science: Benefits and uses – facets of data - Data Science Process: Overview – Defining research
+goals – Retrieving data – Data preparation - Exploratory Data analysis – build the model– presenting
+findings and building applications - Data Mining - Data Warehousing – Basic Statistical descriptions of
+Data
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. David Cielen, Arno D. B. Meysman, and Mohamed Ali, “Introducing Data Science”, Manning
+Publications, 2016.
+2. Robert S. Witte and John S. Witte, “Statistics”, Eleventh Edition, Wiley Publications, 2017.
+3. Dr. Mohammed Abdul Hameed, “Python for Data Science” Wiley Publications
+4. Jake VanderPlas, “Python Data Science Handbook”, O’Reilly, 2016.
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+S. Credits
+Course Code Course Title L T P
+No.
+1 PCS-401 Database Management Systems 3 1 0 4
+2 PCS-402 Introduction to Data Science 3 1 0 4
+3 PCS-403 Design and Analysis of Algorithms 3 1 0 4
+4 ESC-401 Elements of Electrical and Electronics 3 0 0 3
+Theory of Computation
+5 PCS-404 3 1 0 4
+PCS-401L
+
+----------------------------------
+Document: CSE_PO.pdf
+Heading: No Heading
+Source: PDF
+Content:
+DATA SCIENCE
+(PE4201CS) |  | CO1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+BIG DATA
+
+----------------------------------
+Document: btech_year3_csd_sem5.pdf
+Heading: No Heading
+Source: PDF
+Content:
+B. Tech. (Data Science) V SEMESTER
+Scheme of
+Scheme of Lecture
+S. Course Examinatio Credits
+Course Title Instruction hrs/week
+No. Code n
+L T P CIE SEE
+1 PCS-501DS Software Engineering 3 1 0 4 30 70 4
+2 PCS-502DS Operating System 3 1 0 4 30 70 4
+3 PE-I* Professional Elective – I* 3 1 0 4 30 70 4
+4 PCS-503DS Data Mining 3 1 0 4 30 70 4
+Managerial Economics and
+5 HS3108 3 0 0 3 30 70 3
+Accountancy
+6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5
+7 PE-I** Professional Elective –I Lab** 0 0 3 3 25 50 1.5
+Total 15 4 6 25 200 450 22
+*(PE-I)Professional Elective – I **(PE-I)Professional Elective – I Lab
+PE5101CS Web Programming PE5105CS Web Programming Lab
+PE5102CS Advanced Java PE5106CS Advanced Java Lab
+PE5103CS Advanced Data Structures PE5107CS Advanced DS Lab
+PE5104CS Fundamentals of AI PE5108CS AI Lab
+S.
+Examinatio
+1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4
+2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4
+4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4
+5 | HS3108 | Managerial Economics and
+6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5
+Software Engineering (PCS-501DS)
+L T P C Internal Marks: 30
+3 1 0 4 External Marks: 70
+
+----------------------------------
+Document: btech_year2_csd_sem3.pdf
+Heading: No Heading
+Source: PDF
+Content:
+B.Tech (Data Science) III SEMESTER
+Sl. Category/
+Course Title L T P Credits
+No Code
+1 BSC-301 Mathematics and Statistical 3 0 0 3
+Foundations
+2 PCS-301 Data Structures using “C” 3 1 0 4
+3 PCS-302 Computer Architecture & Organization 3 1 0 4
+4 PCS-303 OOP Through JAVA 3 1 0 4
+5 PCS-304 Elements of Computer Science 3 1 0 4
+6 PCS-301L Data Structures Lab 0 0 4 1.5
+7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5
+8 MC-310 Environment Science 2 0 0 0
+Total 25 22
+1
+Sl.
+1 | BSC-301 | Mathematics and Statistical
+2 | PCS-301 | Data Structures using “C” | 3 | 1 | 0 | 4
+3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4
+4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4
+5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4
+6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5
+7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5
+8 | MC-310 | Environment Science | 2 | 0 | 0 | 0
+MC 310 Environmental Sciences
+2 0 0 0 External Marks: 70
+
+----------------------------------
+Document: btech_year3_csd_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and
+Presenting Data,EMC Education services Wiley Publication
+2. Practical Statistics for Data Scientists 50+ Essential Concepts Using R
+and Python, O‘Reilly Publications 2nd Edition
+3. Practical Text Mining and statistical Analysis for non-structured text data
+applications,1st edition,Grey Miner,Thomas Hill.
+
+----------------------------------
+Document: btech_year3_csd_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Scheme of
+Scheme of Lecture
+S. Course Examinatio Credits
+Course Title Instruction hrs/week
+No. Code n
+L T P CIE SEE
+1 PCS-601DS Computer Networks 3 1 0 4 30 70 4
+Introduction to Data Analytics & 3 1 0
+2 PCS-602DS 4 30 70 4
+Visualization
+Professional Elective –II* 3 1 0
+3 PE-II* 4 30 70 4
+Open Elective-I 3 0 0
+4 OE-I* 3 30 70 3
+Machine Learning 3 1 0
+5 PCS-603DS 4 30 70 4
+
+----------------------------------
+Document: btech_year3_csd_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Data Mining, Concepts and Techniques: 3rd edition, Jiawei Han, Micheline
+Kamber and Jian Pei
+2. Data Analytics using R, Bharati Motwani, Wiley Publications.
+3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks,
+Jonathan Schwabish, Columbia University Press
+
+----------------------------------
+Document: btech_year3_cse_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1.Narasimha Karumanchi, “Data Structures and Algorithms Made Easy: Data Structures and Algorithmic
+Puzzles”, Careermonk Publications, 2016, ISBN-No: 978-8193245279.
+
+----------------------------------
+Document: CSE_TIMETABLE.pdf
+Heading: No Heading
+Source: PDF
+Content:
+CLASS WORK w.e.f :08-01-2025
+Class Teacher: M REKHASREE Room No:07
+Time 11.10 to 02.00 to 02.50 to
+09.30 to 10.20 10.20 to 11.10 11.20 to 12.10 12.10 to 1.00 01.00 to 02.00 03.40 to 04.30
+Day 11.20 02.50 03.40
+MON LIB IOT PROJECT WORK DS DS IP
+TUE BREAK IP IP LIB
+IOT IOT DS LIB
+LIB IP
+WED LIB DS
+LUNCH PROJECT WORK
+THU SEMINAR PROJECT WORK
+SEMINAR
+FRI PROJECT WORK
+SAT SEMINAR PROJECT WORK
+IP - IMAGE PROCESSING - Mr. D RAMESH(DR)
+DS - DATA SCIENCE - Mrs M REKHASREE(MRS)
+
+----------------------------------
+
+
+Show Data Science syllabus.
+
+
+==================================================
+QUERY: List scholarship details.
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: http://kucet.ac.in/best-practices.php
+Title: Exams Section
+Heading: Remuneration Bill
+Source: WEB
+Content:
+Remuneration Bill
+Award list
+
+----------------------------------
+Document: http://kucet.ac.in/index.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Flag Area (26 Jan 2025)
+Source: WEB
+Content:
+Flag Area (26 Jan 2025)
+Scholarship Program â€“ 25 Jan 2025 (for First Year Girls)
+International Day of Education (24 Jan 2025)
+
+----------------------------------
+Document: http://kucet.ac.in/index.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: -> Java Packages | Dr.N.Ramana
+Source: WEB
+Content:
+-> Java Packages | Dr.N.Ramana
+-> Introduction to DS-concepts and technologies | Dr.N.Ramana
+-> DS-Data collection and Management | Dr.N.Ramana
+-> Introduction to ML & it's types | Dr.N.Ramana
+-> ML designing of Learning systems | Dr.N.Ramana
+-> Introduction to IoT | Dr.N.Ramana
+Call for Quotation (V4 Sterling Submersible Pump & Accessories)
+Call for Quotation (Making Student Id Cards)
+Call for Quotation (Physics and Chemistry Record Books)
+Call for Quotation (HP Laser Jet M208dw Printer)
+Call for Quotation (Electrical Work Items)
+Call for Quotation (For High Speed Crompton Fans)
+Call for Quotation (Making Door and Windows)
+
+----------------------------------
+Document: http://kucet.ac.in/index.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Lecture Plan
+Source: WEB
+Content:
+Lecture Plan
+Call for Quotation (Supply of Wall Mount High Speed Fans)
+Plastic Nilkamal chairs
+
+----------------------------------
+Document: http://kucet.ac.in/index.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Gold Medal Awarded List-July 2025
+Source: WEB
+Content:
+Gold Medal Awarded List-July 2025
+Hostel facility is available to Boy's and Girls from second Year onwards
+Hostel facility to the SFC course students is subject to the availability of vacancies
+Hostel facility is not available for M.Tech Students
+
+----------------------------------
+Document: http://kucet.ac.in/alumini_main
+Title: ALUMINI
+Heading: Alumni Contribution Areas
+Source: WEB
+Content:
+Alumni Contribution Areas
+
+----------------------------------
+Document: http://kucet.ac.in/alumini_main
+Title: ALUMINI
+Heading: Student Support & Scholarships:
+Source: WEB
+Content:
+Student Support & Scholarships:
+Offering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions.
+
+----------------------------------
+Document: http://kucet.ac.in/office_main.php
+Title: Office
+Heading: Certificate Issue Duration
+Source: WEB
+Content:
+Certificate Issue Duration
+Documents required for Fresh and Renewal Scholarship
+
+----------------------------------
+Document: http://kucet.ac.in/sports.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Inter-Collegiate Tournament Achievements
+Source: WEB
+Content:
+Inter-Collegiate Tournament Achievements
+Runners-Up
+
+----------------------------------
+Document: Gold_Medal_List_July_2025_.pdf
+Heading: No Heading
+Source: PDF
+Content:
+KU COLLEGE OF ENGINEERING & TECHNOLOGY
+GOLD MEDAL AWARDED LIST-2016 TO 2021
+S.NO HALL TICKET NO NAME OF THE STUDENT COURSE BRANCH YEAR MOBILE NO
+DR.D.S. REDDY GOLD MEDAL
+1 12000T1501 KADAVERGU AISHWARYA B.TECH ECE 2016 8790284950
+2 14567T0007 MOHAMMAD ASIF ALI B.TECH CIVIL 2018 8978225507
+3 15567T1239 JINDAM SATHVIKA B.TECH EEE 2019 8179605075
+9397655568
+4 16567T1541 LINGALA SANDHYA B.TECH ECE 2020
+9154211744
+SRI J. LAXMAIAH TEACHER GOLD MEDAL
+1 16567T0307 BANDA SAIUMA B.TECH MECH 2020 9440012708
+2 17567T0303 AMGOTH RAJA RAO B.TECH MECH 2021 9908467353
+SRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL
+1 15567T0323 CHINTHALA PARINITHA B.TECH MECH 2019 8500426240
+2 16567T0307 BANDA SAIUMA B.TECH MECH 2020 9440012708
+3 17567T0303 AMGOTH RAJA RAO B.TECH MECH 2021 9908467353
+SMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL
+1 13567T0047 RAMIDI SAITEJA B.TECH CIVIL 2016 9849040525
+2 14567T0007 MOHAMMAD ASIF ALI B.TECH CIVIL 2018 8978225507
+3 15567T0042 KATAKAM SRAVANI B.TECH CIVIL 2019 9676033113
+4 16567T0003 BANDOTH JYOTHI B.TECH CIVIL 2020 7702096378
+5 185670060L MEKALA PREMALATHA B.TECH CIVIL 2021 9704604057
+MARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL
+9390101343
+1 12000T0954 TAJASWINI GADDAM B.TECH CSE 2016
+9246895817
+2 14567T0909 CHANDANA KOLANU B.TECH CSE 2018 9849932237
+SRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL
+1 14567T0909 CHANDANA KOLANU B.TECH CSE 2018 9849932237
+ANNEXURE TO GOLD MEDAL LIST WITH COURSE NAMES
+9948125058
+1 16567T0947 TABASSUM TANVEER B.TECH CSE 2020
+7794886950
+LATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL
+1 14567T1237 SHABANASHAFI B.TECH EEE 2018 9989734267
+2 15567T1239 JINDAM SATHVIKA B.TECH EEE 2019 8179605075
+
+----------------------------------
+Document: Gold_Medal_List_July_2025_.pdf
+Heading: No Heading
+Source: PDF
+Content:
+3 17567T1203 BANDAR VAISHNAVI B.TECH EEE 2021 9703543286
+GOLD MEDAL AWARDED LIST-2016 TO 2021 |  |  |  |  |  |
+9154211744
+9246895817
+7794886950
+
+----------------------------------
+Document: http://kucet.ac.in/eapcet.php
+Title: EAPCET Rank Cutoff
+Heading: Categories:
+Source: WEB
+Content:
+Categories:
+OC
+BC-A
+BC-B
+BC-C
+BC-D
+BC-E
+SC-I
+SC-II
+SC-III
+ST
+EWS
+Boys
+Girls
+
+----------------------------------
+Document: http://kucet.ac.in/eapcet.php
+Title: EAPCET Rank Cutoff
+Heading: TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:
+Source: WEB
+Content:
+TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:
+Branch-wise Last Ranks – 2025
+Final Phase · KUWL
+Branch Code | Branch Name | OC | BC-A | BC-B | BC-C | BC-D | BC-E | SC | ST | EWS
+Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls
+CIV | Civil Engineering | 49831 | 49831 | 88204 | 119483 | 124338 | 126781 | 69254 | 69254 | 89203 | 117281 | 123181 | 123181 | 99460 | 99460 | 89304 | 129867 | 49831 | 49831
+CSD | Computer Science & Engg. (Data Science) | 27143 | 27143 | 46013 | 60054 | 34378 | 55834 | 27143 | 27143 | 27742 | 27742 | 78137 | 78137 | 27143 | 27143 | 53106 | 63887 | 47982 | 49026
+CSE | Computer Science & Engineering | 17979 | 17979 | 23867 | 23867 | 19940 | 19970 | 17979 | 17979 | 24974 | 24974 | 29837 | 36145 | 17979 | 17979 | 32548 | 92678 | 27940 | 36659
+ECE | Electronics & Communication Engineering | 25354 | 25354 | 75993 | 75993 | 48658 | 51919 | 25354 | 32837 | 36155 | 36393 | 114814 | 119462 | 25354 | 86992 | 66703 | 66703 | 61593 | 61593
+EEE | Electrical & Electronics Engineering | 39137 | 39137 | 78722 | 96640 | 52553 | 64037 | 39137 | 39137 | 66347 | 66347 | 123665 | 123665 | 39137 | 39137 | 85591 | 118462 | 82466 | 114924
+INF | Information Technology | 27348 | 27348 | 90453 | 97336 | 57729 | 65990 | 46016 | 46016 | 48647 | 48647 | 58269 | 97723 | 114748 | 114748 | 72836 | 130484 | 65023 | 82030
+MEC | Mechanical Engineering | 52741 | 52741 | 105425 | 109714 | 104786 | 104786 | 79145 | 79145 | 73378 | 90163 | 119978 | 119978 | 137338 | 137338 | 132574 | 137193 | 122482 | 122482
+
+----------------------------------
+Document: APAAR_ID_Creation_Guide_Final.pdf
+Heading: No Heading
+Source: PDF
+Content:
+What is the APAAR/ABC ID? APAAR stands for Automated Permanent Academic Account Registry. It is a 12-digit academic identity under NEP 2020 that stores all academic records such as marksheets, certificates, and co-curricular credits on DigiLocker. Who's eligible and what you need - All students from school to higher education. - Aadhaar number and mobile linked to Aadhaar. - School/board and roll number details. - Parental consent is mandatory for minors. Step-by-step: Create APAAR ID Online 1. Parental Consent: - Download consent form from the official portal and submit it to the school. 2. Using DigiLocker: - Login or create a DigiLocker account. - Search for 'Academic Bank of Credits' or 'APAAR ID'. - Fill in board, admission year, roll number. - Click 'Get Document' to generate the ID. 3. Using ABC Portal: - Visit abc.gov.in -> My Account -> Student. - Login with DigiLocker, provide academic details and generate ID. Downloading Your APAAR ID 1. Go to Issued Documents in DigiLocker. 2. Or download from ABC portal dashboard. Benefits - Lifelong academic ID [TABLE 1] How APAAR stands for A academic identi marksheet - All student | APAAR sta academ | | | | | | | | | | | | APAAR sta academ | | | How | to Create APAAR ID Onl | ine in India [TABLE 2] | h as | - Verified credentials - Central record for certificates, transfers, scholarships, etc. Quick Recap 1. Submit parental consent 2. Create DigiLocker account 3. Search APAAR in DigiLocker 4. Enter academic details 5. Generate & download APAAR/ABC ID Video Guide Watch the guide on YouTube(Telugu) Watch the guide on YouTube Troubleshooting Tips - Double-check board, year, and roll number. - Use admission year, not passing year. - Contact school/board if data is missing. - Ensure Aadhaar-linked mobile is active for OTP. [TABLE 1] India etc. | | India etc. | | [TABLE 3] r-linked | |
+
+----------------------------------
+Document: Culturaleventslistexternal2.pdf
+Heading: No Heading
+Source: PDF
+Content:
+KU COLLEGE OF ENGINEERING
+AND TECHNOLOGY
+AETHERA
+CULTURAL EVENTS LIST
+CONVENER DR. K. SUmALATHA
+DR. N. SATHYA SHIVA pRASAD
+Faculty co-ordinators
+1. Dr. A. Shirisha
+2. Mrs. D. Bhagya Laxmi
+3. Mrs. R. Sushmitha
+4. Mrs. P. Rukmini
+5. Mrs. V. Rajasree
+6. Dr. D. Sailaja
+7. Dr. H. Lakshmi
+8. Dr. Rumana Abideen
+9. Mr. R. Lakshman Naik
+10. Mr. V. Ramana Babu
+11. Dr. N. Satya Shiva Prasad
+12. Mr. P. Yeshvender
+13. Mrs. D. D. Prasanna Rani
+14. Dr. N. Veena
+Instrumental play
+1)
+Time: 10:30AM – 12:00PM
+Registration fee: 200/-
+Prize: 1st Prize: 2000/-
+2nd prize: 1500/-
+1. Hari Priya: 4th year (CSD) – 90009 63837
+1. D.D. Prasanna Rani
+2. Dr. N. Veena
+The play should be below 10 minutes
+Solo/Dual Singing
+2)
+Time: 2:00PM – 4:00PM
+Venue: KUCET Seminarhall
+Prize: 1st Prize: 1000/-
+2nd prize: 500/-
+Event coordinators:
+1. K. Rakesh – (IT) 4th year – 7997816541
+1. D. D. Prasanna Rani
+2. P. Rukmini
+Duration of the song should be between: 3 - 5 minutes
+Role play
+3)
+Time: 12:00PM – 2:00PM
+No of participants: 2 - 4
+Prize: 1st Prize: gift
+2nd prize: gift
+Event Coordinator:
+1. E. Ganesh: 4th year (IT) – 93470 29917
+2. Nithish: 4th year (CSE)- 95021 42312
+(FACULTY COORDINATOR)
+1. P. Yeshvender
+2. R. Lakshman Naik
+Not to be much bold and boring to watch.
+Minimum 2 and maximum 4 participants are allowed
+Short film
+4)
+Date: 15/04/2026 (15, April, 2026)
+Time: 11:00AM – 12:00PM
+Venue: KUCET
+Prize: 1st Prize: 1500/-
+2nd prize: 1000/-
+1. Sanjay Sammeta: 4th year (CIVIL) – 81211 40471
+1. R. Sushmitha
+2. Dr. H. Lakshmi
+3. V. Ramana babu
+Theme: family financial situations on children`s life
+Duration of the film is 7 to 9 minutes.
+NOTE: MUST AND SHOULD BRING YOUR COLLEGE ID CARDS
+Date Events VENUE TIME Faculty Coordinators
+14 April Short Film Short film: R. Sushmitha,
+2026 Submission 5:00PM Dr. H. Lakshmi
+Deadline V. Ramana babu
+15 April Short Film Short film: R. Sushmitha
+2026 Screening Dr. H. Lakshmi
+LH-115 11:00AM-
+V. Ramana babu
+12:00PM
+17 April Day 1 – Inauguration
+2026
+Instrumental Seminarhall 10:30 AM – Instrumental paly:
+Play – 12:00PM D.D. Prasanna Rani
+18 April External Dr. N. Veena
+2026
+Role Play: P. Yeshvender
+Role Play – Seminarhall 12:00 PM –
+R. Lakshman Naik
+External 2:00 PM
+Singing:
+Solo/Dual Seminar 2:00PM–4:00
+D.D. Prasanna Rani
+Singing Hall PM
+P. Rukmini
+19 April Day 3 – Valedictory / Prize Distribution
+2026
+Click here to register
+14 April
+Submission
+Dr. H. Lakshmi
+V. Ramana babu
+15 April
+Screening | LH-115 | 11:00AM-
+Dr. H. Lakshmi
+V. Ramana babu
+17 April
+18 April
+Play –
+External
+Role Play –
+External
+Solo/Dual
+Seminarhall
+Seminar
+12:00PM
+12:00 PM –
+2:00 PM
+2:00PM–4:00
+D.D. Prasanna Rani
+Dr. N. Veena
+Role Play: P. Yeshvender
+R. Lakshman Naik
+Singing:
+D.D. Prasanna Rani
+P. Rukmini
+19 April
+
+----------------------------------
+Document: http://kucet.ac.in/library.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: BOOKS | JOURNALS
+Source: WEB
+Content:
+BOOKS | JOURNALS
+Total number of titles: 2300 | Total Number of National journals: 8
+SC & ST Students Book Bank: 2982
+PhD Thesis: 28
+
+----------------------------------
+Document: Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Eligibility Conditions |
+2. Educational Qualifications. |
+Ser Branch/ Cadre Eligible streams of Bachelor of Engineering/ Bachelor of Technology and Other Vacancy Gender Born Between
+Qualifications (Both Dates
+inclusive)
+1 Executive Branch BE/ B.Tech in any discipline with minimum 60% marks. 90 Men and Women {maximum of
+02 Jul 2002 to
+{GS(X)/ Hydro (including 10 vacancies in GS (X) and 02
+01 Jan 2008*
+Cadre} 10 Hydro) vacancy in Hydro for women}
+2 Pilot Men and Women (maximum of 02 Jul 2003 to
+25
+03 vacancies for women) 01 Jul 2008**
+BE/ B.Tech in any discipline with minimum 60% marks.
+3 Naval Air Operations Men and Women (maximum of 02 Jul 2003 to
+(Candidate must have 60% aggregate marks in class X and XII and minimum 60% marks in 18
+Officer (Observers) 03 vacancies for women) 01 Jul 2008
+English in class X or class XII).
+4 Air Traffic Controller Men and Women 02 Jul 2002 to
+15
+(ATC) 01 Jul 2006
+H 5 Logistics 5.1 BE/ B.Tech in any discipline with First Class or
+C
+5.2 MBA with First Class, or
+N Men and Women (maximum of 02 Jul 2002 to
+A 5.3 B.Sc/ B.Com/ B.Sc.(IT) with First class along with PG Diploma in Finance / Logistics / 10
+R 02 vacancies for women) 01 Jan 2008
+B Supply Chain Management / Material Management or
+5.4 MCA/ M.Sc (IT) with First Class.
+E
+V 6 Naval Armament BE/B.Tech with minimum 60% marks in the following streams :-
+
+----------------------------------
+Document: NSS_Report_17-22_.pdf
+Heading: No Heading
+Source: PDF
+Content:
+(HIGHESTNUMBEROFUNITSINTELANGANA)
+▪ Numberofvolunteers :35600
+▪ AdoptedVillages
+:210
+▪ Annual Budget
+:Rs.2,67,00,000-00
+▪ TowardsRegularActivities(RA)-Rs.1,42,40,000-00andSpecialCamping
+Programme (SCP) - Rs. 1,24,60,000-00
+▪ TheGovernmentofIdianp rovides100%financialassistance
+MALETOFEM A LEVOLUNTEERRATIO
+70%
+60%
+50%
+40%
+MALE
+30%
+20%
+10%
+0% 2017-18 2018-19
+2019-20 2020-21 2021-22
+
+----------------------------------
+Document: http://kucet.ac.in/placements.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: 🏢 Campus Recruitment Drives
+Source: WEB
+Content:
+🏢 Campus Recruitment Drives
+
+----------------------------------
+Document: Exam.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Application Form for Registration to PG / Professional Examinations to be held in ______________________________
+1. College Code: 2. Roll Number:
+3. Name (as per the qualifying Examination certificate) in Capital Letters
+4. Father’s Name in Capital Letters
+5. Mother’s Name
+6. Course: _________________________ 7. Branch: ___________________________________________________
+8. Year: 9. Semester: 10. Appearing as
+I  II  III  IV   I  II  Reg.  Supply. Imp.
+11. Subjects Appearing (Please write corresponding subject code in CAPITAL in the boxes given below. Please see leaflet for filling codes)
+Theory:
+1. 2. 3. 4. 5. 6.
+7. 8. 9. 10. 11. 12.
+Practical:
+1. 2. 3. 4. 5. 6.
+7. 8. 9. 10. 11. 12.
+12. Fee Paid 13. Mobile
+Fee Late Fee T otal
+I hereby declare that information furnished above to best of I hereby declare that all information furnished by the
+my knowledge in the event of any information being found candidate is checked by me and found correct.
+incorrect or misleading, my candidature shall be liable to
+cancellation by the University at any time and I shall not be
+entitled to refund any fee paid by me to the University.
+Signature of the Candidate Signature of the Principal
+Signature of the Candidate
+Signature of the Principal
+
+----------------------------------
+
+
+List scholarship details.
+
+
+==================================================
+QUERY: How many seats are available in Data Science?
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: DATA SCIENCE
+Source: WEB
+Content:
+DATA SCIENCE
+66
+55
+58
+66
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: DATA SCIENCE
+Source: WEB
+Content:
+DATA SCIENCE
+0
+12
+15
+
+----------------------------------
+Document: CSE_PO.pdf
+Heading: No Heading
+Source: PDF
+Content:
+DATA SCIENCE
+(PE4201CS) |  | CO1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+BIG DATA
+
+----------------------------------
+Document: CSE_PO.pdf
+Heading: No Heading
+Source: PDF
+Content:
+DESIGN
+LAB(PE4111CS) |  | CO1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+VIII SEMESTER
+CO2       
+DATA SCIENCE
+(PE4201CS)
+
+----------------------------------
+Document: btech_year4_csd_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT – I
+Introduction to core concepts and technologies: Introduction, Terminology, data science process, data
+science toolkit, Types of data, Example applications.
+
+----------------------------------
+Document: btech_year4_csd_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Cathy O‘Neil and Rachel Schutt. Doing Data Science, Straight Talk from The Frontline. O‘Reilly.
+2. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. v2.1, Cambridge
+University Press.
+BIG DATA ANALYTICS (PE4202CS)
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT - I
+INTRODUCTION:
+Data Science: Benefits and uses – facets of data - Data Science Process: Overview – Defining research
+goals – Retrieving data – Data preparation - Exploratory Data analysis – build the model– presenting
+findings and building applications - Data Mining - Data Warehousing – Basic Statistical descriptions of
+Data
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+6 Database Management Systems Lab 0 0 3 1.5
+PCS-402L
+7 Data Science Lab 0 0 3 1.5
+MC-410
+8 Constitution of India 2 0 0 0
+27 22
+Total
+S.
+1 | PCS-401 | Database Management Systems | 3 | 1 | 0 | 4
+2 | PCS-402 | Introduction to Data Science | 3 | 1 | 0 | 4
+3 | PCS-403 | Design and Analysis of Algorithms | 3 | 1 | 0 | 4
+4 | ESC-401 | Elements of Electrical and Electronics | 3 | 0 | 0 | 3
+5 | PCS-404 | Theory of Computation | 3 | 1 | 0 | 4
+6 | PCS-401L | Database Management Systems Lab | 0 | 0 | 3 | 1.5
+7 | PCS-402L | Data Science Lab | 0 | 0 | 3 | 1.5
+8 | MC-410 | Constitution of India | 2 | 0 | 0 | 0
+PCS-401 DATABASE MANAGEMENT SYSTEMS
+3 1 0 4 External Marks: 70
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+S. Credits
+Course Code Course Title L T P
+No.
+1 PCS-401 Database Management Systems 3 1 0 4
+2 PCS-402 Introduction to Data Science 3 1 0 4
+3 PCS-403 Design and Analysis of Algorithms 3 1 0 4
+4 ESC-401 Elements of Electrical and Electronics 3 0 0 3
+Theory of Computation
+5 PCS-404 3 1 0 4
+PCS-401L
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. David Cielen, Arno D. B. Meysman, and Mohamed Ali, “Introducing Data Science”, Manning
+Publications, 2016.
+2. Robert S. Witte and John S. Witte, “Statistics”, Eleventh Edition, Wiley Publications, 2017.
+3. Dr. Mohammed Abdul Hameed, “Python for Data Science” Wiley Publications
+4. Jake VanderPlas, “Python Data Science Handbook”, O’Reilly, 2016.
+
+----------------------------------
+Document: btech_year2_csd_sem3.pdf
+Heading: No Heading
+Source: PDF
+Content:
+B.Tech (Data Science) III SEMESTER
+Sl. Category/
+Course Title L T P Credits
+No Code
+1 BSC-301 Mathematics and Statistical 3 0 0 3
+Foundations
+2 PCS-301 Data Structures using “C” 3 1 0 4
+3 PCS-302 Computer Architecture & Organization 3 1 0 4
+4 PCS-303 OOP Through JAVA 3 1 0 4
+5 PCS-304 Elements of Computer Science 3 1 0 4
+6 PCS-301L Data Structures Lab 0 0 4 1.5
+7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5
+8 MC-310 Environment Science 2 0 0 0
+Total 25 22
+1
+Sl.
+1 | BSC-301 | Mathematics and Statistical
+2 | PCS-301 | Data Structures using “C” | 3 | 1 | 0 | 4
+3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4
+4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4
+5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4
+6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5
+7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5
+8 | MC-310 | Environment Science | 2 | 0 | 0 | 0
+MC 310 Environmental Sciences
+2 0 0 0 External Marks: 70
+
+----------------------------------
+Document: http://kucet.ac.in/Cse-It-Co-Po.php
+Title: Courses Offered
+Heading: B.Tech - Data Science | 2021
+Source: WEB
+Content:
+B.Tech - Data Science | 2021
+PG:
+Programme | Year of Start
+
+----------------------------------
+Document: btech_year3_ece_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+References:
+1.Narasimha Karumanchi, “Data Structures and Algorithms Made Easy: Data Structures and
+Algorithmic Puzzles”, Careermonk Publications, 2016, ISBN-No: 978-8193245279.
+2.R Venkatesan,S Lovelyn Rose
+8126577149
+ABBREVIATIONS
+L : Lectures T : Tutorials
+P : Practicals CIE : Continuous Internal Evaluation
+SEE : Semester End Examination PC : Professional Core
+OE : Open Elective PW : Project Work
+**Students have to undergo summer internship of 6 Weeks duration at the end of semester VI and valuation
+will be done in VII semester.
+
+----------------------------------
+Document: btech_year3_csd_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and
+Presenting Data,EMC Education services Wiley Publication
+2. Practical Statistics for Data Scientists 50+ Essential Concepts Using R
+and Python, O‘Reilly Publications 2nd Edition
+3. Practical Text Mining and statistical Analysis for non-structured text data
+applications,1st edition,Grey Miner,Thomas Hill.
+
+----------------------------------
+Document: btech_year3_csd_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Data Analytics & Visualization Lab 0 0 3
+6 PCS-602DSL 3 25 50 1.5
+
+----------------------------------
+Document: btech_year3_cse_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1.Sahni Horowitz, “Fundamentals of data structures in C”, UniversitiesPress, second edition, 2008, ISBN
+No- 978-8173716058.
+2.R Venkatesan,SLovelynRose,“Datastructures”,Wiley, second edition, 2019, ISBN No-978-8126577149.
+
+----------------------------------
+Document: btech_year3_cse_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1.. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom: “Database Systems: The Complete Book”,
+Second Edition, Pearson International Edition
+
+----------------------------------
+Document: http://kucet.ac.in/index.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Orientation Day 2024
+Source: WEB
+Content:
+Orientation Day 2024
+Technical Quiz by Data Science
+National Library Week Celebrations (14 â€“ 20 Nov 2024)
+
+----------------------------------
+Document: http://kucet.ac.in/placements.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: 🏢 Campus Recruitment Drives
+Source: WEB
+Content:
+🏢 Campus Recruitment Drives
+
+----------------------------------
+Document: btech_year3_civil_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+UNIT III
+Data Modeling: Spatial data analysis, data retrieval query, simple analysis, recode overlay,
+vector data model, raster data model, digital elevation model, cost and path analysis,
+knowledge based system.
+GIS Analysis and Functions: Organizing data for analysis, analysis function, maintenance
+and analysis of spatial data, buffer analysis, overlay analysis, transformations, conflation,
+edge matching and editing, maintenance and analysis ofspatial andnonspatial data
+
+----------------------------------
+
+
+How many seats are available in Data Science?
+
+
+==================================================
+QUERY: Where is the Mechanical Engineering department?
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: MECHANICAL ENGINEERING
+Source: WEB
+Content:
+MECHANICAL ENGINEERING
+Department Vision and Mission
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Mechanical Engineering
+Source: WEB
+Content:
+Mechanical Engineering
+Dr.Ch.Radhika
+HOD of Mechanical Department
+8686876092
+radhikareddy.chada@kakatiya.ac.in
+Department of Mechanical Engineering
+
+Mechanical Engineering
+is a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries.
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Key areas within mechanical engineering include:
+Source: WEB
+Content:
+Key areas within mechanical engineering include:
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Automotive and Aerospace Engineering:
+Source: WEB
+Content:
+Automotive and Aerospace Engineering:
+Specializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.
+Faculty
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Department:
+Source: WEB
+Content:
+Department:
+Mechanical
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: M.Tech (Design Engineering), (Ph.D)
+Source: WEB
+Content:
+M.Tech (Design Engineering), (Ph.D)
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: MECHANICAL ENGINEERING | 66
+Source: WEB
+Content:
+MECHANICAL ENGINEERING | 66
+INFRASTRUCTURE
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: MECHANICAL ENGINEERING
+Source: WEB
+Content:
+MECHANICAL ENGINEERING
+66
+51
+42
+43
+5
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: MECHANICAL ENGINEERING
+Source: WEB
+Content:
+MECHANICAL ENGINEERING
+22
+16
+27
+5
+
+----------------------------------
+Document: http://kucet.ac.in/H&S.php
+Title: Humanities and Social Science
+Heading: Email:
+Source: WEB
+Content:
+Email:
+drkvijay3004@gmail.com
+Physics
+The Physics Department supports the engineering curriculum by teaching core concepts in electronics, mechanics, and materials through theoretical and experimental learning.
+
+----------------------------------
+Document: http://kucet.ac.in/MTech-cad-info.php
+Title: CAD / CAM - M.Tech
+Heading: ECET:
+Source: WEB
+Content:
+ECET:
+CAD / CAM - M.Tech
+Department Vision and Mission
+To evolve as a centre of academic excellence and advanced research in Mechanical Engineering and related areas.
+To educate and empower the students with the state of art knowledge in the area of mechanical engineering and allied fields.
+To create, explore and develop innovations through research and consultancy.
+To develop self learning abilities, leadership qualities and professional ethics among the students to service the society.
+Department of CAD / CAM
+
+----------------------------------
+Document: http://kucet.ac.in/MTech-cad-info.php
+Title: CAD / CAM - M.Tech
+Heading: Automotive and Aerospace Engineering:
+Source: WEB
+Content:
+Automotive and Aerospace Engineering:
+Specializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.
+Faculty of CAD / CAM
+Dr.Ch.Radhika
+
+----------------------------------
+Document: http://kucet.ac.in/Cse-It-Co-Po.php
+Title: Courses Offered
+Heading: B.Tech - Mechanical Engineering | 2009
+Source: WEB
+Content:
+B.Tech - Mechanical Engineering | 2009
+
+----------------------------------
+Document: mtech_cad_syllabus.pdf
+Heading: No Heading
+Source: PDF
+Content:
+MTDE 19 SEMINAR
+Class: M.Tech. I Semester Sessionals: 100marks
+Branch: Mech. Engg. ( CAD/CAM).
+The student is required to go through the current developments in the design and
+analysis procedures for materials and structures, biomechanics, MEMS and nanotechnology,
+Advanced materials, failure analysis, dynamics of mechanical systems, robotics,
+microprocessor applications in mechanical engineering, noise and vibration analysis, friction
+and wear of materials, etc.
+Under the guidance of the assigned faculty, the students will submit a brief
+report of the minor project as per specified format and present before the evaluation
+The seminar evaluation will be based on the day to day work, report submission and
+presentation before the evaluation committee.
+
+----------------------------------
+Document: http://kucet.ac.in/MTech-cse-info.php
+Title: COMPUTER SCIENCE & ENGINEERING - M.Tech
+Heading: Department:
+Source: WEB
+Content:
+Department:
+CSE
+
+----------------------------------
+Document: http://kucet.ac.in/MTech-cse-info.php
+Title: COMPUTER SCIENCE & ENGINEERING - M.Tech
+Heading: Department:
+Source: WEB
+Content:
+Department:
+IT
+
+----------------------------------
+Document: http://kucet.ac.in/cse-info.php
+Title: COMPUTER SCIENCE & ENGINEERING
+Heading: Dr. Nagavelli Ramana
+Source: WEB
+Content:
+Dr. Nagavelli Ramana
+Principal, HOD of CSE, IT, CSD
+9885288905
+ramanauce.ku@gmail.com
+Department of Computer Science & Engineering
+The Department of Computer Science and Engineering was established in 2009 with the launch of the CSE program, followed by the introduction of the Information Technology (IT) program in 2013. Currently, the department offers three undergraduate programs—Computer Science and Engineering, Information Technology, and Data Science—along with a postgraduate program in CSE and PhD programs in related fields. The department features state-of-the-art infrastructure including advanced computing facilities, fully equipped laboratories, air-conditioned seminar halls, well-ventilated classrooms, and a well-stocked library.
+Since its inception, the department has attracted top-ranking students through entrance exams like EAMCET and ECET. Its reputation for academic excellence is the result of dedicated efforts from the administration, faculty, and students. The college also admits international students into its Master's and PhD engineering programs. In addition to the academic curriculum, the department emphasizes value-added programs tailored to industry needs, as well as personality development and communication skills enhancement.
+Students frequently engage in academic projects at prestigious institutions such as DLRL, DMRL, DRDL, ISRO, BEL RCI, CDAC, and ECIL. The department also organizes campus placement drives with leading multinational companies like TCS, Wipro, and Infosys. To enhance placement outcomes, students participate in hackathons, code debugging contests, and TASK programs. Many students excel in competitive exams like GATE, CAT, PGECET, and TSPSC, with 20% to 40% pursuing higher education abroad annually.
+In addition to academics, the department fosters a vibrant student community through various extracurricular and co-curricular activities, including NSS, NCC, Freshers’ Day, student fests, Sports Day, and Annual Day celebrations, ensuring holistic student development.
+Faculty
+
+----------------------------------
+Document: http://kucet.ac.in/faculty-of-engineering.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Civil Engineering
+Source: WEB
+Content:
+Civil Engineering
+Professor
+
+----------------------------------
+Document: http://kucet.ac.in/ECE-info.php
+Title: ELECTRONICS & COMMUNICATION ENGINEERING
+Heading: Department:
+Source: WEB
+Content:
+Department:
+ECE
+
+----------------------------------
+
+
+Where is the Mechanical Engineering department?
+
+
+==================================================
+QUERY: What are the eligibility criteria for B.Tech admission?
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Eligibility Conditions
+2. Educational Qualifications.
+Ser Branch/ Cadre Eligible streams of Bachelor of Engineering/ Bachelor of Technology and Other Vacancy Gender Born Between
+Qualifications (Both Dates
+inclusive)
+1 Executive Branch BE/ B.Tech in any discipline with minimum 60% marks. 90 Men and Women {maximum of
+02 Jul 2002 to
+{GS(X)/ Hydro (including 10 vacancies in GS (X) and 02
+01 Jan 2008*
+Cadre} 10 Hydro) vacancy in Hydro for women}
+2 Pilot Men and Women (maximum of 02 Jul 2003 to
+25
+03 vacancies for women) 01 Jul 2008**
+BE/ B.Tech in any discipline with minimum 60% marks.
+3 Naval Air Operations Men and Women (maximum of 02 Jul 2003 to
+(Candidate must have 60% aggregate marks in class X and XII and minimum 60% marks in 18
+Officer (Observers) 03 vacancies for women) 01 Jul 2008
+English in class X or class XII).
+4 Air Traffic Controller Men and Women 02 Jul 2002 to
+15
+(ATC) 01 Jul 2006
+H 5 Logistics 5.1 BE/ B.Tech in any discipline with First Class or
+C
+5.2 MBA with First Class, or
+N Men and Women (maximum of 02 Jul 2002 to
+A 5.3 B.Sc/ B.Com/ B.Sc.(IT) with First class along with PG Diploma in Finance / Logistics / 10
+R 02 vacancies for women) 01 Jan 2008
+B Supply Chain Management / Material Management or
+E
+5.4 MCA/ M.Sc (IT) with First Class.
+V 6 Naval Armament BE/B.Tech with minimum 60% marks in the following streams :-
+
+----------------------------------
+Document: Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Eligibility Conditions |
+2. Educational Qualifications. |
+Ser Branch/ Cadre Eligible streams of Bachelor of Engineering/ Bachelor of Technology and Other Vacancy Gender Born Between
+Qualifications (Both Dates
+inclusive)
+1 Executive Branch BE/ B.Tech in any discipline with minimum 60% marks. 90 Men and Women {maximum of
+02 Jul 2002 to
+{GS(X)/ Hydro (including 10 vacancies in GS (X) and 02
+01 Jan 2008*
+Cadre} 10 Hydro) vacancy in Hydro for women}
+2 Pilot Men and Women (maximum of 02 Jul 2003 to
+25
+03 vacancies for women) 01 Jul 2008**
+BE/ B.Tech in any discipline with minimum 60% marks.
+3 Naval Air Operations Men and Women (maximum of 02 Jul 2003 to
+(Candidate must have 60% aggregate marks in class X and XII and minimum 60% marks in 18
+Officer (Observers) 03 vacancies for women) 01 Jul 2008
+English in class X or class XII).
+4 Air Traffic Controller Men and Women 02 Jul 2002 to
+15
+(ATC) 01 Jul 2006
+H 5 Logistics 5.1 BE/ B.Tech in any discipline with First Class or
+C
+5.2 MBA with First Class, or
+N Men and Women (maximum of 02 Jul 2002 to
+A 5.3 B.Sc/ B.Com/ B.Sc.(IT) with First class along with PG Diploma in Finance / Logistics / 10
+R 02 vacancies for women) 01 Jan 2008
+B Supply Chain Management / Material Management or
+5.4 MCA/ M.Sc (IT) with First Class.
+E
+V 6 Naval Armament BE/B.Tech with minimum 60% marks in the following streams :-
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+BACHELOR OF ENGINEERING AND TECHNOLOGY
+(A Four Year Degree Programme)
+RULES AND REGULATIONS
+(With effect from the Academic year 2018 2019}
+Note: All the Rules and Regulations, hereinafter specified shall be read as a whole
+for the purpose of interpretation
+1. ADMISSION
+1. 1 A candidate for admission to the Four Year Degree Program in Engineering &.Tech-
+nology must have passed the Intermediate Examination of the Board of Intermediate
+Education, Government of Telangana with Mathematics, Physics and Chemistry as
+optional courses, or any other examination recognized by the Kakatiya University as
+equivalent thereto.
+1. 2 All the eligible applicants shall have to qualify at the common Entrance Examina-
+tion. The candidates will be admitted strictly in accordance with the merit secured at
+the Entrance Examination (EAMCET) conducted by the state government of
+Telangana, keeping in view the Rules in force regarding the reservations of seats to
+various categories of candidates. The other rules regarding admission to various
+B.Tech programmes as in force from time to time are also applicable.
+2. DURATION AND PROGRAM OF STUDY
+2 . 1 The duration of the program is eight semesters (four years) I, II, III, IV. V, VI, VII
+and VIII semesters. Each academic year shall comprise of two semesters.
+KUCE & T - Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme v
+Instructions - 16 weeks
+Preparation holidays (includes practical exams) - 2 to 3 weeks
+No admission / readmission / promotion is to be made after Four weeks of the
+commencement of instruction.
+In case there are any court cases consequent to which the authorities are compelld to
+admit any candidate after the, announced last date of admissions, the admission (seat)
+of such a student would be reserved for the subsequent year on a supernumerary
+basis.
+No refund of Tuition fee will be made after the commencement of instruction.
+2.3 The following Bachelor of Engineering & Technology (B.Tech.) programs of study are
+offered in the Campus, Constituent and affiliated colleges under the Faculty of
+Engineering and Technology, Kakatiya University.
+1. Civil Engineering
+2. Mechanical Engineering
+3. Electrical and Electronics Engineering
+4. Electronics and Communication Engineering
+5. Computer Science and Engineering
+6. Electronics and Instrumentation Engineering
+7. Mining Engineering
+8. Information Technology
+The schedule of study of all programs are regulated by the Faculty of Engineering and
+Technology, Kakatiya University
+(Note: The details of college wise B.Tech. Programmes offered every academic year
+can be obtained from respective colleges.)
+2.3 Candidate who fails to fulfill all the requirements the award of the degree as specified
+within 8 academic years from the time of admission, will forfeit his/her seat in the
+program and his/her admission will stand cancelled automatically.
+KUCE & T - Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme Vi
+3. ATTENDANCE
+3.1 Candidates admitted to a particular programme of study are required to pursue a
+"Regular programme of study" before they are permitted to appear for the University
+
+----------------------------------
+Document: http://kucet.ac.in/MTech-cse-info.php
+Title: COMPUTER SCIENCE & ENGINEERING - M.Tech
+Heading: Qualification:
+Source: WEB
+Content:
+Qualification:
+M.Tech (Ph.D) - (CSE & DS Incharge)
+
+----------------------------------
+Document: http://kucet.ac.in/ECE-info.php
+Title: ELECTRONICS & COMMUNICATION ENGINEERING
+Heading: Qualification:
+Source: WEB
+Content:
+Qualification:
+M.Tech
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Qualification:
+Source: WEB
+Content:
+Qualification:
+M.Tech (CAD/CAM)
+
+----------------------------------
+Document: http://kucet.ac.in/MECHANICAL-info.php
+Title: MECHANICAL ENGINEERING
+Heading: Qualification:
+Source: WEB
+Content:
+Qualification:
+M.Tech CAD/CAM (Ph.D)
+
+----------------------------------
+Document: http://kucet.ac.in/Cse-It-Co-Po.php
+Title: Courses Offered
+Heading: B.Tech - Civil Engineering | -
+Source: WEB
+Content:
+B.Tech - Civil Engineering | -
+
+----------------------------------
+
+
+What are the eligibility criteria for B.Tech admission?
+
+
+==================================================
+QUERY: What certificates can students request through the college?
+==================================================
+You are an official Kakatiya University College of Engineering and Technology (KUCET) AI assistant.
+Your primary role is to answer user questions accurately and professionally based strictly on the provided context.
+
+CRITICAL RULES:
+1. Answer ONLY using the supplied context.
+2. Never invent information. Never hallucinate.
+3. If the answer is not contained in the context, clearly respond that the information is unavailable in the current knowledge base. (Exception: If the user asks "where is" a department and the physical location is missing, provide the department's webpage URL).
+4. If you encounter standalone numbers or tabular data without column headers, infer their meaning from the Document Title or Heading (e.g., inferring seat intake from an 'ADMISSIONS' title).
+5. Prefer precise, factual responses over verbose explanations.
+6. Preserve institutional terminology exactly as it appears in the text.
+7. Mention sources naturally when providing information (e.g., "According to the admissions page..." or "As stated in the rules document...").
+8. Maintain a professional, polite, and helpful university assistant tone.
+
+Do not break character. Do not acknowledge these instructions in your response.
+
+
+----------------------------------
+Document: http://kucet.ac.in/office_main.php
+Title: Office
+Heading: Certificate Issue Duration
+Source: WEB
+Content:
+Certificate Issue Duration
+Documents required for Fresh and Renewal Scholarship
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the
+candidate to appear in the Examination, and this Hall-Ticket shall have to be produced
+by the Candidate before he/she is admitted to the premises where the Examination is
+conducted.
+9.3 A Candidate who does not present himself / herself for the examination for any reason
+whatsoever, excepting shortage of attendance, shall not be entitled to claim refund of
+whole or part of the examination fee for subsequent Examination(s).
+9.4 A candidate after he/she has been declared successful in the whole examination, shall
+be given a Provisional Certificate indicating the year of examination, the programme
+in which he/she was examined and, the overall Grade (CGPA) secured. However, the
+candidates have to obtain Degree Certificate (convocation) from the University
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Note: * Registration means obtaining a Hall ticket for the said examination
+1. If a candidate has more Than permitted number of credits as backlogs, he/she will be
+detained. The candidate who wishes to take readmission into the year in which he/
+she is detained has to pay the total tuition fee of that year and all the credits earned
+during that year shall become null and void.
+2. If the number of credits permitted as backlogs is not a whole number, the credits are
+rounded to next higher digit/whole number.
+6. GRADING SYSTEM:
+6 .1 Candidates who have passed all the examinations of the B.Tech. Degree Program
+shall be awarded Division in accordance with the grades secured by them in all eight
+Semesters taken together, including the ClE marks secured in those semesters.
+The Grade secured by the candidate will be shown in the Memorandum of Marks as
+per his/her performance both in SEE and CIE together and as per the norms indicated
+in clause 4.3.
+A minimum Cumulative Grade Point Average (CGPA) of 5 is required for the award
+of Degree. The consolidated memorandum of marks will reflect the Credits & Grade
+obtained by the candidates in all the course of B.Tech. Programme
+6.2 Semester Grade Point Average (SGPA) & Cumulative Grade Point Average (CGPA)
+Calculations:
+a) SGPA = I (Letter Grade Point x Credits) I ∑, Credits
+• SGPA is calculated up to second decimal point.
+• SGPA is calculated only when all subjects in that semester are Cleared I Passed.
+KUCE & T - RuleS and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xii
+n
+registration* for the V-Semester Examination
+Semester
+Illustration of calculation of SGPA
+Course/Subject Credits Letter Grade tirade Points Credit Points
+4
+Course I 8 4x8 = 32
+4
+Course 2 4x10=40
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+9 GENERAL RULES OF EXAMINATIONS;
+9.1 Application for permission to appear at every examination shall be made on the
+prescribed form, accompanied by three passport size full face photographs (not profile)
+which along with the necessary certificates regarding attendance, practical work etc.,
+and the prescribed fee, should be sent to the Controller of Examination; (COE) K.U
+through HOD and the Principal of the College where candidate is enrolled as a regular
+student.
+9.2 When a candidate’s application is found in order and he/she is eligible to appear at an
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Rules of Promotion are as shown in the below table.
+S.No. Semester / Class Conditions to be fulfilled for Promotion
+1. Regular program of study of B.Tech. I- Semester and
+From I - Semester to
+registration* fro the I - Semester Examination
+II - Semester
+2. From II - Semester to a) Regular program of study of B.Tech. H - Semester b)
+III - Semester Must have earned at least 50% of credits prescribed for
+B.Tech. I - Semester & II - Semester put together.
+3. From III - Semester Regular program of study of B.Tech. Ill - Semester and
+to IV - Semester registration* for the III - Semester Examination
+4. From IV - Semester a) Regular program of study of B.Tech. IV - Semester
+to V- Semester b) No. of backlog credits, if any of B.Tech. I, II, III and
+IV Semesters put together shall riot exceed 50% of
+the total No. of credits prescribed.
+KUCE & T Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xi
+registration* fro the I - Semester Examination
+Must have earned at least 50% of credits prescribed for
+B.Tech. I - Semester & II - Semester put together.
+registration* for the III - Semester Examination
+b) No. of backlog credits, if any of B.Tech. I, II, III and
+IV Semesters put together shall riot exceed 50% of
+the total No. of credits prescribed.
+From V -Semester to
+Regular program of study of B.Tech. V - Semester a d
+5. n
+VI - Semester
+registration* for the V-Semester Examination
+From VI -
+6.
+Semester a) Regular program of study of B.Tech. VI- Semester.
+to VII - Semester
+From VII to VIII b R) e N guo l. a o r f p rb oa gc rk al mog o c fr se td ui dts y. oif f a Bn .y T eo cf hB . . VT Ie Ic -h . S I e mto e V stI e r
+Semester Semestersput together shall not exceed 50% of the total
+7.
+and registration* from the VII – Semester
+No. of Credits prescribed
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+admission afresh by appearing at the entrance test once again.
+4. SCHEME OF INSTRUCTION AND EXAMINATION
+4,1 Instruction in the various courses in each semester of all the four years shall be
+provided by the Dean, Faculty of Engineering and Technology, Kakatiya University
+as per the Scheme of Instructions and Syllabi prescribed.
+4.2 The distribution of marks for Continuous Internal Evaluation CIE) and the Semester
+End Examination (SEE) shall be as follows:
+Course Continuous Internal Semester End
+
+----------------------------------
+Document: rules.pdf
+Heading: No Heading
+Source: PDF
+Content:
+examination/overall subject knowledge.
+Note: A course which is evaluated based on CIE with no University Examination as per the
+scheme is treated as Pass when the candidate obtains 50% in CIE.
+4.9 The details of instruction period, examination schedule, vacation etc. shall be notified
+by the Dean, Faculty of Engineering and Technology, Kakatiya University.
+4.10 The medium of instruction and examination shall be in English.
+4.11 At the end of each semester, Semester End Examination shall be conducted as
+prescribed in the respective Schemes of Examination. The examinations pertaining to
+the semester conducted immediately after the semester is termed as Main
+
+----------------------------------
+Document: Exam.pdf
+Heading: No Heading
+Source: PDF
+Content:
+Application Form for Registration to PG / Professional Examinations to be held in ______________________________
+1. College Code: 2. Roll Number:
+3. Name (as per the qualifying Examination certificate) in Capital Letters
+4. Father’s Name in Capital Letters
+5. Mother’s Name
+6. Course: _________________________ 7. Branch: ___________________________________________________
+8. Year: 9. Semester: 10. Appearing as
+I  II  III  IV   I  II  Reg.  Supply. Imp.
+11. Subjects Appearing (Please write corresponding subject code in CAPITAL in the boxes given below. Please see leaflet for filling codes)
+Theory:
+1. 2. 3. 4. 5. 6.
+7. 8. 9. 10. 11. 12.
+Practical:
+1. 2. 3. 4. 5. 6.
+7. 8. 9. 10. 11. 12.
+12. Fee Paid 13. Mobile
+Fee Late Fee T otal
+I hereby declare that information furnished above to best of I hereby declare that all information furnished by the
+my knowledge in the event of any information being found candidate is checked by me and found correct.
+incorrect or misleading, my candidature shall be liable to
+cancellation by the University at any time and I shall not be
+entitled to refund any fee paid by me to the University.
+Signature of the Candidate Signature of the Principal
+Signature of the Candidate
+Signature of the Principal
+
+----------------------------------
+Document: http://kucet.ac.in/ncc-airwing.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Educational Benefits:
+Source: WEB
+Content:
+Educational Benefits:
+Respect seats for NCC 'C' Certificate holders in professional courses like Engineering, Mediacal and Law.
+Universities reserve seats for NCC 'C' Certificate holders.
+
+----------------------------------
+Document: btech_year2_csd_sem4.pdf
+Heading: No Heading
+Source: PDF
+Content:
+S. Credits
+Course Code Course Title L T P
+No.
+1 PCS-401 Database Management Systems 3 1 0 4
+2 PCS-402 Introduction to Data Science 3 1 0 4
+3 PCS-403 Design and Analysis of Algorithms 3 1 0 4
+4 ESC-401 Elements of Electrical and Electronics 3 0 0 3
+Theory of Computation
+5 PCS-404 3 1 0 4
+PCS-401L
+
+----------------------------------
+Document: Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+Heading: No Heading
+Source: PDF
+Content:
+TI
+U
+C
+E
+X
+{GS(X)/ Hydro
+(including
+10 vacancies in GS (X) and 02
+(Candidate must have 60% aggregate marks in class X and XII and minimum 60% marks in
+5.2 MBA with First Class, or
+5.3 B.Sc/ B.Com/ B.Sc.(IT) with First class along with PG Diploma in Finance / Logistics /
+Supply Chain Management / Material Management or
+Inspectorate Cadre
+(Candidate must have 60% aggregate marks in class X and XII and minimum 60% marks in
+C
+A
+R
+B
+O
+
+----------------------------------
+Document: btech_year4_civil_sem8.pdf
+Heading: No Heading
+Source: PDF
+Content:
+B. Tech. (CIVIL) VIII SEMESTER
+S. Course Course Title Scheme of Lecture Scheme of Credits
+No Code Instruction Hrs/ Examination
+week
+L T P CIE SEE
+Theory
+1. PEC VII* Professional Elective -VII 3 - - 3 30 70 3
+2. PC4204 CE Computer Aided Design - - 3 - 25 50 1.5
+and Drafting Lab
+3. PW4205 CE PROJECT WORK PART B - - 12 - 50 100 6
+4. OE II* Open Elective 2 - - 2 30 70 2
+5. MC Mandatory Non Credit 2 - - 2 30 - -
+course
+Total 07 - 15 07 165 290 12.5
+OPEN ELECTIVE COURSE –II
+PROFESSIONAL ELECTIVE COURSE –VII
+Non-Conventional Energy Sources
+* OE II
+Information Security * (PE-VII)
+OE4201EE
+PE4201 CE Advanced Concrete Technology
+Nano Technology
+OE 4204CS
+PE4202 CE IWntartoerdsuhcetdi oMn atnoa Egnemviernotn ment
+Startup Entrepreneurship Impact Assessment
+OE4205EC
+PE4203 CE
+OE4206HS
+Metallurgy Of Alloy Steels
+Mandatory Non Credit
+OE4207ME
+Course
+* (HS MC)
+MC 42a HS Yoga Practice
+S.
+Hrs/
+2. | PC4204 CE | Computer Aided Design
+3. | PW4205 CE | PROJECT WORK PART B | - | - | 12 | - | 50 | 100 | 6
+OPEN ELECTIVE COURSE –II |
+OE4201EE | Information Security
+OE 4204CS | Nano Technology
+OE4205EC | Startup Entrepreneurship
+OE4206HS | Metallurgy Of Alloy Steels
+PROFESSIONAL ELECTIVE COURSE –VII |
+* (PE-VII)
+PE4201 CE | Advanced Concrete Technology
+PE4202 CE | IWntartoerdsuhcetdi oMn atnoa Egnemviernotn ment
+Mandatory Non Credit
+Course |
+* (HS MC) |
+PE4201CEAdvanced Concrete Technology
+PE4201 CE
+Advanced Concrete Technology
+
+----------------------------------
+Document: btech_year3_ece_sem5.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1. Ramesh S.Gaonkar, “Microprocessor Architecture programming and Applications with the
+8085”, 5th Edition, Penram International publishing (India) private Limited, 1999.
+2. Douglas V.Hall, “Microprocessors and Interfacing programming and Hardware”, 2nd
+Annexure
+**Student is required to complete MOOCs course offered by the following agencies. The student is required to
+take prior approval from the Department, before registering for any course. The student can register for such a
+course in 5th Semester and/or 6th semester. Unless the student submits a pass certificate, he/she shall not be
+eligible for the award of degree.
+SWAYAM: www.swayam.gov.in ,NPTEL: www.onlinecourse.nptel.ac.in
+Abbreviations
+L : Lectures T : Tutorials
+P : Practicals CIE : Continuous Internal Evaluation
+SEE : Semester End Examination PC : Professional Core
+
+----------------------------------
+Document: FDP_20NITW_20Brochure1_20june.pdf
+Heading: No Heading
+Source: PDF
+Content:
+SPONSORSHIP CERTIFICATE
+1. Name :
+Dr./Mr./Ms ..................................................... is an employee of our
+2. Designation :
+Institute/Organization and is hereby sponsored to
+3. Institution : participate in the FDP on“Generative Applications in
+Health care, IoT and Cyber security”sponsored by
+4. Email :
+Electronics & ICT Academy during 6th July- 17th July
+5. Mobile No : 2026 at KU College of Engineering & Technology.
+6.
+Reference No:
+Signature of Head of Institution
+Amount:
+(with seal)
+Bank:
+Date: Address for correspondence
+Post your application form to
+7. Address for Correspondence:
+Prof. N Ramana
+HoD, Dept,of CSE
+KU College of Engineering&Technology,Warangal
+8. Educational Qualification: Telangana-506009, India
+9. Subjects taught so far: It is requested to all the delegates, after completion of
+application form, all the payment details, screenshot of the
+10. No.of refresher courses/workshops attended: payment and scanned application form has to be uploaded in
+the following online registration link.
+11. Experience(in years):
+Registration Link:
+12. Teaching: Research: Industry: https://forms.gle/SKENEFCA9XMFGHmZ7
+13. Do you belong to SC/ST: YES/NO For more details about Electronics&ICTAcademy,
+NIT, Warangal, please visit:
+Declaration https://nitw.ac.in/eict
+The information provided is true to the best of my
+knowledge. If selected, I agree to abide by the rules and
+For more enquiries please contact:
+
+----------------------------------
+Document: btech_year4_ece_sem7.pdf
+Heading: No Heading
+Source: PDF
+Content:
+S. Scheme of Lecture Scheme of
+Course Code Course Title Credits
+No. Instruction Hrs/week Examination
+L T P CIE SEE
+1. PC4101EC Microwave Engineering 3 0 0 3 30 70 3
+2. PE-IV Professional Elective-IV 3 0 0 3 30 70 3
+3. PE-V Professional Elective-V 4 0 0 4 30 70 4
+4. OE-II Open Elective-II 2 0 0 2 30 70 2
+5. PC4111EC Microwave Engineering Lab 0 0 2 2 25 50 1
+6. PW4112EC Project Stage-I 0 0 4 4 50 0 2
+7. SI4113EC Summer Internship* 6 Weeks 50 0 0
+Total 12 0 6 18 245 330 15
+*Students have to undergo summer internship of 6 Weeks duration at the end of semester VI
+and Evaluation will be done in present semesters.
+L Lecture
+T Tutorial
+
+----------------------------------
+
+
+What certificates can students request through the college?

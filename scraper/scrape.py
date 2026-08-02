@@ -126,10 +126,9 @@ def _table_to_text(table) -> str:
         cells = []
         for cell in tr.find_all(["th", "td"]):
             cell_text = _normalize_text(cell.get_text(separator=" ", strip=True))
-            if cell_text:
-                cells.append(cell_text)
+            cells.append(cell_text)
         if cells:
-            rows.append(" | ".join(cells))
+            rows.append("| " + " | ".join(cells) + " |")
     return "\n".join(rows)
 
 
@@ -140,6 +139,29 @@ def _convert_tables_to_text(soup: BeautifulSoup, container) -> None:
         replacement = soup.new_tag("pre")
         replacement.string = table_text or ""
         table.replace_with(replacement)
+
+    # Handle floating TRs (malformed HTML where <tr> is outside <table>)
+    from collections import defaultdict
+    trs_by_parent = defaultdict(list)
+    for tr in container.find_all("tr"):
+        if not tr.find_parent("pre"):
+            trs_by_parent[tr.parent].append(tr)
+            
+    for parent, trs in trs_by_parent.items():
+        rows = []
+        for tr in trs:
+            cells = []
+            for cell in tr.find_all(["th", "td"]):
+                cell_text = _normalize_text(cell.get_text(separator=" ", strip=True))
+                cells.append(cell_text)
+            if cells:
+                rows.append("| " + " | ".join(cells) + " |")
+        if rows:
+            replacement = soup.new_tag("pre")
+            replacement.string = "\n".join(rows)
+            trs[0].insert_before(replacement)
+            for tr in trs:
+                tr.decompose()
 
 
 def _pick_main_container(soup: BeautifulSoup):

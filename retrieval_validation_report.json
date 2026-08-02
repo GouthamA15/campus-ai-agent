@@ -1,0 +1,1181 @@
+[
+  {
+    "query": "What is the attendance requirement?",
+    "retrieval_time_ms": 5104,
+    "embedding_time_ms": 41,
+    "search_time_ms": 81,
+    "candidate_count": 20,
+    "returned_count": 8,
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7576,
+        "chunk_id": "rules_examination",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 460
+        },
+        "text": "3.2 \"A regular programme of study\" means putting in attendance of not less than 75%.\n(The cumulative monthly attendance in each subject and the aggregate attendance\nshall be displayed on the respective department notice board)\n3.3. a) In special cases and for sufficient cause shown, the Vice-Chancelloi- may on the\nspecific recommendation of the Principal / Head of the Department, condone the\ndeficiency in attendance to the extent of 10% on medical grounds subject to\nsubmission of medical certificate and payment of condonation fee.\nb) However in respect of women candidates who seek condonation of attendance due\nto pregnancy, the Vice-Chancellor may condone the deficiency in attendance to the\nextent of 15% (as against 10% Condonation for others) on medical grounds subject to\nsubmission of medical certificate to this effect. Such condonation Permitted only once\nduring the programme of study.\n3.4 The prescribed fee for condonation of attendance on medical grounds shall be paid\nthrough Challan/Demand Draft drawn in favour of The Registrar, Kakatiya\nUniversity, Warangal and payable at Warangal.\n3.5 Attendance of N.C.C/N.S.S. Camps or inter collegiate or inter University or Inter\nState or international matches or debates or Educational Excursions or such other inter\nUniversity activities as approved by the authorities involving journeys outside the city\nin which the college is situated will not be counted as absence. However, Such absence\nshall not exceed, four weeks in the total period of instructions. Such leave should not\nbe availed twice during the programme of study.\n3.6 The attendance shall be calculated on the aggregate attendance of all the courses\noffered during the semester and reckoned from the date of commencement of classes\n/ date of readmission in case of detained candidates as per the almanac communicated\nby The Dean, Faculty of Engineering and Technology, Kakatiya University.\nKUCE & T - Rules and Regulations for Under Graduate programme B.Tecli 4-year Degree Programme vii\n3.7 In case of the candidates who fail to the required attendance in a program of Study,\nhe/she shall be detained in the same class and will not be permitted to appear for the\nUniversity examination. Such candidates shall have to seek readmission into the\nsame class during subsequent year in order to appear for the examination after\nfulfillin the attendance requirements and on payment of requisite tuition fee.\ng\n3,8. a) Candidates admitted to the first year through an entrance test and do not have the\nrequisite attendance but have not less than 40% attendance can seek readmission\nwithout once again appearing for the entrance test\nb) In respect of candidates of such programs where the admissions are governed\nthrough an entrance test, candidates of B.Tech. 1st Semester who do not have\nthe minimum 40% attendance would lose their seat and they will have to seek"
+      },
+      {
+        "rank": 2,
+        "score": 0.6829,
+        "chunk_id": "rules_examination_branch_as_per_the_notification_issued",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 95
+        },
+        "text": "Examination branch as per the notification issued\n9.5 No candidate shall be allowed to put in attendance for multiple programme and appear\nat examinations for the same simultaneously.\nKUCE & T Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xv\n9.6 Students who have appeared once at any examination of the program need not put in\nfresh attendance, if they wish to reappear at the corresponding examination,\nnotwithstanding the fact that the University may have introduced new courses. They\nwill, however, have to appear at the examinations according to the scheme of"
+      },
+      {
+        "rank": 3,
+        "score": 0.663,
+        "chunk_id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 130
+        },
+        "text": "Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the\ncandidate to appear in the Examination, and this Hall-Ticket shall have to be produced\nby the Candidate before he/she is admitted to the premises where the Examination is\nconducted.\n9.3 A Candidate who does not present himself / herself for the examination for any reason\nwhatsoever, excepting shortage of attendance, shall not be entitled to claim refund of\nwhole or part of the examination fee for subsequent Examination(s).\n9.4 A candidate after he/she has been declared successful in the whole examination, shall\nbe given a Provisional Certificate indicating the year of examination, the programme\nin which he/she was examined and, the overall Grade (CGPA) secured. However, the\ncandidates have to obtain Degree Certificate (convocation) from the University"
+      },
+      {
+        "rank": 4,
+        "score": 0.6494,
+        "chunk_id": "rules_examination_and_the_examinations_pertaining_to_the_other_semesters_conducted",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 316
+        },
+        "text": "Examination and the examinations pertaining to the other semesters conducted\nthereafter will be called as Supplementary Examinations.\n4.12 To enable the B.Tech. Final Year students to complete the program requirements in time,\nthere shall be a Make-up Exam, for VIII semester only, which will be scheduled within one\nmonth after publication of results of VIII semester (SEE) Main Examinations\n4.13. All the examinations in Theory Course shall be conducted as written examination\nfor duration as prescribed in the Scheme of Examination. The examination in\nLaboratory Courses shall be conducted as written and oral together by carrying out\nthe experiments as required in the specific Laboratory Course for the specified\nduration. Laboratory record of experiments conducted during semester is also required\nto be produced at the semester end examination. For the Project work (mini or major),\nthe related document (report) is to be produced at the time of oral examination.\nKUCE & T - Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme x\n4.14 All the general rules for examinations (given under 9) shall be adhered to\n4.15 A candidate shall he deemed t h fully passed a course (Theory/Practical), if he/\no ave\nshe secures not less than the minimum marks/grade as prescribed. Minimum pass\nmarks / grade in the University Examinations (SEE) plus CIE (add together) shall be.\ni) Each Theory Subject: 40% E Grade\nii) Each Practical Course and Project: 50% - D Grade\niii) Drawing Course treated as practical /Lab course; 50% D Grade\nImportant Note: The candidate has to appear at the Semester End Examination (SEE)\nin all the Practical / Laboratory Drawing Courses compulsorily irrespective of marks\nsecured under CIE\n4.16. If a candidate in any semester examination of the program fails to secure the minimum\nmarks/grade in any subject then he/she shall have to appear only in the failed course\nof the semester.\n5. RULES OF PROMOTION:"
+      },
+      {
+        "rank": 5,
+        "score": 0.6469,
+        "chunk_id": "rules_rules_of_promotion_are_as_shown_in_the_below_table",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 353
+        },
+        "text": "Rules of Promotion are as shown in the below table.\nS.No. Semester / Class Conditions to be fulfilled for Promotion\n1. Regular program of study of B.Tech. I- Semester and\nFrom I - Semester to\nregistration* fro the I - Semester Examination\nII - Semester\n2. From II - Semester to a) Regular program of study of B.Tech. H - Semester b)\nIII - Semester Must have earned at least 50% of credits prescribed for\nB.Tech. I - Semester & II - Semester put together.\n3. From III - Semester Regular program of study of B.Tech. Ill - Semester and\nto IV - Semester registration* for the III - Semester Examination\n4. From IV - Semester a) Regular program of study of B.Tech. IV - Semester\nto V- Semester b) No. of backlog credits, if any of B.Tech. I, II, III and\nIV Semesters put together shall riot exceed 50% of\nthe total No. of credits prescribed.\nKUCE & T Rules and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xi\nregistration* fro the I - Semester Examination\nMust have earned at least 50% of credits prescribed for\nB.Tech. I - Semester & II - Semester put together.\nregistration* for the III - Semester Examination\nb) No. of backlog credits, if any of B.Tech. I, II, III and\nIV Semesters put together shall riot exceed 50% of\nthe total No. of credits prescribed.\nFrom V -Semester to\nRegular program of study of B.Tech. V - Semester a d\n5. n\nVI - Semester\nregistration* for the V-Semester Examination\nFrom VI -\n6.\nSemester a) Regular program of study of B.Tech. VI- Semester.\nto VII - Semester\nFrom VII to VIII b R) e N guo l. a o r f p rb oa gc rk al mog o c fr se td ui dts y. oif f a Bn .y T eo cf hB . . VT Ie Ic -h . S I e mto e V stI e r\nSemester Semestersput together shall not exceed 50% of the total\n7.\nand registration* from the VII \u2013 Semester\nNo. of Credits prescribed"
+      },
+      {
+        "rank": 6,
+        "score": 0.6442,
+        "chunk_id": "office_main.php.json_chunk_11",
+        "document": "http://kucet.ac.in/office_main.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Certificate Issue Duration",
+        "metadata": {
+          "heading": "Certificate Issue Duration",
+          "heading_level": 2,
+          "page_type": "notice",
+          "scraped_at": "2026-08-02T18:41:11.401655+00:00",
+          "source": "http://kucet.ac.in/office_main.php",
+          "title": "Office"
+        },
+        "text": "Certificate Issue Duration\nDocuments required for Fresh and Renewal Scholarship"
+      },
+      {
+        "rank": 7,
+        "score": 0.6351,
+        "chunk_id": "rules_examination_2",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 301
+        },
+        "text": "Note: * Registration means obtaining a Hall ticket for the said examination\n1. If a candidate has more Than permitted number of credits as backlogs, he/she will be\ndetained. The candidate who wishes to take readmission into the year in which he/\nshe is detained has to pay the total tuition fee of that year and all the credits earned\nduring that year shall become null and void.\n2. If the number of credits permitted as backlogs is not a whole number, the credits are\nrounded to next higher digit/whole number.\n6. GRADING SYSTEM:\n6 .1 Candidates who have passed all the examinations of the B.Tech. Degree Program\nshall be awarded Division in accordance with the grades secured by them in all eight\nSemesters taken together, including the ClE marks secured in those semesters.\nThe Grade secured by the candidate will be shown in the Memorandum of Marks as\nper his/her performance both in SEE and CIE together and as per the norms indicated\nin clause 4.3.\nA minimum Cumulative Grade Point Average (CGPA) of 5 is required for the award\nof Degree. The consolidated memorandum of marks will reflect the Credits & Grade\nobtained by the candidates in all the course of B.Tech. Programme\n6.2 Semester Grade Point Average (SGPA) & Cumulative Grade Point Average (CGPA)\nCalculations:\na) SGPA = I (Letter Grade Point x Credits) I \u2211, Credits\n\u2022 SGPA is calculated up to second decimal point.\n\u2022 SGPA is calculated only when all subjects in that semester are Cleared I Passed.\nKUCE & T - RuleS and Regulations for Under Graduate programme B.Tech 4-year Degree Programme xii\nn\nregistration* for the V-Semester Examination\nSemester\nIllustration of calculation of SGPA\nCourse/Subject Credits Letter Grade tirade Points Credit Points\n4\nCourse I 8 4x8 = 32\n4\nCourse 2 4x10=40"
+      },
+      {
+        "rank": 8,
+        "score": 0.623,
+        "chunk_id": "rules_9_general_rules_of_examinations",
+        "document": "rules.pdf",
+        "source": "pdf",
+        "document_type": "notification",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "notification_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 15,
+          "confidence_gap": 1,
+          "course_code_valid": false,
+          "document_type": "notification",
+          "feature_summary": "{'course_code_count': 3}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 14,
+          "source": "rules.pdf",
+          "source_pdf": "rules.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 89
+        },
+        "text": "9 GENERAL RULES OF EXAMINATIONS;\n9.1 Application for permission to appear at every examination shall be made on the\nprescribed form, accompanied by three passport size full face photographs (not profile)\nwhich along with the necessary certificates regarding attendance, practical work etc.,\nand the prescribed fee, should be sent to the Controller of Examination; (COE) K.U\nthrough HOD and the Principal of the College where candidate is enrolled as a regular\nstudent.\n9.2 When a candidate\u2019s application is found in order and he/she is eligible to appear at an"
+      }
+    ],
+    "applied_filters": {
+      "$and": [
+        {
+          "document_type": {
+            "$eq": "rules"
+          }
+        },
+        {
+          "source": {
+            "$like": "%.pdf"
+          }
+        }
+      ]
+    },
+    "fallback_used": true,
+    "query_metadata": {
+      "original_query": "What is the attendance requirement?",
+      "normalized_query": "what is the attendance requirement",
+      "query_type": "rules",
+      "intent": "lookup",
+      "entities": [
+        "Attendance"
+      ],
+      "keywords": [
+        "attendance",
+        "requirement"
+      ],
+      "possible_document_types": [
+        "rules"
+      ],
+      "possible_sources": [
+        "pdf"
+      ],
+      "metadata_filters": {
+        "document_type": "rules",
+        "source_type": "pdf"
+      },
+      "confidence": 1.0
+    }
+  },
+  {
+    "query": "Show Data Science syllabus.",
+    "retrieval_time_ms": 33,
+    "embedding_time_ms": 27,
+    "search_time_ms": 5,
+    "candidate_count": 20,
+    "returned_count": 8,
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7527,
+        "chunk_id": "admissions.php.json_chunk_7",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "DATA SCIENCE",
+        "metadata": {
+          "heading": "DATA SCIENCE",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "DATA SCIENCE\n66\n55\n58\n66"
+      },
+      {
+        "rank": 2,
+        "score": 0.7355,
+        "chunk_id": "syllabus_new.php.json_chunk_0",
+        "document": "http://kucet.ac.in/syllabus_new.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "ECET:",
+        "metadata": {
+          "heading": "ECET:",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:18.700036+00:00",
+          "source": "http://kucet.ac.in/syllabus_new.php",
+          "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+        },
+        "text": "ECET:\nSyllabus"
+      },
+      {
+        "rank": 3,
+        "score": 0.7311,
+        "chunk_id": "btech_year4_csd_sem8_unit_1",
+        "document": "btech_year4_csd_sem8.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 31,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 10, 'unit_count': 45, 'textbook_sections': 7}",
+          "header_removed": false,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 8,
+          "source": "btech_year4_csd_sem8.pdf",
+          "source_pdf": "btech_year4_csd_sem8.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 22
+        },
+        "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
+      },
+      {
+        "rank": 4,
+        "score": 0.7293,
+        "chunk_id": "admissions.php.json_chunk_15",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "DATA SCIENCE",
+        "metadata": {
+          "heading": "DATA SCIENCE",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "DATA SCIENCE\n0\n12\n15"
+      },
+      {
+        "rank": 5,
+        "score": 0.7276,
+        "chunk_id": "6_database_management_systems_lab_unit_6",
+        "document": "btech_year2_csd_sem4.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 11, 'unit_count': 29, 'textbook_sections': 7}",
+          "header_removed": false,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year2_csd_sem4.pdf",
+          "source_pdf": "btech_year2_csd_sem4.pdf",
+          "strong_evidence_count": 6,
+          "subject_name": "6 Database Management Systems Lab",
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 53
+        },
+        "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
+      },
+      {
+        "rank": 6,
+        "score": 0.7276,
+        "chunk_id": "cse_po_data_science_2",
+        "document": "CSE_PO.pdf",
+        "source": "pdf",
+        "document_type": "lab_manual",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "lab_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 16,
+          "confidence_gap": 4,
+          "course_code_valid": false,
+          "document_type": "lab_manual",
+          "feature_summary": "{'course_code_count': 25, 'workshop': True}",
+          "header_removed": false,
+          "merged_small_chunk": true,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 12,
+          "source": "CSE_PO.pdf",
+          "source_pdf": "CSE_PO.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 34
+        },
+        "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
+      },
+      {
+        "rank": 7,
+        "score": 0.7149,
+        "chunk_id": "btech_year3_csd_sem5_curriculum",
+        "document": "btech_year3_csd_sem5.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "preamble",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 14, 'unit_count': 40, 'textbook_sections': 6, 'academic_year': '2023-2024'}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year3_csd_sem5.pdf",
+          "source_pdf": "btech_year3_csd_sem5.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 264
+        },
+        "text": "B. Tech. (Data Science) V SEMESTER\nScheme of\nScheme of Lecture\nS. Course Examinatio Credits\nCourse Title Instruction hrs/week\nNo. Code n\nL T P CIE SEE\n1 PCS-501DS Software Engineering 3 1 0 4 30 70 4\n2 PCS-502DS Operating System 3 1 0 4 30 70 4\n3 PE-I* Professional Elective \u2013 I* 3 1 0 4 30 70 4\n4 PCS-503DS Data Mining 3 1 0 4 30 70 4\nManagerial Economics and\n5 HS3108 3 0 0 3 30 70 3\nAccountancy\n6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5\n7 PE-I** Professional Elective \u2013I Lab** 0 0 3 3 25 50 1.5\nTotal 15 4 6 25 200 450 22\n*(PE-I)Professional Elective \u2013 I **(PE-I)Professional Elective \u2013 I Lab\nPE5101CS Web Programming PE5105CS Web Programming Lab\nPE5102CS Advanced Java PE5106CS Advanced Java Lab\nPE5103CS Advanced Data Structures PE5107CS Advanced DS Lab\nPE5104CS Fundamentals of AI PE5108CS AI Lab\nS.\nExaminatio\n1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4\n2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4\n4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4\n5 | HS3108 | Managerial Economics and\n6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5\nSoftware Engineering (PCS-501DS)\nL T P C Internal Marks: 30\n3 1 0 4 External Marks: 70"
+      },
+      {
+        "rank": 8,
+        "score": 0.7049,
+        "chunk_id": "btech_year2_csd_sem3_curriculum",
+        "document": "btech_year2_csd_sem3.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "preamble",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 13, 'unit_count': 29, 'textbook_sections': 6}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year2_csd_sem3.pdf",
+          "source_pdf": "btech_year2_csd_sem3.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 222
+        },
+        "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
+      }
+    ],
+    "applied_filters": {
+      "$and": [
+        {
+          "document_type": {
+            "$eq": "syllabus"
+          }
+        },
+        {
+          "source": {
+            "$like": "%.pdf"
+          }
+        },
+        {
+          "department": {
+            "$eq": "Data Science"
+          }
+        }
+      ]
+    },
+    "fallback_used": true,
+    "query_metadata": {
+      "original_query": "Show Data Science syllabus.",
+      "normalized_query": "show data science syllabus",
+      "query_type": "general",
+      "intent": "information",
+      "entities": [
+        "Syllabus",
+        "Data Science"
+      ],
+      "keywords": [
+        "data",
+        "science",
+        "syllabus"
+      ],
+      "possible_document_types": [
+        "syllabus"
+      ],
+      "possible_sources": [
+        "pdf"
+      ],
+      "metadata_filters": {
+        "document_type": "syllabus",
+        "source_type": "pdf",
+        "department": "Data Science"
+      },
+      "confidence": 0.8
+    }
+  },
+  {
+    "query": "List scholarship details.",
+    "retrieval_time_ms": 33,
+    "embedding_time_ms": 27,
+    "search_time_ms": 5,
+    "candidate_count": 20,
+    "returned_count": 8,
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7047,
+        "chunk_id": "best-practices.php.json_chunk_3",
+        "document": "http://kucet.ac.in/best-practices.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Remuneration Bill",
+        "metadata": {
+          "heading": "Remuneration Bill",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.769273+00:00",
+          "source": "http://kucet.ac.in/best-practices.php",
+          "title": "Exams Section"
+        },
+        "text": "Remuneration Bill\nAward list"
+      },
+      {
+        "rank": 2,
+        "score": 0.6828,
+        "chunk_id": "index.php.json_chunk_21",
+        "document": "http://kucet.ac.in/index.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Flag Area (26 Jan 2025)",
+        "metadata": {
+          "heading": "Flag Area (26 Jan 2025)",
+          "heading_level": 2,
+          "page_type": "homepage",
+          "scraped_at": "2026-08-02T18:41:25.742713+00:00",
+          "source": "http://kucet.ac.in/index.php",
+          "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+        },
+        "text": "Flag Area (26 Jan 2025)\nScholarship Program \u00e2\u20ac\u201c 25 Jan 2025 (for First Year Girls)\nInternational Day of Education (24 Jan 2025)"
+      },
+      {
+        "rank": 3,
+        "score": 0.6723,
+        "chunk_id": "alumini_main.json_chunk_7",
+        "document": "http://kucet.ac.in/alumini_main",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Student Support & Scholarships:",
+        "metadata": {
+          "heading": "Student Support & Scholarships:",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:14.940851+00:00",
+          "source": "http://kucet.ac.in/alumini_main",
+          "title": "ALUMINI"
+        },
+        "text": "Student Support & Scholarships:\nOffering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions."
+      },
+      {
+        "rank": 4,
+        "score": 0.6523,
+        "chunk_id": "office_main.php.json_chunk_11",
+        "document": "http://kucet.ac.in/office_main.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Certificate Issue Duration",
+        "metadata": {
+          "heading": "Certificate Issue Duration",
+          "heading_level": 2,
+          "page_type": "notice",
+          "scraped_at": "2026-08-02T18:41:11.401655+00:00",
+          "source": "http://kucet.ac.in/office_main.php",
+          "title": "Office"
+        },
+        "text": "Certificate Issue Duration\nDocuments required for Fresh and Renewal Scholarship"
+      },
+      {
+        "rank": 5,
+        "score": 0.6305,
+        "chunk_id": "index.php.json_chunk_29",
+        "document": "http://kucet.ac.in/index.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Gold Medal Awarded List-July 2025",
+        "metadata": {
+          "heading": "Gold Medal Awarded List-July 2025",
+          "heading_level": 2,
+          "page_type": "homepage",
+          "scraped_at": "2026-08-02T18:41:25.742713+00:00",
+          "source": "http://kucet.ac.in/index.php",
+          "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+        },
+        "text": "Gold Medal Awarded List-July 2025\nHostel facility is available to Boy's and Girls from second Year onwards\nHostel facility to the SFC course students is subject to the availability of vacancies\nHostel facility is not available for M.Tech Students"
+      },
+      {
+        "rank": 6,
+        "score": 0.6157,
+        "chunk_id": "sports.php.json_chunk_19",
+        "document": "http://kucet.ac.in/sports.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Inter-Collegiate Tournament Achievements",
+        "metadata": {
+          "heading": "Inter-Collegiate Tournament Achievements",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:20.708597+00:00",
+          "source": "http://kucet.ac.in/sports.php",
+          "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+        },
+        "text": "Inter-Collegiate Tournament Achievements\nRunners-Up"
+      },
+      {
+        "rank": 7,
+        "score": 0.6144,
+        "chunk_id": "gold_medal_list_july_2025__gold_medal_awarded_list_2016_to_2021",
+        "document": "Gold_Medal_List_July_2025_.pdf",
+        "source": "pdf",
+        "document_type": "unknown",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "heading_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 8,
+          "confidence_gap": 3,
+          "course_code_valid": false,
+          "document_type": "unknown",
+          "feature_summary": "{'course_code_count': 18}",
+          "header_removed": false,
+          "merged_small_chunk": true,
+          "parsing_confidence": 0.8,
+          "runner_up_score": 5,
+          "source": "Gold_Medal_List_July_2025_.pdf",
+          "source_pdf": "Gold_Medal_List_July_2025_.pdf",
+          "strong_evidence_count": 1,
+          "validator_reason": "Syllabus requires course codes AND unit markers",
+          "validator_result": "failed",
+          "word_count": 244
+        },
+        "text": "KU COLLEGE OF ENGINEERING & TECHNOLOGY\nGOLD MEDAL AWARDED LIST-2016 TO 2021\nS.NO HALL TICKET NO NAME OF THE STUDENT COURSE BRANCH YEAR MOBILE NO\nDR.D.S. REDDY GOLD MEDAL\n1 12000T1501 KADAVERGU AISHWARYA B.TECH ECE 2016 8790284950\n2 14567T0007 MOHAMMAD ASIF ALI B.TECH CIVIL 2018 8978225507\n3 15567T1239 JINDAM SATHVIKA B.TECH EEE 2019 8179605075\n9397655568\n4 16567T1541 LINGALA SANDHYA B.TECH ECE 2020\n9154211744\nSRI J. LAXMAIAH TEACHER GOLD MEDAL\n1 16567T0307 BANDA SAIUMA B.TECH MECH 2020 9440012708\n2 17567T0303 AMGOTH RAJA RAO B.TECH MECH 2021 9908467353\nSRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL\n1 15567T0323 CHINTHALA PARINITHA B.TECH MECH 2019 8500426240\n2 16567T0307 BANDA SAIUMA B.TECH MECH 2020 9440012708\n3 17567T0303 AMGOTH RAJA RAO B.TECH MECH 2021 9908467353\nSMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL\n1 13567T0047 RAMIDI SAITEJA B.TECH CIVIL 2016 9849040525\n2 14567T0007 MOHAMMAD ASIF ALI B.TECH CIVIL 2018 8978225507\n3 15567T0042 KATAKAM SRAVANI B.TECH CIVIL 2019 9676033113\n4 16567T0003 BANDOTH JYOTHI B.TECH CIVIL 2020 7702096378\n5 185670060L MEKALA PREMALATHA B.TECH CIVIL 2021 9704604057\nMARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL\n9390101343\n1 12000T0954 TAJASWINI GADDAM B.TECH CSE 2016\n9246895817\n2 14567T0909 CHANDANA KOLANU B.TECH CSE 2018 9849932237\nSRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL\n1 14567T0909 CHANDANA KOLANU B.TECH CSE 2018 9849932237\nANNEXURE TO GOLD MEDAL LIST WITH COURSE NAMES\n9948125058\n1 16567T0947 TABASSUM TANVEER B.TECH CSE 2020\n7794886950\nLATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL\n1 14567T1237 SHABANASHAFI B.TECH EEE 2018 9989734267\n2 15567T1239 JINDAM SATHVIKA B.TECH EEE 2019 8179605075"
+      },
+      {
+        "rank": 8,
+        "score": 0.6143,
+        "chunk_id": "gold_medal_list_july_2025__3_17567t1203_bandar_vaishnavi_b_tech_eee_2021_9703543286",
+        "document": "Gold_Medal_List_July_2025_.pdf",
+        "source": "pdf",
+        "document_type": "unknown",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "heading_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 8,
+          "confidence_gap": 3,
+          "course_code_valid": false,
+          "document_type": "unknown",
+          "feature_summary": "{'course_code_count': 18}",
+          "header_removed": false,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 5,
+          "source": "Gold_Medal_List_July_2025_.pdf",
+          "source_pdf": "Gold_Medal_List_July_2025_.pdf",
+          "strong_evidence_count": 1,
+          "validator_reason": "Syllabus requires course codes AND unit markers",
+          "validator_result": "failed",
+          "word_count": 23
+        },
+        "text": "3 17567T1203 BANDAR VAISHNAVI B.TECH EEE 2021 9703543286\nGOLD MEDAL AWARDED LIST-2016 TO 2021 |  |  |  |  |  |\n9154211744\n9246895817\n7794886950"
+      }
+    ],
+    "applied_filters": {},
+    "fallback_used": false,
+    "query_metadata": {
+      "original_query": "List scholarship details.",
+      "normalized_query": "list scholarship details",
+      "query_type": "list",
+      "intent": "lookup",
+      "entities": [
+        "Scholarship"
+      ],
+      "keywords": [
+        "scholarship"
+      ],
+      "possible_document_types": [],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {},
+      "confidence": 1.0
+    }
+  },
+  {
+    "query": "How many seats are available in Data Science?",
+    "retrieval_time_ms": 36,
+    "embedding_time_ms": 26,
+    "search_time_ms": 9,
+    "candidate_count": 20,
+    "returned_count": 8,
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "score": 0.7183,
+        "chunk_id": "admissions.php.json_chunk_7",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "DATA SCIENCE",
+        "metadata": {
+          "heading": "DATA SCIENCE",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "DATA SCIENCE\n66\n55\n58\n66"
+      },
+      {
+        "rank": 2,
+        "score": 0.7063,
+        "chunk_id": "admissions.php.json_chunk_15",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "DATA SCIENCE",
+        "metadata": {
+          "heading": "DATA SCIENCE",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "DATA SCIENCE\n0\n12\n15"
+      },
+      {
+        "rank": 3,
+        "score": 0.6981,
+        "chunk_id": "cse_po_data_science_2",
+        "document": "CSE_PO.pdf",
+        "source": "pdf",
+        "document_type": "lab_manual",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "lab_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 16,
+          "confidence_gap": 4,
+          "course_code_valid": false,
+          "document_type": "lab_manual",
+          "feature_summary": "{'course_code_count': 25, 'workshop': True}",
+          "header_removed": false,
+          "merged_small_chunk": true,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 12,
+          "source": "CSE_PO.pdf",
+          "source_pdf": "CSE_PO.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 34
+        },
+        "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
+      },
+      {
+        "rank": 4,
+        "score": 0.6806,
+        "chunk_id": "btech_year4_csd_sem8_unit_1",
+        "document": "btech_year4_csd_sem8.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 31,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 10, 'unit_count': 45, 'textbook_sections': 7}",
+          "header_removed": false,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 8,
+          "source": "btech_year4_csd_sem8.pdf",
+          "source_pdf": "btech_year4_csd_sem8.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 22
+        },
+        "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
+      },
+      {
+        "rank": 5,
+        "score": 0.6611,
+        "chunk_id": "6_database_management_systems_lab_unit_6",
+        "document": "btech_year2_csd_sem4.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 11, 'unit_count': 29, 'textbook_sections': 7}",
+          "header_removed": false,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year2_csd_sem4.pdf",
+          "source_pdf": "btech_year2_csd_sem4.pdf",
+          "strong_evidence_count": 6,
+          "subject_name": "6 Database Management Systems Lab",
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 53
+        },
+        "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
+      },
+      {
+        "rank": 6,
+        "score": 0.6564,
+        "chunk_id": "btech_year2_csd_sem3_curriculum",
+        "document": "btech_year2_csd_sem3.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "preamble",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 13, 'unit_count': 29, 'textbook_sections': 6}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year2_csd_sem3.pdf",
+          "source_pdf": "btech_year2_csd_sem3.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 222
+        },
+        "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
+      },
+      {
+        "rank": 7,
+        "score": 0.6535,
+        "chunk_id": "cse_po_design_2",
+        "document": "CSE_PO.pdf",
+        "source": "pdf",
+        "document_type": "lab_manual",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "lab_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 16,
+          "confidence_gap": 4,
+          "course_code_valid": false,
+          "document_type": "lab_manual",
+          "feature_summary": "{'course_code_count': 25, 'workshop': True}",
+          "header_removed": false,
+          "merged_small_chunk": true,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 12,
+          "source": "CSE_PO.pdf",
+          "source_pdf": "CSE_PO.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 45
+        },
+        "text": "DESIGN\nLAB(PE4111CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc | \uf0fc | \uf0fc | \uf0fc\nVIII SEMESTER\nCO2 \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc\nDATA SCIENCE\n(PE4201CS)"
+      },
+      {
+        "rank": 8,
+        "score": 0.649,
+        "chunk_id": "6_database_management_systems_lab_overview",
+        "document": "btech_year2_csd_sem4.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "subject_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 11, 'unit_count': 29, 'textbook_sections': 7}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year2_csd_sem4.pdf",
+          "source_pdf": "btech_year2_csd_sem4.pdf",
+          "strong_evidence_count": 6,
+          "subject_name": "6 Database Management Systems Lab",
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 168
+        },
+        "text": "6 Database Management Systems Lab 0 0 3 1.5\nPCS-402L\n7 Data Science Lab 0 0 3 1.5\nMC-410\n8 Constitution of India 2 0 0 0\n27 22\nTotal\nS.\n1 | PCS-401 | Database Management Systems | 3 | 1 | 0 | 4\n2 | PCS-402 | Introduction to Data Science | 3 | 1 | 0 | 4\n3 | PCS-403 | Design and Analysis of Algorithms | 3 | 1 | 0 | 4\n4 | ESC-401 | Elements of Electrical and Electronics | 3 | 0 | 0 | 3\n5 | PCS-404 | Theory of Computation | 3 | 1 | 0 | 4\n6 | PCS-401L | Database Management Systems Lab | 0 | 0 | 3 | 1.5\n7 | PCS-402L | Data Science Lab | 0 | 0 | 3 | 1.5\n8 | MC-410 | Constitution of India | 2 | 0 | 0 | 0\nPCS-401 DATABASE MANAGEMENT SYSTEMS\n3 1 0 4 External Marks: 70"
+      }
+    ],
+    "applied_filters": {
+      "department": {
+        "$eq": "Data Science"
+      }
+    },
+    "fallback_used": true,
+    "query_metadata": {
+      "original_query": "How many seats are available in Data Science?",
+      "normalized_query": "how many seats are available in data science",
+      "query_type": "statistics",
+      "intent": "information",
+      "entities": [
+        "Data Science"
+      ],
+      "keywords": [
+        "seats",
+        "available",
+        "data",
+        "science"
+      ],
+      "possible_document_types": [],
+      "possible_sources": [
+        "either"
+      ],
+      "metadata_filters": {
+        "department": "Data Science"
+      },
+      "confidence": 0.9
+    }
+  },
+  {
+    "query": "Where is the Mechanical Engineering department?",
+    "retrieval_time_ms": 35,
+    "embedding_time_ms": 30,
+    "search_time_ms": 5,
+    "candidate_count": 20,
+    "returned_count": 8,
+    "ranked_chunks": [
+      {
+        "rank": 1,
+        "score": 0.834,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_14",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Department:",
+        "metadata": {
+          "heading": "Department:",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "Department:\nMechanical"
+      },
+      {
+        "rank": 2,
+        "score": 0.7789,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_0",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "MECHANICAL ENGINEERING",
+        "metadata": {
+          "heading": "MECHANICAL ENGINEERING",
+          "heading_level": 1,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "MECHANICAL ENGINEERING\nDepartment Vision and Mission"
+      },
+      {
+        "rank": 3,
+        "score": 0.7381,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_5",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Key areas within mechanical engineering include:",
+        "metadata": {
+          "heading": "Key areas within mechanical engineering include:",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "Key areas within mechanical engineering include:"
+      },
+      {
+        "rank": 4,
+        "score": 0.7222,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_58",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "MECHANICAL ENGINEERING | 66",
+        "metadata": {
+          "heading": "MECHANICAL ENGINEERING | 66",
+          "heading_level": 1,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "MECHANICAL ENGINEERING | 66\nINFRASTRUCTURE"
+      },
+      {
+        "rank": 5,
+        "score": 0.7202,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_3",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Mechanical Engineering",
+        "metadata": {
+          "heading": "Mechanical Engineering",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "Mechanical Engineering\nDr.Ch.Radhika\nHOD of Mechanical Department\n8686876092\nradhikareddy.chada@kakatiya.ac.in\nDepartment of Mechanical Engineering"
+      },
+      {
+        "rank": 6,
+        "score": 0.7188,
+        "chunk_id": "admissions.php.json_chunk_12",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "MECHANICAL ENGINEERING",
+        "metadata": {
+          "heading": "MECHANICAL ENGINEERING",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "MECHANICAL ENGINEERING\n22\n16\n27\n5"
+      },
+      {
+        "rank": 7,
+        "score": 0.6959,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_4",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Mechanical Engineering",
+        "metadata": {
+          "heading": "Mechanical Engineering",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "Mechanical Engineering\nis a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries."
+      },
+      {
+        "rank": 8,
+        "score": 0.6952,
+        "chunk_id": "admissions.php.json_chunk_4",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "MECHANICAL ENGINEERING",
+        "metadata": {
+          "heading": "MECHANICAL ENGINEERING",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "MECHANICAL ENGINEERING\n66\n51\n42\n43\n5"
+      }
+    ],
+    "applied_filters": {
+      "$and": [
+        {
+          "document_type": {
+            "$eq": "department"
+          }
+        },
+        {
+          "source": {
+            "$like": "http%"
+          }
+        },
+        {
+          "department": {
+            "$eq": "Mechanical Engineering"
+          }
+        }
+      ]
+    },
+    "fallback_used": true,
+    "query_metadata": {
+      "original_query": "Where is the Mechanical Engineering department?",
+      "normalized_query": "where is the mechanical engineering department",
+      "query_type": "location",
+      "intent": "lookup",
+      "entities": [
+        "Department",
+        "Mechanical Engineering"
+      ],
+      "keywords": [
+        "mechanical",
+        "engineering",
+        "department"
+      ],
+      "possible_document_types": [
+        "department"
+      ],
+      "possible_sources": [
+        "web"
+      ],
+      "metadata_filters": {
+        "document_type": "department",
+        "source_type": "web",
+        "department": "Mechanical Engineering"
+      },
+      "confidence": 1.0
+    }
+  }
+]

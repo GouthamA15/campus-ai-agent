@@ -72,6 +72,30 @@ Phase 6 — AI Chatbot (RAG)
 | Phase 6 | AI Chatbot (RAG) | 🔜 Planned |
 | Phase 7 | Production Automation | 🔜 Planned |
 
+## 🚀 Current Architecture & Roadmap
+
+### Phase 1: Knowledge Ingestion
+* [x] **Web Scraper Pipeline** (Cheerio-based scraping, Markdown conversion)
+* [x] **Document Processor** (PDF/DOCX extraction via text-only methods)
+
+### Phase 2: Processing & Chunking
+* [x] **Structural Chunking** (Markdown block-level splitting)
+* [x] **Content Chunking** (Deterministic 500-word overlap chunking)
+* [x] **Chunk Inspection & Output Validation**
+
+### Phase 3: RAG Pipeline
+* [x] **Phase 3.1 & 3.2**: Embedding Generation & ChromaDB setup
+* [x] **Phase 3.3.1**: Query Understanding Engine
+* [x] **Phase 3.3.2**: Knowledge Retriever
+* [x] **Phase 3.3.3**: Context Builder
+* [x] **Phase 3.3.4**: Prompt Builder
+* [x] **Phase 3.4**: LLM Engine
+* [ ] **Phase 3.5**: Response Processor
+
+### Phase 4: Full App Integration
+* [ ] **Discord/Telegram Bot Integration**
+* [ ] **FastAPI Backend / Full Chat Interface**
+
 ---
 
 ## ✅ Phase 1 — Knowledge Ingestion Pipeline
