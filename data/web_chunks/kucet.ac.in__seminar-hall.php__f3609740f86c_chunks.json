@@ -1,0 +1,19 @@
+{
+  "document_id": "seminar-hall.php.json",
+  "title": "Seminar Hall",
+  "source": "http://kucet.ac.in/seminar-hall.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:12.835569+00:00",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "seminar-hall.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Seminar Hall",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Seminar Hall\nAbout\nOur state-of-the-art seminar hall is designed to host a wide range of academic and professional events, from lectures and workshops to conferences and presentations. With a\ncapacity of 200 members\n, it provides a spacious and comfortable environment for large gatherings.\nThe hall ensures crystal-clear presentations and engaging discussions. It also features comfortable seating arrangements and optimal lighting to facilitate a productive learning and interaction experience.\nThe hall's versatile setup allows for various seating configurations to suit different event requirements, making it an ideal venue for fostering knowledge exchange and collaborative activities within the institution and beyond.\nGallery",
+      "token_count": 118
+    }
+  ]
+}

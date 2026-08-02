@@ -1,0 +1,1792 @@
+2026-05-29 21:28:43,160 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 21:28:45,104 | ERROR | Failed to parse PDF: data\pdfs\btech_year3_csd_sem6.pdf
+Traceback (most recent call last):
+  File "D:\Projects\campus-ai-agent\scraper\pdf_parser.py", line 545, in parse_one
+    extracted = cleanup_repeated_headers_footers(extracted, threshold=cleanup_threshold)
+  File "D:\Projects\campus-ai-agent\scraper\pdf_parser.py", line 361, in cleanup_repeated_headers_footers
+    repeated_keys = {k for k, c in key_counts.items() if c >= min_pages}
+  File "D:\Projects\campus-ai-agent\scraper\pdf_parser.py", line 361, in <setcomp>
+    repeated_keys = {k for k, c in key_counts.items() if c >= min_pages}
+NameError: name 'min_pages' is not defined
+2026-05-29 21:29:39,778 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 21:29:41,353 | INFO | Detected repeated headers/footers (normalized, >= 10/20 pages):
+2026-05-29 21:29:41,353 | INFO | - btech data science semester
+2026-05-29 21:29:41,354 | INFO | - department computer science engineering
+2026-05-29 21:29:41,354 | INFO | - department information technology
+2026-05-29 21:29:41,354 | INFO | - faculty engineering technology
+2026-05-29 21:29:41,354 | INFO | - kakatiya university warangal
+2026-05-29 21:29:41,354 | INFO | - internal marks
+2026-05-29 21:29:41,354 | INFO | Removed from pages:
+2026-05-29 21:29:41,354 | INFO | - btech data science semester: 12 pages
+2026-05-29 21:29:41,354 | INFO | - department computer science engineering: 12 pages
+2026-05-29 21:29:41,354 | INFO | - department information technology: 12 pages
+2026-05-29 21:29:41,354 | INFO | - faculty engineering technology: 12 pages
+2026-05-29 21:29:41,354 | INFO | - kakatiya university warangal: 12 pages
+2026-05-29 21:29:41,354 | INFO | - internal marks: 11 pages
+2026-05-29 21:29:41,354 | INFO | Page count: 20
+2026-05-29 21:29:41,356 | INFO | Extracted text length: 25549
+2026-05-29 21:29:41,357 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-05-29 21:31:11,222 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 21:31:12,820 | INFO | Detected repeated headers/footers (normalized, >= 10/20 pages):
+2026-05-29 21:31:12,820 | INFO | - btech data science semester
+2026-05-29 21:31:12,820 | INFO | - department computer science engineering
+2026-05-29 21:31:12,820 | INFO | - department information technology
+2026-05-29 21:31:12,820 | INFO | - faculty engineering technology
+2026-05-29 21:31:12,820 | INFO | - kakatiya university warangal
+2026-05-29 21:31:12,820 | INFO | - internal marks
+2026-05-29 21:31:12,820 | INFO | Removed from pages:
+2026-05-29 21:31:12,820 | INFO | - btech data science semester: 12 pages
+2026-05-29 21:31:12,820 | INFO | - department computer science engineering: 12 pages
+2026-05-29 21:31:12,820 | INFO | - department information technology: 12 pages
+2026-05-29 21:31:12,820 | INFO | - faculty engineering technology: 12 pages
+2026-05-29 21:31:12,820 | INFO | - kakatiya university warangal: 12 pages
+2026-05-29 21:31:12,820 | INFO | - internal marks: 11 pages
+2026-05-29 21:31:12,820 | INFO | Page count: 20
+2026-05-29 21:31:12,820 | INFO | Extracted text length: 25549
+2026-05-29 21:31:12,820 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-05-29 21:31:30,227 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 21:31:31,780 | INFO | Page count: 20
+2026-05-29 21:31:31,780 | INFO | Extracted text length: 28175
+2026-05-29 21:31:31,796 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-05-29 22:37:39,322 | INFO | Processing PDF: btech_year3_csd_sem6.pdf
+2026-05-29 22:37:39,322 | ERROR | Failed to parse PDF: btech_year3_csd_sem6.pdf
+Traceback (most recent call last):
+  File "D:\Projects\campus-ai-agent\scraper\pdf_parser.py", line 764, in parse_one
+    extracted = extract_pdf_text(
+  File "D:\Projects\campus-ai-agent\scraper\pdf_parser.py", line 664, in extract_pdf_text
+    with pdfplumber.open(str(pdf_path)) as pdf:
+  File "D:\Projects\campus-ai-agent\.venv\lib\site-packages\pdfplumber\pdf.py", line 95, in open
+    stream = open(path_or_fp, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'btech_year3_csd_sem6.pdf'
+2026-05-29 22:39:36,892 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 22:39:38,703 | INFO | Detected repeated headers/footers (clusters >= 10/20 pages):
+2026-05-29 22:39:38,703 | INFO | - [header] engineering faculty technology
+2026-05-29 22:39:38,703 | INFO | - [header] kakatiya university warangal
+2026-05-29 22:39:38,703 | INFO | - [header] computer department engineering science
+2026-05-29 22:39:38,703 | INFO | - [header] department information technology
+2026-05-29 22:39:38,710 | INFO | Removed from pages:
+2026-05-29 22:39:38,710 | INFO | - [header] engineering faculty technology: 12 pages
+2026-05-29 22:39:38,710 | INFO | - [header] kakatiya university warangal: 12 pages
+2026-05-29 22:39:38,710 | INFO | - [header] computer department engineering science: 11 pages
+2026-05-29 22:39:38,711 | INFO | - [header] department information technology: 10 pages
+2026-05-29 22:39:38,712 | INFO | Page count: 20
+2026-05-29 22:39:38,712 | INFO | Extracted text length: 26384
+2026-05-29 22:39:38,713 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-05-29 22:47:02,640 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-05-29 22:47:04,339 | INFO | Detected repeated headers/footers (clusters >= 10/20 pages):
+2026-05-29 22:47:04,339 | INFO | - [header] engineering faculty technology
+2026-05-29 22:47:04,339 | INFO | - [header] kakatiya university warangal
+2026-05-29 22:47:04,339 | INFO | - [header] computer department engineering science
+2026-05-29 22:47:04,339 | INFO | - [header] department information technology
+2026-05-29 22:47:04,345 | INFO | Removed from pages:
+2026-05-29 22:47:04,345 | INFO | - [header] computer department engineering science: 12 pages
+2026-05-29 22:47:04,346 | INFO | - [header] department information technology: 12 pages
+2026-05-29 22:47:04,346 | INFO | - [header] engineering faculty technology: 12 pages
+2026-05-29 22:47:04,346 | INFO | - [header] kakatiya university warangal: 12 pages
+2026-05-29 22:47:04,346 | INFO | Page count: 20
+2026-05-29 22:47:04,347 | INFO | Extracted text length: 26278
+2026-05-29 22:47:04,348 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-05-29 22:49:15,496 | INFO | Processing PDF: data\pdfs\Call_for_quotation_Crompton_High_speed_Fans_.pdf
+2026-05-29 22:49:15,534 | INFO | Page count: 1
+2026-05-29 22:49:15,534 | INFO | Extracted text length: 983
+2026-05-29 22:49:15,535 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_Crompton_High_speed_Fans_.json
+2026-05-29 23:07:17,244 | INFO | Processing PDF: data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-05-29 23:07:17,250 | INFO | Page count: 2
+2026-05-29 23:07:17,250 | INFO | Extracted text length: 0
+2026-05-29 23:07:17,250 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-05-29 23:07:17,250 | INFO | Saved JSON: data\pdf_text\Fresh__Renewal_Scholarship.json
+2026-05-29 23:30:45,017 | INFO | Processing PDF: data\pdfs\_VI-SEM_Notification_.pdf
+2026-05-29 23:30:45,394 | INFO | Detected document type: exam_schedule
+2026-05-29 23:30:45,395 | INFO | OCR required: False
+2026-05-29 23:30:45,395 | INFO | Page count: 1
+2026-05-29 23:30:45,395 | INFO | Extracted text length: 4176
+2026-05-29 23:30:45,398 | INFO | Saved JSON: data\pdf_text\_VI-SEM_Notification_.json
+2026-06-06 19:59:18,027 | INFO | Processing PDF: data\pdfs\btech_year1_sem1.pdf
+2026-06-06 19:59:19,051 | INFO | Detected document type: unknown
+2026-06-06 19:59:19,051 | INFO | OCR required: False
+2026-06-06 19:59:19,052 | INFO | Page count: 11
+2026-06-06 19:59:19,052 | INFO | Extracted text length: 20201
+2026-06-06 19:59:19,055 | INFO | Saved JSON: data\pdf_text\btech_year1_sem1.json
+2026-06-06 22:43:31,121 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-06-06 22:43:32,671 | INFO | Detected document type: syllabus
+2026-06-06 22:43:32,671 | INFO | OCR required: False
+2026-06-06 22:43:32,671 | INFO | Page count: 20
+2026-06-06 22:43:32,671 | INFO | Extracted text length: 28175
+2026-06-06 22:43:32,671 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-07-02 18:06:48,283 | INFO | Processing PDF: data\pdfs\Call_for_quotation__electrical_Work_.pdf
+2026-07-02 18:06:48,343 | INFO | Detected document type: quotation
+2026-07-02 18:06:48,343 | INFO | OCR required: False
+2026-07-02 18:06:48,343 | INFO | Page count: 1
+2026-07-02 18:06:48,343 | INFO | Extracted text length: 1116
+2026-07-02 18:06:48,343 | INFO | Saved JSON: data\pdf_text\Call_for_quotation__electrical_Work_.json
+2026-07-02 18:11:09,047 | INFO | Processing PDF: data\pdfs\btech_year2_csd_sem4.pdf
+2026-07-02 18:11:10,210 | INFO | Detected document type: exam_schedule
+2026-07-02 18:11:10,210 | INFO | OCR required: False
+2026-07-02 18:11:10,210 | INFO | Page count: 14
+2026-07-02 18:11:10,211 | INFO | Extracted text length: 19149
+2026-07-02 18:11:10,212 | INFO | Saved JSON: data\pdf_text\btech_year2_csd_sem4.json
+2026-07-29 19:43:05,873 | INFO | Processing PDF: data\pdfs\rules.pdf
+2026-07-29 19:43:06,910 | INFO | Detected document type: fee_circular
+2026-07-29 19:43:06,910 | INFO | OCR required: False
+2026-07-29 19:43:06,911 | INFO | Page count: 12
+2026-07-29 19:43:06,911 | INFO | Extracted text length: 23630
+2026-07-29 19:43:06,912 | INFO | Saved JSON: data\pdf_text\rules.json
+2026-08-01 16:51:57,276 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.pdf
+2026-08-01 16:51:57,603 | INFO | Detected document type: exam_schedule
+2026-08-01 16:51:57,604 | INFO | OCR required: False
+2026-08-01 16:51:57,604 | INFO | Page count: 1
+2026-08-01 16:51:57,604 | INFO | Extracted text length: 4154
+2026-08-01 16:51:57,607 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.json
+2026-08-03 00:12:07,898 | INFO | Found 110 PDFs in data\pdfs
+2026-08-03 00:12:07,898 | INFO | Processing PDF: data\pdfs\2-2_previous_year_papers_2025_.pdf
+2026-08-03 00:12:07,950 | INFO | Detected document type: unknown
+2026-08-03 00:12:07,950 | INFO | OCR required: True
+2026-08-03 00:12:07,950 | INFO | Page count: 19
+2026-08-03 00:12:07,950 | INFO | Extracted text length: 0
+2026-08-03 00:12:07,951 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2-2_previous_year_papers_2025_.pdf
+2026-08-03 00:12:07,952 | INFO | Saved JSON: data\pdf_text\2-2_previous_year_papers_2025_.json
+2026-08-03 00:12:07,952 | INFO | Processing PDF: data\pdfs\2014-16_NSS_Activities.pdf
+2026-08-03 00:12:08,002 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,002 | INFO | OCR required: True
+2026-08-03 00:12:08,003 | INFO | Page count: 40
+2026-08-03 00:12:08,003 | INFO | Extracted text length: 0
+2026-08-03 00:12:08,003 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2014-16_NSS_Activities.pdf
+2026-08-03 00:12:08,005 | INFO | Saved JSON: data\pdf_text\2014-16_NSS_Activities.json
+2026-08-03 00:12:08,005 | INFO | Processing PDF: data\pdfs\2782_Almanac.pdf
+2026-08-03 00:12:08,012 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,012 | INFO | OCR required: True
+2026-08-03 00:12:08,012 | INFO | Page count: 1
+2026-08-03 00:12:08,012 | INFO | Extracted text length: 0
+2026-08-03 00:12:08,012 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2782_Almanac.pdf
+2026-08-03 00:12:08,022 | INFO | Saved JSON: data\pdf_text\2782_Almanac.json
+2026-08-03 00:12:08,022 | INFO | Processing PDF: data\pdfs\2840_Almanac_for_BTECH_VIII_Sem_202425.pdf
+2026-08-03 00:12:08,038 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,039 | INFO | OCR required: True
+2026-08-03 00:12:08,039 | INFO | Page count: 1
+2026-08-03 00:12:08,039 | INFO | Extracted text length: 0
+2026-08-03 00:12:08,039 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2840_Almanac_for_BTECH_VIII_Sem_202425.pdf
+2026-08-03 00:12:08,039 | INFO | Saved JSON: data\pdf_text\2840_Almanac_for_BTECH_VIII_Sem_202425.json
+2026-08-03 00:12:08,040 | INFO | Processing PDF: data\pdfs\_supply_of_sessional_answer_booklets_12_pages..pdf
+2026-08-03 00:12:08,147 | INFO | Detected document type: quotation
+2026-08-03 00:12:08,147 | INFO | OCR required: False
+2026-08-03 00:12:08,147 | INFO | Page count: 1
+2026-08-03 00:12:08,147 | INFO | Extracted text length: 1106
+2026-08-03 00:12:08,156 | INFO | Saved JSON: data\pdf_text\_supply_of_sessional_answer_booklets_12_pages..json
+2026-08-03 00:12:08,156 | INFO | Processing PDF: data\pdfs\_VI-SEM_Notification_.pdf
+2026-08-03 00:12:08,572 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:08,572 | INFO | OCR required: False
+2026-08-03 00:12:08,572 | INFO | Page count: 1
+2026-08-03 00:12:08,572 | INFO | Extracted text length: 4176
+2026-08-03 00:12:08,574 | INFO | Saved JSON: data\pdf_text\_VI-SEM_Notification_.json
+2026-08-03 00:12:08,574 | INFO | Processing PDF: data\pdfs\AE_lab.pdf
+2026-08-03 00:12:08,589 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,595 | INFO | OCR required: False
+2026-08-03 00:12:08,595 | INFO | Page count: 2
+2026-08-03 00:12:08,595 | INFO | Extracted text length: 48
+2026-08-03 00:12:08,596 | INFO | Saved JSON: data\pdf_text\AE_lab.json
+2026-08-03 00:12:08,596 | INFO | Processing PDF: data\pdfs\Anti_Sexual_Harassment_Cell.pdf
+2026-08-03 00:12:08,658 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,658 | INFO | OCR required: False
+2026-08-03 00:12:08,658 | INFO | Page count: 1
+2026-08-03 00:12:08,658 | INFO | Extracted text length: 1523
+2026-08-03 00:12:08,662 | INFO | Saved JSON: data\pdf_text\Anti_Sexual_Harassment_Cell.json
+2026-08-03 00:12:08,662 | INFO | Processing PDF: data\pdfs\APAAR_ID_Creation_Guide_Final.pdf
+2026-08-03 00:12:08,962 | INFO | Detected document type: unknown
+2026-08-03 00:12:08,967 | INFO | OCR required: False
+2026-08-03 00:12:08,967 | INFO | Page count: 2
+2026-08-03 00:12:08,967 | INFO | Extracted text length: 1961
+2026-08-03 00:12:08,968 | INFO | Saved JSON: data\pdf_text\APAAR_ID_Creation_Guide_Final.json
+2026-08-03 00:12:08,968 | INFO | Processing PDF: data\pdfs\AWARDLIST.pdf
+2026-08-03 00:12:09,031 | INFO | Detected document type: unknown
+2026-08-03 00:12:09,031 | INFO | OCR required: False
+2026-08-03 00:12:09,031 | INFO | Page count: 4
+2026-08-03 00:12:09,031 | INFO | Extracted text length: 1286
+2026-08-03 00:12:09,031 | INFO | Saved JSON: data\pdf_text\AWARDLIST.json
+2026-08-03 00:12:09,031 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.pdf
+2026-08-03 00:12:09,333 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:09,333 | INFO | OCR required: False
+2026-08-03 00:12:09,333 | INFO | Page count: 1
+2026-08-03 00:12:09,333 | INFO | Extracted text length: 4154
+2026-08-03 00:12:09,333 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.json
+2026-08-03 00:12:09,333 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_I-I_Notifi_23-06-2025_1_.pdf
+2026-08-03 00:12:09,717 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:09,717 | INFO | OCR required: False
+2026-08-03 00:12:09,717 | INFO | Page count: 1
+2026-08-03 00:12:09,717 | INFO | Extracted text length: 4031
+2026-08-03 00:12:09,717 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_I-I_Notifi_23-06-2025_1_.json
+2026-08-03 00:12:09,717 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_I-I_Notifi_Supply_.pdf
+2026-08-03 00:12:10,095 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:10,095 | INFO | OCR required: False
+2026-08-03 00:12:10,095 | INFO | Page count: 1
+2026-08-03 00:12:10,095 | INFO | Extracted text length: 4019
+2026-08-03 00:12:10,095 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_I-I_Notifi_Supply_.json
+2026-08-03 00:12:10,095 | INFO | Processing PDF: data\pdfs\B.Tech_CBCS_I-I_SEM_.pdf
+2026-08-03 00:12:10,256 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:10,260 | INFO | OCR required: False
+2026-08-03 00:12:10,260 | INFO | Page count: 1
+2026-08-03 00:12:10,260 | INFO | Extracted text length: 2190
+2026-08-03 00:12:10,261 | INFO | Saved JSON: data\pdf_text\B.Tech_CBCS_I-I_SEM_.json
+2026-08-03 00:12:10,262 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_II_SEM_Notification_.pdf
+2026-08-03 00:12:10,660 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:10,660 | INFO | OCR required: False
+2026-08-03 00:12:10,660 | INFO | Page count: 1
+2026-08-03 00:12:10,660 | INFO | Extracted text length: 4182
+2026-08-03 00:12:10,660 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_II_SEM_Notification_.json
+2026-08-03 00:12:10,662 | INFO | Processing PDF: data\pdfs\B.TECH_VII-Sem__CBCS__Time_Table_supply.pdf
+2026-08-03 00:12:11,022 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:11,022 | INFO | OCR required: False
+2026-08-03 00:12:11,022 | INFO | Page count: 1
+2026-08-03 00:12:11,022 | INFO | Extracted text length: 6656
+2026-08-03 00:12:11,022 | INFO | Saved JSON: data\pdf_text\B.TECH_VII-Sem__CBCS__Time_Table_supply.json
+2026-08-03 00:12:11,022 | INFO | Processing PDF: data\pdfs\B.TECH_VIII-Sem_Time_Table_supply.pdf
+2026-08-03 00:12:11,346 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:11,346 | INFO | OCR required: False
+2026-08-03 00:12:11,347 | INFO | Page count: 1
+2026-08-03 00:12:11,347 | INFO | Extracted text length: 5479
+2026-08-03 00:12:11,347 | INFO | Saved JSON: data\pdf_text\B.TECH_VIII-Sem_Time_Table_supply.json
+2026-08-03 00:12:11,347 | INFO | Processing PDF: data\pdfs\Brouchure_of_TSC-2025_compressed.pdf
+2026-08-03 00:12:11,375 | INFO | Detected document type: unknown
+2026-08-03 00:12:11,375 | INFO | OCR required: True
+2026-08-03 00:12:11,376 | INFO | Page count: 6
+2026-08-03 00:12:11,376 | INFO | Extracted text length: 0
+2026-08-03 00:12:11,376 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Brouchure_of_TSC-2025_compressed.pdf
+2026-08-03 00:12:11,376 | INFO | Saved JSON: data\pdf_text\Brouchure_of_TSC-2025_compressed.json
+2026-08-03 00:12:11,376 | INFO | Processing PDF: data\pdfs\btech_year1_sem1.pdf
+2026-08-03 00:12:12,301 | INFO | Detected document type: unknown
+2026-08-03 00:12:12,301 | INFO | OCR required: False
+2026-08-03 00:12:12,301 | INFO | Page count: 11
+2026-08-03 00:12:12,302 | INFO | Extracted text length: 20201
+2026-08-03 00:12:12,303 | INFO | Saved JSON: data\pdf_text\btech_year1_sem1.json
+2026-08-03 00:12:12,303 | INFO | Processing PDF: data\pdfs\btech_year1_sem2.pdf
+2026-08-03 00:12:13,121 | INFO | Detected document type: syllabus
+2026-08-03 00:12:13,121 | INFO | OCR required: False
+2026-08-03 00:12:13,122 | INFO | Page count: 11
+2026-08-03 00:12:13,122 | INFO | Extracted text length: 18134
+2026-08-03 00:12:13,123 | INFO | Saved JSON: data\pdf_text\btech_year1_sem2.json
+2026-08-03 00:12:13,124 | INFO | Processing PDF: data\pdfs\btech_year2_civil_sem3.pdf
+2026-08-03 00:12:14,079 | INFO | Detected document type: unknown
+2026-08-03 00:12:14,079 | INFO | OCR required: False
+2026-08-03 00:12:14,079 | INFO | Page count: 16
+2026-08-03 00:12:14,079 | INFO | Extracted text length: 25377
+2026-08-03 00:12:14,084 | INFO | Saved JSON: data\pdf_text\btech_year2_civil_sem3.json
+2026-08-03 00:12:14,084 | INFO | Processing PDF: data\pdfs\btech_year2_civil_sem4.pdf
+2026-08-03 00:12:15,036 | INFO | Detected document type: syllabus
+2026-08-03 00:12:15,036 | INFO | OCR required: False
+2026-08-03 00:12:15,036 | INFO | Page count: 17
+2026-08-03 00:12:15,041 | INFO | Extracted text length: 24901
+2026-08-03 00:12:15,041 | INFO | Saved JSON: data\pdf_text\btech_year2_civil_sem4.json
+2026-08-03 00:12:15,041 | INFO | Processing PDF: data\pdfs\btech_year2_csd_sem3.pdf
+2026-08-03 00:12:16,346 | INFO | Detected document type: syllabus
+2026-08-03 00:12:16,347 | INFO | OCR required: False
+2026-08-03 00:12:16,347 | INFO | Page count: 16
+2026-08-03 00:12:16,347 | INFO | Extracted text length: 22964
+2026-08-03 00:12:16,349 | INFO | Saved JSON: data\pdf_text\btech_year2_csd_sem3.json
+2026-08-03 00:12:16,349 | INFO | Processing PDF: data\pdfs\btech_year2_csd_sem4.pdf
+2026-08-03 00:12:17,474 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:17,474 | INFO | OCR required: False
+2026-08-03 00:12:17,478 | INFO | Page count: 14
+2026-08-03 00:12:17,478 | INFO | Extracted text length: 19149
+2026-08-03 00:12:17,479 | INFO | Saved JSON: data\pdf_text\btech_year2_csd_sem4.json
+2026-08-03 00:12:17,479 | INFO | Processing PDF: data\pdfs\btech_year2_cse_sem3.pdf
+2026-08-03 00:12:18,354 | INFO | Detected document type: syllabus
+2026-08-03 00:12:18,354 | INFO | OCR required: False
+2026-08-03 00:12:18,354 | INFO | Page count: 14
+2026-08-03 00:12:18,354 | INFO | Extracted text length: 22440
+2026-08-03 00:12:18,354 | INFO | Saved JSON: data\pdf_text\btech_year2_cse_sem3.json
+2026-08-03 00:12:18,354 | INFO | Processing PDF: data\pdfs\btech_year2_cse_sem4.pdf
+2026-08-03 00:12:19,237 | INFO | Detected document type: syllabus
+2026-08-03 00:12:19,237 | INFO | OCR required: False
+2026-08-03 00:12:19,237 | INFO | Page count: 16
+2026-08-03 00:12:19,237 | INFO | Extracted text length: 21391
+2026-08-03 00:12:19,237 | INFO | Saved JSON: data\pdf_text\btech_year2_cse_sem4.json
+2026-08-03 00:12:19,237 | INFO | Processing PDF: data\pdfs\btech_year2_ece_sem3.pdf
+2026-08-03 00:12:20,162 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:20,162 | INFO | OCR required: False
+2026-08-03 00:12:20,162 | INFO | Page count: 12
+2026-08-03 00:12:20,162 | INFO | Extracted text length: 20679
+2026-08-03 00:12:20,165 | INFO | Saved JSON: data\pdf_text\btech_year2_ece_sem3.json
+2026-08-03 00:12:20,165 | INFO | Processing PDF: data\pdfs\btech_year2_ece_sem4.pdf
+2026-08-03 00:12:21,169 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:21,169 | INFO | OCR required: False
+2026-08-03 00:12:21,169 | INFO | Page count: 17
+2026-08-03 00:12:21,177 | INFO | Extracted text length: 24348
+2026-08-03 00:12:21,178 | INFO | Saved JSON: data\pdf_text\btech_year2_ece_sem4.json
+2026-08-03 00:12:21,178 | INFO | Processing PDF: data\pdfs\btech_year2_eee_sem3.pdf
+2026-08-03 00:12:22,181 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:22,181 | INFO | OCR required: False
+2026-08-03 00:12:22,181 | INFO | Page count: 15
+2026-08-03 00:12:22,187 | INFO | Extracted text length: 20719
+2026-08-03 00:12:22,188 | INFO | Saved JSON: data\pdf_text\btech_year2_eee_sem3.json
+2026-08-03 00:12:22,188 | INFO | Processing PDF: data\pdfs\btech_year2_eee_sem4.pdf
+2026-08-03 00:12:23,085 | INFO | Detected document type: unknown
+2026-08-03 00:12:23,085 | INFO | OCR required: False
+2026-08-03 00:12:23,085 | INFO | Page count: 17
+2026-08-03 00:12:23,085 | INFO | Extracted text length: 19257
+2026-08-03 00:12:23,091 | INFO | Saved JSON: data\pdf_text\btech_year2_eee_sem4.json
+2026-08-03 00:12:23,091 | INFO | Processing PDF: data\pdfs\btech_year2_mech_sem3.pdf
+2026-08-03 00:12:24,278 | INFO | Detected document type: unknown
+2026-08-03 00:12:24,278 | INFO | OCR required: False
+2026-08-03 00:12:24,278 | INFO | Page count: 18
+2026-08-03 00:12:24,284 | INFO | Extracted text length: 27406
+2026-08-03 00:12:24,284 | INFO | Saved JSON: data\pdf_text\btech_year2_mech_sem3.json
+2026-08-03 00:12:24,284 | INFO | Processing PDF: data\pdfs\btech_year2_mech_sem4.pdf
+2026-08-03 00:12:25,468 | INFO | Detected document type: unknown
+2026-08-03 00:12:25,468 | INFO | OCR required: False
+2026-08-03 00:12:25,468 | INFO | Page count: 18
+2026-08-03 00:12:25,468 | INFO | Extracted text length: 28564
+2026-08-03 00:12:25,468 | INFO | Saved JSON: data\pdf_text\btech_year2_mech_sem4.json
+2026-08-03 00:12:25,468 | INFO | Processing PDF: data\pdfs\btech_year3_civil_sem5.pdf
+2026-08-03 00:12:27,413 | INFO | Detected document type: academic_regulations
+2026-08-03 00:12:27,416 | INFO | OCR required: False
+2026-08-03 00:12:27,416 | INFO | Page count: 15
+2026-08-03 00:12:27,416 | INFO | Extracted text length: 30181
+2026-08-03 00:12:27,418 | INFO | Saved JSON: data\pdf_text\btech_year3_civil_sem5.json
+2026-08-03 00:12:27,418 | INFO | Processing PDF: data\pdfs\btech_year3_civil_sem6.pdf
+2026-08-03 00:12:30,228 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:30,228 | INFO | OCR required: False
+2026-08-03 00:12:30,228 | INFO | Page count: 24
+2026-08-03 00:12:30,228 | INFO | Extracted text length: 43564
+2026-08-03 00:12:30,232 | INFO | Saved JSON: data\pdf_text\btech_year3_civil_sem6.json
+2026-08-03 00:12:30,232 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem5.pdf
+2026-08-03 00:12:32,509 | INFO | Detected document type: unknown
+2026-08-03 00:12:32,509 | INFO | OCR required: False
+2026-08-03 00:12:32,509 | INFO | Page count: 22
+2026-08-03 00:12:32,509 | INFO | Extracted text length: 33760
+2026-08-03 00:12:32,512 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem5.json
+2026-08-03 00:12:32,512 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-08-03 00:12:34,129 | INFO | Detected document type: syllabus
+2026-08-03 00:12:34,131 | INFO | OCR required: False
+2026-08-03 00:12:34,131 | INFO | Page count: 20
+2026-08-03 00:12:34,131 | INFO | Extracted text length: 28175
+2026-08-03 00:12:34,131 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-08-03 00:12:34,131 | INFO | Processing PDF: data\pdfs\btech_year3_cse_sem5.pdf
+2026-08-03 00:12:35,372 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:35,372 | INFO | OCR required: False
+2026-08-03 00:12:35,372 | INFO | Page count: 19
+2026-08-03 00:12:35,372 | INFO | Extracted text length: 31068
+2026-08-03 00:12:35,380 | INFO | Saved JSON: data\pdf_text\btech_year3_cse_sem5.json
+2026-08-03 00:12:35,380 | INFO | Processing PDF: data\pdfs\btech_year3_cse_sem6.pdf
+2026-08-03 00:12:36,550 | INFO | Detected document type: unknown
+2026-08-03 00:12:36,550 | INFO | OCR required: False
+2026-08-03 00:12:36,550 | INFO | Page count: 21
+2026-08-03 00:12:36,552 | INFO | Extracted text length: 28463
+2026-08-03 00:12:36,554 | INFO | Saved JSON: data\pdf_text\btech_year3_cse_sem6.json
+2026-08-03 00:12:36,554 | INFO | Processing PDF: data\pdfs\btech_year3_ece_sem5.pdf
+2026-08-03 00:12:37,586 | INFO | Detected document type: unknown
+2026-08-03 00:12:37,586 | INFO | OCR required: False
+2026-08-03 00:12:37,586 | INFO | Page count: 13
+2026-08-03 00:12:37,586 | INFO | Extracted text length: 25575
+2026-08-03 00:12:37,586 | INFO | Saved JSON: data\pdf_text\btech_year3_ece_sem5.json
+2026-08-03 00:12:37,586 | INFO | Processing PDF: data\pdfs\btech_year3_ece_sem6.pdf
+2026-08-03 00:12:38,947 | INFO | Detected document type: circular
+2026-08-03 00:12:38,947 | INFO | OCR required: False
+2026-08-03 00:12:38,947 | INFO | Page count: 20
+2026-08-03 00:12:38,947 | INFO | Extracted text length: 38266
+2026-08-03 00:12:38,957 | INFO | Saved JSON: data\pdf_text\btech_year3_ece_sem6.json
+2026-08-03 00:12:38,957 | INFO | Processing PDF: data\pdfs\btech_year3_eee_sem5.pdf
+2026-08-03 00:12:40,102 | INFO | Detected document type: syllabus
+2026-08-03 00:12:40,102 | INFO | OCR required: False
+2026-08-03 00:12:40,102 | INFO | Page count: 17
+2026-08-03 00:12:40,102 | INFO | Extracted text length: 28063
+2026-08-03 00:12:40,102 | INFO | Saved JSON: data\pdf_text\btech_year3_eee_sem5.json
+2026-08-03 00:12:40,102 | INFO | Processing PDF: data\pdfs\btech_year3_eee_sem6.pdf
+2026-08-03 00:12:41,272 | INFO | Detected document type: unknown
+2026-08-03 00:12:41,272 | INFO | OCR required: False
+2026-08-03 00:12:41,273 | INFO | Page count: 19
+2026-08-03 00:12:41,273 | INFO | Extracted text length: 29683
+2026-08-03 00:12:41,273 | INFO | Saved JSON: data\pdf_text\btech_year3_eee_sem6.json
+2026-08-03 00:12:41,273 | INFO | Processing PDF: data\pdfs\btech_year3_mech_sem5.pdf
+2026-08-03 00:12:42,851 | INFO | Detected document type: academic_regulations
+2026-08-03 00:12:42,851 | INFO | OCR required: False
+2026-08-03 00:12:42,851 | INFO | Page count: 19
+2026-08-03 00:12:42,851 | INFO | Extracted text length: 35347
+2026-08-03 00:12:42,857 | INFO | Saved JSON: data\pdf_text\btech_year3_mech_sem5.json
+2026-08-03 00:12:42,857 | INFO | Processing PDF: data\pdfs\btech_year3_mech_sem6.pdf
+2026-08-03 00:12:44,500 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:44,500 | INFO | OCR required: False
+2026-08-03 00:12:44,501 | INFO | Page count: 19
+2026-08-03 00:12:44,501 | INFO | Extracted text length: 36234
+2026-08-03 00:12:44,501 | INFO | Saved JSON: data\pdf_text\btech_year3_mech_sem6.json
+2026-08-03 00:12:44,501 | INFO | Processing PDF: data\pdfs\btech_year4_civil_sem7.pdf
+2026-08-03 00:12:46,389 | INFO | Detected document type: tender
+2026-08-03 00:12:46,390 | INFO | OCR required: False
+2026-08-03 00:12:46,390 | INFO | Page count: 20
+2026-08-03 00:12:46,390 | INFO | Extracted text length: 47802
+2026-08-03 00:12:46,390 | INFO | Saved JSON: data\pdf_text\btech_year4_civil_sem7.json
+2026-08-03 00:12:46,390 | INFO | Processing PDF: data\pdfs\btech_year4_civil_sem8.pdf
+2026-08-03 00:12:47,751 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:47,754 | INFO | OCR required: False
+2026-08-03 00:12:47,755 | INFO | Page count: 15
+2026-08-03 00:12:47,756 | INFO | Extracted text length: 32747
+2026-08-03 00:12:47,757 | INFO | Saved JSON: data\pdf_text\btech_year4_civil_sem8.json
+2026-08-03 00:12:47,757 | INFO | Processing PDF: data\pdfs\btech_year4_csd_sem7.pdf
+2026-08-03 00:12:49,045 | INFO | Detected document type: unknown
+2026-08-03 00:12:49,045 | INFO | OCR required: False
+2026-08-03 00:12:49,045 | INFO | Page count: 18
+2026-08-03 00:12:49,048 | INFO | Extracted text length: 32243
+2026-08-03 00:12:49,048 | INFO | Saved JSON: data\pdf_text\btech_year4_csd_sem7.json
+2026-08-03 00:12:49,048 | INFO | Processing PDF: data\pdfs\btech_year4_csd_sem8.pdf
+2026-08-03 00:12:50,217 | INFO | Detected document type: syllabus
+2026-08-03 00:12:50,217 | INFO | OCR required: False
+2026-08-03 00:12:50,217 | INFO | Page count: 17
+2026-08-03 00:12:50,217 | INFO | Extracted text length: 24997
+2026-08-03 00:12:50,217 | INFO | Saved JSON: data\pdf_text\btech_year4_csd_sem8.json
+2026-08-03 00:12:50,217 | INFO | Processing PDF: data\pdfs\btech_year4_cse_sem7.pdf
+2026-08-03 00:12:51,482 | INFO | Detected document type: unknown
+2026-08-03 00:12:51,482 | INFO | OCR required: False
+2026-08-03 00:12:51,482 | INFO | Page count: 18
+2026-08-03 00:12:51,482 | INFO | Extracted text length: 32243
+2026-08-03 00:12:51,488 | INFO | Saved JSON: data\pdf_text\btech_year4_cse_sem7.json
+2026-08-03 00:12:51,488 | INFO | Processing PDF: data\pdfs\btech_year4_cse_sem8.pdf
+2026-08-03 00:12:52,672 | INFO | Detected document type: syllabus
+2026-08-03 00:12:52,672 | INFO | OCR required: False
+2026-08-03 00:12:52,672 | INFO | Page count: 17
+2026-08-03 00:12:52,672 | INFO | Extracted text length: 24997
+2026-08-03 00:12:52,677 | INFO | Saved JSON: data\pdf_text\btech_year4_cse_sem8.json
+2026-08-03 00:12:52,677 | INFO | Processing PDF: data\pdfs\btech_year4_ece_sem7.pdf
+2026-08-03 00:12:53,945 | INFO | Detected document type: syllabus
+2026-08-03 00:12:53,945 | INFO | OCR required: False
+2026-08-03 00:12:53,945 | INFO | Page count: 15
+2026-08-03 00:12:53,945 | INFO | Extracted text length: 30744
+2026-08-03 00:12:53,954 | INFO | Saved JSON: data\pdf_text\btech_year4_ece_sem7.json
+2026-08-03 00:12:53,954 | INFO | Processing PDF: data\pdfs\btech_year4_ece_sem8.pdf
+2026-08-03 00:12:55,584 | INFO | Detected document type: syllabus
+2026-08-03 00:12:55,584 | INFO | OCR required: False
+2026-08-03 00:12:55,584 | INFO | Page count: 16
+2026-08-03 00:12:55,584 | INFO | Extracted text length: 27995
+2026-08-03 00:12:55,584 | INFO | Saved JSON: data\pdf_text\btech_year4_ece_sem8.json
+2026-08-03 00:12:55,584 | INFO | Processing PDF: data\pdfs\btech_year4_eee_sem7.pdf
+2026-08-03 00:12:57,059 | INFO | Detected document type: exam_schedule
+2026-08-03 00:12:57,059 | INFO | OCR required: False
+2026-08-03 00:12:57,062 | INFO | Page count: 22
+2026-08-03 00:12:57,062 | INFO | Extracted text length: 40000
+2026-08-03 00:12:57,062 | INFO | Saved JSON: data\pdf_text\btech_year4_eee_sem7.json
+2026-08-03 00:12:57,062 | INFO | Processing PDF: data\pdfs\btech_year4_eee_sem8.pdf
+2026-08-03 00:12:58,635 | INFO | Detected document type: syllabus
+2026-08-03 00:12:58,635 | INFO | OCR required: False
+2026-08-03 00:12:58,635 | INFO | Page count: 16
+2026-08-03 00:12:58,635 | INFO | Extracted text length: 27995
+2026-08-03 00:12:58,635 | INFO | Saved JSON: data\pdf_text\btech_year4_eee_sem8.json
+2026-08-03 00:12:58,635 | INFO | Processing PDF: data\pdfs\btech_year4_mech_sem7.pdf
+2026-08-03 00:13:00,501 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:00,501 | INFO | OCR required: False
+2026-08-03 00:13:00,501 | INFO | Page count: 27
+2026-08-03 00:13:00,501 | INFO | Extracted text length: 43673
+2026-08-03 00:13:00,501 | INFO | Saved JSON: data\pdf_text\btech_year4_mech_sem7.json
+2026-08-03 00:13:00,501 | INFO | Processing PDF: data\pdfs\btech_year4_mech_sem8.pdf
+2026-08-03 00:13:01,875 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:01,875 | INFO | OCR required: False
+2026-08-03 00:13:01,876 | INFO | Page count: 19
+2026-08-03 00:13:01,876 | INFO | Extracted text length: 30848
+2026-08-03 00:13:01,877 | INFO | Saved JSON: data\pdf_text\btech_year4_mech_sem8.json
+2026-08-03 00:13:01,877 | INFO | Processing PDF: data\pdfs\Call_for_Quotation.pdf
+2026-08-03 00:13:01,891 | INFO | Detected document type: unknown
+2026-08-03 00:13:01,891 | INFO | OCR required: True
+2026-08-03 00:13:01,891 | INFO | Page count: 1
+2026-08-03 00:13:01,891 | INFO | Extracted text length: 0
+2026-08-03 00:13:01,891 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Call_for_Quotation.pdf
+2026-08-03 00:13:01,892 | INFO | Saved JSON: data\pdf_text\Call_for_Quotation.json
+2026-08-03 00:13:01,893 | INFO | Processing PDF: data\pdfs\Call_for_quotation__electrical_Work_.pdf
+2026-08-03 00:13:01,945 | INFO | Detected document type: quotation
+2026-08-03 00:13:01,945 | INFO | OCR required: False
+2026-08-03 00:13:01,945 | INFO | Page count: 1
+2026-08-03 00:13:01,945 | INFO | Extracted text length: 1116
+2026-08-03 00:13:01,945 | INFO | Saved JSON: data\pdf_text\Call_for_quotation__electrical_Work_.json
+2026-08-03 00:13:01,945 | INFO | Processing PDF: data\pdfs\Call_for_quotation_Crompton_High_speed_Fans_.pdf
+2026-08-03 00:13:01,993 | INFO | Detected document type: quotation
+2026-08-03 00:13:01,993 | INFO | OCR required: False
+2026-08-03 00:13:01,993 | INFO | Page count: 1
+2026-08-03 00:13:01,993 | INFO | Extracted text length: 983
+2026-08-03 00:13:01,995 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_Crompton_High_speed_Fans_.json
+2026-08-03 00:13:01,995 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_Electrical_Items.pdf
+2026-08-03 00:13:02,050 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,050 | INFO | OCR required: False
+2026-08-03 00:13:02,050 | INFO | Page count: 1
+2026-08-03 00:13:02,050 | INFO | Extracted text length: 1222
+2026-08-03 00:13:02,050 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_Electrical_Items.json
+2026-08-03 00:13:02,050 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_servicing_of_ADCS_lab.pdf
+2026-08-03 00:13:02,112 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,112 | INFO | OCR required: False
+2026-08-03 00:13:02,112 | INFO | Page count: 1
+2026-08-03 00:13:02,112 | INFO | Extracted text length: 1555
+2026-08-03 00:13:02,112 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_servicing_of_ADCS_lab.json
+2026-08-03 00:13:02,112 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_answer_booklets.pdf
+2026-08-03 00:13:02,170 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,170 | INFO | OCR required: False
+2026-08-03 00:13:02,170 | INFO | Page count: 1
+2026-08-03 00:13:02,170 | INFO | Extracted text length: 1114
+2026-08-03 00:13:02,170 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_answer_booklets.json
+2026-08-03 00:13:02,170 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_CCTV_setup_items.pdf
+2026-08-03 00:13:02,232 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,232 | INFO | OCR required: False
+2026-08-03 00:13:02,232 | INFO | Page count: 1
+2026-08-03 00:13:02,232 | INFO | Extracted text length: 1081
+2026-08-03 00:13:02,232 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_CCTV_setup_items.json
+2026-08-03 00:13:02,232 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_chemical_for_chemistry_Lab.pdf
+2026-08-03 00:13:02,362 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,362 | INFO | OCR required: False
+2026-08-03 00:13:02,366 | INFO | Page count: 1
+2026-08-03 00:13:02,366 | INFO | Extracted text length: 1548
+2026-08-03 00:13:02,366 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_chemical_for_chemistry_Lab.json
+2026-08-03 00:13:02,367 | INFO | Processing PDF: data\pdfs\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.pdf
+2026-08-03 00:13:02,380 | INFO | Detected document type: unknown
+2026-08-03 00:13:02,380 | INFO | OCR required: True
+2026-08-03 00:13:02,380 | INFO | Page count: 1
+2026-08-03 00:13:02,380 | INFO | Extracted text length: 0
+2026-08-03 00:13:02,380 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.pdf
+2026-08-03 00:13:02,380 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.json
+2026-08-03 00:13:02,380 | INFO | Processing PDF: data\pdfs\Call_For_Quotation_VaccumCleaner.pdf
+2026-08-03 00:13:02,421 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,421 | INFO | OCR required: False
+2026-08-03 00:13:02,421 | INFO | Page count: 1
+2026-08-03 00:13:02,421 | INFO | Extracted text length: 784
+2026-08-03 00:13:02,421 | INFO | Saved JSON: data\pdf_text\Call_For_Quotation_VaccumCleaner.json
+2026-08-03 00:13:02,421 | INFO | Processing PDF: data\pdfs\Call_for_quotations_books.pdf
+2026-08-03 00:13:02,562 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,564 | INFO | OCR required: False
+2026-08-03 00:13:02,565 | INFO | Page count: 1
+2026-08-03 00:13:02,565 | INFO | Extracted text length: 1180
+2026-08-03 00:13:02,565 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_books.json
+2026-08-03 00:13:02,565 | INFO | Processing PDF: data\pdfs\Call_for_quotations_cards.pdf
+2026-08-03 00:13:02,619 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,619 | INFO | OCR required: False
+2026-08-03 00:13:02,619 | INFO | Page count: 1
+2026-08-03 00:13:02,620 | INFO | Extracted text length: 1006
+2026-08-03 00:13:02,621 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_cards.json
+2026-08-03 00:13:02,621 | INFO | Processing PDF: data\pdfs\Call_for_quotations_Electrical_items.pdf
+2026-08-03 00:13:02,720 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,720 | INFO | OCR required: False
+2026-08-03 00:13:02,720 | INFO | Page count: 1
+2026-08-03 00:13:02,720 | INFO | Extracted text length: 995
+2026-08-03 00:13:02,727 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_Electrical_items.json
+2026-08-03 00:13:02,727 | INFO | Processing PDF: data\pdfs\Call_for_quotations_Hp.pdf
+2026-08-03 00:13:02,785 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,785 | INFO | OCR required: False
+2026-08-03 00:13:02,785 | INFO | Page count: 1
+2026-08-03 00:13:02,785 | INFO | Extracted text length: 1069
+2026-08-03 00:13:02,785 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_Hp.json
+2026-08-03 00:13:02,785 | INFO | Processing PDF: data\pdfs\Call_for_quotations_pump.pdf
+2026-08-03 00:13:02,848 | INFO | Detected document type: quotation
+2026-08-03 00:13:02,848 | INFO | OCR required: False
+2026-08-03 00:13:02,848 | INFO | Page count: 1
+2026-08-03 00:13:02,848 | INFO | Extracted text length: 1397
+2026-08-03 00:13:02,848 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_pump.json
+2026-08-03 00:13:02,848 | INFO | Processing PDF: data\pdfs\CSD_3-2_total.pdf
+2026-08-03 00:13:02,871 | INFO | Detected document type: unknown
+2026-08-03 00:13:02,871 | INFO | OCR required: True
+2026-08-03 00:13:02,871 | INFO | Page count: 5
+2026-08-03 00:13:02,871 | INFO | Extracted text length: 0
+2026-08-03 00:13:02,871 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\CSD_3-2_total.pdf
+2026-08-03 00:13:02,874 | INFO | Saved JSON: data\pdf_text\CSD_3-2_total.json
+2026-08-03 00:13:02,874 | INFO | Processing PDF: data\pdfs\CSE_IT_3-2_total.pdf
+2026-08-03 00:13:02,925 | INFO | Detected document type: unknown
+2026-08-03 00:13:02,925 | INFO | OCR required: True
+2026-08-03 00:13:02,925 | INFO | Page count: 5
+2026-08-03 00:13:02,925 | INFO | Extracted text length: 0
+2026-08-03 00:13:02,926 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\CSE_IT_3-2_total.pdf
+2026-08-03 00:13:02,927 | INFO | Saved JSON: data\pdf_text\CSE_IT_3-2_total.json
+2026-08-03 00:13:02,927 | INFO | Processing PDF: data\pdfs\CSE_PO.pdf
+2026-08-03 00:13:05,264 | INFO | Detected document type: unknown
+2026-08-03 00:13:05,264 | INFO | OCR required: False
+2026-08-03 00:13:05,264 | INFO | Page count: 7
+2026-08-03 00:13:05,264 | INFO | Extracted text length: 31259
+2026-08-03 00:13:05,274 | INFO | Saved JSON: data\pdf_text\CSE_PO.json
+2026-08-03 00:13:05,274 | INFO | Processing PDF: data\pdfs\CSE_TIMETABLE.pdf
+2026-08-03 00:13:05,766 | INFO | Detected document type: timetable
+2026-08-03 00:13:05,766 | INFO | OCR required: False
+2026-08-03 00:13:05,766 | INFO | Page count: 4
+2026-08-03 00:13:05,766 | INFO | Extracted text length: 5841
+2026-08-03 00:13:05,766 | INFO | Saved JSON: data\pdf_text\CSE_TIMETABLE.json
+2026-08-03 00:13:05,766 | INFO | Processing PDF: data\pdfs\Culturaleventslistexternal2.pdf
+2026-08-03 00:13:06,215 | INFO | Detected document type: unknown
+2026-08-03 00:13:06,215 | INFO | OCR required: False
+2026-08-03 00:13:06,215 | INFO | Page count: 6
+2026-08-03 00:13:06,215 | INFO | Extracted text length: 3629
+2026-08-03 00:13:06,215 | INFO | Saved JSON: data\pdf_text\Culturaleventslistexternal2.json
+2026-08-03 00:13:06,215 | INFO | Processing PDF: data\pdfs\Exam.pdf
+2026-08-03 00:13:06,578 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:06,578 | INFO | OCR required: False
+2026-08-03 00:13:06,578 | INFO | Page count: 1
+2026-08-03 00:13:06,578 | INFO | Extracted text length: 1285
+2026-08-03 00:13:06,585 | INFO | Saved JSON: data\pdf_text\Exam.json
+2026-08-03 00:13:06,585 | INFO | Processing PDF: data\pdfs\EXAM_POSTPONE.pdf
+2026-08-03 00:13:06,617 | INFO | Detected document type: general_announcement
+2026-08-03 00:13:06,617 | INFO | OCR required: False
+2026-08-03 00:13:06,617 | INFO | Page count: 1
+2026-08-03 00:13:06,617 | INFO | Extracted text length: 637
+2026-08-03 00:13:06,617 | INFO | Saved JSON: data\pdf_text\EXAM_POSTPONE.json
+2026-08-03 00:13:06,617 | INFO | Processing PDF: data\pdfs\Excel_Edtech.pdf
+2026-08-03 00:13:06,712 | INFO | Detected document type: unknown
+2026-08-03 00:13:06,712 | INFO | OCR required: False
+2026-08-03 00:13:06,712 | INFO | Page count: 1
+2026-08-03 00:13:06,712 | INFO | Extracted text length: 2898
+2026-08-03 00:13:06,712 | INFO | Saved JSON: data\pdf_text\Excel_Edtech.json
+2026-08-03 00:13:06,712 | INFO | Processing PDF: data\pdfs\FDP_20NITW_20Brochure1_20june.pdf
+2026-08-03 00:13:07,201 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:07,202 | INFO | OCR required: False
+2026-08-03 00:13:07,202 | INFO | Page count: 2
+2026-08-03 00:13:07,202 | INFO | Extracted text length: 7584
+2026-08-03 00:13:07,203 | INFO | Saved JSON: data\pdf_text\FDP_20NITW_20Brochure1_20june.json
+2026-08-03 00:13:07,203 | INFO | Processing PDF: data\pdfs\FDP_20schedule.pdf
+2026-08-03 00:13:07,433 | INFO | Detected document type: unknown
+2026-08-03 00:13:07,433 | INFO | OCR required: False
+2026-08-03 00:13:07,433 | INFO | Page count: 1
+2026-08-03 00:13:07,433 | INFO | Extracted text length: 6771
+2026-08-03 00:13:07,433 | INFO | Saved JSON: data\pdf_text\FDP_20schedule.json
+2026-08-03 00:13:07,433 | INFO | Processing PDF: data\pdfs\FDP_NITW_Brochure1_june.pdf
+2026-08-03 00:13:07,928 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:07,928 | INFO | OCR required: False
+2026-08-03 00:13:07,928 | INFO | Page count: 2
+2026-08-03 00:13:07,928 | INFO | Extracted text length: 7584
+2026-08-03 00:13:07,928 | INFO | Saved JSON: data\pdf_text\FDP_NITW_Brochure1_june.json
+2026-08-03 00:13:07,933 | INFO | Processing PDF: data\pdfs\Fee_Circular.pdf
+2026-08-03 00:13:07,948 | INFO | Detected document type: unknown
+2026-08-03 00:13:07,948 | INFO | OCR required: True
+2026-08-03 00:13:07,949 | INFO | Page count: 1
+2026-08-03 00:13:07,949 | INFO | Extracted text length: 0
+2026-08-03 00:13:07,949 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Fee_Circular.pdf
+2026-08-03 00:13:07,949 | INFO | Saved JSON: data\pdf_text\Fee_Circular.json
+2026-08-03 00:13:07,949 | INFO | Processing PDF: data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-08-03 00:13:07,965 | INFO | Detected document type: unknown
+2026-08-03 00:13:07,965 | INFO | OCR required: True
+2026-08-03 00:13:07,965 | INFO | Page count: 2
+2026-08-03 00:13:07,965 | INFO | Extracted text length: 0
+2026-08-03 00:13:07,965 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-08-03 00:13:07,965 | INFO | Saved JSON: data\pdf_text\Fresh__Renewal_Scholarship.json
+2026-08-03 00:13:07,965 | INFO | Processing PDF: data\pdfs\Gold_Medal_List_July_2025_.pdf
+2026-08-03 00:13:08,118 | INFO | Detected document type: unknown
+2026-08-03 00:13:08,118 | INFO | OCR required: False
+2026-08-03 00:13:08,118 | INFO | Page count: 1
+2026-08-03 00:13:08,118 | INFO | Extracted text length: 3839
+2026-08-03 00:13:08,118 | INFO | Saved JSON: data\pdf_text\Gold_Medal_List_July_2025_.json
+2026-08-03 00:13:08,118 | INFO | Processing PDF: data\pdfs\Ku_MOU.pdf
+2026-08-03 00:13:08,166 | INFO | Detected document type: placement_notification
+2026-08-03 00:13:08,167 | INFO | OCR required: False
+2026-08-03 00:13:08,167 | INFO | Page count: 1
+2026-08-03 00:13:08,167 | INFO | Extracted text length: 934
+2026-08-03 00:13:08,167 | INFO | Saved JSON: data\pdf_text\Ku_MOU.json
+2026-08-03 00:13:08,167 | INFO | Processing PDF: data\pdfs\Lecture_Plan.pdf
+2026-08-03 00:13:08,342 | INFO | Detected document type: unknown
+2026-08-03 00:13:08,342 | INFO | OCR required: False
+2026-08-03 00:13:08,342 | INFO | Page count: 1
+2026-08-03 00:13:08,342 | INFO | Extracted text length: 825
+2026-08-03 00:13:08,342 | INFO | Saved JSON: data\pdf_text\Lecture_Plan.json
+2026-08-03 00:13:08,342 | INFO | Processing PDF: data\pdfs\mtech_cad_syllabus.pdf
+2026-08-03 00:13:09,953 | INFO | Detected document type: unknown
+2026-08-03 00:13:09,953 | INFO | OCR required: False
+2026-08-03 00:13:09,954 | INFO | Page count: 28
+2026-08-03 00:13:09,955 | INFO | Extracted text length: 41721
+2026-08-03 00:13:09,955 | INFO | Saved JSON: data\pdf_text\mtech_cad_syllabus.json
+2026-08-03 00:13:09,955 | INFO | Processing PDF: data\pdfs\mtech_cse_syllabus.pdf
+2026-08-03 00:13:10,041 | INFO | Detected document type: unknown
+2026-08-03 00:13:10,041 | INFO | OCR required: False
+2026-08-03 00:13:10,041 | INFO | Page count: 30
+2026-08-03 00:13:10,041 | INFO | Extracted text length: 630
+2026-08-03 00:13:10,041 | INFO | Saved JSON: data\pdf_text\mtech_cse_syllabus.json
+2026-08-03 00:13:10,041 | INFO | Processing PDF: data\pdfs\mtech_dc_syllabus.pdf
+2026-08-03 00:13:12,501 | INFO | Detected document type: academic_regulations
+2026-08-03 00:13:12,501 | INFO | OCR required: False
+2026-08-03 00:13:12,501 | INFO | Page count: 43
+2026-08-03 00:13:12,501 | INFO | Extracted text length: 66487
+2026-08-03 00:13:12,512 | INFO | Saved JSON: data\pdf_text\mtech_dc_syllabus.json
+2026-08-03 00:13:12,512 | INFO | Processing PDF: data\pdfs\NSS_Report_17-22_.pdf
+2026-08-03 00:13:13,333 | INFO | Detected document type: unknown
+2026-08-03 00:13:13,333 | INFO | OCR required: False
+2026-08-03 00:13:13,333 | INFO | Page count: 68
+2026-08-03 00:13:13,333 | INFO | Extracted text length: 4470
+2026-08-03 00:13:13,333 | INFO | Saved JSON: data\pdf_text\NSS_Report_17-22_.json
+2026-08-03 00:13:13,333 | INFO | Processing PDF: data\pdfs\NSS_Report_2025-26.pdf
+2026-08-03 00:13:18,719 | INFO | Detected document type: unknown
+2026-08-03 00:13:18,719 | INFO | OCR required: False
+2026-08-03 00:13:18,719 | INFO | Page count: 44
+2026-08-03 00:13:18,719 | INFO | Extracted text length: 50350
+2026-08-03 00:13:18,724 | INFO | Saved JSON: data\pdf_text\NSS_Report_2025-26.json
+2026-08-03 00:13:18,724 | INFO | Processing PDF: data\pdfs\NSS_REPORT_24-25_.pdf
+2026-08-03 00:13:19,338 | INFO | Detected document type: unknown
+2026-08-03 00:13:19,338 | INFO | OCR required: False
+2026-08-03 00:13:19,339 | INFO | Page count: 18
+2026-08-03 00:13:19,339 | INFO | Extracted text length: 11220
+2026-08-03 00:13:19,340 | INFO | Saved JSON: data\pdf_text\NSS_REPORT_24-25_.json
+2026-08-03 00:13:19,340 | INFO | Processing PDF: data\pdfs\Phd.pdf
+2026-08-03 00:13:19,365 | INFO | Detected document type: unknown
+2026-08-03 00:13:19,365 | INFO | OCR required: False
+2026-08-03 00:13:19,366 | INFO | Page count: 1
+2026-08-03 00:13:19,366 | INFO | Extracted text length: 159
+2026-08-03 00:13:19,367 | INFO | Saved JSON: data\pdf_text\Phd.json
+2026-08-03 00:13:19,367 | INFO | Processing PDF: data\pdfs\Plastic_nilkamal_chairs.pdf
+2026-08-03 00:13:19,412 | INFO | Detected document type: quotation
+2026-08-03 00:13:19,412 | INFO | OCR required: False
+2026-08-03 00:13:19,412 | INFO | Page count: 1
+2026-08-03 00:13:19,412 | INFO | Extracted text length: 989
+2026-08-03 00:13:19,415 | INFO | Saved JSON: data\pdf_text\Plastic_nilkamal_chairs.json
+2026-08-03 00:13:19,415 | INFO | Processing PDF: data\pdfs\principal_profile.pdf
+2026-08-03 00:13:20,283 | INFO | Detected document type: unknown
+2026-08-03 00:13:20,284 | INFO | OCR required: False
+2026-08-03 00:13:20,284 | INFO | Page count: 10
+2026-08-03 00:13:20,285 | INFO | Extracted text length: 22316
+2026-08-03 00:13:20,285 | INFO | Saved JSON: data\pdf_text\principal_profile.json
+2026-08-03 00:13:20,285 | INFO | Processing PDF: data\pdfs\Quatation_door_window.pdf
+2026-08-03 00:13:20,379 | INFO | Detected document type: quotation
+2026-08-03 00:13:20,379 | INFO | OCR required: False
+2026-08-03 00:13:20,379 | INFO | Page count: 1
+2026-08-03 00:13:20,379 | INFO | Extracted text length: 1086
+2026-08-03 00:13:20,379 | INFO | Saved JSON: data\pdf_text\Quatation_door_window.json
+2026-08-03 00:13:20,379 | INFO | Processing PDF: data\pdfs\Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+2026-08-03 00:13:21,929 | INFO | Detected document type: placement_notification
+2026-08-03 00:13:21,929 | INFO | OCR required: False
+2026-08-03 00:13:21,933 | INFO | Page count: 5
+2026-08-03 00:13:21,933 | INFO | Extracted text length: 42841
+2026-08-03 00:13:21,934 | INFO | Saved JSON: data\pdf_text\Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.json
+2026-08-03 00:13:21,934 | INFO | Processing PDF: data\pdfs\RemunerationBill.pdf
+2026-08-03 00:13:21,954 | INFO | Detected document type: unknown
+2026-08-03 00:13:21,954 | INFO | OCR required: True
+2026-08-03 00:13:21,954 | INFO | Page count: 2
+2026-08-03 00:13:21,954 | INFO | Extracted text length: 0
+2026-08-03 00:13:21,954 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\RemunerationBill.pdf
+2026-08-03 00:13:21,957 | INFO | Saved JSON: data\pdf_text\RemunerationBill.json
+2026-08-03 00:13:21,957 | INFO | Processing PDF: data\pdfs\rules-and-regulations.pdf
+2026-08-03 00:13:21,982 | INFO | Detected document type: unknown
+2026-08-03 00:13:21,982 | INFO | OCR required: True
+2026-08-03 00:13:21,982 | INFO | Page count: 15
+2026-08-03 00:13:21,982 | INFO | Extracted text length: 0
+2026-08-03 00:13:21,982 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\rules-and-regulations.pdf
+2026-08-03 00:13:21,982 | INFO | Saved JSON: data\pdf_text\rules-and-regulations.json
+2026-08-03 00:13:21,982 | INFO | Processing PDF: data\pdfs\rules.pdf
+2026-08-03 00:13:23,075 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:23,075 | INFO | OCR required: False
+2026-08-03 00:13:23,076 | INFO | Page count: 12
+2026-08-03 00:13:23,077 | INFO | Extracted text length: 23630
+2026-08-03 00:13:23,077 | INFO | Saved JSON: data\pdf_text\rules.json
+2026-08-03 00:13:23,078 | INFO | Processing PDF: data\pdfs\TADA.pdf
+2026-08-03 00:13:23,095 | INFO | Detected document type: unknown
+2026-08-03 00:13:23,095 | INFO | OCR required: True
+2026-08-03 00:13:23,095 | INFO | Page count: 2
+2026-08-03 00:13:23,095 | INFO | Extracted text length: 0
+2026-08-03 00:13:23,095 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\TADA.pdf
+2026-08-03 00:13:23,097 | INFO | Saved JSON: data\pdf_text\TADA.json
+2026-08-03 00:13:23,097 | INFO | Processing PDF: data\pdfs\Technical_Events_2026.pdf
+2026-08-03 00:13:25,963 | INFO | Detected document type: unknown
+2026-08-03 00:13:25,963 | INFO | OCR required: False
+2026-08-03 00:13:25,967 | INFO | Page count: 45
+2026-08-03 00:13:25,967 | INFO | Extracted text length: 41404
+2026-08-03 00:13:25,969 | INFO | Saved JSON: data\pdf_text\Technical_Events_2026.json
+2026-08-03 00:13:25,969 | INFO | Processing PDF: data\pdfs\TGEAPCET_20DETAILED_20NOTIFICATION-2026.pdf
+2026-08-03 00:13:27,876 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:27,878 | INFO | OCR required: False
+2026-08-03 00:13:27,878 | INFO | Page count: 16
+2026-08-03 00:13:27,878 | INFO | Extracted text length: 39609
+2026-08-03 00:13:27,878 | INFO | Saved JSON: data\pdf_text\TGEAPCET_20DETAILED_20NOTIFICATION-2026.json
+2026-08-03 00:13:27,878 | INFO | Processing PDF: data\pdfs\TGEAPCET_DETAILED_NOTIFICATION-2026.pdf
+2026-08-03 00:13:29,719 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:29,719 | INFO | OCR required: False
+2026-08-03 00:13:29,719 | INFO | Page count: 16
+2026-08-03 00:13:29,719 | INFO | Extracted text length: 39609
+2026-08-03 00:13:29,719 | INFO | Saved JSON: data\pdf_text\TGEAPCET_DETAILED_NOTIFICATION-2026.json
+2026-08-03 00:13:29,719 | INFO | Processing PDF: data\pdfs\Time_Table_of_III_and_V_Semester_Examination.pdf
+2026-08-03 00:13:30,473 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:30,473 | INFO | OCR required: False
+2026-08-03 00:13:30,473 | INFO | Page count: 2
+2026-08-03 00:13:30,473 | INFO | Extracted text length: 13130
+2026-08-03 00:13:30,473 | INFO | Saved JSON: data\pdf_text\Time_Table_of_III_and_V_Semester_Examination.json
+2026-08-03 00:13:30,478 | INFO | Processing PDF: data\pdfs\Time_Table_of_VII_Semester_Examination.pdf
+2026-08-03 00:13:30,914 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:30,914 | INFO | OCR required: False
+2026-08-03 00:13:30,914 | INFO | Page count: 1
+2026-08-03 00:13:30,914 | INFO | Extracted text length: 8742
+2026-08-03 00:13:30,925 | INFO | Saved JSON: data\pdf_text\Time_Table_of_VII_Semester_Examination.json
+2026-08-03 00:13:30,925 | INFO | Processing PDF: data\pdfs\V-SEM.pdf
+2026-08-03 00:13:31,590 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:31,590 | INFO | OCR required: False
+2026-08-03 00:13:31,590 | INFO | Page count: 2
+2026-08-03 00:13:31,590 | INFO | Extracted text length: 11143
+2026-08-03 00:13:31,592 | INFO | Saved JSON: data\pdf_text\V-SEM.json
+2026-08-03 00:13:31,592 | INFO | Processing PDF: data\pdfs\V-Sem__supply.pdf
+2026-08-03 00:13:32,250 | INFO | Detected document type: exam_schedule
+2026-08-03 00:13:32,250 | INFO | OCR required: False
+2026-08-03 00:13:32,250 | INFO | Page count: 2
+2026-08-03 00:13:32,250 | INFO | Extracted text length: 11390
+2026-08-03 00:13:32,250 | INFO | Saved JSON: data\pdf_text\V-Sem__supply.json
+2026-08-03 00:13:32,250 | INFO | Processing PDF: data\pdfs\workshop.pdf
+2026-08-03 00:13:32,497 | INFO | Detected document type: fee_circular
+2026-08-03 00:13:32,497 | INFO | OCR required: False
+2026-08-03 00:13:32,497 | INFO | Page count: 1
+2026-08-03 00:13:32,497 | INFO | Extracted text length: 7486
+2026-08-03 00:13:32,497 | INFO | Saved JSON: data\pdf_text\workshop.json
+2026-08-03 00:14:49,555 | INFO | Found 110 PDFs in data\pdfs
+2026-08-03 00:14:49,555 | INFO | Processing PDF: data\pdfs\2-2_previous_year_papers_2025_.pdf
+2026-08-03 00:14:49,587 | INFO | Detected document type: unknown
+2026-08-03 00:14:49,587 | INFO | OCR required: True
+2026-08-03 00:14:49,587 | INFO | Page count: 19
+2026-08-03 00:14:49,587 | INFO | Extracted text length: 0
+2026-08-03 00:14:49,587 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2-2_previous_year_papers_2025_.pdf
+2026-08-03 00:14:49,587 | INFO | Saved JSON: data\pdf_text\2-2_previous_year_papers_2025_.json
+2026-08-03 00:14:49,587 | INFO | Processing PDF: data\pdfs\2014-16_NSS_Activities.pdf
+2026-08-03 00:14:49,621 | INFO | Detected document type: unknown
+2026-08-03 00:14:49,621 | INFO | OCR required: True
+2026-08-03 00:14:49,622 | INFO | Page count: 40
+2026-08-03 00:14:49,622 | INFO | Extracted text length: 0
+2026-08-03 00:14:49,622 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2014-16_NSS_Activities.pdf
+2026-08-03 00:14:49,623 | INFO | Saved JSON: data\pdf_text\2014-16_NSS_Activities.json
+2026-08-03 00:14:49,623 | INFO | Processing PDF: data\pdfs\2782_Almanac.pdf
+2026-08-03 00:14:49,626 | INFO | Detected document type: unknown
+2026-08-03 00:14:49,626 | INFO | OCR required: True
+2026-08-03 00:14:49,627 | INFO | Page count: 1
+2026-08-03 00:14:49,627 | INFO | Extracted text length: 0
+2026-08-03 00:14:49,627 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2782_Almanac.pdf
+2026-08-03 00:14:49,628 | INFO | Saved JSON: data\pdf_text\2782_Almanac.json
+2026-08-03 00:14:49,629 | INFO | Processing PDF: data\pdfs\2840_Almanac_for_BTECH_VIII_Sem_202425.pdf
+2026-08-03 00:14:49,631 | INFO | Detected document type: unknown
+2026-08-03 00:14:49,632 | INFO | OCR required: True
+2026-08-03 00:14:49,632 | INFO | Page count: 1
+2026-08-03 00:14:49,632 | INFO | Extracted text length: 0
+2026-08-03 00:14:49,632 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\2840_Almanac_for_BTECH_VIII_Sem_202425.pdf
+2026-08-03 00:14:49,634 | INFO | Saved JSON: data\pdf_text\2840_Almanac_for_BTECH_VIII_Sem_202425.json
+2026-08-03 00:14:49,634 | INFO | Processing PDF: data\pdfs\_supply_of_sessional_answer_booklets_12_pages..pdf
+2026-08-03 00:14:49,731 | INFO | Detected document type: quotation
+2026-08-03 00:14:49,731 | INFO | OCR required: False
+2026-08-03 00:14:49,731 | INFO | Page count: 1
+2026-08-03 00:14:49,731 | INFO | Extracted text length: 1106
+2026-08-03 00:14:49,731 | INFO | Saved JSON: data\pdf_text\_supply_of_sessional_answer_booklets_12_pages..json
+2026-08-03 00:14:49,731 | INFO | Processing PDF: data\pdfs\_VI-SEM_Notification_.pdf
+2026-08-03 00:14:50,106 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:50,106 | INFO | OCR required: False
+2026-08-03 00:14:50,106 | INFO | Page count: 1
+2026-08-03 00:14:50,106 | INFO | Extracted text length: 4176
+2026-08-03 00:14:50,106 | INFO | Saved JSON: data\pdf_text\_VI-SEM_Notification_.json
+2026-08-03 00:14:50,106 | INFO | Processing PDF: data\pdfs\AE_lab.pdf
+2026-08-03 00:14:50,112 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:14:50,112 | INFO | - [footer] ace scanned scanner with
+2026-08-03 00:14:50,112 | INFO | Detected repeated headers (summary): [footer] ace scanned scanner with
+2026-08-03 00:14:50,112 | INFO | Removed from pages:
+2026-08-03 00:14:50,112 | INFO | - [footer] ace scanned scanner with: 0 pages
+2026-08-03 00:14:50,112 | INFO | Detected document type: unknown
+2026-08-03 00:14:50,112 | INFO | OCR required: False
+2026-08-03 00:14:50,115 | INFO | Page count: 2
+2026-08-03 00:14:50,115 | INFO | Extracted text length: 48
+2026-08-03 00:14:50,116 | INFO | Saved JSON: data\pdf_text\AE_lab.json
+2026-08-03 00:14:50,117 | INFO | Processing PDF: data\pdfs\Anti_Sexual_Harassment_Cell.pdf
+2026-08-03 00:14:50,169 | INFO | Detected document type: unknown
+2026-08-03 00:14:50,169 | INFO | OCR required: False
+2026-08-03 00:14:50,169 | INFO | Page count: 1
+2026-08-03 00:14:50,169 | INFO | Extracted text length: 1523
+2026-08-03 00:14:50,169 | INFO | Saved JSON: data\pdf_text\Anti_Sexual_Harassment_Cell.json
+2026-08-03 00:14:50,169 | INFO | Processing PDF: data\pdfs\APAAR_ID_Creation_Guide_Final.pdf
+2026-08-03 00:14:50,481 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:14:50,481 | INFO | - [header] apaar create how id india online
+2026-08-03 00:14:50,481 | INFO | Detected repeated headers (summary): [header] apaar create how id india online
+2026-08-03 00:14:50,481 | INFO | Removed from pages:
+2026-08-03 00:14:50,481 | INFO | - [header] apaar create how id india online: 2 pages
+2026-08-03 00:14:50,485 | INFO | Detected document type: unknown
+2026-08-03 00:14:50,485 | INFO | OCR required: False
+2026-08-03 00:14:50,485 | INFO | Page count: 2
+2026-08-03 00:14:50,485 | INFO | Extracted text length: 1883
+2026-08-03 00:14:50,485 | INFO | Saved JSON: data\pdf_text\APAAR_ID_Creation_Guide_Final.json
+2026-08-03 00:14:50,485 | INFO | Processing PDF: data\pdfs\AWARDLIST.pdf
+2026-08-03 00:14:50,545 | INFO | Detected document type: unknown
+2026-08-03 00:14:50,545 | INFO | OCR required: False
+2026-08-03 00:14:50,546 | INFO | Page count: 4
+2026-08-03 00:14:50,546 | INFO | Extracted text length: 1286
+2026-08-03 00:14:50,547 | INFO | Saved JSON: data\pdf_text\AWARDLIST.json
+2026-08-03 00:14:50,547 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.pdf
+2026-08-03 00:14:50,836 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:50,836 | INFO | OCR required: False
+2026-08-03 00:14:50,836 | INFO | Page count: 1
+2026-08-03 00:14:50,836 | INFO | Extracted text length: 4154
+2026-08-03 00:14:50,836 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_-_III_V_VII_VIII-_SEM_NOTIF_Supply_.json
+2026-08-03 00:14:50,836 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_I-I_Notifi_23-06-2025_1_.pdf
+2026-08-03 00:14:51,212 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:51,212 | INFO | OCR required: False
+2026-08-03 00:14:51,212 | INFO | Page count: 1
+2026-08-03 00:14:51,212 | INFO | Extracted text length: 4031
+2026-08-03 00:14:51,212 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_I-I_Notifi_23-06-2025_1_.json
+2026-08-03 00:14:51,212 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_I-I_Notifi_Supply_.pdf
+2026-08-03 00:14:51,583 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:51,583 | INFO | OCR required: False
+2026-08-03 00:14:51,583 | INFO | Page count: 1
+2026-08-03 00:14:51,583 | INFO | Extracted text length: 4019
+2026-08-03 00:14:51,583 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_I-I_Notifi_Supply_.json
+2026-08-03 00:14:51,583 | INFO | Processing PDF: data\pdfs\B.Tech_CBCS_I-I_SEM_.pdf
+2026-08-03 00:14:51,736 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:51,736 | INFO | OCR required: False
+2026-08-03 00:14:51,737 | INFO | Page count: 1
+2026-08-03 00:14:51,737 | INFO | Extracted text length: 2190
+2026-08-03 00:14:51,737 | INFO | Saved JSON: data\pdf_text\B.Tech_CBCS_I-I_SEM_.json
+2026-08-03 00:14:51,737 | INFO | Processing PDF: data\pdfs\B.TECH_CBCS_II_SEM_Notification_.pdf
+2026-08-03 00:14:52,113 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:52,113 | INFO | OCR required: False
+2026-08-03 00:14:52,113 | INFO | Page count: 1
+2026-08-03 00:14:52,113 | INFO | Extracted text length: 4182
+2026-08-03 00:14:52,113 | INFO | Saved JSON: data\pdf_text\B.TECH_CBCS_II_SEM_Notification_.json
+2026-08-03 00:14:52,113 | INFO | Processing PDF: data\pdfs\B.TECH_VII-Sem__CBCS__Time_Table_supply.pdf
+2026-08-03 00:14:52,466 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:52,466 | INFO | OCR required: False
+2026-08-03 00:14:52,466 | INFO | Page count: 1
+2026-08-03 00:14:52,466 | INFO | Extracted text length: 6656
+2026-08-03 00:14:52,466 | INFO | Saved JSON: data\pdf_text\B.TECH_VII-Sem__CBCS__Time_Table_supply.json
+2026-08-03 00:14:52,466 | INFO | Processing PDF: data\pdfs\B.TECH_VIII-Sem_Time_Table_supply.pdf
+2026-08-03 00:14:52,790 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:52,790 | INFO | OCR required: False
+2026-08-03 00:14:52,790 | INFO | Page count: 1
+2026-08-03 00:14:52,790 | INFO | Extracted text length: 5479
+2026-08-03 00:14:52,790 | INFO | Saved JSON: data\pdf_text\B.TECH_VIII-Sem_Time_Table_supply.json
+2026-08-03 00:14:52,790 | INFO | Processing PDF: data\pdfs\Brouchure_of_TSC-2025_compressed.pdf
+2026-08-03 00:14:52,799 | INFO | Detected document type: unknown
+2026-08-03 00:14:52,799 | INFO | OCR required: True
+2026-08-03 00:14:52,799 | INFO | Page count: 6
+2026-08-03 00:14:52,799 | INFO | Extracted text length: 0
+2026-08-03 00:14:52,799 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Brouchure_of_TSC-2025_compressed.pdf
+2026-08-03 00:14:52,805 | INFO | Saved JSON: data\pdf_text\Brouchure_of_TSC-2025_compressed.json
+2026-08-03 00:14:52,805 | INFO | Processing PDF: data\pdfs\btech_year1_sem1.pdf
+2026-08-03 00:14:53,716 | INFO | Detected repeated headers/footers (clusters >= 8/11 pages):
+2026-08-03 00:14:53,716 | INFO | - [header] all branches common
+2026-08-03 00:14:53,717 | INFO | - [header] kakatiya university
+2026-08-03 00:14:53,717 | INFO | Detected repeated headers (summary): [header] all branches common; [header] kakatiya university
+2026-08-03 00:14:53,724 | INFO | Removed from pages:
+2026-08-03 00:14:53,725 | INFO | - [header] all branches common: 8 pages
+2026-08-03 00:14:53,725 | INFO | - [header] kakatiya university: 8 pages
+2026-08-03 00:14:53,732 | INFO | Detected document type: unknown
+2026-08-03 00:14:53,732 | INFO | OCR required: False
+2026-08-03 00:14:53,732 | INFO | Page count: 11
+2026-08-03 00:14:53,733 | INFO | Extracted text length: 19751
+2026-08-03 00:14:53,734 | INFO | Saved JSON: data\pdf_text\btech_year1_sem1.json
+2026-08-03 00:14:53,735 | INFO | Processing PDF: data\pdfs\btech_year1_sem2.pdf
+2026-08-03 00:14:54,574 | INFO | Detected repeated headers/footers (clusters >= 8/11 pages):
+2026-08-03 00:14:54,574 | INFO | - [header] all branches common
+2026-08-03 00:14:54,574 | INFO | - [header] kakatiya university
+2026-08-03 00:14:54,574 | INFO | Detected repeated headers (summary): [header] all branches common; [header] kakatiya university
+2026-08-03 00:14:54,579 | INFO | Removed from pages:
+2026-08-03 00:14:54,579 | INFO | - [header] all branches common: 8 pages
+2026-08-03 00:14:54,579 | INFO | - [header] kakatiya university: 8 pages
+2026-08-03 00:14:54,586 | INFO | Detected document type: syllabus
+2026-08-03 00:14:54,586 | INFO | OCR required: False
+2026-08-03 00:14:54,586 | INFO | Page count: 11
+2026-08-03 00:14:54,586 | INFO | Extracted text length: 17658
+2026-08-03 00:14:54,589 | INFO | Saved JSON: data\pdf_text\btech_year1_sem2.json
+2026-08-03 00:14:54,589 | INFO | Processing PDF: data\pdfs\btech_year2_civil_sem3.pdf
+2026-08-03 00:14:55,583 | INFO | Detected repeated headers/footers (clusters >= 12/16 pages):
+2026-08-03 00:14:55,583 | INFO | - [header] engineering faculty technology
+2026-08-03 00:14:55,583 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:14:55,593 | INFO | Removed from pages:
+2026-08-03 00:14:55,593 | INFO | - [header] engineering faculty technology: 16 pages
+2026-08-03 00:14:55,599 | INFO | Detected document type: unknown
+2026-08-03 00:14:55,599 | INFO | OCR required: False
+2026-08-03 00:14:55,601 | INFO | Page count: 16
+2026-08-03 00:14:55,601 | INFO | Extracted text length: 24217
+2026-08-03 00:14:55,601 | INFO | Saved JSON: data\pdf_text\btech_year2_civil_sem3.json
+2026-08-03 00:14:55,603 | INFO | Processing PDF: data\pdfs\btech_year2_civil_sem4.pdf
+2026-08-03 00:14:56,600 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:14:56,602 | INFO | - [header] engineering faculty technology
+2026-08-03 00:14:56,602 | INFO | - [header] civil department engineering
+2026-08-03 00:14:56,602 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:14:56,602 | INFO | Detected repeated headers (summary): [header] engineering faculty technology; [header] civil department engineering; [header] kakatiya university warangal
+2026-08-03 00:14:56,602 | INFO | Removed from pages:
+2026-08-03 00:14:56,602 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:14:56,602 | INFO | - [header] civil department engineering: 12 pages
+2026-08-03 00:14:56,602 | INFO | - [header] kakatiya university warangal: 12 pages
+2026-08-03 00:14:56,612 | INFO | Detected document type: syllabus
+2026-08-03 00:14:56,612 | INFO | OCR required: False
+2026-08-03 00:14:56,613 | INFO | Page count: 17
+2026-08-03 00:14:56,613 | INFO | Extracted text length: 22780
+2026-08-03 00:14:56,613 | INFO | Saved JSON: data\pdf_text\btech_year2_civil_sem4.json
+2026-08-03 00:14:56,613 | INFO | Processing PDF: data\pdfs\btech_year2_csd_sem3.pdf
+2026-08-03 00:14:57,916 | INFO | Detected repeated headers/footers (clusters >= 12/16 pages):
+2026-08-03 00:14:57,918 | INFO | - [header] engineering faculty technology
+2026-08-03 00:14:57,918 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:14:57,919 | INFO | Removed from pages:
+2026-08-03 00:14:57,919 | INFO | - [header] engineering faculty technology: 16 pages
+2026-08-03 00:14:57,926 | INFO | Detected document type: syllabus
+2026-08-03 00:14:57,927 | INFO | OCR required: False
+2026-08-03 00:14:57,927 | INFO | Page count: 16
+2026-08-03 00:14:57,928 | INFO | Extracted text length: 21882
+2026-08-03 00:14:57,929 | INFO | Saved JSON: data\pdf_text\btech_year2_csd_sem3.json
+2026-08-03 00:14:57,929 | INFO | Processing PDF: data\pdfs\btech_year2_csd_sem4.pdf
+2026-08-03 00:14:59,089 | INFO | Detected repeated headers/footers (clusters >= 10/14 pages):
+2026-08-03 00:14:59,089 | INFO | - [header] engineering faculty technology
+2026-08-03 00:14:59,089 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:14:59,095 | INFO | Removed from pages:
+2026-08-03 00:14:59,095 | INFO | - [header] engineering faculty technology: 13 pages
+2026-08-03 00:14:59,099 | INFO | Detected document type: exam_schedule
+2026-08-03 00:14:59,099 | INFO | OCR required: False
+2026-08-03 00:14:59,099 | INFO | Page count: 14
+2026-08-03 00:14:59,099 | INFO | Extracted text length: 18174
+2026-08-03 00:14:59,102 | INFO | Saved JSON: data\pdf_text\btech_year2_csd_sem4.json
+2026-08-03 00:14:59,102 | INFO | Processing PDF: data\pdfs\btech_year2_cse_sem3.pdf
+2026-08-03 00:14:59,997 | INFO | Detected repeated headers/footers (clusters >= 10/14 pages):
+2026-08-03 00:14:59,997 | INFO | - [header] engineering faculty technology
+2026-08-03 00:14:59,997 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:00,002 | INFO | Removed from pages:
+2026-08-03 00:15:00,002 | INFO | - [header] engineering faculty technology: 14 pages
+2026-08-03 00:15:00,008 | INFO | Detected document type: syllabus
+2026-08-03 00:15:00,008 | INFO | OCR required: False
+2026-08-03 00:15:00,009 | INFO | Page count: 14
+2026-08-03 00:15:00,009 | INFO | Extracted text length: 21452
+2026-08-03 00:15:00,010 | INFO | Saved JSON: data\pdf_text\btech_year2_cse_sem3.json
+2026-08-03 00:15:00,010 | INFO | Processing PDF: data\pdfs\btech_year2_cse_sem4.pdf
+2026-08-03 00:15:00,909 | INFO | Detected repeated headers/footers (clusters >= 12/16 pages):
+2026-08-03 00:15:00,909 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:00,909 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:00,912 | INFO | Removed from pages:
+2026-08-03 00:15:00,912 | INFO | - [header] engineering faculty technology: 16 pages
+2026-08-03 00:15:00,918 | INFO | Detected document type: syllabus
+2026-08-03 00:15:00,918 | INFO | OCR required: False
+2026-08-03 00:15:00,919 | INFO | Page count: 16
+2026-08-03 00:15:00,919 | INFO | Extracted text length: 20292
+2026-08-03 00:15:00,920 | INFO | Saved JSON: data\pdf_text\btech_year2_cse_sem4.json
+2026-08-03 00:15:00,921 | INFO | Processing PDF: data\pdfs\btech_year2_ece_sem3.pdf
+2026-08-03 00:15:01,866 | INFO | Detected repeated headers/footers (clusters >= 9/12 pages):
+2026-08-03 00:15:01,866 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:01,866 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:01,866 | INFO | - [header] communication department electronics engineering
+2026-08-03 00:15:01,866 | INFO | Detected repeated headers (summary): [header] engineering faculty technology; [header] kakatiya university warangal; [header] communication department electronics engineering
+2026-08-03 00:15:01,866 | INFO | Removed from pages:
+2026-08-03 00:15:01,866 | INFO | - [header] engineering faculty technology: 12 pages
+2026-08-03 00:15:01,866 | INFO | - [header] communication department electronics engineering: 10 pages
+2026-08-03 00:15:01,866 | INFO | - [header] kakatiya university warangal: 10 pages
+2026-08-03 00:15:01,875 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:01,875 | INFO | OCR required: False
+2026-08-03 00:15:01,876 | INFO | Page count: 12
+2026-08-03 00:15:01,876 | INFO | Extracted text length: 18919
+2026-08-03 00:15:01,877 | INFO | Saved JSON: data\pdf_text\btech_year2_ece_sem3.json
+2026-08-03 00:15:01,877 | INFO | Processing PDF: data\pdfs\btech_year2_ece_sem4.pdf
+2026-08-03 00:15:02,901 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:15:02,901 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:02,901 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:02,910 | INFO | Removed from pages:
+2026-08-03 00:15:02,910 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:02,914 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:02,915 | INFO | OCR required: False
+2026-08-03 00:15:02,915 | INFO | Page count: 17
+2026-08-03 00:15:02,915 | INFO | Extracted text length: 23138
+2026-08-03 00:15:02,916 | INFO | Saved JSON: data\pdf_text\btech_year2_ece_sem4.json
+2026-08-03 00:15:02,916 | INFO | Processing PDF: data\pdfs\btech_year2_eee_sem3.pdf
+2026-08-03 00:15:03,904 | INFO | Detected repeated headers/footers (clusters >= 11/15 pages):
+2026-08-03 00:15:03,904 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:03,904 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:03,912 | INFO | Removed from pages:
+2026-08-03 00:15:03,912 | INFO | - [header] engineering faculty technology: 15 pages
+2026-08-03 00:15:03,915 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:03,917 | INFO | OCR required: False
+2026-08-03 00:15:03,917 | INFO | Page count: 15
+2026-08-03 00:15:03,917 | INFO | Extracted text length: 19669
+2026-08-03 00:15:03,917 | INFO | Saved JSON: data\pdf_text\btech_year2_eee_sem3.json
+2026-08-03 00:15:03,917 | INFO | Processing PDF: data\pdfs\btech_year2_eee_sem4.pdf
+2026-08-03 00:15:04,836 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:15:04,836 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:04,836 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:04,840 | INFO | Removed from pages:
+2026-08-03 00:15:04,840 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:04,844 | INFO | Detected document type: unknown
+2026-08-03 00:15:04,844 | INFO | OCR required: False
+2026-08-03 00:15:04,845 | INFO | Page count: 17
+2026-08-03 00:15:04,845 | INFO | Extracted text length: 18047
+2026-08-03 00:15:04,847 | INFO | Saved JSON: data\pdf_text\btech_year2_eee_sem4.json
+2026-08-03 00:15:04,847 | INFO | Processing PDF: data\pdfs\btech_year2_mech_sem3.pdf
+2026-08-03 00:15:06,036 | INFO | Detected repeated headers/footers (clusters >= 13/18 pages):
+2026-08-03 00:15:06,036 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:06,037 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:06,037 | INFO | Removed from pages:
+2026-08-03 00:15:06,037 | INFO | - [header] engineering faculty technology: 0 pages
+2026-08-03 00:15:06,046 | INFO | Detected document type: unknown
+2026-08-03 00:15:06,046 | INFO | OCR required: False
+2026-08-03 00:15:06,047 | INFO | Page count: 18
+2026-08-03 00:15:06,047 | INFO | Extracted text length: 27406
+2026-08-03 00:15:06,049 | INFO | Saved JSON: data\pdf_text\btech_year2_mech_sem3.json
+2026-08-03 00:15:06,049 | INFO | Processing PDF: data\pdfs\btech_year2_mech_sem4.pdf
+2026-08-03 00:15:07,245 | INFO | Detected repeated headers/footers (clusters >= 13/18 pages):
+2026-08-03 00:15:07,245 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:07,245 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:07,254 | INFO | Removed from pages:
+2026-08-03 00:15:07,254 | INFO | - [header] engineering faculty technology: 18 pages
+2026-08-03 00:15:07,260 | INFO | Detected document type: unknown
+2026-08-03 00:15:07,260 | INFO | OCR required: False
+2026-08-03 00:15:07,260 | INFO | Page count: 18
+2026-08-03 00:15:07,260 | INFO | Extracted text length: 27332
+2026-08-03 00:15:07,263 | INFO | Saved JSON: data\pdf_text\btech_year2_mech_sem4.json
+2026-08-03 00:15:07,263 | INFO | Processing PDF: data\pdfs\btech_year3_civil_sem5.pdf
+2026-08-03 00:15:09,195 | INFO | Detected repeated headers/footers (clusters >= 11/15 pages):
+2026-08-03 00:15:09,195 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:09,195 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:09,203 | INFO | Removed from pages:
+2026-08-03 00:15:09,203 | INFO | - [header] engineering faculty technology: 15 pages
+2026-08-03 00:15:09,209 | INFO | Detected document type: academic_regulations
+2026-08-03 00:15:09,210 | INFO | OCR required: False
+2026-08-03 00:15:09,210 | INFO | Page count: 15
+2026-08-03 00:15:09,210 | INFO | Extracted text length: 29395
+2026-08-03 00:15:09,212 | INFO | Saved JSON: data\pdf_text\btech_year3_civil_sem5.json
+2026-08-03 00:15:09,213 | INFO | Processing PDF: data\pdfs\btech_year3_civil_sem6.pdf
+2026-08-03 00:15:12,029 | INFO | Detected repeated headers/footers (clusters >= 17/24 pages):
+2026-08-03 00:15:12,029 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:12,029 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:12,038 | INFO | Removed from pages:
+2026-08-03 00:15:12,043 | INFO | - [header] engineering faculty technology: 24 pages
+2026-08-03 00:15:12,048 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:12,049 | INFO | OCR required: False
+2026-08-03 00:15:12,049 | INFO | Page count: 24
+2026-08-03 00:15:12,050 | INFO | Extracted text length: 42328
+2026-08-03 00:15:12,052 | INFO | Saved JSON: data\pdf_text\btech_year3_civil_sem6.json
+2026-08-03 00:15:12,053 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem5.pdf
+2026-08-03 00:15:14,370 | INFO | Detected repeated headers/footers (clusters >= 16/22 pages):
+2026-08-03 00:15:14,370 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:14,370 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:14,378 | INFO | Removed from pages:
+2026-08-03 00:15:14,378 | INFO | - [header] engineering faculty technology: 22 pages
+2026-08-03 00:15:14,384 | INFO | Detected document type: unknown
+2026-08-03 00:15:14,384 | INFO | OCR required: False
+2026-08-03 00:15:14,384 | INFO | Page count: 22
+2026-08-03 00:15:14,384 | INFO | Extracted text length: 32221
+2026-08-03 00:15:14,386 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem5.json
+2026-08-03 00:15:14,386 | INFO | Processing PDF: data\pdfs\btech_year3_csd_sem6.pdf
+2026-08-03 00:15:16,012 | INFO | Detected repeated headers/footers (clusters >= 14/20 pages):
+2026-08-03 00:15:16,012 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:16,012 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:16,022 | INFO | Removed from pages:
+2026-08-03 00:15:16,022 | INFO | - [header] engineering faculty technology: 20 pages
+2026-08-03 00:15:16,026 | INFO | Detected document type: syllabus
+2026-08-03 00:15:16,026 | INFO | OCR required: False
+2026-08-03 00:15:16,027 | INFO | Page count: 20
+2026-08-03 00:15:16,027 | INFO | Extracted text length: 26750
+2026-08-03 00:15:16,028 | INFO | Saved JSON: data\pdf_text\btech_year3_csd_sem6.json
+2026-08-03 00:15:16,030 | INFO | Processing PDF: data\pdfs\btech_year3_cse_sem5.pdf
+2026-08-03 00:15:17,322 | INFO | Detected repeated headers/footers (clusters >= 14/19 pages):
+2026-08-03 00:15:17,322 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:17,322 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:17,328 | INFO | Removed from pages:
+2026-08-03 00:15:17,328 | INFO | - [header] engineering faculty technology: 19 pages
+2026-08-03 00:15:17,332 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:17,333 | INFO | OCR required: False
+2026-08-03 00:15:17,333 | INFO | Page count: 19
+2026-08-03 00:15:17,333 | INFO | Extracted text length: 29735
+2026-08-03 00:15:17,334 | INFO | Saved JSON: data\pdf_text\btech_year3_cse_sem5.json
+2026-08-03 00:15:17,334 | INFO | Processing PDF: data\pdfs\btech_year3_cse_sem6.pdf
+2026-08-03 00:15:18,516 | INFO | Detected repeated headers/footers (clusters >= 15/21 pages):
+2026-08-03 00:15:18,516 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:18,516 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:18,529 | INFO | Removed from pages:
+2026-08-03 00:15:18,529 | INFO | - [header] engineering faculty technology: 21 pages
+2026-08-03 00:15:18,532 | INFO | Detected document type: unknown
+2026-08-03 00:15:18,534 | INFO | OCR required: False
+2026-08-03 00:15:18,534 | INFO | Page count: 21
+2026-08-03 00:15:18,534 | INFO | Extracted text length: 27057
+2026-08-03 00:15:18,536 | INFO | Saved JSON: data\pdf_text\btech_year3_cse_sem6.json
+2026-08-03 00:15:18,537 | INFO | Processing PDF: data\pdfs\btech_year3_ece_sem5.pdf
+2026-08-03 00:15:19,568 | INFO | Detected repeated headers/footers (clusters >= 10/13 pages):
+2026-08-03 00:15:19,568 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:19,568 | INFO | - [header] communication department electronics engineering
+2026-08-03 00:15:19,568 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:19,568 | INFO | Detected repeated headers (summary): [header] engineering faculty technology; [header] communication department electronics engineering; [header] kakatiya university warangal
+2026-08-03 00:15:19,568 | INFO | Removed from pages:
+2026-08-03 00:15:19,568 | INFO | - [header] engineering faculty technology: 13 pages
+2026-08-03 00:15:19,568 | INFO | - [header] communication department electronics engineering: 10 pages
+2026-08-03 00:15:19,568 | INFO | - [header] kakatiya university warangal: 10 pages
+2026-08-03 00:15:19,580 | INFO | Detected document type: unknown
+2026-08-03 00:15:19,580 | INFO | OCR required: False
+2026-08-03 00:15:19,582 | INFO | Page count: 13
+2026-08-03 00:15:19,582 | INFO | Extracted text length: 23680
+2026-08-03 00:15:19,583 | INFO | Saved JSON: data\pdf_text\btech_year3_ece_sem5.json
+2026-08-03 00:15:19,583 | INFO | Processing PDF: data\pdfs\btech_year3_ece_sem6.pdf
+2026-08-03 00:15:20,981 | INFO | Detected repeated headers/footers (clusters >= 14/20 pages):
+2026-08-03 00:15:20,981 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:20,981 | INFO | - [header] communication department electronics engineering
+2026-08-03 00:15:20,981 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:20,981 | INFO | Detected repeated headers (summary): [header] engineering faculty technology; [header] communication department electronics engineering; [header] kakatiya university warangal
+2026-08-03 00:15:20,991 | INFO | Removed from pages:
+2026-08-03 00:15:20,991 | INFO | - [header] engineering faculty technology: 20 pages
+2026-08-03 00:15:20,991 | INFO | - [header] communication department electronics engineering: 16 pages
+2026-08-03 00:15:20,991 | INFO | - [header] kakatiya university warangal: 16 pages
+2026-08-03 00:15:20,998 | INFO | Detected document type: circular
+2026-08-03 00:15:20,998 | INFO | OCR required: False
+2026-08-03 00:15:20,999 | INFO | Page count: 20
+2026-08-03 00:15:20,999 | INFO | Extracted text length: 35296
+2026-08-03 00:15:21,001 | INFO | Saved JSON: data\pdf_text\btech_year3_ece_sem6.json
+2026-08-03 00:15:21,001 | INFO | Processing PDF: data\pdfs\btech_year3_eee_sem5.pdf
+2026-08-03 00:15:22,209 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:15:22,209 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:22,209 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:22,212 | INFO | Removed from pages:
+2026-08-03 00:15:22,212 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:22,219 | INFO | Detected document type: syllabus
+2026-08-03 00:15:22,219 | INFO | OCR required: False
+2026-08-03 00:15:22,220 | INFO | Page count: 17
+2026-08-03 00:15:22,221 | INFO | Extracted text length: 26853
+2026-08-03 00:15:22,222 | INFO | Saved JSON: data\pdf_text\btech_year3_eee_sem5.json
+2026-08-03 00:15:22,222 | INFO | Processing PDF: data\pdfs\btech_year3_eee_sem6.pdf
+2026-08-03 00:15:23,414 | INFO | Detected repeated headers/footers (clusters >= 14/19 pages):
+2026-08-03 00:15:23,414 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:23,414 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:23,418 | INFO | Removed from pages:
+2026-08-03 00:15:23,418 | INFO | - [header] engineering faculty technology: 19 pages
+2026-08-03 00:15:23,425 | INFO | Detected document type: unknown
+2026-08-03 00:15:23,425 | INFO | OCR required: False
+2026-08-03 00:15:23,426 | INFO | Page count: 19
+2026-08-03 00:15:23,426 | INFO | Extracted text length: 28365
+2026-08-03 00:15:23,426 | INFO | Saved JSON: data\pdf_text\btech_year3_eee_sem6.json
+2026-08-03 00:15:23,426 | INFO | Processing PDF: data\pdfs\btech_year3_mech_sem5.pdf
+2026-08-03 00:15:25,095 | INFO | Detected repeated headers/footers (clusters >= 14/19 pages):
+2026-08-03 00:15:25,095 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:25,095 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:25,095 | INFO | Detected repeated headers (summary): [header] academic effect from with year; [header] engineering faculty technology
+2026-08-03 00:15:25,100 | INFO | Removed from pages:
+2026-08-03 00:15:25,100 | INFO | - [header] academic effect from with year: 18 pages
+2026-08-03 00:15:25,104 | INFO | - [header] engineering faculty technology: 18 pages
+2026-08-03 00:15:25,110 | INFO | Detected document type: academic_regulations
+2026-08-03 00:15:25,110 | INFO | OCR required: False
+2026-08-03 00:15:25,111 | INFO | Page count: 19
+2026-08-03 00:15:25,111 | INFO | Extracted text length: 33352
+2026-08-03 00:15:25,112 | INFO | Saved JSON: data\pdf_text\btech_year3_mech_sem5.json
+2026-08-03 00:15:25,113 | INFO | Processing PDF: data\pdfs\btech_year3_mech_sem6.pdf
+2026-08-03 00:15:26,789 | INFO | Detected repeated headers/footers (clusters >= 14/19 pages):
+2026-08-03 00:15:26,789 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:26,789 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:26,789 | INFO | Detected repeated headers (summary): [header] academic effect from with year; [header] engineering faculty technology
+2026-08-03 00:15:26,800 | INFO | Removed from pages:
+2026-08-03 00:15:26,800 | INFO | - [header] academic effect from with year: 18 pages
+2026-08-03 00:15:26,800 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:26,806 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:26,807 | INFO | OCR required: False
+2026-08-03 00:15:26,807 | INFO | Page count: 19
+2026-08-03 00:15:26,807 | INFO | Extracted text length: 34299
+2026-08-03 00:15:26,811 | INFO | Saved JSON: data\pdf_text\btech_year3_mech_sem6.json
+2026-08-03 00:15:26,812 | INFO | Processing PDF: data\pdfs\btech_year4_civil_sem7.pdf
+2026-08-03 00:15:28,767 | INFO | Detected repeated headers/footers (clusters >= 14/20 pages):
+2026-08-03 00:15:28,767 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:28,767 | INFO | - [header] civil department engineering
+2026-08-03 00:15:28,767 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:28,767 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:28,767 | INFO | Detected repeated headers (summary): [header] academic effect from with year; [header] civil department engineering; [header] engineering faculty technology; [header] kakatiya university warangal
+2026-08-03 00:15:28,779 | INFO | Removed from pages:
+2026-08-03 00:15:28,779 | INFO | - [header] academic effect from with year: 20 pages
+2026-08-03 00:15:28,779 | INFO | - [header] civil department engineering: 17 pages
+2026-08-03 00:15:28,779 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:28,779 | INFO | - [header] kakatiya university warangal: 17 pages
+2026-08-03 00:15:28,784 | INFO | Detected document type: tender
+2026-08-03 00:15:28,785 | INFO | OCR required: False
+2026-08-03 00:15:28,785 | INFO | Page count: 20
+2026-08-03 00:15:28,785 | INFO | Extracted text length: 44352
+2026-08-03 00:15:28,788 | INFO | Saved JSON: data\pdf_text\btech_year4_civil_sem7.json
+2026-08-03 00:15:28,788 | INFO | Processing PDF: data\pdfs\btech_year4_civil_sem8.pdf
+2026-08-03 00:15:30,119 | INFO | Detected repeated headers/footers (clusters >= 11/15 pages):
+2026-08-03 00:15:30,119 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:30,119 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:30,119 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:30,119 | INFO | Detected repeated headers (summary): [header] academic effect from with year; [header] engineering faculty technology; [header] kakatiya university warangal
+2026-08-03 00:15:30,119 | INFO | Removed from pages:
+2026-08-03 00:15:30,119 | INFO | - [header] academic effect from with year: 15 pages
+2026-08-03 00:15:30,119 | INFO | - [header] engineering faculty technology: 13 pages
+2026-08-03 00:15:30,119 | INFO | - [header] kakatiya university warangal: 13 pages
+2026-08-03 00:15:30,131 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:30,131 | INFO | OCR required: False
+2026-08-03 00:15:30,131 | INFO | Page count: 15
+2026-08-03 00:15:30,132 | INFO | Extracted text length: 30538
+2026-08-03 00:15:30,133 | INFO | Saved JSON: data\pdf_text\btech_year4_civil_sem8.json
+2026-08-03 00:15:30,133 | INFO | Processing PDF: data\pdfs\btech_year4_csd_sem7.pdf
+2026-08-03 00:15:31,420 | INFO | Detected repeated headers/footers (clusters >= 13/18 pages):
+2026-08-03 00:15:31,420 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:31,420 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:31,430 | INFO | Removed from pages:
+2026-08-03 00:15:31,430 | INFO | - [header] engineering faculty technology: 18 pages
+2026-08-03 00:15:31,436 | INFO | Detected document type: unknown
+2026-08-03 00:15:31,436 | INFO | OCR required: False
+2026-08-03 00:15:31,437 | INFO | Page count: 18
+2026-08-03 00:15:31,437 | INFO | Extracted text length: 30991
+2026-08-03 00:15:31,438 | INFO | Saved JSON: data\pdf_text\btech_year4_csd_sem7.json
+2026-08-03 00:15:31,440 | INFO | Processing PDF: data\pdfs\btech_year4_csd_sem8.pdf
+2026-08-03 00:15:32,645 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:15:32,649 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:32,649 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:32,650 | INFO | Removed from pages:
+2026-08-03 00:15:32,650 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:32,659 | INFO | Detected document type: syllabus
+2026-08-03 00:15:32,659 | INFO | OCR required: False
+2026-08-03 00:15:32,659 | INFO | Page count: 17
+2026-08-03 00:15:32,660 | INFO | Extracted text length: 23785
+2026-08-03 00:15:32,661 | INFO | Saved JSON: data\pdf_text\btech_year4_csd_sem8.json
+2026-08-03 00:15:32,661 | INFO | Processing PDF: data\pdfs\btech_year4_cse_sem7.pdf
+2026-08-03 00:15:33,951 | INFO | Detected repeated headers/footers (clusters >= 13/18 pages):
+2026-08-03 00:15:33,951 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:33,951 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:33,955 | INFO | Removed from pages:
+2026-08-03 00:15:33,955 | INFO | - [header] engineering faculty technology: 18 pages
+2026-08-03 00:15:33,965 | INFO | Detected document type: unknown
+2026-08-03 00:15:33,965 | INFO | OCR required: False
+2026-08-03 00:15:33,965 | INFO | Page count: 18
+2026-08-03 00:15:33,965 | INFO | Extracted text length: 30991
+2026-08-03 00:15:33,968 | INFO | Saved JSON: data\pdf_text\btech_year4_cse_sem7.json
+2026-08-03 00:15:33,968 | INFO | Processing PDF: data\pdfs\btech_year4_cse_sem8.pdf
+2026-08-03 00:15:35,162 | INFO | Detected repeated headers/footers (clusters >= 12/17 pages):
+2026-08-03 00:15:35,162 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:35,162 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:35,162 | INFO | Removed from pages:
+2026-08-03 00:15:35,162 | INFO | - [header] engineering faculty technology: 17 pages
+2026-08-03 00:15:35,172 | INFO | Detected document type: syllabus
+2026-08-03 00:15:35,172 | INFO | OCR required: False
+2026-08-03 00:15:35,173 | INFO | Page count: 17
+2026-08-03 00:15:35,173 | INFO | Extracted text length: 23785
+2026-08-03 00:15:35,174 | INFO | Saved JSON: data\pdf_text\btech_year4_cse_sem8.json
+2026-08-03 00:15:35,175 | INFO | Processing PDF: data\pdfs\btech_year4_ece_sem7.pdf
+2026-08-03 00:15:36,479 | INFO | Detected repeated headers/footers (clusters >= 11/15 pages):
+2026-08-03 00:15:36,481 | INFO | - [header] communication department electronics engineering
+2026-08-03 00:15:36,481 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:36,482 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:15:36,482 | INFO | - [header] btech ece semester
+2026-08-03 00:15:36,482 | INFO | Detected repeated headers (summary): [header] communication department electronics engineering; [header] engineering faculty technology; [header] kakatiya university warangal; [header] btech ece semester
+2026-08-03 00:15:36,484 | INFO | Removed from pages:
+2026-08-03 00:15:36,484 | INFO | - [header] btech ece semester: 14 pages
+2026-08-03 00:15:36,484 | INFO | - [header] communication department electronics engineering: 14 pages
+2026-08-03 00:15:36,484 | INFO | - [header] engineering faculty technology: 14 pages
+2026-08-03 00:15:36,484 | INFO | - [header] kakatiya university warangal: 14 pages
+2026-08-03 00:15:36,492 | INFO | Detected document type: syllabus
+2026-08-03 00:15:36,492 | INFO | OCR required: False
+2026-08-03 00:15:36,493 | INFO | Page count: 15
+2026-08-03 00:15:36,493 | INFO | Extracted text length: 28553
+2026-08-03 00:15:36,494 | INFO | Saved JSON: data\pdf_text\btech_year4_ece_sem7.json
+2026-08-03 00:15:36,494 | INFO | Processing PDF: data\pdfs\btech_year4_ece_sem8.pdf
+2026-08-03 00:15:38,074 | INFO | Detected repeated headers/footers (clusters >= 12/16 pages):
+2026-08-03 00:15:38,074 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:38,074 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:38,078 | INFO | Removed from pages:
+2026-08-03 00:15:38,081 | INFO | - [header] engineering faculty technology: 16 pages
+2026-08-03 00:15:38,085 | INFO | Detected document type: syllabus
+2026-08-03 00:15:38,085 | INFO | OCR required: False
+2026-08-03 00:15:38,086 | INFO | Page count: 16
+2026-08-03 00:15:38,086 | INFO | Extracted text length: 27239
+2026-08-03 00:15:38,088 | INFO | Saved JSON: data\pdf_text\btech_year4_ece_sem8.json
+2026-08-03 00:15:38,088 | INFO | Processing PDF: data\pdfs\btech_year4_eee_sem7.pdf
+2026-08-03 00:15:39,565 | INFO | Detected repeated headers/footers (clusters >= 16/22 pages):
+2026-08-03 00:15:39,565 | INFO | - [footer] department electrical electronics engineering
+2026-08-03 00:15:39,565 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:39,565 | INFO | Detected repeated headers (summary): [footer] department electrical electronics engineering; [header] engineering faculty technology
+2026-08-03 00:15:39,578 | INFO | Removed from pages:
+2026-08-03 00:15:39,578 | INFO | - [header] engineering faculty technology: 22 pages
+2026-08-03 00:15:39,578 | INFO | - [footer] department electrical electronics engineering: 19 pages
+2026-08-03 00:15:39,589 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:39,589 | INFO | OCR required: False
+2026-08-03 00:15:39,589 | INFO | Page count: 22
+2026-08-03 00:15:39,589 | INFO | Extracted text length: 37425
+2026-08-03 00:15:39,592 | INFO | Saved JSON: data\pdf_text\btech_year4_eee_sem7.json
+2026-08-03 00:15:39,592 | INFO | Processing PDF: data\pdfs\btech_year4_eee_sem8.pdf
+2026-08-03 00:15:41,162 | INFO | Detected repeated headers/footers (clusters >= 12/16 pages):
+2026-08-03 00:15:41,162 | INFO | - [header] engineering faculty technology
+2026-08-03 00:15:41,162 | INFO | Detected repeated headers (summary): [header] engineering faculty technology
+2026-08-03 00:15:41,168 | INFO | Removed from pages:
+2026-08-03 00:15:41,168 | INFO | - [header] engineering faculty technology: 16 pages
+2026-08-03 00:15:41,177 | INFO | Detected document type: syllabus
+2026-08-03 00:15:41,177 | INFO | OCR required: False
+2026-08-03 00:15:41,177 | INFO | Page count: 16
+2026-08-03 00:15:41,178 | INFO | Extracted text length: 27239
+2026-08-03 00:15:41,179 | INFO | Saved JSON: data\pdf_text\btech_year4_eee_sem8.json
+2026-08-03 00:15:41,179 | INFO | Processing PDF: data\pdfs\btech_year4_mech_sem7.pdf
+2026-08-03 00:15:43,103 | INFO | Detected repeated headers/footers (clusters >= 19/27 pages):
+2026-08-03 00:15:43,103 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:43,103 | INFO | Detected repeated headers (summary): [header] academic effect from with year
+2026-08-03 00:15:43,113 | INFO | Removed from pages:
+2026-08-03 00:15:43,113 | INFO | - [header] academic effect from with year: 27 pages
+2026-08-03 00:15:43,120 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:43,120 | INFO | OCR required: False
+2026-08-03 00:15:43,121 | INFO | Page count: 27
+2026-08-03 00:15:43,121 | INFO | Extracted text length: 42458
+2026-08-03 00:15:43,123 | INFO | Saved JSON: data\pdf_text\btech_year4_mech_sem7.json
+2026-08-03 00:15:43,123 | INFO | Processing PDF: data\pdfs\btech_year4_mech_sem8.pdf
+2026-08-03 00:15:44,524 | INFO | Detected repeated headers/footers (clusters >= 14/19 pages):
+2026-08-03 00:15:44,529 | INFO | - [header] academic effect from with year
+2026-08-03 00:15:44,529 | INFO | Detected repeated headers (summary): [header] academic effect from with year
+2026-08-03 00:15:44,534 | INFO | Removed from pages:
+2026-08-03 00:15:44,534 | INFO | - [header] academic effect from with year: 19 pages
+2026-08-03 00:15:44,539 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:44,540 | INFO | OCR required: False
+2026-08-03 00:15:44,540 | INFO | Page count: 19
+2026-08-03 00:15:44,540 | INFO | Extracted text length: 29993
+2026-08-03 00:15:44,542 | INFO | Saved JSON: data\pdf_text\btech_year4_mech_sem8.json
+2026-08-03 00:15:44,542 | INFO | Processing PDF: data\pdfs\Call_for_Quotation.pdf
+2026-08-03 00:15:44,546 | INFO | Detected document type: unknown
+2026-08-03 00:15:44,546 | INFO | OCR required: True
+2026-08-03 00:15:44,547 | INFO | Page count: 1
+2026-08-03 00:15:44,547 | INFO | Extracted text length: 0
+2026-08-03 00:15:44,547 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Call_for_Quotation.pdf
+2026-08-03 00:15:44,547 | INFO | Saved JSON: data\pdf_text\Call_for_Quotation.json
+2026-08-03 00:15:44,548 | INFO | Processing PDF: data\pdfs\Call_for_quotation__electrical_Work_.pdf
+2026-08-03 00:15:44,587 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,588 | INFO | OCR required: False
+2026-08-03 00:15:44,588 | INFO | Page count: 1
+2026-08-03 00:15:44,588 | INFO | Extracted text length: 1116
+2026-08-03 00:15:44,589 | INFO | Saved JSON: data\pdf_text\Call_for_quotation__electrical_Work_.json
+2026-08-03 00:15:44,589 | INFO | Processing PDF: data\pdfs\Call_for_quotation_Crompton_High_speed_Fans_.pdf
+2026-08-03 00:15:44,620 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,620 | INFO | OCR required: False
+2026-08-03 00:15:44,620 | INFO | Page count: 1
+2026-08-03 00:15:44,620 | INFO | Extracted text length: 983
+2026-08-03 00:15:44,620 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_Crompton_High_speed_Fans_.json
+2026-08-03 00:15:44,620 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_Electrical_Items.pdf
+2026-08-03 00:15:44,675 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,675 | INFO | OCR required: False
+2026-08-03 00:15:44,675 | INFO | Page count: 1
+2026-08-03 00:15:44,676 | INFO | Extracted text length: 1222
+2026-08-03 00:15:44,676 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_Electrical_Items.json
+2026-08-03 00:15:44,676 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_servicing_of_ADCS_lab.pdf
+2026-08-03 00:15:44,728 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,731 | INFO | OCR required: False
+2026-08-03 00:15:44,731 | INFO | Page count: 1
+2026-08-03 00:15:44,731 | INFO | Extracted text length: 1555
+2026-08-03 00:15:44,732 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_servicing_of_ADCS_lab.json
+2026-08-03 00:15:44,732 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_answer_booklets.pdf
+2026-08-03 00:15:44,771 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,771 | INFO | OCR required: False
+2026-08-03 00:15:44,771 | INFO | Page count: 1
+2026-08-03 00:15:44,772 | INFO | Extracted text length: 1114
+2026-08-03 00:15:44,773 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_answer_booklets.json
+2026-08-03 00:15:44,773 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_CCTV_setup_items.pdf
+2026-08-03 00:15:44,867 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,867 | INFO | OCR required: False
+2026-08-03 00:15:44,867 | INFO | Page count: 1
+2026-08-03 00:15:44,867 | INFO | Extracted text length: 1081
+2026-08-03 00:15:44,867 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_CCTV_setup_items.json
+2026-08-03 00:15:44,867 | INFO | Processing PDF: data\pdfs\Call_for_quotation_for_supply_of_chemical_for_chemistry_Lab.pdf
+2026-08-03 00:15:44,927 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,928 | INFO | OCR required: False
+2026-08-03 00:15:44,928 | INFO | Page count: 1
+2026-08-03 00:15:44,928 | INFO | Extracted text length: 1548
+2026-08-03 00:15:44,929 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_for_supply_of_chemical_for_chemistry_Lab.json
+2026-08-03 00:15:44,929 | INFO | Processing PDF: data\pdfs\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.pdf
+2026-08-03 00:15:44,929 | INFO | Detected document type: unknown
+2026-08-03 00:15:44,929 | INFO | OCR required: True
+2026-08-03 00:15:44,929 | INFO | Page count: 1
+2026-08-03 00:15:44,929 | INFO | Extracted text length: 0
+2026-08-03 00:15:44,929 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.pdf
+2026-08-03 00:15:44,929 | INFO | Saved JSON: data\pdf_text\Call_for_quotation_Usha_Wall_Mount_High_speed_Fans_.json
+2026-08-03 00:15:44,929 | INFO | Processing PDF: data\pdfs\Call_For_Quotation_VaccumCleaner.pdf
+2026-08-03 00:15:44,962 | INFO | Detected document type: quotation
+2026-08-03 00:15:44,962 | INFO | OCR required: False
+2026-08-03 00:15:44,962 | INFO | Page count: 1
+2026-08-03 00:15:44,962 | INFO | Extracted text length: 784
+2026-08-03 00:15:44,964 | INFO | Saved JSON: data\pdf_text\Call_For_Quotation_VaccumCleaner.json
+2026-08-03 00:15:44,964 | INFO | Processing PDF: data\pdfs\Call_for_quotations_books.pdf
+2026-08-03 00:15:45,079 | INFO | Detected document type: quotation
+2026-08-03 00:15:45,079 | INFO | OCR required: False
+2026-08-03 00:15:45,079 | INFO | Page count: 1
+2026-08-03 00:15:45,079 | INFO | Extracted text length: 1180
+2026-08-03 00:15:45,079 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_books.json
+2026-08-03 00:15:45,079 | INFO | Processing PDF: data\pdfs\Call_for_quotations_cards.pdf
+2026-08-03 00:15:45,118 | INFO | Detected document type: quotation
+2026-08-03 00:15:45,118 | INFO | OCR required: False
+2026-08-03 00:15:45,119 | INFO | Page count: 1
+2026-08-03 00:15:45,119 | INFO | Extracted text length: 1006
+2026-08-03 00:15:45,120 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_cards.json
+2026-08-03 00:15:45,120 | INFO | Processing PDF: data\pdfs\Call_for_quotations_Electrical_items.pdf
+2026-08-03 00:15:45,209 | INFO | Detected document type: quotation
+2026-08-03 00:15:45,209 | INFO | OCR required: False
+2026-08-03 00:15:45,209 | INFO | Page count: 1
+2026-08-03 00:15:45,209 | INFO | Extracted text length: 995
+2026-08-03 00:15:45,211 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_Electrical_items.json
+2026-08-03 00:15:45,211 | INFO | Processing PDF: data\pdfs\Call_for_quotations_Hp.pdf
+2026-08-03 00:15:45,245 | INFO | Detected document type: quotation
+2026-08-03 00:15:45,248 | INFO | OCR required: False
+2026-08-03 00:15:45,248 | INFO | Page count: 1
+2026-08-03 00:15:45,248 | INFO | Extracted text length: 1069
+2026-08-03 00:15:45,248 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_Hp.json
+2026-08-03 00:15:45,250 | INFO | Processing PDF: data\pdfs\Call_for_quotations_pump.pdf
+2026-08-03 00:15:45,295 | INFO | Detected document type: quotation
+2026-08-03 00:15:45,295 | INFO | OCR required: False
+2026-08-03 00:15:45,295 | INFO | Page count: 1
+2026-08-03 00:15:45,295 | INFO | Extracted text length: 1397
+2026-08-03 00:15:45,295 | INFO | Saved JSON: data\pdf_text\Call_for_quotations_pump.json
+2026-08-03 00:15:45,295 | INFO | Processing PDF: data\pdfs\CSD_3-2_total.pdf
+2026-08-03 00:15:45,306 | INFO | Detected document type: unknown
+2026-08-03 00:15:45,306 | INFO | OCR required: True
+2026-08-03 00:15:45,306 | INFO | Page count: 5
+2026-08-03 00:15:45,307 | INFO | Extracted text length: 0
+2026-08-03 00:15:45,307 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\CSD_3-2_total.pdf
+2026-08-03 00:15:45,308 | INFO | Saved JSON: data\pdf_text\CSD_3-2_total.json
+2026-08-03 00:15:45,308 | INFO | Processing PDF: data\pdfs\CSE_IT_3-2_total.pdf
+2026-08-03 00:15:45,317 | INFO | Detected document type: unknown
+2026-08-03 00:15:45,318 | INFO | OCR required: True
+2026-08-03 00:15:45,318 | INFO | Page count: 5
+2026-08-03 00:15:45,318 | INFO | Extracted text length: 0
+2026-08-03 00:15:45,318 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\CSE_IT_3-2_total.pdf
+2026-08-03 00:15:45,319 | INFO | Saved JSON: data\pdf_text\CSE_IT_3-2_total.json
+2026-08-03 00:15:45,319 | INFO | Processing PDF: data\pdfs\CSE_PO.pdf
+2026-08-03 00:15:47,713 | INFO | Detected document type: unknown
+2026-08-03 00:15:47,713 | INFO | OCR required: False
+2026-08-03 00:15:47,713 | INFO | Page count: 7
+2026-08-03 00:15:47,713 | INFO | Extracted text length: 31259
+2026-08-03 00:15:47,713 | INFO | Saved JSON: data\pdf_text\CSE_PO.json
+2026-08-03 00:15:47,713 | INFO | Processing PDF: data\pdfs\CSE_TIMETABLE.pdf
+2026-08-03 00:15:48,228 | INFO | Detected repeated headers/footers (clusters >= 3/4 pages):
+2026-08-03 00:15:48,228 | INFO | - [header] college engineering technology
+2026-08-03 00:15:48,228 | INFO | Detected repeated headers (summary): [header] college engineering technology
+2026-08-03 00:15:48,229 | INFO | Removed from pages:
+2026-08-03 00:15:48,229 | INFO | - [header] college engineering technology: 4 pages
+2026-08-03 00:15:48,233 | INFO | Detected document type: timetable
+2026-08-03 00:15:48,233 | INFO | OCR required: False
+2026-08-03 00:15:48,233 | INFO | Page count: 4
+2026-08-03 00:15:48,233 | INFO | Extracted text length: 5685
+2026-08-03 00:15:48,235 | INFO | Saved JSON: data\pdf_text\CSE_TIMETABLE.json
+2026-08-03 00:15:48,235 | INFO | Processing PDF: data\pdfs\Culturaleventslistexternal2.pdf
+2026-08-03 00:15:48,540 | INFO | Detected document type: unknown
+2026-08-03 00:15:48,540 | INFO | OCR required: False
+2026-08-03 00:15:48,544 | INFO | Page count: 6
+2026-08-03 00:15:48,544 | INFO | Extracted text length: 3629
+2026-08-03 00:15:48,545 | INFO | Saved JSON: data\pdf_text\Culturaleventslistexternal2.json
+2026-08-03 00:15:48,546 | INFO | Processing PDF: data\pdfs\Exam.pdf
+2026-08-03 00:15:48,899 | INFO | Detected document type: exam_schedule
+2026-08-03 00:15:48,899 | INFO | OCR required: False
+2026-08-03 00:15:48,899 | INFO | Page count: 1
+2026-08-03 00:15:48,899 | INFO | Extracted text length: 1285
+2026-08-03 00:15:48,899 | INFO | Saved JSON: data\pdf_text\Exam.json
+2026-08-03 00:15:48,899 | INFO | Processing PDF: data\pdfs\EXAM_POSTPONE.pdf
+2026-08-03 00:15:48,921 | INFO | Detected document type: general_announcement
+2026-08-03 00:15:48,921 | INFO | OCR required: False
+2026-08-03 00:15:48,921 | INFO | Page count: 1
+2026-08-03 00:15:48,921 | INFO | Extracted text length: 637
+2026-08-03 00:15:48,927 | INFO | Saved JSON: data\pdf_text\EXAM_POSTPONE.json
+2026-08-03 00:15:48,927 | INFO | Processing PDF: data\pdfs\Excel_Edtech.pdf
+2026-08-03 00:15:49,017 | INFO | Detected document type: unknown
+2026-08-03 00:15:49,017 | INFO | OCR required: False
+2026-08-03 00:15:49,017 | INFO | Page count: 1
+2026-08-03 00:15:49,017 | INFO | Extracted text length: 2898
+2026-08-03 00:15:49,017 | INFO | Saved JSON: data\pdf_text\Excel_Edtech.json
+2026-08-03 00:15:49,017 | INFO | Processing PDF: data\pdfs\FDP_20NITW_20Brochure1_20june.pdf
+2026-08-03 00:15:49,492 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:15:49,492 | INFO | - [header] ai applications care generative health iot
+2026-08-03 00:15:49,492 | INFO | - [header] cyber security
+2026-08-03 00:15:49,492 | INFO | - [header] development faculty fdp online program
+2026-08-03 00:15:49,492 | INFO | Detected repeated headers (summary): [header] ai applications care generative health iot; [header] cyber security; [header] development faculty fdp online program
+2026-08-03 00:15:49,495 | INFO | Removed from pages:
+2026-08-03 00:15:49,495 | INFO | - [header] ai applications care generative health iot: 2 pages
+2026-08-03 00:15:49,495 | INFO | - [header] cyber security: 2 pages
+2026-08-03 00:15:49,497 | INFO | - [header] development faculty fdp online program: 2 pages
+2026-08-03 00:15:49,502 | INFO | Detected document type: fee_circular
+2026-08-03 00:15:49,502 | INFO | OCR required: False
+2026-08-03 00:15:49,502 | INFO | Page count: 2
+2026-08-03 00:15:49,502 | INFO | Extracted text length: 7372
+2026-08-03 00:15:49,504 | INFO | Saved JSON: data\pdf_text\FDP_20NITW_20Brochure1_20june.json
+2026-08-03 00:15:49,504 | INFO | Processing PDF: data\pdfs\FDP_20schedule.pdf
+2026-08-03 00:15:49,708 | INFO | Detected document type: unknown
+2026-08-03 00:15:49,708 | INFO | OCR required: False
+2026-08-03 00:15:49,708 | INFO | Page count: 1
+2026-08-03 00:15:49,708 | INFO | Extracted text length: 6771
+2026-08-03 00:15:49,708 | INFO | Saved JSON: data\pdf_text\FDP_20schedule.json
+2026-08-03 00:15:49,708 | INFO | Processing PDF: data\pdfs\FDP_NITW_Brochure1_june.pdf
+2026-08-03 00:15:50,181 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:15:50,181 | INFO | - [header] ai applications care generative health iot
+2026-08-03 00:15:50,181 | INFO | - [header] cyber security
+2026-08-03 00:15:50,181 | INFO | - [header] development faculty fdp online program
+2026-08-03 00:15:50,181 | INFO | Detected repeated headers (summary): [header] ai applications care generative health iot; [header] cyber security; [header] development faculty fdp online program
+2026-08-03 00:15:50,181 | INFO | Removed from pages:
+2026-08-03 00:15:50,181 | INFO | - [header] ai applications care generative health iot: 2 pages
+2026-08-03 00:15:50,181 | INFO | - [header] cyber security: 2 pages
+2026-08-03 00:15:50,181 | INFO | - [header] development faculty fdp online program: 2 pages
+2026-08-03 00:15:50,185 | INFO | Detected document type: fee_circular
+2026-08-03 00:15:50,185 | INFO | OCR required: False
+2026-08-03 00:15:50,185 | INFO | Page count: 2
+2026-08-03 00:15:50,185 | INFO | Extracted text length: 7372
+2026-08-03 00:15:50,192 | INFO | Saved JSON: data\pdf_text\FDP_NITW_Brochure1_june.json
+2026-08-03 00:15:50,192 | INFO | Processing PDF: data\pdfs\Fee_Circular.pdf
+2026-08-03 00:15:50,195 | INFO | Detected document type: unknown
+2026-08-03 00:15:50,196 | INFO | OCR required: True
+2026-08-03 00:15:50,196 | INFO | Page count: 1
+2026-08-03 00:15:50,196 | INFO | Extracted text length: 0
+2026-08-03 00:15:50,196 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Fee_Circular.pdf
+2026-08-03 00:15:50,196 | INFO | Saved JSON: data\pdf_text\Fee_Circular.json
+2026-08-03 00:15:50,196 | INFO | Processing PDF: data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-08-03 00:15:50,196 | INFO | Detected document type: unknown
+2026-08-03 00:15:50,196 | INFO | OCR required: True
+2026-08-03 00:15:50,196 | INFO | Page count: 2
+2026-08-03 00:15:50,196 | INFO | Extracted text length: 0
+2026-08-03 00:15:50,196 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\Fresh__Renewal_Scholarship.pdf
+2026-08-03 00:15:50,203 | INFO | Saved JSON: data\pdf_text\Fresh__Renewal_Scholarship.json
+2026-08-03 00:15:50,203 | INFO | Processing PDF: data\pdfs\Gold_Medal_List_July_2025_.pdf
+2026-08-03 00:15:50,328 | INFO | Detected document type: unknown
+2026-08-03 00:15:50,328 | INFO | OCR required: False
+2026-08-03 00:15:50,328 | INFO | Page count: 1
+2026-08-03 00:15:50,328 | INFO | Extracted text length: 3839
+2026-08-03 00:15:50,330 | INFO | Saved JSON: data\pdf_text\Gold_Medal_List_July_2025_.json
+2026-08-03 00:15:50,330 | INFO | Processing PDF: data\pdfs\Ku_MOU.pdf
+2026-08-03 00:15:50,395 | INFO | Detected document type: placement_notification
+2026-08-03 00:15:50,395 | INFO | OCR required: False
+2026-08-03 00:15:50,395 | INFO | Page count: 1
+2026-08-03 00:15:50,395 | INFO | Extracted text length: 934
+2026-08-03 00:15:50,395 | INFO | Saved JSON: data\pdf_text\Ku_MOU.json
+2026-08-03 00:15:50,395 | INFO | Processing PDF: data\pdfs\Lecture_Plan.pdf
+2026-08-03 00:15:50,529 | INFO | Detected document type: unknown
+2026-08-03 00:15:50,529 | INFO | OCR required: False
+2026-08-03 00:15:50,529 | INFO | Page count: 1
+2026-08-03 00:15:50,529 | INFO | Extracted text length: 825
+2026-08-03 00:15:50,529 | INFO | Saved JSON: data\pdf_text\Lecture_Plan.json
+2026-08-03 00:15:50,529 | INFO | Processing PDF: data\pdfs\mtech_cad_syllabus.pdf
+2026-08-03 00:15:52,212 | INFO | Detected document type: unknown
+2026-08-03 00:15:52,212 | INFO | OCR required: False
+2026-08-03 00:15:52,212 | INFO | Page count: 28
+2026-08-03 00:15:52,212 | INFO | Extracted text length: 41721
+2026-08-03 00:15:52,217 | INFO | Saved JSON: data\pdf_text\mtech_cad_syllabus.json
+2026-08-03 00:15:52,217 | INFO | Processing PDF: data\pdfs\mtech_cse_syllabus.pdf
+2026-08-03 00:15:52,269 | INFO | Detected repeated headers/footers (clusters >= 21/30 pages):
+2026-08-03 00:15:52,269 | INFO | - [footer] by camscanner scanned
+2026-08-03 00:15:52,269 | INFO | Detected repeated headers (summary): [footer] by camscanner scanned
+2026-08-03 00:15:52,269 | INFO | Removed from pages:
+2026-08-03 00:15:52,269 | INFO | - [footer] by camscanner scanned: 0 pages
+2026-08-03 00:15:52,269 | INFO | Detected document type: unknown
+2026-08-03 00:15:52,269 | INFO | OCR required: False
+2026-08-03 00:15:52,269 | INFO | Page count: 30
+2026-08-03 00:15:52,272 | INFO | Extracted text length: 630
+2026-08-03 00:15:52,272 | INFO | Saved JSON: data\pdf_text\mtech_cse_syllabus.json
+2026-08-03 00:15:52,275 | INFO | Processing PDF: data\pdfs\mtech_dc_syllabus.pdf
+2026-08-03 00:15:54,895 | INFO | Detected document type: academic_regulations
+2026-08-03 00:15:54,896 | INFO | OCR required: False
+2026-08-03 00:15:54,896 | INFO | Page count: 43
+2026-08-03 00:15:54,896 | INFO | Extracted text length: 66487
+2026-08-03 00:15:54,896 | INFO | Saved JSON: data\pdf_text\mtech_dc_syllabus.json
+2026-08-03 00:15:54,896 | INFO | Processing PDF: data\pdfs\NSS_Report_17-22_.pdf
+2026-08-03 00:15:55,666 | INFO | Detected document type: unknown
+2026-08-03 00:15:55,666 | INFO | OCR required: False
+2026-08-03 00:15:55,666 | INFO | Page count: 68
+2026-08-03 00:15:55,666 | INFO | Extracted text length: 4470
+2026-08-03 00:15:55,673 | INFO | Saved JSON: data\pdf_text\NSS_Report_17-22_.json
+2026-08-03 00:15:55,673 | INFO | Processing PDF: data\pdfs\NSS_Report_2025-26.pdf
+2026-08-03 00:16:00,919 | INFO | Detected repeated headers/footers (clusters >= 31/44 pages):
+2026-08-03 00:16:00,919 | INFO | - [header] by govt recognized warangal
+2026-08-03 00:16:00,919 | INFO | - [header] campus kakatiya university vidyaranyapuri
+2026-08-03 00:16:00,919 | INFO | - [header] college engineering technology
+2026-08-03 00:16:00,919 | INFO | Detected repeated headers (summary): [header] by govt recognized warangal; [header] campus kakatiya university vidyaranyapuri; [header] college engineering technology
+2026-08-03 00:16:00,928 | INFO | Removed from pages:
+2026-08-03 00:16:00,928 | INFO | - [header] campus kakatiya university vidyaranyapuri: 9 pages
+2026-08-03 00:16:00,928 | INFO | - [header] by govt recognized warangal: 8 pages
+2026-08-03 00:16:00,935 | INFO | - [header] college engineering technology: 8 pages
+2026-08-03 00:16:00,937 | INFO | Detected document type: unknown
+2026-08-03 00:16:00,937 | INFO | OCR required: False
+2026-08-03 00:16:00,937 | INFO | Page count: 44
+2026-08-03 00:16:00,937 | INFO | Extracted text length: 49297
+2026-08-03 00:16:00,940 | INFO | Saved JSON: data\pdf_text\NSS_Report_2025-26.json
+2026-08-03 00:16:00,940 | INFO | Processing PDF: data\pdfs\NSS_REPORT_24-25_.pdf
+2026-08-03 00:16:01,546 | INFO | Detected document type: unknown
+2026-08-03 00:16:01,546 | INFO | OCR required: False
+2026-08-03 00:16:01,546 | INFO | Page count: 18
+2026-08-03 00:16:01,546 | INFO | Extracted text length: 11220
+2026-08-03 00:16:01,546 | INFO | Saved JSON: data\pdf_text\NSS_REPORT_24-25_.json
+2026-08-03 00:16:01,546 | INFO | Processing PDF: data\pdfs\Phd.pdf
+2026-08-03 00:16:01,565 | INFO | Detected document type: unknown
+2026-08-03 00:16:01,565 | INFO | OCR required: False
+2026-08-03 00:16:01,565 | INFO | Page count: 1
+2026-08-03 00:16:01,565 | INFO | Extracted text length: 159
+2026-08-03 00:16:01,571 | INFO | Saved JSON: data\pdf_text\Phd.json
+2026-08-03 00:16:01,571 | INFO | Processing PDF: data\pdfs\Plastic_nilkamal_chairs.pdf
+2026-08-03 00:16:01,599 | INFO | Detected document type: quotation
+2026-08-03 00:16:01,599 | INFO | OCR required: False
+2026-08-03 00:16:01,605 | INFO | Page count: 1
+2026-08-03 00:16:01,605 | INFO | Extracted text length: 989
+2026-08-03 00:16:01,605 | INFO | Saved JSON: data\pdf_text\Plastic_nilkamal_chairs.json
+2026-08-03 00:16:01,605 | INFO | Processing PDF: data\pdfs\principal_profile.pdf
+2026-08-03 00:16:02,501 | INFO | Detected document type: unknown
+2026-08-03 00:16:02,501 | INFO | OCR required: False
+2026-08-03 00:16:02,510 | INFO | Page count: 10
+2026-08-03 00:16:02,510 | INFO | Extracted text length: 22316
+2026-08-03 00:16:02,511 | INFO | Saved JSON: data\pdf_text\principal_profile.json
+2026-08-03 00:16:02,512 | INFO | Processing PDF: data\pdfs\Quatation_door_window.pdf
+2026-08-03 00:16:02,546 | INFO | Detected document type: quotation
+2026-08-03 00:16:02,546 | INFO | OCR required: False
+2026-08-03 00:16:02,546 | INFO | Page count: 1
+2026-08-03 00:16:02,546 | INFO | Extracted text length: 1086
+2026-08-03 00:16:02,546 | INFO | Saved JSON: data\pdf_text\Quatation_door_window.json
+2026-08-03 00:16:02,546 | INFO | Processing PDF: data\pdfs\Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.pdf
+2026-08-03 00:16:04,185 | INFO | Detected document type: placement_notification
+2026-08-03 00:16:04,185 | INFO | OCR required: False
+2026-08-03 00:16:04,185 | INFO | Page count: 5
+2026-08-03 00:16:04,185 | INFO | Extracted text length: 42841
+2026-08-03 00:16:04,194 | INFO | Saved JSON: data\pdf_text\Recruitment_Notification_for_Indian_Navy_Short_Service_Commission_SSC_Officers_June_2027_Course.json
+2026-08-03 00:16:04,194 | INFO | Processing PDF: data\pdfs\RemunerationBill.pdf
+2026-08-03 00:16:04,196 | INFO | Detected document type: unknown
+2026-08-03 00:16:04,196 | INFO | OCR required: True
+2026-08-03 00:16:04,196 | INFO | Page count: 2
+2026-08-03 00:16:04,196 | INFO | Extracted text length: 0
+2026-08-03 00:16:04,196 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\RemunerationBill.pdf
+2026-08-03 00:16:04,200 | INFO | Saved JSON: data\pdf_text\RemunerationBill.json
+2026-08-03 00:16:04,200 | INFO | Processing PDF: data\pdfs\rules-and-regulations.pdf
+2026-08-03 00:16:04,215 | INFO | Detected document type: unknown
+2026-08-03 00:16:04,216 | INFO | OCR required: True
+2026-08-03 00:16:04,216 | INFO | Page count: 15
+2026-08-03 00:16:04,216 | INFO | Extracted text length: 0
+2026-08-03 00:16:04,216 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\rules-and-regulations.pdf
+2026-08-03 00:16:04,216 | INFO | Saved JSON: data\pdf_text\rules-and-regulations.json
+2026-08-03 00:16:04,216 | INFO | Processing PDF: data\pdfs\rules.pdf
+2026-08-03 00:16:05,312 | INFO | Detected document type: fee_circular
+2026-08-03 00:16:05,312 | INFO | OCR required: False
+2026-08-03 00:16:05,312 | INFO | Page count: 12
+2026-08-03 00:16:05,312 | INFO | Extracted text length: 23630
+2026-08-03 00:16:05,312 | INFO | Saved JSON: data\pdf_text\rules.json
+2026-08-03 00:16:05,312 | INFO | Processing PDF: data\pdfs\TADA.pdf
+2026-08-03 00:16:05,318 | INFO | Detected document type: unknown
+2026-08-03 00:16:05,318 | INFO | OCR required: True
+2026-08-03 00:16:05,318 | INFO | Page count: 2
+2026-08-03 00:16:05,318 | INFO | Extracted text length: 0
+2026-08-03 00:16:05,318 | WARNING | No extractable text found (possibly scanned/image-only PDF, no OCR in Phase 4): data\pdfs\TADA.pdf
+2026-08-03 00:16:05,323 | INFO | Saved JSON: data\pdf_text\TADA.json
+2026-08-03 00:16:05,323 | INFO | Processing PDF: data\pdfs\Technical_Events_2026.pdf
+2026-08-03 00:16:08,195 | INFO | Detected repeated headers/footers (clusters >= 32/45 pages):
+2026-08-03 00:16:08,195 | INFO | - [header] college engineering
+2026-08-03 00:16:08,195 | INFO | - [header] kakatiya university warangal
+2026-08-03 00:16:08,195 | INFO | - [header] accredited by grade naac with
+2026-08-03 00:16:08,195 | INFO | Detected repeated headers (summary): [header] college engineering; [header] kakatiya university warangal; [header] accredited by grade naac with
+2026-08-03 00:16:08,200 | INFO | Removed from pages:
+2026-08-03 00:16:08,210 | INFO | - [header] college engineering: 45 pages
+2026-08-03 00:16:08,210 | INFO | - [header] kakatiya university warangal: 45 pages
+2026-08-03 00:16:08,210 | INFO | - [header] accredited by grade naac with: 40 pages
+2026-08-03 00:16:08,214 | INFO | Detected document type: unknown
+2026-08-03 00:16:08,214 | INFO | OCR required: False
+2026-08-03 00:16:08,215 | INFO | Page count: 45
+2026-08-03 00:16:08,215 | INFO | Extracted text length: 36389
+2026-08-03 00:16:08,215 | INFO | Saved JSON: data\pdf_text\Technical_Events_2026.json
+2026-08-03 00:16:08,215 | INFO | Processing PDF: data\pdfs\TGEAPCET_20DETAILED_20NOTIFICATION-2026.pdf
+2026-08-03 00:16:10,162 | INFO | Detected document type: fee_circular
+2026-08-03 00:16:10,162 | INFO | OCR required: False
+2026-08-03 00:16:10,162 | INFO | Page count: 16
+2026-08-03 00:16:10,165 | INFO | Extracted text length: 39609
+2026-08-03 00:16:10,166 | INFO | Saved JSON: data\pdf_text\TGEAPCET_20DETAILED_20NOTIFICATION-2026.json
+2026-08-03 00:16:10,166 | INFO | Processing PDF: data\pdfs\TGEAPCET_DETAILED_NOTIFICATION-2026.pdf
+2026-08-03 00:16:12,012 | INFO | Detected document type: fee_circular
+2026-08-03 00:16:12,012 | INFO | OCR required: False
+2026-08-03 00:16:12,020 | INFO | Page count: 16
+2026-08-03 00:16:12,021 | INFO | Extracted text length: 39609
+2026-08-03 00:16:12,021 | INFO | Saved JSON: data\pdf_text\TGEAPCET_DETAILED_NOTIFICATION-2026.json
+2026-08-03 00:16:12,021 | INFO | Processing PDF: data\pdfs\Time_Table_of_III_and_V_Semester_Examination.pdf
+2026-08-03 00:16:12,781 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:16:12,781 | INFO | - [header] campus college engg engineering institute kumar pradeep rampur tech technology vmr warangal
+2026-08-03 00:16:12,781 | INFO | Detected repeated headers (summary): [header] campus college engg engineering institute kumar pradeep rampur tech technology vmr warangal
+2026-08-03 00:16:12,781 | INFO | Removed from pages:
+2026-08-03 00:16:12,781 | INFO | - [header] campus college engg engineering institute kumar pradeep rampur tech technology vmr warangal: 2 pages
+2026-08-03 00:16:12,795 | INFO | Detected document type: exam_schedule
+2026-08-03 00:16:12,795 | INFO | OCR required: False
+2026-08-03 00:16:12,795 | INFO | Page count: 2
+2026-08-03 00:16:12,795 | INFO | Extracted text length: 12868
+2026-08-03 00:16:12,797 | INFO | Saved JSON: data\pdf_text\Time_Table_of_III_and_V_Semester_Examination.json
+2026-08-03 00:16:12,797 | INFO | Processing PDF: data\pdfs\Time_Table_of_VII_Semester_Examination.pdf
+2026-08-03 00:16:13,219 | INFO | Detected document type: exam_schedule
+2026-08-03 00:16:13,219 | INFO | OCR required: False
+2026-08-03 00:16:13,219 | INFO | Page count: 1
+2026-08-03 00:16:13,219 | INFO | Extracted text length: 8742
+2026-08-03 00:16:13,219 | INFO | Saved JSON: data\pdf_text\Time_Table_of_VII_Semester_Examination.json
+2026-08-03 00:16:13,219 | INFO | Processing PDF: data\pdfs\V-SEM.pdf
+2026-08-03 00:16:13,867 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:16:13,867 | INFO | - [header] campus college engg kothagudem tech university warangal
+2026-08-03 00:16:13,867 | INFO | Detected repeated headers (summary): [header] campus college engg kothagudem tech university warangal
+2026-08-03 00:16:13,867 | INFO | Removed from pages:
+2026-08-03 00:16:13,867 | INFO | - [header] campus college engg kothagudem tech university warangal: 2 pages
+2026-08-03 00:16:13,880 | INFO | Detected document type: exam_schedule
+2026-08-03 00:16:13,880 | INFO | OCR required: False
+2026-08-03 00:16:13,881 | INFO | Page count: 2
+2026-08-03 00:16:13,881 | INFO | Extracted text length: 10587
+2026-08-03 00:16:13,882 | INFO | Saved JSON: data\pdf_text\V-SEM.json
+2026-08-03 00:16:13,882 | INFO | Processing PDF: data\pdfs\V-Sem__supply.pdf
+2026-08-03 00:16:14,550 | INFO | Detected repeated headers/footers (clusters >= 2/2 pages):
+2026-08-03 00:16:14,550 | INFO | - [header] campus college engg kothagudem tech university warangal
+2026-08-03 00:16:14,550 | INFO | Detected repeated headers (summary): [header] campus college engg kothagudem tech university warangal
+2026-08-03 00:16:14,551 | INFO | Removed from pages:
+2026-08-03 00:16:14,553 | INFO | - [header] campus college engg kothagudem tech university warangal: 2 pages
+2026-08-03 00:16:14,562 | INFO | Detected document type: exam_schedule
+2026-08-03 00:16:14,562 | INFO | OCR required: False
+2026-08-03 00:16:14,563 | INFO | Page count: 2
+2026-08-03 00:16:14,563 | INFO | Extracted text length: 10461
+2026-08-03 00:16:14,564 | INFO | Saved JSON: data\pdf_text\V-Sem__supply.json
+2026-08-03 00:16:14,564 | INFO | Processing PDF: data\pdfs\workshop.pdf
+2026-08-03 00:16:14,802 | INFO | Detected document type: fee_circular
+2026-08-03 00:16:14,802 | INFO | OCR required: False
+2026-08-03 00:16:14,802 | INFO | Page count: 1
+2026-08-03 00:16:14,802 | INFO | Extracted text length: 7486
+2026-08-03 00:16:14,807 | INFO | Saved JSON: data\pdf_text\workshop.json

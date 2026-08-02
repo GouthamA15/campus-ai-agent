@@ -1,0 +1,172 @@
+{
+  "document_id": "H&S.php.json",
+  "title": "Humanities and Social Science",
+  "source": "http://kucet.ac.in/H&S.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:22.279393+00:00",
+  "chunk_count": 18,
+  "chunks": [
+    {
+      "chunk_id": "H&S.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nHumanities and Social Science\nMathematics\nThe Department of Mathematics provides fundamental and advanced mathematical knowledge essential for engineering problem-solving and research.",
+      "token_count": 26
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Dr. K. Vijay Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. K. Vijay Kumar",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "M.Sc., Ph.D, B.Ed.",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Sc., Ph.D, B.Ed.",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9441795295",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\ndrkvijay3004@gmail.com\nPhysics\nThe Physics Department supports the engineering curriculum by teaching core concepts in electronics, mechanics, and materials through theoretical and experimental learning.",
+      "token_count": 32
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Dr. M. Kalpana Devi",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. M. Kalpana Devi",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "M.Sc (Electronics), Ph.D",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Sc (Electronics), Ph.D",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n7780370212",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nkalpanadevimora@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "D. Prasanna Rani",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "D. Prasanna Rani",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "M.Sc (Electronics), B.Ed, (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Sc (Electronics), B.Ed, (Ph.D)",
+      "token_count": 16
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9701187782",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nprasannarani782@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Physical Education",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Physical Education\nThis department promotes health, fitness, and well-being among students through various physical activities and sports programs under expert guidance.",
+      "token_count": 26
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Dr. Kota Sridhar Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Kota Sridhar Kumar",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Ph.D (Physical Education)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Ph.D (Physical Education)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9849078958",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "H&S.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsridharkumarkota@gmail.com",
+      "token_count": 7
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 [
   {
     "query": "What is the attendance requirement?",
-    "retrieval_time_ms": 5104,
-    "embedding_time_ms": 41,
-    "search_time_ms": 81,
+    "retrieval_time_ms": 5735,
+    "embedding_time_ms": 65,
+    "search_time_ms": 148,
     "candidate_count": 20,
     "returned_count": 8,
     "ranked_chunks": [
@@ -230,18 +230,9 @@
       }
     ],
     "applied_filters": {
-      "$and": [
-        {
-          "document_type": {
-            "$eq": "rules"
-          }
-        },
-        {
-          "source": {
-            "$like": "%.pdf"
-          }
-        }
-      ]
+      "document_type": {
+        "$eq": "rules"
+      }
     },
     "fallback_used": true,
     "query_metadata": {
@@ -271,32 +262,14 @@
   },
   {
     "query": "Show Data Science syllabus.",
-    "retrieval_time_ms": 33,
-    "embedding_time_ms": 27,
-    "search_time_ms": 5,
+    "retrieval_time_ms": 63,
+    "embedding_time_ms": 46,
+    "search_time_ms": 17,
     "candidate_count": 20,
     "returned_count": 8,
     "ranked_chunks": [
       {
         "rank": 1,
-        "score": 0.7527,
-        "chunk_id": "admissions.php.json_chunk_7",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n66\n55\n58\n66"
-      },
-      {
-        "rank": 2,
         "score": 0.7355,
         "chunk_id": "syllabus_new.php.json_chunk_0",
         "document": "http://kucet.ac.in/syllabus_new.php",
@@ -314,7 +287,7 @@
         "text": "ECET:\nSyllabus"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "score": 0.7311,
         "chunk_id": "btech_year4_csd_sem8_unit_1",
         "document": "btech_year4_csd_sem8.pdf",
@@ -343,25 +316,7 @@
         "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
       },
       {
-        "rank": 4,
-        "score": 0.7293,
-        "chunk_id": "admissions.php.json_chunk_15",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n0\n12\n15"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "score": 0.7276,
         "chunk_id": "6_database_management_systems_lab_unit_6",
         "document": "btech_year2_csd_sem4.pdf",
@@ -391,7 +346,7 @@
         "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "score": 0.7276,
         "chunk_id": "cse_po_data_science_2",
         "document": "CSE_PO.pdf",
@@ -421,7 +376,7 @@
         "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "score": 0.7149,
         "chunk_id": "btech_year3_csd_sem5_curriculum",
         "document": "btech_year3_csd_sem5.pdf",
@@ -450,7 +405,7 @@
         "text": "B. Tech. (Data Science) V SEMESTER\nScheme of\nScheme of Lecture\nS. Course Examinatio Credits\nCourse Title Instruction hrs/week\nNo. Code n\nL T P CIE SEE\n1 PCS-501DS Software Engineering 3 1 0 4 30 70 4\n2 PCS-502DS Operating System 3 1 0 4 30 70 4\n3 PE-I* Professional Elective \u2013 I* 3 1 0 4 30 70 4\n4 PCS-503DS Data Mining 3 1 0 4 30 70 4\nManagerial Economics and\n5 HS3108 3 0 0 3 30 70 3\nAccountancy\n6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5\n7 PE-I** Professional Elective \u2013I Lab** 0 0 3 3 25 50 1.5\nTotal 15 4 6 25 200 450 22\n*(PE-I)Professional Elective \u2013 I **(PE-I)Professional Elective \u2013 I Lab\nPE5101CS Web Programming PE5105CS Web Programming Lab\nPE5102CS Advanced Java PE5106CS Advanced Java Lab\nPE5103CS Advanced Data Structures PE5107CS Advanced DS Lab\nPE5104CS Fundamentals of AI PE5108CS AI Lab\nS.\nExaminatio\n1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4\n2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4\n4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4\n5 | HS3108 | Managerial Economics and\n6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5\nSoftware Engineering (PCS-501DS)\nL T P C Internal Marks: 30\n3 1 0 4 External Marks: 70"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "score": 0.7049,
         "chunk_id": "btech_year2_csd_sem3_curriculum",
         "document": "btech_year2_csd_sem3.pdf",
@@ -477,6 +432,65 @@
           "word_count": 222
         },
         "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
+      },
+      {
+        "rank": 7,
+        "score": 0.7028,
+        "chunk_id": "machine_learning_lab_textbooks_8",
+        "document": "btech_year3_csd_sem6.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 25, 'unit_count': 45, 'textbook_sections': 8, 'amount_count': 1}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year3_csd_sem6.pdf",
+          "source_pdf": "btech_year3_csd_sem6.pdf",
+          "strong_evidence_count": 6,
+          "subject_name": "Machine Learning Lab",
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 49
+        },
+        "text": "1. Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and\nPresenting Data,EMC Education services Wiley Publication\n2. Practical Statistics for Data Scientists 50+ Essential Concepts Using R\nand Python, O\u2018Reilly Publications 2nd Edition\n3. Practical Text Mining and statistical Analysis for non-structured text data\napplications,1st edition,Grey Miner,Thomas Hill."
+      },
+      {
+        "rank": 8,
+        "score": 0.6998,
+        "chunk_id": "btech_year4_csd_sem8_unit_5",
+        "document": "btech_year4_csd_sem8.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 31,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 10, 'unit_count': 45, 'textbook_sections': 7}",
+          "header_removed": false,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 8,
+          "source": "btech_year4_csd_sem8.pdf",
+          "source_pdf": "btech_year4_csd_sem8.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 30
+        },
+        "text": "UNIT-V\nApplications of Data Science, Technologies for visualization, Bokeh (Python). Recent trends in various data\ncollection and analysis techniques, various visualization techniques, application development methods of\nused in data science."
       }
     ],
     "applied_filters": {
@@ -484,11 +498,6 @@
         {
           "document_type": {
             "$eq": "syllabus"
-          }
-        },
-        {
-          "source": {
-            "$like": "%.pdf"
           }
         },
         {
@@ -529,9 +538,9 @@
   },
   {
     "query": "List scholarship details.",
-    "retrieval_time_ms": 33,
-    "embedding_time_ms": 27,
-    "search_time_ms": 5,
+    "retrieval_time_ms": 46,
+    "embedding_time_ms": 38,
+    "search_time_ms": 8,
     "candidate_count": 20,
     "returned_count": 8,
     "ranked_chunks": [
@@ -726,50 +735,14 @@
   },
   {
     "query": "How many seats are available in Data Science?",
-    "retrieval_time_ms": 36,
-    "embedding_time_ms": 26,
-    "search_time_ms": 9,
+    "retrieval_time_ms": 52,
+    "embedding_time_ms": 43,
+    "search_time_ms": 8,
     "candidate_count": 20,
     "returned_count": 8,
     "ranked_chunks": [
       {
         "rank": 1,
-        "score": 0.7183,
-        "chunk_id": "admissions.php.json_chunk_7",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n66\n55\n58\n66"
-      },
-      {
-        "rank": 2,
-        "score": 0.7063,
-        "chunk_id": "admissions.php.json_chunk_15",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n0\n12\n15"
-      },
-      {
-        "rank": 3,
         "score": 0.6981,
         "chunk_id": "cse_po_data_science_2",
         "document": "CSE_PO.pdf",
@@ -799,7 +772,7 @@
         "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "score": 0.6806,
         "chunk_id": "btech_year4_csd_sem8_unit_1",
         "document": "btech_year4_csd_sem8.pdf",
@@ -828,7 +801,7 @@
         "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
       },
       {
-        "rank": 5,
+        "rank": 3,
         "score": 0.6611,
         "chunk_id": "6_database_management_systems_lab_unit_6",
         "document": "btech_year2_csd_sem4.pdf",
@@ -858,7 +831,7 @@
         "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "score": 0.6564,
         "chunk_id": "btech_year2_csd_sem3_curriculum",
         "document": "btech_year2_csd_sem3.pdf",
@@ -887,7 +860,7 @@
         "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "score": 0.6535,
         "chunk_id": "cse_po_design_2",
         "document": "CSE_PO.pdf",
@@ -917,7 +890,7 @@
         "text": "DESIGN\nLAB(PE4111CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc | \uf0fc | \uf0fc | \uf0fc\nVIII SEMESTER\nCO2 \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc\nDATA SCIENCE\n(PE4201CS)"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "score": 0.649,
         "chunk_id": "6_database_management_systems_lab_overview",
         "document": "btech_year2_csd_sem4.pdf",
@@ -945,6 +918,54 @@
           "word_count": 168
         },
         "text": "6 Database Management Systems Lab 0 0 3 1.5\nPCS-402L\n7 Data Science Lab 0 0 3 1.5\nMC-410\n8 Constitution of India 2 0 0 0\n27 22\nTotal\nS.\n1 | PCS-401 | Database Management Systems | 3 | 1 | 0 | 4\n2 | PCS-402 | Introduction to Data Science | 3 | 1 | 0 | 4\n3 | PCS-403 | Design and Analysis of Algorithms | 3 | 1 | 0 | 4\n4 | ESC-401 | Elements of Electrical and Electronics | 3 | 0 | 0 | 3\n5 | PCS-404 | Theory of Computation | 3 | 1 | 0 | 4\n6 | PCS-401L | Database Management Systems Lab | 0 | 0 | 3 | 1.5\n7 | PCS-402L | Data Science Lab | 0 | 0 | 3 | 1.5\n8 | MC-410 | Constitution of India | 2 | 0 | 0 | 0\nPCS-401 DATABASE MANAGEMENT SYSTEMS\n3 1 0 4 External Marks: 70"
+      },
+      {
+        "rank": 7,
+        "score": 0.6456,
+        "chunk_id": "Cse-It-Co-Po.php.json_chunk_7",
+        "document": "http://kucet.ac.in/Cse-It-Co-Po.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "B.Tech - Data Science | 2021",
+        "metadata": {
+          "heading": "B.Tech - Data Science | 2021",
+          "heading_level": 2,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:22.997295+00:00",
+          "source": "http://kucet.ac.in/Cse-It-Co-Po.php",
+          "title": "Courses Offered"
+        },
+        "text": "B.Tech - Data Science | 2021\nPG:\nProgramme | Year of Start"
+      },
+      {
+        "rank": 8,
+        "score": 0.6451,
+        "chunk_id": "automation_laboratory_references_14",
+        "document": "btech_year3_ece_sem6.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "MEDIUM",
+          "classifier_score": 28,
+          "confidence_gap": 9,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 34, 'unit_count': 60, 'textbook_sections': 1, 'amount_count': 1}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 19,
+          "source": "btech_year3_ece_sem6.pdf",
+          "source_pdf": "btech_year3_ece_sem6.pdf",
+          "strong_evidence_count": 4,
+          "subject_name": "Automation Laboratory",
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 80
+        },
+        "text": "References:\n1.Narasimha Karumanchi, \u201cData Structures and Algorithms Made Easy: Data Structures and\nAlgorithmic Puzzles\u201d, Careermonk Publications, 2016, ISBN-No: 978-8193245279.\n2.R Venkatesan,S Lovelyn Rose\n8126577149\nABBREVIATIONS\nL : Lectures T : Tutorials\nP : Practicals CIE : Continuous Internal Evaluation\nSEE : Semester End Examination PC : Professional Core\nOE : Open Elective PW : Project Work\n**Students have to undergo summer internship of 6 Weeks duration at the end of semester VI and valuation\nwill be done in VII semester."
       }
     ],
     "applied_filters": {
@@ -979,9 +1000,9 @@
   },
   {
     "query": "Where is the Mechanical Engineering department?",
-    "retrieval_time_ms": 35,
-    "embedding_time_ms": 30,
-    "search_time_ms": 5,
+    "retrieval_time_ms": 50,
+    "embedding_time_ms": 34,
+    "search_time_ms": 15,
     "candidate_count": 20,
     "returned_count": 8,
     "ranked_chunks": [
@@ -1077,24 +1098,6 @@
       },
       {
         "rank": 6,
-        "score": 0.7188,
-        "chunk_id": "admissions.php.json_chunk_12",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "MECHANICAL ENGINEERING",
-        "metadata": {
-          "heading": "MECHANICAL ENGINEERING",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "MECHANICAL ENGINEERING\n22\n16\n27\n5"
-      },
-      {
-        "rank": 7,
         "score": 0.6959,
         "chunk_id": "MECHANICAL-info.php.json_chunk_4",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -1112,22 +1115,40 @@
         "text": "Mechanical Engineering\nis a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries."
       },
       {
-        "rank": 8,
-        "score": 0.6952,
-        "chunk_id": "admissions.php.json_chunk_4",
-        "document": "http://kucet.ac.in/admissions.php",
+        "rank": 7,
+        "score": 0.6716,
+        "chunk_id": "H&S.php.json_chunk_4",
+        "document": "http://kucet.ac.in/H&S.php",
         "source": "web",
         "document_type": "Unknown",
-        "heading": "MECHANICAL ENGINEERING",
+        "heading": "Email:",
         "metadata": {
-          "heading": "MECHANICAL ENGINEERING",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
+          "heading": "Email:",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:22.279393+00:00",
+          "source": "http://kucet.ac.in/H&S.php",
+          "title": "Humanities and Social Science"
         },
-        "text": "MECHANICAL ENGINEERING\n66\n51\n42\n43\n5"
+        "text": "Email:\ndrkvijay3004@gmail.com\nPhysics\nThe Physics Department supports the engineering curriculum by teaching core concepts in electronics, mechanics, and materials through theoretical and experimental learning."
+      },
+      {
+        "rank": 8,
+        "score": 0.6657,
+        "chunk_id": "MECHANICAL-info.php.json_chunk_11",
+        "document": "http://kucet.ac.in/MECHANICAL-info.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Automotive and Aerospace Engineering:",
+        "metadata": {
+          "heading": "Automotive and Aerospace Engineering:",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+          "source": "http://kucet.ac.in/MECHANICAL-info.php",
+          "title": "MECHANICAL ENGINEERING"
+        },
+        "text": "Automotive and Aerospace Engineering:\nSpecializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.\nFaculty"
       }
     ],
     "applied_filters": {
@@ -1135,11 +1156,6 @@
         {
           "document_type": {
             "$eq": "department"
-          }
-        },
-        {
-          "source": {
-            "$like": "http%"
           }
         },
         {
@@ -1156,8 +1172,8 @@
       "query_type": "location",
       "intent": "lookup",
       "entities": [
-        "Department",
-        "Mechanical Engineering"
+        "Mechanical Engineering",
+        "Department"
       ],
       "keywords": [
         "mechanical",

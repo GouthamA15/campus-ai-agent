@@ -1,0 +1,217 @@
+{
+  "document_id": "alumini_main.json",
+  "title": "ALUMINI",
+  "source": "http://kucet.ac.in/alumini_main",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:14.940851+00:00",
+  "chunk_count": 23,
+  "chunks": [
+    {
+      "chunk_id": "alumini_main.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nALUMINI\nAbout\nAlumni are the enduring strength and voice of any academic institution. They embody the legacy of their alma mater, serving as role models and ambassadors across diverse fields and geographies. Their achievements reflect the quality of education, values, and vision of the college.\nThe Alumni Association was registered under the name",
+      "token_count": 61
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "KUCET ALUMNI ASSOCIATION",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "KUCET ALUMNI ASSOCIATION\n(Reg No. 199 of 2021). The association general body comprises of President, Vice-President, Vice-President (Women’s), General Secretary, Joint Secretary, Treasurer and six executive council members. The past election of general body members happened in the year 2021.",
+      "token_count": 59
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Faculty Alumni Coordinators",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Faculty Alumni Coordinators",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Branch | Faculty Incharge | Mobile",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Branch | Faculty Incharge | Mobile\nECE | Dr. J. Ramchander | 8247300529\nEEE | Ms. B. Vandana Siri | 9701243547\nCSE | Ms. M. Vani | 8919611798\nMECHANICAL | Mr. R.D. Prasad | 9603192848\nIT | Ms.M. Rekha Sree | 8074151879\nCIVIL | Ms.M. Vennala | 9515068515",
+      "token_count": 64
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Alumni Contribution Areas",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Alumni Contribution Areas",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Mentorship & Career Guidance:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mentorship & Career Guidance:\nOrganizing sessions where experienced alumni mentor students on career planning, higher education, entrepreneurship, and industry readiness.",
+      "token_count": 25
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Networking & Collaboration:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Networking & Collaboration:\nHosting alumni meets, webinars, and industry-academia conclaves to strengthen professional networks and foster collaboration.",
+      "token_count": 23
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Student Support & Scholarships:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Student Support & Scholarships:\nOffering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions.",
+      "token_count": 27
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Guest Lectures:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Guest Lectures:\nInteracting with current students of different graduate levels. Providing them general insights of engineering education.",
+      "token_count": 20
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Placement/Internship Activities:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Placement/Internship Activities:\nThrowing light on the importance of internship and providing support to the internship activities. Textured training oriented towards the industry needs and conducting placement drives.",
+      "token_count": 32
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Institutional Development:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Institutional Development:\nContributing to infrastructural enhancements, lab modernization, or sponsoring technical fests and hackathons.",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Curriculum Enrichment:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Curriculum Enrichment:\nRecommending curriculum updates based on industry trends or conducting guest lectures and workshops on emerging technologies.",
+      "token_count": 20
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Social Responsibility Initiatives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Social Responsibility Initiatives:\nEngaging in outreach programs like blood donation camps, environmental awareness drives, and rural development.",
+      "token_count": 21
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Entrepreneurship Ecosystem Support:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Entrepreneurship Ecosystem Support:\nSupporting incubation cells, start-up mentorship, or angel investment opportunities for young innovators.",
+      "token_count": 21
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Note:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Note:\nAlumni members can contact alumni faculty coordinators for any kind of issues.",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Mr. Akhil Budhi",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mr. Akhil Budhi\n, Civil Engineering – Cracked Civil Services Examination, currently a IAS officer.",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Mr. Zahid Hussain",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mr. Zahid Hussain\n, Mechanical Engineering – Scientist B at Baba Atomic Research Centre (BARC), Department of Atomic Energy, Government of India.",
+      "token_count": 28
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Dr. Maroju Naresh Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Maroju Naresh Kumar\n, Mechanical Engineering – Assistant Professor at NIT Warangal.",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Mr.Kola Rohith Goud",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mr.Kola Rohith Goud\n, Department of Information Technology, is now working as Inspector of Telangana State Police.",
+      "token_count": 21
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "S.Karthik Mithra",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.Karthik Mithra\n, Department of Electronics and Communication Engineering,is now working as Assistant Manager in Indian Oil Cooperation Ltd.\nSahith, Koushik, Anirudh, Anil and Ajay\n, 2015-2019 batch, has donated to Rack to Electronics and Communication Engineering Department.",
+      "token_count": 50
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Suman Kompelly",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Suman Kompelly\n, Department of Information Technology (2012–2016), currently working at SOTI in Canada, generously donated an air conditioner towards establishing the Training and Placement Cell with all necessary infrastructural facilities.",
+      "token_count": 38
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Notable Alumini Of Civil Engineering Department",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Notable Alumini Of Civil Engineering Department",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "alumini_main.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "S.No | Student Name | Hall Ticket Number | Passed Out | Government Job Position",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No | Student Name | Hall Ticket Number | Passed Out | Government Job Position\n1. | Akhil | 13567T0003 | 2014-2018 | IAS\n2. | E.Sri Sai Raj | 14567T0055 | 2014-2018 | AEE (PANCHAYAT RAJ)\n3. | Abdul Hafeez | 14567T0001 | 2014-2018 | AEE (I&CAD)\n4. | Vanga Rajesh | 13567T0037 | 2013-2017 | AEE (MISSION BHAGIRATHA)\n5. | Rahul Raj | 18567T0033 | 2018-2022 | Jr.ASS.AE (MISSION BHAGIRATHA)\n6. | Sandeep | 195670062L | 2019-2022 | AEE (R&B)\n7. | Radhakrishna | 13567T0034 | 2013-2017 | AEE (MISSION BHAGIRATHA)\n8. | Srikanth | 155670065L | 2015-2018 | AEE (R&B)\n9. | Prasad | 17567T0032 | 2017-2021 | AEE (R&B)\n10. | Sai Kiran | 185670061L | 2018-2021 | AEE (MISSION BHAGIRATHA)\n11. | Amir Salman | 18567T0024 | 2018-2022 | AEE (PANCHAYAT RAJ)\n12. | Parvathulu | 16567T0035 | 2016-2020 | AEE (R&B)\n13. | Ravi Teja | 14567T0043 | 2014-2018 | AEE (I&CAD)\n14. | P.Naveen | 14567T0029 | 2014-2018 | AEE (TRIBAL WELFARE)\n15. | Angelina | 15567T0004 | 2015-2019 | AEE (I&CADD)\n16. | Asif Ali | 14567T0007 | 2014-2018 | AEE (HMWS&SB)\n17. | A.Madhu | 13567T0016 | 2013-2017 | Jr.AE(I&CAD)\n18. | Sairam | 13567T0045 | 2013-2017 | AEE (MISSION BHAGIRATHA)\n19. | Vojjala Sai Teja | 16567T0058 | 2016-2020 | AEE (I&CAD)\n20. | Sumanth | 14567T0057 | 2014-2018 | SI (GOVT)\n21. | M.Mahesh Reddy | 1656T0029 | 2016-2020 | Settled in Abroad",
+      "token_count": 382
+    }
+  ]
+}

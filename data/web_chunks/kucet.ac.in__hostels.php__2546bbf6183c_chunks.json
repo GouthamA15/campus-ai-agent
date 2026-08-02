@@ -1,0 +1,181 @@
+{
+  "document_id": "hostels.php.json",
+  "title": "HOSTELS",
+  "source": "http://kucet.ac.in/hostels.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:17.097784+00:00",
+  "chunk_count": 19,
+  "chunks": [
+    {
+      "chunk_id": "hostels.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nHOSTELS",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Boys Hostels",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Boys Hostels\nAbout\nThe Boys Hostel at KUCET is designed to provide a safe, secure, and student-friendly environment for male students pursuing various technical courses. The hostel promotes discipline and community living, allowing students to grow both academically and socially.",
+      "token_count": 47
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Accommodation Details:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Accommodation Details:\nThe Boys Hostel comprises\n1 main hostel\ndivided into\n3 blocks\n. It can accommodate a total of\n600 students\n, with\n4 students per room\n. Rooms are well-ventilated and adequately furnished to ensure comfort and functionality.",
+      "token_count": 44
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Facilities Provided:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Facilities Provided:\n24x7 Water Supply\nDispensary",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Hostel Infrastructure:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Hostel Infrastructure:\nHostel | Rooms Available | No. of Students / Room | To Be Occupied",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "ENGG. HOSTEL | 62 | 4 | 248",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ENGG. HOSTEL | 62 | 4 | 248",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "HALLS | 4 | 10 | 40",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "HALLS | 4 | 10 | 40",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Student Life:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Student Life:\nThe hostel encourages a lively and inclusive atmosphere. Students participate in cultural activities, tech fests, and sports events. Cleanliness drives and community service events are also held regularly to build a sense of responsibility.\nPrevious\nNext\nJoint Director's - KUCET\nDr. Nannuta SatyaShiva Prasad\n📞 9133612366\n✉️ satya4249@gmail.com",
+      "token_count": 64
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Dayakar Renukuntla",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dayakar Renukuntla\n📞 9603221369\n✉️ dayakar.007@gmail.com",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Girls Hostels",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Girls Hostels\nAbout\nThe Girls Hostel at KUCET is designed to provide a safe, secure, and student-friendly environment for female students pursuing various technical courses. The hostel promotes discipline and community living, allowing students to grow both academically and socially.",
+      "token_count": 47
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Accommodation Details:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Accommodation Details:\nThe Girls Hostel comprises\n2 blocks\ndivided into\nBlack C and Black D\n. It can accommodate a total of\n600 students\n, with\n4 students per room\n. Rooms are well-ventilated and adequately furnished to ensure comfort and functionality.",
+      "token_count": 46
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Facilities Provided:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Facilities Provided:\n24x7 Water Supply\nDispensary",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Hostel Infrastructure:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Hostel Infrastructure:\nHostel | Rooms Available | No. of Students / Room | To Be Occupied",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Black C | 56 | 4 | 224",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Black C | 56 | 4 | 224",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "HALLS | 10 | 15 | 150",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "HALLS | 10 | 15 | 150",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Black D | 7 | 6 | 42",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Black D | 7 | 6 | 42",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Student Life:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Student Life:\nThe hostel encourages a lively and inclusive atmosphere. Students participate in cultural activities, tech fests, and sports events. Cleanliness drives and community service events are also held regularly to build a sense of responsibility.\nJoint Director's - KUCET\nM.Vennala\n📞 9515068515\n✉️ manupativennala@gmail.com\nD. BhagyaLaxmi\n📞 7330858534\n✉️ bhagyakmp519@kakatiya.ac.in",
+      "token_count": 74
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "D. Priyanka",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "D. Priyanka\n📞 8106061311\n✉️ priyankadamera1223@gmail.com",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "hostels.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Rumana Abideen",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Rumana Abideen\n📞 8341199645\n✉️ rumana.276@gmail.com",
+      "token_count": 13
+    }
+  ]
+}

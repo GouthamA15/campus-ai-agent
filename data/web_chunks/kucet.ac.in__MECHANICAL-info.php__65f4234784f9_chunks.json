@@ -1,0 +1,685 @@
+{
+  "document_id": "MECHANICAL-info.php.json",
+  "title": "MECHANICAL ENGINEERING",
+  "source": "http://kucet.ac.in/MECHANICAL-info.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+  "chunk_count": 75,
+  "chunks": [
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "MECHANICAL ENGINEERING",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "MECHANICAL ENGINEERING\nDepartment Vision and Mission",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Vision:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Vision:\nTo be recognized center of excellence in Mechanical Engineering education and research, producing competent, ethical, and socially responsible engineers who contribute to sustainable development and technological innovation.",
+      "token_count": 33
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Mission:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mission:\nTo impart quality technical education in mechanical engineering through outcome-based curriculum, state-of-the-art laboratories, and modern pedagogical practices.\nTo promote innovation, entrepreneurship, and skill development in students by integrating interdisciplinary learning, hands-on training, and startup ecosystem exposure.\nTo enhance employability and global competence through industry-relevant training, internships, soft skills development, and exposure to emerging technologies such as AI and 3D printing.\nTo foster ethical values, social responsibility, and professional integrity in students, enabling them to serve society and contribute to national development.\nTo nurture sustainable engineering practices by focusing on energy efficiency, green technologies, and environmentally conscious design and manufacturing.\nHOD & BOS of",
+      "token_count": 136
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Mechanical Engineering",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mechanical Engineering\nDr.Ch.Radhika\nHOD of Mechanical Department\n8686876092\nradhikareddy.chada@kakatiya.ac.in\nDepartment of Mechanical Engineering",
+      "token_count": 25
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Mechanical Engineering",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mechanical Engineering\nis a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries.",
+      "token_count": 75
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Key areas within mechanical engineering include:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key areas within mechanical engineering include:",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Thermodynamics and Heat Transfer:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Thermodynamics and Heat Transfer:\nThis area studies the principles of energy conversion and temperature regulation, critical in designing engines, power plants, heating, and cooling systems, and even sustainable energy solutions like solar power systems.",
+      "token_count": 41
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Fluid Mechanics:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Fluid Mechanics:\nFluid mechanics is concerned with the behavior of fluids (liquids and gases) and their interactions with surfaces. Applications include everything from designing pumps and hydraulic systems to understanding aerodynamics in aircraft and cars.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Mechanics and Materials Science:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mechanics and Materials Science:\nMechanical engineers study materials to understand their strengths, weaknesses, and suitability for various applications. This field includes material selection, stress analysis, and ensuring safety in products and structures.",
+      "token_count": 39
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Robotics and Automation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Robotics and Automation:\nMechanical engineering plays a significant role in robotics, where engineers design, build, and program robots for use in manufacturing, healthcare, exploration, and more. Automation engineering focuses on developing systems to streamline production processes and improve efficiency.",
+      "token_count": 48
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Manufacturing and Production:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Manufacturing and Production:\nThis area involves creating efficient processes for producing goods, from planning assembly lines to utilizing advanced manufacturing techniques like 3D printing. Mechanical engineers work to improve product quality while reducing costs and waste.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Automotive and Aerospace Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Automotive and Aerospace Engineering:\nSpecializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.\nFaculty",
+      "token_count": 38
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Dr.Anil Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Anil Kumar",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9700381439",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nanil.kucet@gmail.com\nR.D.Prasad",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9603192848",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nprasadrd.215@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "K. Sai Maneesh",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "K. Sai Maneesh",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "M.Tech Ph.D",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech Ph.D",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9949651697",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmaneesh14feb@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.Tech (CAD/CAM)",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n7416563887",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nyeshvenders@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Dr.Shirisha Adupa",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Shirisha Adupa",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "M.Tech (Design Engineering), (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Design Engineering), (Ph.D)",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_33",
+      "chunk_index": 33,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9949904971",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_34",
+      "chunk_index": 34,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nadupashirisha@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_35",
+      "chunk_index": 35,
+      "heading": "A. Ranjith Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "A. Ranjith Kumar",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_36",
+      "chunk_index": 36,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM. Tech (CAD/CAM)",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_37",
+      "chunk_index": 37,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_38",
+      "chunk_index": 38,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9959204065",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_39",
+      "chunk_index": 39,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrk.kucet@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_40",
+      "chunk_index": 40,
+      "heading": "M.Tech (Advanced Manufacturing Systems)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Advanced Manufacturing Systems)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_41",
+      "chunk_index": 41,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_42",
+      "chunk_index": 42,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9397666906",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_43",
+      "chunk_index": 43,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsiddartha.arukonda@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_44",
+      "chunk_index": 44,
+      "heading": "Dr.Md.Owais Ahmed Sajjad",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Md.Owais Ahmed Sajjad",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_45",
+      "chunk_index": 45,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_46",
+      "chunk_index": 46,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_47",
+      "chunk_index": 47,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9908716004",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_48",
+      "chunk_index": 48,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsajjad.owais44@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_49",
+      "chunk_index": 49,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.Tech CAD/CAM (Ph.D)",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_50",
+      "chunk_index": 50,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_51",
+      "chunk_index": 51,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9603221369",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_52",
+      "chunk_index": 52,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\ndayakar.007@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_53",
+      "chunk_index": 53,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.E ( Turbo machinery )(Ph.D)",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_54",
+      "chunk_index": 54,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_55",
+      "chunk_index": 55,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8897885118",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_56",
+      "chunk_index": 56,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrukmini.kucet@gmail.com\nB.Tech ADMISSIONS",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_57",
+      "chunk_index": 57,
+      "heading": "COURSE | INTAKE",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "COURSE | INTAKE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_58",
+      "chunk_index": 58,
+      "heading": "MECHANICAL ENGINEERING | 66",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "MECHANICAL ENGINEERING | 66\nINFRASTRUCTURE",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_59",
+      "chunk_index": 59,
+      "heading": "Metrology Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Metrology Laboratory:",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_60",
+      "chunk_index": 60,
+      "heading": "Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Objectives:\nTo provide hands-on training in linear, angular, and surface measurement techniques.\nTo expose students to mechanical, optical, and electronic measuring instruments.\nTo impart knowledge about tolerances, fits, limits, and geometrical inspection.",
+      "token_count": 45
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_61",
+      "chunk_index": 61,
+      "heading": "Major Equipment and Instruments:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Major Equipment and Instruments:\nVernier Calipers and Micrometers (Inside, Outside, Depth)\nDial Indicators and Height Gauges\nSine Bar and Slip Gauges",
+      "token_count": 26
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_62",
+      "chunk_index": 62,
+      "heading": "Profile Projector (Optical Comparator)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Profile Projector (Optical Comparator)\nBevel Protractor and Angle Gauges\nThread Plug and Ring Gauges",
+      "token_count": 16
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_63",
+      "chunk_index": 63,
+      "heading": "Gear Tooth Vernier Caliper",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Gear Tooth Vernier Caliper",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_64",
+      "chunk_index": 64,
+      "heading": "Surface Roughness Tester (Stylus Type)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Surface Roughness Tester (Stylus Type)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_65",
+      "chunk_index": 65,
+      "heading": "Learning Outcomes:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Learning Outcomes:\nDevelop proficiency in precision measurement and inspection techniques.\nUnderstand limits, fits, tolerances, and Geometric Dimensioning & Tolerance (GD&T).\nGain experience in the selection and use of appropriate instruments.\nInterpret measurement data for quality assurance and process control.",
+      "token_count": 51
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_66",
+      "chunk_index": 66,
+      "heading": "Machine Tools Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Machine Tools Laboratory:",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_67",
+      "chunk_index": 67,
+      "heading": "Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Objectives:\nTo familiarize students with metal cutting operations and machining processes.\nTo impart skills in operating lathes, milling, drilling, shaping, grinding, and CNC machines.\nTo understand the principles of tool selection, cutting speed, feed, and depth of cut.",
+      "token_count": 50
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_68",
+      "chunk_index": 68,
+      "heading": "Major Equipment Available:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Major Equipment Available:\nCentre Lathe Machines – For turning, facing, threading, knurling, and taper operations.\nShaper Machine – For flat surface generation.\nDrilling Machine – For precision hole-making.\nSurface Grinding Machine – For fine finishing and flat surface grinding.\nTool and Cutter Grinder",
+      "token_count": 54
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_69",
+      "chunk_index": 69,
+      "heading": "Learning Outcomes:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Learning Outcomes:\nUnderstand the working principles of various machine tools.\nGain proficiency in machining different materials using standard procedures.\nDevelop awareness of manufacturing tolerances, tool wear, and safety protocols.\nInterpret and apply technical drawings in workshop practices.",
+      "token_count": 44
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_70",
+      "chunk_index": 70,
+      "heading": "Heat Transfer Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Heat Transfer Laboratory:",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_71",
+      "chunk_index": 71,
+      "heading": "Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Objectives:\nTo experimentally determine heat transfer coefficients and thermal conductivities.\nTo study different modes of heat transfer under steady and unsteady conditions.\nTo analyze the performance of heat exchangers and cooling systems.",
+      "token_count": 36
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_72",
+      "chunk_index": 72,
+      "heading": "Major Equipment and Apparatus:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Major Equipment and Apparatus:\nComposite Wall Apparatus – To study conduction through series materials.\nLagged Pipe Apparatus – For radial conduction in cylindrical systems.\nPin-Fin Apparatus – For extended surface heat dissipation.\nNatural & Forced Convection Setup – To study heat transfer in fluids.\nEmissivity Measurement Apparatus – For thermal radiation properties.\nStefan-Boltzmann Apparatus – To validate black body radiation law.\nParallel Flow & Counter Flow Heat Exchanger – For heat exchange efficiency studies.\nThermal Conductivity Setup for Metal Rods & Insulating Materials",
+      "token_count": 95
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_73",
+      "chunk_index": 73,
+      "heading": "Heat Pipe Demonstration Unit",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Heat Pipe Demonstration Unit",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MECHANICAL-info.php.json_chunk_74",
+      "chunk_index": 74,
+      "heading": "Learning Outcomes:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Learning Outcomes:\nUnderstand and apply basic heat transfer laws and correlations.\nDevelop practical knowledge of thermal system behaviour and measurement.\nAnalyze the performance of heat transfer equipment using real-time data.\nEnhance skills in experimental design, data acquisition, and result interpretation.",
+      "token_count": 49
+    }
+  ]
+}

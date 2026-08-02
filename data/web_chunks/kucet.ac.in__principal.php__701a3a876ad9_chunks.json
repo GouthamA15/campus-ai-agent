@@ -1,0 +1,37 @@
+{
+  "document_id": "principal.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/principal.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:20.938112+00:00",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_id": "principal.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Dr. Nagavelli Ramana",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Nagavelli Ramana\nPrincipal, HOD of CSE & IT\n: 9885288905\n: ramanauce.ku@gmail.com\nClick here to view CV\nPROFILE",
+      "token_count": 27
+    },
+    {
+      "chunk_id": "principal.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Teaching and Research Experience:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Teaching and Research Experience:",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "principal.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "23 Years",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "23 Years\nAdministrative Responsibilities and Contributions\nPrincipal, University College of Engineering Kothagudem.\nIn-charge Head of Department of Mining Engineering.\nDirector Campus Networking and Website, KU.\nIn-charge of Computer Science and Engineering.\nIn-charge of Information Technology.\nTraining and Placement Officer.\nAcademic Responsibilities and Contributions\nSupervising PhD Scholars (02 full-time and 02 part-time) at present.\nPublished 25 research Papers in Conferences/Journals.\nChairman BOS in Computer Science and Engineering.\nInvolved in designing new curriculum.\nAttended 25 training programs (FDP/STTP) till date.\nParticipated as a resource person and delivered technical lectures in several FDPs supported by AICTE, UGC, etc.",
+      "token_count": 129
+    }
+  ]
+}

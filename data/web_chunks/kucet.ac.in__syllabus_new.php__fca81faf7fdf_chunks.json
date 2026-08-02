@@ -1,0 +1,280 @@
+{
+  "document_id": "syllabus_new.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/syllabus_new.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:18.700036+00:00",
+  "chunk_count": 30,
+  "chunks": [
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nSyllabus",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "B Tech",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "B Tech\nCSE\nCSD\nIT\nECE\nEEE\nMECH\nCIVIL",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Sem 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Sem 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Sem 6",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "syllabus_new.php.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "Sem 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)\nM.Tech\nCAD Syllabus\nCSE Syllabus\nDC Syllabus",
+      "token_count": 27
+    }
+  ]
+}

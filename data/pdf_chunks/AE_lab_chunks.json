@@ -1,0 +1,179 @@
+{
+  "source_pdf": "AE_lab.pdf",
+  "document_type": "unknown",
+  "document_subtype": "",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "ae_lab_chunk_1",
+      "chunk_type": "chunk",
+      "section_title": "Chunk 1",
+      "page_start": 1,
+      "page_end": 2,
+      "content": "Scanned with ACE Scanner Scanned with ACE Scanner",
+      "metadata": {
+        "source_pdf": "AE_lab.pdf",
+        "document_type": "unknown",
+        "chunk_strategy": "fixed_size",
+        "word_count": 8,
+        "chunk_words": 800,
+        "chunk_overlap": 100,
+        "classification_confidence": "LOW",
+        "classifier_score": 3,
+        "runner_up_score": 0,
+        "confidence_gap": 3,
+        "strong_evidence_count": 0,
+        "validator_result": "failed",
+        "validator_reason": "Regulations require attendance/grading/promotion language",
+        "feature_summary": {},
+        "parsing_confidence": 0.55,
+        "boundary_source": "fixed_size",
+        "course_code_valid": false,
+        "header_removed": false
+      }
+    }
+  ],
+  "layout_analysis": {
+    "source_name": "AE_lab.json",
+    "total_lines": 2,
+    "total_pages": 2,
+    "lines": [
+      {
+        "page": 1,
+        "line_number": 0,
+        "text": "Scanned with ACE Scanner",
+        "line_type": "header",
+        "scores": {
+          "heading": 0.0255,
+          "paragraph": 0.0255,
+          "table": 0.0255,
+          "list": 0.0255,
+          "header": 0.5118,
+          "footer": 0.1883,
+          "reference": 0.0255,
+          "signature": 0.0255,
+          "noise": 0.0693,
+          "caption": 0.0255,
+          "address": 0.0255,
+          "unknown": 0.0268
+        },
+        "features": {
+          "text": "Scanned with ACE Scanner",
+          "page_number": 1,
+          "line_number": 0,
+          "word_count": 4,
+          "character_count": 24,
+          "uppercase_ratio": 0.238,
+          "lowercase_ratio": 0.762,
+          "digit_ratio": 0.0,
+          "punctuation_ratio": 0.0,
+          "starts_with_number": false,
+          "starts_with_bullet": false,
+          "starts_with_letter": true,
+          "ends_with_colon": false,
+          "ends_with_period": false,
+          "blank_before": true,
+          "blank_after": false,
+          "indentation_level": 0,
+          "line_length": 24,
+          "position_from_top": 0.0,
+          "position_from_bottom": 1.0,
+          "contains_currency": false,
+          "contains_date": false,
+          "contains_url": false,
+          "contains_email": false,
+          "contains_phone": false,
+          "contains_course_code": false,
+          "contains_unit_label": false,
+          "contains_table_separator": false,
+          "repeated_on_multiple_pages": true
+        }
+      },
+      {
+        "page": 2,
+        "line_number": 1,
+        "text": "Scanned with ACE Scanner",
+        "line_type": "header",
+        "scores": {
+          "heading": 0.0136,
+          "paragraph": 0.0136,
+          "table": 0.0136,
+          "list": 0.0136,
+          "header": 0.7402,
+          "footer": 0.1002,
+          "reference": 0.0136,
+          "signature": 0.0136,
+          "noise": 0.0369,
+          "caption": 0.0136,
+          "address": 0.0136,
+          "unknown": 0.0143
+        },
+        "features": {
+          "text": "Scanned with ACE Scanner",
+          "page_number": 2,
+          "line_number": 1,
+          "word_count": 4,
+          "character_count": 24,
+          "uppercase_ratio": 0.238,
+          "lowercase_ratio": 0.762,
+          "digit_ratio": 0.0,
+          "punctuation_ratio": 0.0,
+          "starts_with_number": false,
+          "starts_with_bullet": false,
+          "starts_with_letter": true,
+          "ends_with_colon": false,
+          "ends_with_period": false,
+          "blank_before": false,
+          "blank_after": true,
+          "indentation_level": 0,
+          "line_length": 24,
+          "position_from_top": 0.0,
+          "position_from_bottom": 1.0,
+          "contains_currency": false,
+          "contains_date": false,
+          "contains_url": false,
+          "contains_email": false,
+          "contains_phone": false,
+          "contains_course_code": false,
+          "contains_unit_label": false,
+          "contains_table_separator": false,
+          "repeated_on_multiple_pages": true
+        }
+      }
+    ]
+  },
+  "document_blocks": {
+    "source_name": "AE_lab.json",
+    "total_lines": 2,
+    "total_pages": 2,
+    "total_blocks": 1,
+    "blocks": [
+      {
+        "block_id": 0,
+        "block_type": "metadata",
+        "page_start": 1,
+        "page_end": 2,
+        "line_start": 0,
+        "line_end": 1,
+        "heading_level": 0,
+        "confidence": 0.5118,
+        "text": "Scanned with ACE Scanner Scanned with ACE Scanner",
+        "children": [
+          {
+            "line_number": 0,
+            "text": "Scanned with ACE Scanner",
+            "line_type": "header"
+          },
+          {
+            "line_number": 1,
+            "text": "Scanned with ACE Scanner",
+            "line_type": "header"
+          }
+        ],
+        "previous_block": null,
+        "next_block": null,
+        "parent_heading": null
+      }
+    ]
+  }
+}

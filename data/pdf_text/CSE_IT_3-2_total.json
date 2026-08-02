@@ -1,0 +1,36 @@
+{
+  "title": "CSE sem paper. 3-2",
+  "source_pdf": "data/pdfs/CSE_IT_3-2_total.pdf",
+  "page_count": 5,
+  "extracted_at": "2026-08-02T18:45:45.308178+00:00",
+  "content_length": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "content": ""
+    },
+    {
+      "page_number": 2,
+      "content": ""
+    },
+    {
+      "page_number": 3,
+      "content": ""
+    },
+    {
+      "page_number": 4,
+      "content": ""
+    },
+    {
+      "page_number": 5,
+      "content": ""
+    }
+  ],
+  "full_content": "",
+  "document_type": "unknown",
+  "text_extracted": false,
+  "needs_ocr": true,
+  "ocr_status": "pending",
+  "cleanup_applied": true,
+  "removed_repeated_lines": []
+}

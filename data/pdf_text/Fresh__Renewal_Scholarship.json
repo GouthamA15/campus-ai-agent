@@ -1,0 +1,24 @@
+{
+  "title": "New Doc 08-29-2025 13.15",
+  "source_pdf": "data/pdfs/Fresh__Renewal_Scholarship.pdf",
+  "page_count": 2,
+  "extracted_at": "2026-08-02T18:45:50.196924+00:00",
+  "content_length": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "content": ""
+    },
+    {
+      "page_number": 2,
+      "content": ""
+    }
+  ],
+  "full_content": "",
+  "document_type": "unknown",
+  "text_extracted": false,
+  "needs_ocr": true,
+  "ocr_status": "pending",
+  "cleanup_applied": true,
+  "removed_repeated_lines": []
+}

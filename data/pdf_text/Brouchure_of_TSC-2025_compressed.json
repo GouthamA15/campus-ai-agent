@@ -1,0 +1,40 @@
+{
+  "title": "Brouchure_of_TSC-2025_compressed",
+  "source_pdf": "data/pdfs/Brouchure_of_TSC-2025_compressed.pdf",
+  "page_count": 6,
+  "extracted_at": "2026-08-02T18:44:52.790319+00:00",
+  "content_length": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "content": ""
+    },
+    {
+      "page_number": 2,
+      "content": ""
+    },
+    {
+      "page_number": 3,
+      "content": ""
+    },
+    {
+      "page_number": 4,
+      "content": ""
+    },
+    {
+      "page_number": 5,
+      "content": ""
+    },
+    {
+      "page_number": 6,
+      "content": ""
+    }
+  ],
+  "full_content": "",
+  "document_type": "unknown",
+  "text_extracted": false,
+  "needs_ocr": true,
+  "ocr_status": "pending",
+  "cleanup_applied": true,
+  "removed_repeated_lines": []
+}

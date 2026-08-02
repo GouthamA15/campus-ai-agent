@@ -1,0 +1,550 @@
+{
+  "document_id": "MTech-cad-info.php.json",
+  "title": "CAD / CAM - M.Tech",
+  "source": "http://kucet.ac.in/MTech-cad-info.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:27.804843+00:00",
+  "chunk_count": 60,
+  "chunks": [
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nCAD / CAM - M.Tech\nDepartment Vision and Mission\nTo evolve as a centre of academic excellence and advanced research in Mechanical Engineering and related areas.\nTo educate and empower the students with the state of art knowledge in the area of mechanical engineering and allied fields.\nTo create, explore and develop innovations through research and consultancy.\nTo develop self learning abilities, leadership qualities and professional ethics among the students to service the society.\nDepartment of CAD / CAM",
+      "token_count": 89
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Mechanical Engineering",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mechanical Engineering\nis a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries.",
+      "token_count": 75
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Key areas within mechanical engineering include:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key areas within mechanical engineering include:",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Thermodynamics and Heat Transfer:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Thermodynamics and Heat Transfer:\nThis area studies the principles of energy conversion and temperature regulation, critical in designing engines, power plants, heating, and cooling systems, and even sustainable energy solutions like solar power systems.",
+      "token_count": 41
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Fluid Mechanics:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Fluid Mechanics:\nFluid mechanics is concerned with the behavior of fluids (liquids and gases) and their interactions with surfaces. Applications include everything from designing pumps and hydraulic systems to understanding aerodynamics in aircraft and cars.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Mechanics and Materials Science:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mechanics and Materials Science:\nMechanical engineers study materials to understand their strengths, weaknesses, and suitability for various applications. This field includes material selection, stress analysis, and ensuring safety in products and structures.",
+      "token_count": 39
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Robotics and Automation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Robotics and Automation:\nMechanical engineering plays a significant role in robotics, where engineers design, build, and program robots for use in manufacturing, healthcare, exploration, and more. Automation engineering focuses on developing systems to streamline production processes and improve efficiency.",
+      "token_count": 48
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Manufacturing and Production:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Manufacturing and Production:\nThis area involves creating efficient processes for producing goods, from planning assembly lines to utilizing advanced manufacturing techniques like 3D printing. Mechanical engineers work to improve product quality while reducing costs and waste.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Automotive and Aerospace Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Automotive and Aerospace Engineering:\nSpecializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.\nFaculty of CAD / CAM\nDr.Ch.Radhika",
+      "token_count": 47
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8686876092",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nradhikareddy.chada@kakatiya.ac.in",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Dr.Md Asim Iqbal",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Md Asim Iqbal",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9700381439",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nanil.kucet@gmail.com\nR.D.Prasad",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9603192848",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nprasadrd.215@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "K. Sai Maneesh",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "K. Sai Maneesh",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "M.Tech Ph.D",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech Ph.D",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9949651697",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmaneesh14feb@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.Tech (CAD/CAM)",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n7416563887",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nyeshvenders@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "Dr.Shirisha Adupa",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Shirisha Adupa",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "M.Tech (Design Engineering), (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Design Engineering), (Ph.D)",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_33",
+      "chunk_index": 33,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_34",
+      "chunk_index": 34,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9949904971",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_35",
+      "chunk_index": 35,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nadupashirisha@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_36",
+      "chunk_index": 36,
+      "heading": "A. Ranjith Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "A. Ranjith Kumar",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_37",
+      "chunk_index": 37,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM. Tech (CAD/CAM)",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_38",
+      "chunk_index": 38,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_39",
+      "chunk_index": 39,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9959204065",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_40",
+      "chunk_index": 40,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrk.kucet@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_41",
+      "chunk_index": 41,
+      "heading": "M.Tech (Advanced Manufacturing Systems)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Advanced Manufacturing Systems)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_42",
+      "chunk_index": 42,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_43",
+      "chunk_index": 43,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9397666906",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_44",
+      "chunk_index": 44,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsiddartha.arukonda@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_45",
+      "chunk_index": 45,
+      "heading": "Dr.Md.Owais Ahmed Sajjad",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Md.Owais Ahmed Sajjad",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_46",
+      "chunk_index": 46,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_47",
+      "chunk_index": 47,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_48",
+      "chunk_index": 48,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9908716004",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_49",
+      "chunk_index": 49,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsajjad.owais44@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_50",
+      "chunk_index": 50,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.Tech CAD/CAM (Ph.D)",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_51",
+      "chunk_index": 51,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_52",
+      "chunk_index": 52,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9603221369",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_53",
+      "chunk_index": 53,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\ndayakar.007@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_54",
+      "chunk_index": 54,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.E ( Turbo machinery )(Ph.D)",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_55",
+      "chunk_index": 55,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nMechanical",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_56",
+      "chunk_index": 56,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8897885118",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_57",
+      "chunk_index": 57,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrukmini.kucet@gmail.com\nM.Tech ADMISSIONS",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_58",
+      "chunk_index": 58,
+      "heading": "COURSE | INTAKE",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "COURSE | INTAKE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "MTech-cad-info.php.json_chunk_59",
+      "chunk_index": 59,
+      "heading": "CAD / CAM | 18",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "CAD / CAM | 18\nINFRASTRUCTURE",
+      "token_count": 6
+    }
+  ]
+}

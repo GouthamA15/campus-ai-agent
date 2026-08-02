@@ -1,0 +1,307 @@
+{
+  "document_id": "placements.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/placements",
+  "page_type": "alumni",
+  "scraped_at": "2026-08-02T18:41:21.581672+00:00",
+  "chunk_count": 33,
+  "chunks": [
+    {
+      "chunk_id": "placements.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nPlacements\nAbout\nThe Training and Placement Office (TPO) bridges the gap between academia and industry by preparing students for job placements and facilitating their recruitment.\nIt supports students in acquiring skills, securing internships, and finding employment through collaboration with top companies and institutions.",
+      "token_count": 51
+    },
+    {
+      "chunk_id": "placements.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Latest News",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Latest News\n🚀 2026 Placement: Java Developer at Excel Edtech Private Limited\n💼 29 students of 2026 batch have been successfully placed in Rinex Technologies\n📢 1st-year girls selected for Genpact Scholarship & Mentorship Program\n💼 Infosys hires 3 students as System Engineers\n👩‍💻 3 students join TS BRIDGE as JAVA Developers\n🎓 MTech students placed at BEL",
+      "token_count": 63
+    },
+    {
+      "chunk_id": "placements.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "📅 Mock Interview Schedule Updated",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "📅 Mock Interview Schedule Updated",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "placements.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Training & Placement Officers",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Training & Placement Officers",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "placements.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "V. Ramana Babu",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "V. Ramana Babu\nDirector",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "placements.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Training & Placement Officer",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Training & Placement Officer\n9346313635\nramana.vrb@gmail.com",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "placements.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Pakala Santhosh Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Pakala Santhosh Kumar",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "placements.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Training & Placement Officer",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Training & Placement Officer\n7396586731\nsanthoshguptha507@gmail.com",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "placements.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Training & Placement Officer",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Training & Placement Officer\n9397666906\nsiddartha.arukonda@gmail.com\nOverview",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "placements.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Industry Interaction",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Industry Interaction\n➡️ Collaborates with industries for campus recruitment.\n➡️ Establishes Memoranda of Understanding (MoUs) with companies.\n➡️ Arranges industrial visits and internships.",
+      "token_count": 31
+    },
+    {
+      "chunk_id": "placements.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Student Training",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Student Training\n➡️ Organizes pre-placement training programs.\n➡️ Offers soft skills, aptitude, technical, and communication skills workshops.\n➡️ Conducts resume-building and interview-preparation sessions.",
+      "token_count": 38
+    },
+    {
+      "chunk_id": "placements.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Campus Recruitment",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Campus Recruitment\n➡️ Coordinates with recruiters for on-campus/off-campus drives.\n➡️ Schedules interviews, tests, and group discussions.\n➡️ Provides logistical support during recruitment.",
+      "token_count": 36
+    },
+    {
+      "chunk_id": "placements.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Career Guidance",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Career Guidance\n➡️ Helps students choose career paths: jobs, higher education, or entrepreneurship.\n➡️ Arranges expert lectures, alumni talks, and career counseling sessions.",
+      "token_count": 32
+    },
+    {
+      "chunk_id": "placements.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Internship Support",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Internship Support\n➡️ Facilitates summer/winter internships with reputed companies.\n➡️ Ensures students gain practical exposure and fulfill curriculum requirements.\nAchievements",
+      "token_count": 26
+    },
+    {
+      "chunk_id": "placements.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Placement Success",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Placement Success\n✅  Achieved 34%+ placement rate consistently over the last 2025 year.\n✅  Record highest package of ₹10 LPA offered by [Rinex technology Top Company].\n✅  Secured multiple offers for top-performing students across branches.",
+      "token_count": 45
+    },
+    {
+      "chunk_id": "placements.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Top Recruiters Onboarded",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Top Recruiters Onboarded\n✅ Partnerships with over 100+ reputed companies:Including:Rinex Technologies ,Infosys, Genpact,Nxt wave\n✅  Record highest package of ₹10 LPA offered by [Rinex technology Top Company].",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "placements.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Skill Development Initiatives",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Skill Development Initiatives",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "placements.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "✅ Conducted 05+ training sessions annually on:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "✅ Conducted 05+ training sessions annually on:\nAptitude and logical reasoning\nTechnical and domain-specific skills\nSoft skills, GD, and mock interviews\n✅ Collaboration with external trainers (e.g.TASK,Nirman)\nHigher Studies and Competitive Exams\n✅ Guided students toward GATE, GRE preparation.\n✅ Students placed in IITs, NITs, and foreign universities.",
+      "token_count": 67
+    },
+    {
+      "chunk_id": "placements.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Innovation & Entrepreneurship Support",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Innovation & Entrepreneurship Support\n✅ \tEncouraged startups through Innovation & Incubation Cell.\n✅ \tSupported students in getting seed funding and mentorship.",
+      "token_count": 23
+    },
+    {
+      "chunk_id": "placements.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Digital Transformation",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Digital Transformation\n✅ \tImplemented AI-powered placement portals for tracking opportunities and student performance.\n✅ \tOnline training modules for remote skill development and placement preparation.\nTraining and Placement Office Activities – Academic Year 2024–2025",
+      "token_count": 39
+    },
+    {
+      "chunk_id": "placements.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "📘 Pre-Placement Training Activities",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "📘 Pre-Placement Training Activities",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "placements.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Month | Activity | Description",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Month | Activity | Description\nJuly 2024 | Orientation Program | Intro to T&P process, roadmap, and opportunities\nAug 2024 | Soft Skills Training | Communication, leadership, time management\nSept 2024 | Aptitude Sessions | Daily reasoning, quant, verbal practice\nOct 2024 | Resume Workshop | Resume creation + expert review\nNov 2024 | Technical Training | C, Python, Java, CAD, etc.\nDec 2024 | Mock Interviews & GD | HR + Technical + Group Discussions",
+      "token_count": 89
+    },
+    {
+      "chunk_id": "placements.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "🏢 Campus Recruitment Drives",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "🏢 Campus Recruitment Drives",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "placements.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Month | Companies Visited | Roles Offered",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Month | Companies Visited | Roles Offered",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "placements.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Aug 2024 | Zithara | Software Engineer, Analyst",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Aug 2024 | Zithara | Software Engineer, Analyst",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "placements.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Sept 2024 | Genpact | Full Stack Dev, Support Engineer",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sept 2024 | Genpact | Full Stack Dev, Support Engineer\nOct 2024 | Infosys | System Engineer, QA Analyst",
+      "token_count": 21
+    },
+    {
+      "chunk_id": "placements.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Nov 2024 | Nxtwave | Developer, Tech Support",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Nov 2024 | Nxtwave | Developer, Tech Support\nJan 2025 | Paltech | SDE Intern, Operations Associate",
+      "token_count": 19
+    },
+    {
+      "chunk_id": "placements.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "💼 Internship Opportunities",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "💼 Internship Opportunities",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "placements.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Month | Company | Domain",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Month | Company | Domain\nDec 2024 | DRDO | Research & Defense Tech\nJan 2025 | BSNL | Core Engineering\nFeb 2025 | NIT Warangal, IIT Madras | App Dev, Product Dev",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "placements.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "🎓 Skill Development Certifications",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "🎓 Skill Development Certifications\nPlatform | Courses | No. of Students\nNPTEL | Python for Data Science, Soft Skills | 5\nCoursera | Google IT Support, Data Analytics | 1\nUdemy | Web Dev Bootcamp, SQL | 2",
+      "token_count": 42
+    },
+    {
+      "chunk_id": "placements.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Wipro | Web Dev Bootcamp | 2",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Wipro | Web Dev Bootcamp | 2",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "placements.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "🤝 Outreach & Industry Collaboration",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "🤝 Outreach & Industry Collaboration",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "placements.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "Type | Details",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Type | Details\nMoUs Signed | 3 new IT & Core sector companies for internships & placements\nIndustrial Visits | Ashok Leyland, Infosys Campus (Chennai), NLC\nDepartment-wise\nCIVIL\nCSD\nCSE\nECE\nEEE\nIT\nMECH\nYear-wise\n2025 - 2026\n2024 - 2025\n2023 - 2024\n2021 - 2022\n2019 - 2020\n2018 - 2019",
+      "token_count": 61
+    }
+  ]
+}

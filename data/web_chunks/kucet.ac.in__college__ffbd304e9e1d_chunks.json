@@ -1,0 +1,28 @@
+{
+  "document_id": "college.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/college",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:14.491781+00:00",
+  "chunk_count": 2,
+  "chunks": [
+    {
+      "chunk_id": "college.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nIt was established in the year 2009 with the mission and vision to inculcate a competitive spirit and disseminate knowledge\nto students. It has been accredited with an ‘A+’ Grade by NAAC. The University has a sprawling campus of 650 acres with excellent\ninfrastructure for academic activities, sports, and extra-curricular activities. Facilities include modern computer labs,\nair-conditioned seminar halls, well-ventilated classrooms, well-equipped laboratories, and a well-stocked library.\nFrom its inception, the College has attracted high-ranking students from EAMCET and ECET at the state level. With continuous\nefforts by the administration, faculty, and students, the College has demonstrated academic excellence, leading to a progressive\nintake of higher-ranked students. Additionally, four batches of students have successfully graduated and secured placements,\nwith 20% to 40% of students regularly pursuing higher education at foreign universities.\nBeyond academics, the University emphasizes value-added programs and personality development courses. Students regularly visit\npremier institutes such as DLRL, DRDL, RCI, CDAC, and ECIL for academic projects. The College has hosted campus drives for\nTCS, Army Recruitment, Aurobindo Pharma, Value Labs, and Teradata. AMCAD tests and TASK programs are conducted regularly to\nenhance placement opportunities. Students have consistently achieved high ranks in competitive exams like GATE, CAT, PGECET,\nTSPSC, and others.\nThe College has signed academic MoUs with the Centre for Development of Advanced Computing (C-DAC), Hyderabad, Govt. of India,\nand the University of Malaysia. Additionally, it successfully organized the International Conference on Photonics, VLSI, and\nSignal Processing (IC-PVS), with proceedings published by Elsevier Procedia. The Department of Mechanical Engineering co-organized\nthe International Conference on Vibration Problems (ICOVP-2015), with proceedings published in the Journal of Physics (JoP) by\nthe Institute of Physics (IoP), UK.\nThe College also organizes student workshops on Defence Electronics, HADOOP, and the KLEIO student fest. Regular student activities\ninclude NSS, NCC, Fresher’s Day, Annual Day, and expert guest lectures. Admissions are open to foreign students for Master’s and",
+      "token_count": 417
+    },
+    {
+      "chunk_id": "college.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "Ph.D. engineering programs. The College has achieved a AAA rating, as published in Career 360 magazines.",
+      "token_count": 22
+    }
+  ]
+}

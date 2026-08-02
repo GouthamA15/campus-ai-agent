@@ -1,0 +1,397 @@
+{
+  "document_id": "CIVIL-info.php.json",
+  "title": "CIVIL ENGINEERING",
+  "source": "http://kucet.ac.in/CIVIL-info.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:23.506521+00:00",
+  "chunk_count": 43,
+  "chunks": [
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "CIVIL ENGINEERING",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "CIVIL ENGINEERING\nDepartment Vision and Mission\nTo evolve as a centre of academic excellence and advanced research in Civil engineering and related areas.\nTo impart quality education and prepare the students to become competent for the global market and equip them for the pursuit of higher education.\nTo encourage students to contribute towards solving social issues and promote research.\nDevelop leadership qualities and professional ethics in students towards social responsibilities.\nIn-Charge HoD of Civil Engineering",
+      "token_count": 81
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Dr.N.Satya Shivaprasad",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.N.Satya Shivaprasad\n9133612366\nsatya4249@kakatiya.ac.in\nDepartment of Civil Engineering",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Civil Engineering",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Civil Engineering\nis a diverse and essential branch of engineering focused on designing, constructing, and maintaining the infrastructure that shapes modern society. From buildings and roads to bridges, water systems, and airports, civil engineers are responsible for the planning, construction, and maintenance of the structures and systems that form the backbone of our communities.",
+      "token_count": 63
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Structural Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Structural Engineering:\nFocuses on designing and analyzing buildings, bridges, towers, and other structures to ensure their strength, stability, and durability.",
+      "token_count": 27
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Transportation Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Transportation Engineering:\nInvolves planning, designing, and improving transportation systems, such as roads, railways, airports, and ports, to ensure safe, efficient movement of people and goods.",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Geotechnical Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Geotechnical Engineering:\nConcerned with understanding soil and rock mechanics to ensure stable foundations for structures. Geotechnical engineers assess site conditions, evaluate risks like landslides, and design earthworks, foundations, and retaining structures.",
+      "token_count": 38
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Environmental Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Environmental Engineering:\nDedicated to improving and protecting the environment through sustainable practices, pollution control, and the design of water and waste management systems.",
+      "token_count": 27
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Water Resources Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Water Resources Engineering:\nFocuses on managing and designing systems for water supply, flood control, drainage, irrigation, and wastewater treatment to ensure a sustainable and safe water supply for communities.",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Construction Engineering:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Construction Engineering:\nInvolves the planning, management, and execution of construction projects, ensuring they are completed on time, within budget, and to specified standards.\nFaculty",
+      "token_count": 31
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Designation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Designation:\nBoS of Civil Engineering",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9849188622",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nms.ce@kitsw.ac.in",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9515068515",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmanupativennala@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Designation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Designation:\nAssistant professor (C)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8519802818",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\namarender43@gmail.com\nDr. Nannuta SatyaShiva Prasad",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Designation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Designation:\nAssistant professor (C)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9133612366",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsatya4249@kakatiya.ac.in",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Mamidipally Rajan Babu",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mamidipally Rajan Babu",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Designation:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Designation:\nAssistant professor (C)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8106004994",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmamidipallyrajanbabu@gmail.com\nB.Tech ADMISSIONS",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "CIVIL ENGINEERING | 66 | 5(+55) | 30(+35) | 43(+15)",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "CIVIL ENGINEERING | 66 | 5(+55) | 30(+35) | 43(+15)\nINFRASTRUCTURE",
+      "token_count": 23
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Transportation Engineering Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Transportation Engineering Laboratory:\n• A Transportation Engineering Laboratory is a facility designed for testing and analyzing materials and components used in transportation infrastructure, such as roads, highways, and pavements.\n• It supports the study of traffic engineering, pavement design, and material behavior to ensure safety, durability, and efficiency in transportation systems.",
+      "token_count": 61
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Key Functions:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Functions:\n1. Testing road construction materials like bitumen, aggregates, and soil.\n2. Analyzing traffic flow and vehicle characteristics.\n3. Evaluating pavement strength and performance.",
+      "token_count": 34
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Concrete Technology Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Concrete Technology Laboratory:\n• A Concrete Technology Laboratory is a specialized facility where various tests and experiments are conducted to study the properties, behavior, and performance of concrete and its constituent materials.\n• The primary goal of the lab is to ensure the quality, durability, and safety of concrete used in construction.",
+      "token_count": 59
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "Key Aspects of a Concrete Technology Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Aspects of a Concrete Technology Laboratory:",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Objectives:\n1. To study the properties of cement, aggregates, water, and admixtures.\n2. To design concrete mixes for different structural requirements.\n3. To test the fresh and hardened properties of concrete.\n4. To evaluate the strength, workability, durability, and other characteristics of concrete.",
+      "token_count": 58
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "Soil Mechanics Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Soil Mechanics Laboratory:\n• A Soil Mechanics Laboratory is a facility dedicated to testing and analyzing the physical and engineering properties of soil.\n• It plays a crucial role in geotechnical engineering by helping to assess soil behavior for the safe design of foundations, embankments, and other earth structures.",
+      "token_count": 54
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "Key Functions:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Functions:\n1. Determining soil properties such as strength, permeability, compressibility, and density.\n2. Classifying soils for construction suitability.\n3. Supporting foundation and earthwork design.",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_33",
+      "chunk_index": 33,
+      "heading": "Surveying Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Surveying Laboratory:\n• Surveying Laboratory is a practical facility where students and professionals learn and apply techniques for measuring and mapping the physical features of land.\n• It supports the study of land surveying, geodetic measurements, and mapping, which are fundamental in civil engineering and land development projects.",
+      "token_count": 54
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_34",
+      "chunk_index": 34,
+      "heading": "Key Functions:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Functions:\n1. Training in the use of surveying instruments.\n2. Practicing field data collection and map preparation.\n3. Understanding principles of distance, angle, and elevation measurement.",
+      "token_count": 36
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_35",
+      "chunk_index": 35,
+      "heading": "Engineering Geology Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Engineering Geology Laboratory:\n• Engineering Geology Laboratory is a specialized facility where students and professionals study the physical and mechanical properties of rocks and minerals, as well as geological features relevant to civil engineering.\n• It helps in understanding earth materials and geological conditions that affect construction and infrastructure projects.",
+      "token_count": 54
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_36",
+      "chunk_index": 36,
+      "heading": "Key Functions:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Functions:\n1. Identifying rocks and minerals and understanding their properties.\n2. Analyzing geological structures like faults, folds, and joints.\n3. Assessing site suitability for construction based on geological conditions.",
+      "token_count": 39
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_37",
+      "chunk_index": 37,
+      "heading": "AutoCAD Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "AutoCAD Laboratory:\n• AutoCAD Laboratory is a computer-based facility where students and professionals learn and practice computer-aided design (CAD) using AutoCAD software.\n• It supports the creation of precise 2D and 3D drawings for architecture, engineering, and construction projects.",
+      "token_count": 50
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_38",
+      "chunk_index": 38,
+      "heading": "Key Functions:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Functions:\n1. Training in drafting and design using AutoCAD.\n2. Creating technical drawings for civil, mechanical, and architectural projects.\n3. Enhancing design accuracy and productivity.",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_39",
+      "chunk_index": 39,
+      "heading": "Environmental Engineering Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Environmental Engineering Laboratory:\n• Environmental Engineering Laboratory in Civil Engineering is a specialized facility focused on analyzing environmental parameters and studying processes related to water and wastewater treatment, air and noise pollution control, and solid waste management.\n• It plays a critical role in designing systems that ensure environmental protection and public health.",
+      "token_count": 58
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_40",
+      "chunk_index": 40,
+      "heading": "Key Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Objectives:\n1. To assess the quality of water, wastewater, air, and soil.\n2. To understand treatment processes for environmental pollutants.\n3. To support the design and evaluation of environmental engineering systems.",
+      "token_count": 42
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_41",
+      "chunk_index": 41,
+      "heading": "Fluid Mechanics Laboratory:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Fluid Mechanics Laboratory:\n• Fluid Mechanics Laboratory is a specialized facility in civil and mechanical engineering where students and professionals study the behavior of fluids (liquids and gases) under various conditions.\n• It provides practical experience in understanding fluid properties, flow dynamics, and hydraulic systems.",
+      "token_count": 52
+    },
+    {
+      "chunk_id": "CIVIL-info.php.json_chunk_42",
+      "chunk_index": 42,
+      "heading": "Key Objectives:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Objectives:\n1. To analyze the fundamental principles of fluid flow.\n2. To verify theoretical concepts through experiments.\n3. To understand the operation of hydraulic machines and flow measuring devices.",
+      "token_count": 37
+    }
+  ]
+}

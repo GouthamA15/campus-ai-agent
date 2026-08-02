@@ -1,0 +1,9 @@
+{
+  "total_vectors": 2730,
+  "duplicate_ids": 0,
+  "missing_text": 0,
+  "missing_embeddings": 0,
+  "incorrect_dimension": 0,
+  "missing_metadata": 0,
+  "status": "PASS"
+}

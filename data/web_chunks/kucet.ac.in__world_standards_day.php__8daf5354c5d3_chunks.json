@@ -1,0 +1,19 @@
+{
+  "document_id": "world_standards_day.php.json",
+  "title": "WORLD STANDARDS DAY",
+  "source": "http://kucet.ac.in/world_standards_day.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:11.169060+00:00",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "world_standards_day.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "WORLD STANDARDS DAY",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "WORLD STANDARDS DAY\nOverview\nWorld Standards Day is celebrated annually on October 14th to recognize the collaborative efforts of experts and organizations in developing international standards. These standards ensure quality, safety, efficiency, and interoperability across industries, facilitating global trade and innovation.\nThe day is jointly organized by ISO (International Organization for Standardization), IEC (International Electrotechnical Commission), and ITU (International Telecommunication Union). Each year, a unique theme highlights the importance of standardization in addressing global challenges, such as sustainability, digital transformation, and industrial advancements.\nCelebrating World Standards Day helps raise awareness about the critical role of standards in improving product quality, consumer safety, and economic growth. Events such as conferences, workshops, and exhibitions are held worldwide to emphasize their impact on businesses, governments, and society.",
+      "token_count": 152
+    }
+  ]
+}

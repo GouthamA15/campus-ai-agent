@@ -3,6 +3,10 @@
 
 __pycache__
 
-data
+data/pdfs
 Documents
 prompt.txt
+
+debug*
+test_api.py
+temp*

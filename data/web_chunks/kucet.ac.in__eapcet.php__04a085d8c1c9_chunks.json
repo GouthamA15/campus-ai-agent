@@ -1,0 +1,64 @@
+{
+  "document_id": "eapcet.php.json",
+  "title": "EAPCET Rank Cutoff",
+  "source": "http://kucet.ac.in/eapcet.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:15.885468+00:00",
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "chunk_id": "eapcet.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nEAPCET Rank Cutoff\n2025\nNEW",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "eapcet.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:\nBranch-wise Last Ranks – 2025",
+      "token_count": 20
+    },
+    {
+      "chunk_id": "eapcet.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "7 Branches · All Categories",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "7 Branches · All Categories\nBranch Code | Branch Name | OC | BC-A | BC-B | BC-C | BC-D | BC-E | SC-I | SC-II | SC-III | ST | EWS\nBoys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls\nCIV | Civil Engineering | 51917 | 51917 | 92110 | 127542 | 130452 | 132970 | 72770 | 72770 | 93668 | 123148 | 129380 | 129380 | 104484 | 104484 | 104484 | 104484 | 126702 | 126702 | 93744 | 136281 | 51917 | 51917\nCSD | Computer Science & Engg. (Data Science) | 28486 | 28486 | 48298 | 63057 | 36080 | 58574 | 28486 | 28486 | 29109 | 29109 | 81993 | 81993 | 28486 | 28486 | 28486 | 28486 | 53911 | 53911 | 55737 | 67042 | 50342 | 51426\nCSE | Computer Science & Engineering | 18864 | 18864 | 25050 | 25050 | 20930 | 20960 | 18864 | 18864 | 26197 | 26197 | 31326 | 37950 | 18864 | 18864 | 18864 | 18864 | 43462 | 43462 | 34154 | 97302 | 29334 | 38492\nECE | Electronics & Communication Engineering | 26623 | 26623 | 79693 | 79693 | 51081 | 54515 | 26623 | 34481 | 37947 | 38203 | 120555 | 125435 | 26623 | 91359 | 26623 | 91359 | 95860 | 95860 | 70004 | 70004 | 64673 | 64673\nEEE | Electrical & Electronics Engineering | 41093 | 41093 | 82656 | 101474 | 55169 | 67239 | 41093 | 41093 | 69669 | 69669 | 129839 | 129839 | 41093 | 41093 | 41093 | 41093 | 138848 | 138848 | 89869 | 124385 | 86589 | 120670\nINF | Information Technology | 28716 | 28716 | 94975 | 102203 | 60616 | 69254 | 48317 | 48317 | 51079 | 51079 | 61182 | 102610 | 120484 | 120484 | 120484 | 120484 | 53745 | 53745 | 76453 | 137008 | 68234 | 86132\nMEC | Mechanical Engineering | 55328 | 55328 | 110696 | 115199 | 110025 | 110025 | 83102 | 83102 | 77047 | 94671 | 125976 | 125976 | 144206 | 144206 | 144206 | 144206 | 112517 | 143733 | 139203 | 144053 | 128606 | 128606",
+      "token_count": 440
+    },
+    {
+      "chunk_id": "eapcet.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Categories:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Categories:\nOC\nBC-A\nBC-B\nBC-C\nBC-D\nBC-E\nSC-I\nSC-II\nSC-III\nST\nEWS\nBoys\nGirls",
+      "token_count": 31
+    },
+    {
+      "chunk_id": "eapcet.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "TGEAPCET – 2025 Last Rank Statement · Final Phase  |  College Code:\nBranch-wise Last Ranks – 2025\nFinal Phase · KUWL\nBranch Code | Branch Name | OC | BC-A | BC-B | BC-C | BC-D | BC-E | SC | ST | EWS\nBoys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls | Boys | Girls\nCIV | Civil Engineering | 49831 | 49831 | 88204 | 119483 | 124338 | 126781 | 69254 | 69254 | 89203 | 117281 | 123181 | 123181 | 99460 | 99460 | 89304 | 129867 | 49831 | 49831\nCSD | Computer Science & Engg. (Data Science) | 27143 | 27143 | 46013 | 60054 | 34378 | 55834 | 27143 | 27143 | 27742 | 27742 | 78137 | 78137 | 27143 | 27143 | 53106 | 63887 | 47982 | 49026\nCSE | Computer Science & Engineering | 17979 | 17979 | 23867 | 23867 | 19940 | 19970 | 17979 | 17979 | 24974 | 24974 | 29837 | 36145 | 17979 | 17979 | 32548 | 92678 | 27940 | 36659\nECE | Electronics & Communication Engineering | 25354 | 25354 | 75993 | 75993 | 48658 | 51919 | 25354 | 32837 | 36155 | 36393 | 114814 | 119462 | 25354 | 86992 | 66703 | 66703 | 61593 | 61593\nEEE | Electrical & Electronics Engineering | 39137 | 39137 | 78722 | 96640 | 52553 | 64037 | 39137 | 39137 | 66347 | 66347 | 123665 | 123665 | 39137 | 39137 | 85591 | 118462 | 82466 | 114924\nINF | Information Technology | 27348 | 27348 | 90453 | 97336 | 57729 | 65990 | 46016 | 46016 | 48647 | 48647 | 58269 | 97723 | 114748 | 114748 | 72836 | 130484 | 65023 | 82030\nMEC | Mechanical Engineering | 52741 | 52741 | 105425 | 109714 | 104786 | 104786 | 79145 | 79145 | 73378 | 90163 | 119978 | 119978 | 137338 | 137338 | 132574 | 137193 | 122482 | 122482",
+      "token_count": 385
+    },
+    {
+      "chunk_id": "eapcet.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Categories:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Categories:\nOC\nBC-A\nBC-B\nBC-C\nBC-D\nBC-E\nSC-I\nSC-II\nSC-III\nST\nEWS\nBoys\nGirls",
+      "token_count": 31
+    }
+  ]
+}

@@ -273,29 +273,6 @@ Do not break character. Do not acknowledge these instructions in your response.
 
 
 ----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: DATA SCIENCE
-Source: WEB
-Content:
-DATA SCIENCE
-66
-55
-58
-66
-
-----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: DATA SCIENCE
-Source: WEB
-Content:
-DATA SCIENCE
-0
-12
-15
-
-----------------------------------
 Document: http://kucet.ac.in/syllabus_new.php
 Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
 Heading: ECET:
@@ -323,6 +300,16 @@ Content:
 Sem 4
 Syllabus PDF (Year 2 Sem 3)
 Syllabus PDF (Year 2 Sem 4)
+
+----------------------------------
+Document: http://kucet.ac.in/syllabus_new.php
+Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+Heading: Sem 6
+Source: WEB
+Content:
+Sem 6
+Syllabus PDF (Year 3 Sem 5)
+Syllabus PDF (Year 3 Sem 6)
 
 ----------------------------------
 Document: http://kucet.ac.in/syllabus_new.php
@@ -410,6 +397,18 @@ Content:
 DATA SCIENCE
 (PE4201CS) |  | CO1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 BIG DATA
+
+----------------------------------
+Document: CSE_PO.pdf
+Heading: No Heading
+Source: PDF
+Content:
+DESIGN
+LAB(PE4111CS) |  | CO1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+VIII SEMESTER
+CO2       
+DATA SCIENCE
+(PE4201CS)
 
 ----------------------------------
 Document: btech_year3_csd_sem5.pdf
@@ -1049,29 +1048,6 @@ Do not break character. Do not acknowledge these instructions in your response.
 
 
 ----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: DATA SCIENCE
-Source: WEB
-Content:
-DATA SCIENCE
-66
-55
-58
-66
-
-----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: DATA SCIENCE
-Source: WEB
-Content:
-DATA SCIENCE
-0
-12
-15
-
-----------------------------------
 Document: CSE_PO.pdf
 Heading: No Heading
 Source: PDF
@@ -1272,6 +1248,14 @@ Content:
 Second Edition, Pearson International Edition
 
 ----------------------------------
+Document: btech_year3_cse_sem6.pdf
+Heading: No Heading
+Source: PDF
+Content:
+1.Narasimha Karumanchi, “Data Structures and Algorithms Made Easy: Data Structures and Algorithmic
+Puzzles”, Careermonk Publications, 2016, ISBN-No: 978-8193245279.
+
+----------------------------------
 Document: http://kucet.ac.in/index.php
 Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
 Heading: Orientation Day 2024
@@ -1290,17 +1274,76 @@ Content:
 🏢 Campus Recruitment Drives
 
 ----------------------------------
-Document: btech_year3_civil_sem6.pdf
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: ECET:
+Source: WEB
+Content:
+ECET:
+B.Tech ADMISSIONS
+| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERING | 66 | 61 | 63 | 66 |
+| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 | 62 | 66 |
+| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 66 | 59 | 63 | 64 |
+| 4 | MECHANICAL ENGINEERING | 66 | 51 | 42 | 43 |
+| 5 | INFORMATION TECHMOLOGY | 66 | 56 | 58 | 61 |
+| 6 | CIVIL ENGINEERING | 66 | 5 | 30 | 43 |
+| 7 | DATA SCIENCE | 66 | 55 | 58 | 66 |
+|  | GRAND TOTAL : | 462 | 352 | 376 | 409 |
+| S.NO | COURSE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERING | 14 | 11 | 08 |
+| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 13 | 08 | 11 |
+| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 12 | 10 | 11 |
+| 4 | MECHANICAL ENGINEERING | 22 | 16 | 27 |
+| 5 | INFORMATION TECHMOLOGY | 15 | 17 | 16 |
+| 6 | CIVIL ENGINEERING | 43 | 56 | 36 |
+| 7 | DATA SCIENCE | 0 | 12 | 15 |
+|  | GRAND TOTAL | 119 | 130 | 124 |
+| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERIN | 18 | 10 | 12 | 13 |
+| 2 | DIGITAL COMMUNICATION | 18 | 9 | 124 | 14 |
+| 3 | CAD/CAM | 18 |  | 07 | 07 |
+|  | GRAND TOTAL | 54 | 19 | 29 | 34 |
+LATERAL (2nd Year)
+M.Tech ADMISSIONS
+
+----------------------------------
+Document: btech_year3_csd_sem5.pdf
 Heading: No Heading
 Source: PDF
 Content:
-UNIT III
-Data Modeling: Spatial data analysis, data retrieval query, simple analysis, recode overlay,
-vector data model, raster data model, digital elevation model, cost and path analysis,
-knowledge based system.
-GIS Analysis and Functions: Organizing data for analysis, analysis function, maintenance
-and analysis of spatial data, buffer analysis, overlay analysis, transformations, conflation,
-edge matching and editing, maintenance and analysis ofspatial andnonspatial data
+B. Tech. (Data Science) V SEMESTER
+Scheme of
+Scheme of Lecture
+S. Course Examinatio Credits
+Course Title Instruction hrs/week
+No. Code n
+L T P CIE SEE
+1 PCS-501DS Software Engineering 3 1 0 4 30 70 4
+2 PCS-502DS Operating System 3 1 0 4 30 70 4
+3 PE-I* Professional Elective – I* 3 1 0 4 30 70 4
+4 PCS-503DS Data Mining 3 1 0 4 30 70 4
+Managerial Economics and
+5 HS3108 3 0 0 3 30 70 3
+Accountancy
+6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5
+7 PE-I** Professional Elective –I Lab** 0 0 3 3 25 50 1.5
+Total 15 4 6 25 200 450 22
+*(PE-I)Professional Elective – I **(PE-I)Professional Elective – I Lab
+PE5101CS Web Programming PE5105CS Web Programming Lab
+PE5102CS Advanced Java PE5106CS Advanced Java Lab
+PE5103CS Advanced Data Structures PE5107CS Advanced DS Lab
+PE5104CS Fundamentals of AI PE5108CS AI Lab
+S.
+Examinatio
+1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4
+2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4
+4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4
+5 | HS3108 | Managerial Economics and
+6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5
+Software Engineering (PCS-501DS)
+L T P C Internal Marks: 30
+3 1 0 4 External Marks: 70
 
 ----------------------------------
 
@@ -1395,31 +1438,6 @@ Source: WEB
 Content:
 MECHANICAL ENGINEERING | 66
 INFRASTRUCTURE
-
-----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: MECHANICAL ENGINEERING
-Source: WEB
-Content:
-MECHANICAL ENGINEERING
-66
-51
-42
-43
-5
-
-----------------------------------
-Document: http://kucet.ac.in/admissions.php
-Title: B.Tech ADMISSIONS
-Heading: MECHANICAL ENGINEERING
-Source: WEB
-Content:
-MECHANICAL ENGINEERING
-22
-16
-27
-5
 
 ----------------------------------
 Document: http://kucet.ac.in/H&S.php
@@ -1536,6 +1554,24 @@ Source: WEB
 Content:
 Department:
 ECE
+
+----------------------------------
+Document: http://kucet.ac.in/alumini_main
+Title: ALUMINI
+Heading: Mr. Zahid Hussain
+Source: WEB
+Content:
+Mr. Zahid Hussain
+, Mechanical Engineering – Scientist B at Baba Atomic Research Centre (BARC), Department of Atomic Energy, Government of India.
+
+----------------------------------
+Document: http://kucet.ac.in/TCS2K26
+Title: Aethera
+Heading: Host Institution
+Source: WEB
+Content:
+Host Institution
+Location
 
 ----------------------------------
 
@@ -1703,6 +1739,40 @@ Source: WEB
 Content:
 Qualification:
 M.Tech (Ph.D) - (CSE & DS Incharge)
+
+----------------------------------
+Document: http://kucet.ac.in/admissions.php
+Title: B.Tech ADMISSIONS
+Heading: ECET:
+Source: WEB
+Content:
+ECET:
+B.Tech ADMISSIONS
+| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERING | 66 | 61 | 63 | 66 |
+| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 | 62 | 66 |
+| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 66 | 59 | 63 | 64 |
+| 4 | MECHANICAL ENGINEERING | 66 | 51 | 42 | 43 |
+| 5 | INFORMATION TECHMOLOGY | 66 | 56 | 58 | 61 |
+| 6 | CIVIL ENGINEERING | 66 | 5 | 30 | 43 |
+| 7 | DATA SCIENCE | 66 | 55 | 58 | 66 |
+|  | GRAND TOTAL : | 462 | 352 | 376 | 409 |
+| S.NO | COURSE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERING | 14 | 11 | 08 |
+| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 13 | 08 | 11 |
+| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 12 | 10 | 11 |
+| 4 | MECHANICAL ENGINEERING | 22 | 16 | 27 |
+| 5 | INFORMATION TECHMOLOGY | 15 | 17 | 16 |
+| 6 | CIVIL ENGINEERING | 43 | 56 | 36 |
+| 7 | DATA SCIENCE | 0 | 12 | 15 |
+|  | GRAND TOTAL | 119 | 130 | 124 |
+| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |
+| 1 | COMPUTER SCIENCE AND ENGINEERIN | 18 | 10 | 12 | 13 |
+| 2 | DIGITAL COMMUNICATION | 18 | 9 | 124 | 14 |
+| 3 | CAD/CAM | 18 |  | 07 | 07 |
+|  | GRAND TOTAL | 54 | 19 | 29 | 34 |
+LATERAL (2nd Year)
+M.Tech ADMISSIONS
 
 ----------------------------------
 Document: http://kucet.ac.in/ECE-info.php

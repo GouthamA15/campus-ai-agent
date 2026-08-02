@@ -29,8 +29,8 @@
     "query_type": "general",
     "intent": "information",
     "entities": [
-      "Syllabus",
-      "Data Science"
+      "Data Science",
+      "Syllabus"
     ],
     "keywords": [
       "data",

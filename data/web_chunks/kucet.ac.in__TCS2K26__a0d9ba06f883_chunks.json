@@ -1,0 +1,334 @@
+{
+  "document_id": "TCS2K26.json",
+  "title": "Aethera",
+  "source": "http://kucet.ac.in/TCS2K26",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:20.186960+00:00",
+  "chunk_count": 36,
+  "chunks": [
+    {
+      "chunk_id": "TCS2K26.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Aethera",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "KUCE&T Annual National-Level Fest\nAethera",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Tech · Culture · Sports",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Tech · Culture · Sports",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "17 – 19 April 2026, Hanamkonda.",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "17 – 19 April 2026, Hanamkonda.",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "View Poster",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View Poster\nCSE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "View Poster",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View Poster\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "View Poster",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View Poster\nMECH",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "View Poster",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View Poster\nCIVIL",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "View Poster",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View Poster\nEEE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Event Sponsors",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Event Sponsors\nACE\nHope",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Kapil Group Marketing Service Pvt Ltd",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kapil Group Marketing Service Pvt Ltd",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Kapil Group Marketing Service Pvt Ltd",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kapil Group Marketing Service Pvt Ltd",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "I20 FEVER YATHAPU CONSULTING",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "I20 FEVER YATHAPU CONSULTING\nACE\nHope",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Kapil Group Marketing Service Pvt Ltd",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kapil Group Marketing Service Pvt Ltd",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Kapil Group Marketing Service Pvt Ltd",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kapil Group Marketing Service Pvt Ltd",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "I20 FEVER YATHAPU CONSULTING",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "I20 FEVER YATHAPU CONSULTING\n3\nDays of Events\n50+",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Events & Competitions",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Events & Competitions\n500+\nParticipants\n2026",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "TUG OF WAR",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "TUG OF WAR",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "RC CAR RACE",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "RC CAR RACE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "TUG OF WAR",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "TUG OF WAR",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "RC CAR RACE",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "RC CAR RACE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "SLOW RACE",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "SLOW RACE\nAbout the Fest\nMore Than a Fest — It's a\nMovement\nRecognized as one of the largest fests in Telangana, the event has grown exponentially — attracting participants from diverse engineering institutions and providing a dynamic platform to showcase brilliance across disciplines.",
+      "token_count": 48
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Host Institution",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Host Institution\nLocation",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "17 – 19 April 2026",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "17 – 19 April 2026\nA multi-day extravaganza of competitive and celebratory events\nScope\nNational-level participation spanning Technical, Cultural, and Sports categories",
+      "token_count": 28
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Event Categories",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Event Categories\nThree Pillars of\nExcellence\nEach pillar is designed to challenge, inspire, and celebrate the multifaceted talent of engineering students.\nTechnical\nPush the boundaries of engineering knowledge through high-stakes competitions and immersive workshops.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Paper Presentations",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Paper Presentations\nCoding\nRobotics\nWorkshops",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Tech Mela",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Tech Mela\nCultural\nCelebrate art, music, and performance in a vibrant atmosphere where creativity knows no bounds.\nDance\nMusic\nDJ Night",
+      "token_count": 24
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Talent Show",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Talent Show\nCapture the Flag\nSports\nFrom intense outdoor championships to strategic indoor tournaments — promoting teamwork and discipline.\nOutdoor\nIndoor\nTournaments",
+      "token_count": 23
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Organized By",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Organized By\nKUCE&T Student Fraternity\nEdition\n17 / 18 / 19",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "Multi-Day Extravaganza",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Multi-Day Extravaganza\nLevel",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "National Level",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "National Level\nOpen to all Engineering Colleges\nWhat to Expect\nFest\nHighlights",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Day 1 — 17 April 2026",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Day 1 — 17 April 2026",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "Inauguration & Technical Events",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Inauguration & Technical Events\nGrand opening ceremony followed by paper presentations, coding challenges, and discipline-specific workshops across all engineering branches.",
+      "token_count": 25
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "Day 2 — 18 April 2026",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Day 2 — 18 April 2026",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_33",
+      "chunk_index": 33,
+      "heading": "Robotics, Workshops & Cultural Kickoff",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Robotics, Workshops & Cultural Kickoff\nRobotics competitions and immersive workshops in the morning; cultural competitions including dance, music, and talent showcases in the evening.",
+      "token_count": 29
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_34",
+      "chunk_index": 34,
+      "heading": "Day 3 — 19 April 2026",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Day 3 — 19 April 2026",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "TCS2K26.json_chunk_35",
+      "chunk_index": 35,
+      "heading": "Sports Finals & Prize Distribution",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sports Finals & Prize Distribution\nGrand finals for all sports tournaments, prize distribution ceremony, and a spectacular DJ night to close Aethera in style.\nReady to Be Part of\nAethera?\nBack to KUCE&T\nPlacements\n© 2026",
+      "token_count": 42
+    }
+  ]
+}

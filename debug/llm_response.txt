@@ -3,118 +3,54 @@
 ==================================================
 QUERY: What is the attendance requirement?
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the rules.pdf document, a "regular programme of study" means putting in attendance of not less than 75%.
+
 
 
 ==================================================
 QUERY: Show Data Science syllabus.
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the provided context, the Data Science syllabus is available in the following documents:
 
-1. btech_year4_csd_sem8.pdf: 
-   - UNIT – I: Introduction to core concepts and technologies
-   - UNIT-V: Applications of Data Science, Technologies for visualization, Bokeh (Python)
-
-2. btech_year2_csd_sem4.pdf: 
-   - UNIT - I: INTRODUCTION - Data Science: Benefits and uses, Data Science Process, Data Mining, Data Warehousing
-   - Course Code and Titles: 
-     - PCS-401 Database Management Systems
-     - PCS-402 Introduction to Data Science
-     - PCS-403 Design and Analysis of Algorithms
-     - PCS-404 (no title mentioned)
-     - PCS-401L (lab)
-
-3. btech_year3_csd_sem5.pdf: 
-   - Course Code and Titles: 
-     - PCS-501DS Software Engineering
-     - PCS-502DS Operating System
-     - PE-I* Professional Elective – I*
-     - PCS-503DS Data Mining
-     - HS3108 Managerial Economics and Accountancy
-     - PCS-501DSL Software Engineering Lab
-     - PE-I** Professional Elective –I Lab**
-
-4. btech_year2_csd_sem3.pdf: 
-   - Course Code and Titles: 
-     - BSC-301 Mathematics and Statistical Foundations
-     - PCS-301 Data Structures using “C”
-     - PCS-302 Computer Architecture & Organization
-     - PCS-303 OOP Through JAVA
-     - PCS-304 Elements of Computer Science
-     - PCS-301L Data Structures Lab
-     - PCS-303L OOP Through JAVA Lab
-     - MC-310 Environment Science
-
-5. btech_year3_csd_sem6.pdf: 
-   - Course Code and Titles: 
-     - PCS-601DS Computer Networks
-     - PCS-602DS Introduction to Data Analytics & Visualization
-     - PE-II* Professional Elective –II*
-     - OE-I* Open Elective-I
-     - PCS-603DS Machine Learning
-
-Please refer to the respective documents for detailed information on the Data Science syllabus.
 
 
 ==================================================
 QUERY: List scholarship details.
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the provided context, the following scholarship details are available:
 
-1. Scholarship Program – 25 Jan 2025 (for First Year Girls)
-2. Student Support & Scholarships: Offering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions.
-3. Documents required for Fresh and Renewal Scholarship (mentioned in the office_main.php document)
-
-Additionally, the Gold_Medal_List_July_2025_.pdf document lists various gold medals awarded to students, including:
-
-1. DR.D.S. REDDY GOLD MEDAL
-2. SRI J. LAXMAIAH TEACHER GOLD MEDAL
-3. SRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL
-4. SMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL
-5. MARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL
-6. SRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL
-7. LATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL
-
-Please note that the information available is limited to the provided context, and more details might be available on the university's website or other sources.
 
 
 ==================================================
 QUERY: How many seats are available in Data Science?
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the admissions page (http://kucet.ac.in/admissions.php), the seat intake for Data Science is not explicitly stated. However, two sets of numbers are provided: 66, 55, 58, 66 and 0, 12, 15. Without clear column headers, it's difficult to determine the exact meaning of these numbers. Therefore, the information on the number of seats available in Data Science is unavailable in the current knowledge base.
+
 
 
 ==================================================
 QUERY: Where is the Mechanical Engineering department?
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-The physical location of the Mechanical Engineering department is not available in the current knowledge base. However, you can visit the department's webpage at http://kucet.ac.in/MECHANICAL-info.php for more information.
+
 
 
 ==================================================
 QUERY: What are the eligibility criteria for B.Tech admission?
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the rules.pdf document, the eligibility criteria for B.Tech admission are as follows: 
 
-A candidate for admission to the Four Year Degree Program in Engineering & Technology must have passed the Intermediate Examination of the Board of Intermediate Education, Government of Telangana with Mathematics, Physics, and Chemistry as optional courses, or any other examination recognized by the Kakatiya University as equivalent thereto. 
-
-Additionally, all eligible applicants shall have to qualify at the common Entrance Examination, and the candidates will be admitted strictly in accordance with the merit secured at the Entrance Examination (EAMCET) conducted by the state government of Telangana.
 
 
 ==================================================
 QUERY: What certificates can students request through the college?
 ==================================================
-Status: SUCCESS
+Status: FAIL
 Response:
-According to the provided context, specifically the "Office" page on the KUCET website (http://kucet.ac.in/office_main.php), students can request certificates related to "Fresh and Renewal Scholarship" and possibly other certificates, but the specific types are not detailed. Additionally, as mentioned in the rules.pdf document, students who have been declared successful in the whole examination can be given a Provisional Certificate, and they also have to obtain a Degree Certificate (convocation) from the University.
+

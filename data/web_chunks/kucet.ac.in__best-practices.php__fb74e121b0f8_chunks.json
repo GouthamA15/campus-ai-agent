@@ -1,0 +1,64 @@
+{
+  "document_id": "best-practices.php.json",
+  "title": "Exams Section",
+  "source": "http://kucet.ac.in/best-practices.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:19.769273+00:00",
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "chunk_id": "best-practices.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Exams Section",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Exams Section\nAbout\nThe Examination Branch of the institute plays a pivotal role in upholding the academic integrity and conducting smooth and efficient examinations. Established with a vision to streamline the assessment process, the branch facilitates end-semester exams, internal assessments, and supplementary exams for both undergraduate and postgraduate programs.\nIts services include scheduling of exams, preparation of question papers, result processing, issuing of grade cards, and handling of academic grievances. The branch ensures timely communication with departments and students, maintaining a transparent and systematic approach to examinations.\nIn-charges",
+      "token_count": 104
+    },
+    {
+      "chunk_id": "best-practices.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Dr. T. Swapna",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. T. Swapna\nIn‑charge – KUCET",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "best-practices.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "D. Bhagya Laxmi",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "D. Bhagya Laxmi\nIn‑charge – KUCET\nRules and Regulations\nTA DA Bill",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "best-practices.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Remuneration Bill",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Remuneration Bill\nAward list",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "best-practices.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Examination Application Form",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Examination Application Form",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "best-practices.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Previous Year Papers",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Previous Year Papers\nCSE / IT - 3rd Year 2nd sem all papers\nCSD - 3rd Year 2nd Sem all papers\nCSD - 2nd Year 2nd Sem Previous Papers",
+      "token_count": 29
+    }
+  ]
+}

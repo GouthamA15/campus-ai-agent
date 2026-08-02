@@ -1,0 +1,341 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "results": [
+    {
+      "query": "What is the attendance requirement?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.7461,
+          "chunk_id": "rules_examination",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "notification_sections",
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "confidence_gap": 1,
+            "course_code_valid": false,
+            "document_type": "notification",
+            "feature_summary": "{'course_code_count': 3}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 14,
+            "source": "rules.pdf",
+            "source_pdf": "rules.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 460
+          },
+          "text_preview": "3.2 \"A regular programme of study\" means putting in attendance of not less than 75%.\n(The cumulative monthly attendance in each subject and the aggregate attendance\nshall be displayed on the respectiv..."
+        },
+        {
+          "rank": 2,
+          "score": 0.6708,
+          "chunk_id": "rules_examination_branch_as_per_the_notification_issued",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "notification_sections",
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "confidence_gap": 1,
+            "course_code_valid": false,
+            "document_type": "notification",
+            "feature_summary": "{'course_code_count': 3}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 14,
+            "source": "rules.pdf",
+            "source_pdf": "rules.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 95
+          },
+          "text_preview": "Examination branch as per the notification issued\n9.5 No candidate shall be allowed to put in attendance for multiple programme and appear\nat examinations for the same simultaneously.\nKUCE & T Rules a..."
+        },
+        {
+          "rank": 3,
+          "score": 0.6482,
+          "chunk_id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "notification_sections",
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "confidence_gap": 1,
+            "course_code_valid": false,
+            "document_type": "notification",
+            "feature_summary": "{'course_code_count': 3}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 14,
+            "source": "rules.pdf",
+            "source_pdf": "rules.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 130
+          },
+          "text_preview": "Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the\ncandidate to appear in the Examination, and this Hall-Ticket shall have to be produced\nby the Candidate before he/she is a..."
+        }
+      ]
+    },
+    {
+      "query": "Explain fee reimbursement.",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.6155,
+          "chunk_id": "call_for_quotation_for_servicing_of_adcs_lab_principal",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "quotation_sections",
+            "classification_confidence": "MEDIUM",
+            "classifier_score": 16,
+            "confidence_gap": 9,
+            "course_code_valid": false,
+            "document_type": "quotation",
+            "feature_summary": "{'date_count': 1}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 7,
+            "source": "Call_for_quotation_for_servicing_of_ADCS_lab.pdf",
+            "source_pdf": "Call_for_quotation_for_servicing_of_ADCS_lab.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 71
+          },
+          "text_preview": "PRINCIPAL\nTerms & Conditions:\n1. No TA or DA will be provided.\n2. In case of malfunctioning of repaired equipment it should serviced again with free of cost with in\nduring ofly ear from the date of de..."
+        },
+        {
+          "rank": 2,
+          "score": 0.6135,
+          "chunk_id": "call_for_quotations_electrical_items_pri_ncpal",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "quotation_sections",
+            "classification_confidence": "MEDIUM",
+            "classifier_score": 16,
+            "confidence_gap": 9,
+            "course_code_valid": false,
+            "document_type": "quotation",
+            "feature_summary": "{}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 7,
+            "source": "Call_for_quotations_Electrical_items.pdf",
+            "source_pdf": "Call_for_quotations_Electrical_items.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 43
+          },
+          "text_preview": "PRI\u012aNCPAL\nTerms & Conditions:\n1. Payment will be after receiving goods/material in good condition.\n2. Payment will be as early as possible within week time after delivery of goods.\n3 Mention clearly a..."
+        },
+        {
+          "rank": 3,
+          "score": 0.6052,
+          "chunk_id": "call_for_quotation_crompton_high_speed_fans__principal",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "quotation_sections",
+            "classification_confidence": "LOW",
+            "classifier_score": 10,
+            "confidence_gap": 2,
+            "course_code_valid": false,
+            "document_type": "quotation",
+            "feature_summary": "{'course_code_count': 1}",
+            "header_removed": false,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 8,
+            "source": "Call_for_quotation_Crompton_High_speed_Fans_.pdf",
+            "source_pdf": "Call_for_quotation_Crompton_High_speed_Fans_.pdf",
+            "strong_evidence_count": 1,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 43
+          },
+          "text_preview": "PRINCIPAL\nTerms &C onditions:\n1. Payment will be after receiving goods/material in good condition.\n2. Payment willb e as early as possible within week time after delivery of goods.\n3. Mention clearly ..."
+        }
+      ]
+    },
+    {
+      "query": "How many seats are available in Data Science?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.684,
+          "chunk_id": "cse_po_data_science_2",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "lab_sections",
+            "classification_confidence": "LOW",
+            "classifier_score": 16,
+            "confidence_gap": 4,
+            "course_code_valid": false,
+            "document_type": "lab_manual",
+            "feature_summary": "{'course_code_count': 25, 'workshop': True}",
+            "header_removed": false,
+            "merged_small_chunk": true,
+            "parsing_confidence": 0.9,
+            "runner_up_score": 12,
+            "source": "CSE_PO.pdf",
+            "source_pdf": "CSE_PO.pdf",
+            "strong_evidence_count": 2,
+            "validator_reason": "",
+            "validator_result": "passed",
+            "word_count": 34
+          },
+          "text_preview": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
+        },
+        {
+          "rank": 2,
+          "score": 0.6654,
+          "chunk_id": "btech_year4_csd_sem8_unit_1",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "syllabus_sections",
+            "classification_confidence": "HIGH",
+            "classifier_score": 39,
+            "confidence_gap": 31,
+            "course_code_valid": false,
+            "document_type": "syllabus",
+            "feature_summary": "{'course_code_count': 10, 'unit_count': 45, 'textbook_sections': 7}",
+            "header_removed": false,
+            "parsing_confidence": 0.95,
+            "runner_up_score": 8,
+            "source": "btech_year4_csd_sem8.pdf",
+            "source_pdf": "btech_year4_csd_sem8.pdf",
+            "strong_evidence_count": 6,
+            "validator_reason": "HIGH confidence \u2014 accepted",
+            "validator_result": "passed",
+            "word_count": 22
+          },
+          "text_preview": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
+        },
+        {
+          "rank": 3,
+          "score": 0.6437,
+          "chunk_id": "6_database_management_systems_lab_unit_6",
+          "metadata": {
+            "boundary_source": "section_heading",
+            "chunk_strategy": "syllabus_sections",
+            "classification_confidence": "HIGH",
+            "classifier_score": 39,
+            "confidence_gap": 21,
+            "course_code_valid": false,
+            "document_type": "syllabus",
+            "feature_summary": "{'course_code_count': 11, 'unit_count': 29, 'textbook_sections': 7}",
+            "header_removed": false,
+            "parsing_confidence": 0.95,
+            "runner_up_score": 18,
+            "source": "btech_year2_csd_sem4.pdf",
+            "source_pdf": "btech_year2_csd_sem4.pdf",
+            "strong_evidence_count": 6,
+            "subject_name": "6 Database Management Systems Lab",
+            "validator_reason": "HIGH confidence \u2014 accepted",
+            "validator_result": "passed",
+            "word_count": 53
+          },
+          "text_preview": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 bu..."
+        }
+      ]
+    },
+    {
+      "query": "Where is the Mechanical Engineering department?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.8244,
+          "chunk_id": "MECHANICAL-info.php.json_chunk_14",
+          "metadata": {
+            "heading": "Department:",
+            "heading_level": 2,
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+            "source": "http://kucet.ac.in/MECHANICAL-info.php",
+            "title": "MECHANICAL ENGINEERING"
+          },
+          "text_preview": "Department:\nMechanical"
+        },
+        {
+          "rank": 2,
+          "score": 0.7603,
+          "chunk_id": "MECHANICAL-info.php.json_chunk_0",
+          "metadata": {
+            "heading": "MECHANICAL ENGINEERING",
+            "heading_level": 1,
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+            "source": "http://kucet.ac.in/MECHANICAL-info.php",
+            "title": "MECHANICAL ENGINEERING"
+          },
+          "text_preview": "MECHANICAL ENGINEERING\nDepartment Vision and Mission"
+        },
+        {
+          "rank": 3,
+          "score": 0.7273,
+          "chunk_id": "MECHANICAL-info.php.json_chunk_5",
+          "metadata": {
+            "heading": "Key areas within mechanical engineering include:",
+            "heading_level": 2,
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:19.527008+00:00",
+            "source": "http://kucet.ac.in/MECHANICAL-info.php",
+            "title": "MECHANICAL ENGINEERING"
+          },
+          "text_preview": "Key areas within mechanical engineering include:"
+        }
+      ]
+    },
+    {
+      "query": "List scholarship information.",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.6734,
+          "chunk_id": "alumini_main.json_chunk_7",
+          "metadata": {
+            "heading": "Student Support & Scholarships:",
+            "heading_level": 2,
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:14.940851+00:00",
+            "source": "http://kucet.ac.in/alumini_main",
+            "title": "ALUMINI"
+          },
+          "text_preview": "Student Support & Scholarships:\nOffering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions."
+        },
+        {
+          "rank": 2,
+          "score": 0.6411,
+          "chunk_id": "index.php.json_chunk_21",
+          "metadata": {
+            "heading": "Flag Area (26 Jan 2025)",
+            "heading_level": 2,
+            "page_type": "homepage",
+            "scraped_at": "2026-08-02T18:41:25.742713+00:00",
+            "source": "http://kucet.ac.in/index.php",
+            "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+          },
+          "text_preview": "Flag Area (26 Jan 2025)\nScholarship Program \u00e2\u20ac\u201c 25 Jan 2025 (for First Year Girls)\nInternational Day of Education (24 Jan 2025)"
+        },
+        {
+          "rank": 3,
+          "score": 0.6369,
+          "chunk_id": "best-practices.php.json_chunk_3",
+          "metadata": {
+            "heading": "Remuneration Bill",
+            "heading_level": 2,
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:19.769273+00:00",
+            "source": "http://kucet.ac.in/best-practices.php",
+            "title": "Exams Section"
+          },
+          "text_preview": "Remuneration Bill\nAward list"
+        }
+      ]
+    }
+  ]
+}

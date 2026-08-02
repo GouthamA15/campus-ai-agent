@@ -1,147 +1,119 @@
 """FastAPI backend for the Interactive Campus Info AI Agent.
 
-This is a minimal, production-ready-ish starter that:
-- Exposes a POST /ask endpoint for chatbot queries
-- Proxies questions to a Groq-hosted LLM
-- Returns the model's response back to the frontend
-
-Scraping and vector search (RAG) are intentionally omitted at this stage.
+This version uses the fully implemented RAG pipeline.
 """
 
-from typing import Any, Dict
+from typing import Any, Dict, List
 
 import os
+from pathlib import Path
+import logging
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-import httpx
 from dotenv import load_dotenv
 
-# Load environment variables from .env file (if present)
-load_dotenv()
+# Load environment variables with override before importing internal modules
+load_dotenv(override=True)
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
+from pipeline.vectordb.chroma_manager import ChromaManager
+from pipeline.retrieval.query_understanding import QueryUnderstandingEngine
+from pipeline.retrieval.knowledge_retriever import KnowledgeRetriever
+from pipeline.context.context_builder import ContextBuilder
+from pipeline.prompt.prompt_builder import PromptBuilder
+from pipeline.llm.llm_engine import LLMEngine
+from pipeline.llm.response_processor import ResponseProcessor
 
-if not GROQ_API_KEY:
-    # Fail fast if API key is missing so misconfiguration is obvious.
-    raise RuntimeError("GROQ_API_KEY is not set. Create a .env file with GROQ_API_KEY=<your_key>.")
+logging.basicConfig(level=logging.INFO, format='%(asctime)s | %(levelname)s | %(message)s')
+logger = logging.getLogger(__name__)
+
 
 
 class AskRequest(BaseModel):
-    """Request body schema for /ask endpoint.
-
-    Attributes
-    ----------
-    question: str
-        The student's question or message to the chatbot.
-    """
-
     question: str
 
+class CitationModel(BaseModel):
+    source: str
+    document_id: str
+    text_snippet: str
 
 class AskResponse(BaseModel):
-    """Response body schema for /ask endpoint."""
-
     answer: str
+    markdown: str
+    confidence_score: float
+    citations: List[CitationModel]
+    metadata: Dict[str, Any]
 
+app = FastAPI(title="Interactive Campus Info AI Agent", version="1.0.0")
 
-app = FastAPI(title="Interactive Campus Info AI Agent", version="0.1.0")
-
-# Configure CORS to allow the frontend (served from the same origin or file://) to call the API.
-# In production, you should restrict allowed_origins to your real frontend domain(s).
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # TODO: tighten this for production
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+# Global pipeline state
+pipeline_state = {}
 
-async def call_groq_llm(question: str) -> str:
-    """Call Groq's Chat Completions API with the user's question.
-
-    Parameters
-    ----------
-    question: str
-        The user's natural-language question.
-
-    Returns
-    -------
-    str
-        The assistant's answer text.
-    """
-
-    headers: Dict[str, str] = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json",
-    }
-
-    payload: Dict[str, Any] = {
-        "model": GROQ_MODEL,
-        "messages": [
-            {
-                "role": "system",
-                "content": (
-                    "You are an AI assistant helping students with information about "
-                    "Kakatiya University College of Engineering and Technology. "
-                    "Answer clearly and concisely. If you are unsure, say you are not sure."
-                ),
-            },
-            {"role": "user", "content": question},
-        ],
-        # Keep it simple and cheap for now; tune as needed.
-        "temperature": 0.2,
-        "max_tokens": 512,
-    }
-
-    async with httpx.AsyncClient(timeout=30.0) as client:
-        try:
-            response = await client.post(GROQ_API_URL, headers=headers, json=payload)
-        except httpx.RequestError as exc:
-            # Network-level issues
-            raise HTTPException(status_code=502, detail=f"Error calling Groq API: {exc}") from exc
-
-    if response.status_code != 200:
-        # Surface detailed error information for easier debugging (but avoid leaking secrets).
-        raise HTTPException(
-            status_code=502,
-            detail={
-                "message": "Groq API returned an error",
-                "status_code": response.status_code,
-                "body": response.text,
-            },
-        )
-
-    data = response.json()
-
+@app.on_event("startup")
+async def startup_event():
+    """Initialize the RAG pipeline components on startup."""
     try:
-        answer = data["choices"][0]["message"]["content"].strip()
-    except (KeyError, IndexError, TypeError) as exc:
-        raise HTTPException(status_code=502, detail="Unexpected response format from Groq API") from exc
-
-    return answer
-
+        manager = ChromaManager(persist_dir="data/chroma", collection_name="kucet_knowledge_base")
+        pipeline_state["query_engine"] = QueryUnderstandingEngine()
+        pipeline_state["retriever"] = KnowledgeRetriever(manager)
+        pipeline_state["context_builder"] = ContextBuilder(max_tokens=4000)
+        pipeline_state["prompt_builder"] = PromptBuilder(token_limit=7000)
+        pipeline_state["llm_engine"] = LLMEngine()
+        pipeline_state["response_processor"] = ResponseProcessor()
+        logger.info("RAG pipeline initialized successfully.")
+    except Exception as e:
+        logger.error(f"Failed to initialize RAG pipeline: {e}")
 
 @app.post("/ask", response_model=AskResponse)
 async def ask(request: AskRequest) -> AskResponse:
-    """Chatbot endpoint.
-
-    Accepts a student's question, forwards it to the LLM, and returns the answer.
-    """
-
     if not request.question.strip():
         raise HTTPException(status_code=400, detail="Question cannot be empty.")
+        
+    if "query_engine" not in pipeline_state:
+        raise HTTPException(status_code=503, detail="Pipeline not initialized.")
 
-    answer = await call_groq_llm(request.question)
-    return AskResponse(answer=answer)
-
+    try:
+        # 1. Query Understanding
+        structured_query = pipeline_state["query_engine"].analyze(request.question)
+        
+        # 2. Knowledge Retrieval
+        retrieval_result = pipeline_state["retriever"].retrieve(structured_query, top_k=10)
+        
+        # 3. Context Building
+        context_package = pipeline_state["context_builder"].build_context(retrieval_result)
+        
+        # 4. Prompt Building
+        prompt_package = pipeline_state["prompt_builder"].build_prompt(context_package)
+        
+        # 5. LLM Engine
+        llm_response = pipeline_state["llm_engine"].process(prompt_package)
+        
+        # 6. Response Processing
+        final_resp = pipeline_state["response_processor"].process(llm_response, retrieval_result)
+        
+        return AskResponse(
+            answer=final_resp.answer,
+            markdown=final_resp.markdown,
+            confidence_score=final_resp.confidence_score,
+            citations=[
+                CitationModel(source=c.source, document_id=c.document_id, text_snippet=c.text_snippet)
+                for c in final_resp.citations
+            ],
+            metadata=final_resp.metadata
+        )
+    except Exception as e:
+        logger.error(f"Error processing query: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/")
 async def health_check() -> Dict[str, str]:
-    """Simple health check endpoint to verify the API is running."""
-
-    return {"status": "ok"}
+    return {"status": "ok", "pipeline_initialized": str("query_engine" in pipeline_state).lower()}

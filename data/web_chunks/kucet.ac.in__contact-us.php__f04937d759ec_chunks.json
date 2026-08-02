@@ -1,0 +1,46 @@
+{
+  "document_id": "contact-us.php.json",
+  "title": "CONTACT US",
+  "source": "http://kucet.ac.in/contact-us.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:12.366498+00:00",
+  "chunk_count": 4,
+  "chunks": [
+    {
+      "chunk_id": "contact-us.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Mr. B. Nethajee - Asst. Registrar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mr. B. Nethajee - Asst. Registrar",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "contact-us.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "B. Prabhakar - Superintendent",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "B. Prabhakar - Superintendent",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "contact-us.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Office:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Office:\n0870-2970125 ( Timings: 10:00am to 4:00pm )",
+      "token_count": 16
+    },
+    {
+      "chunk_id": "contact-us.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nprincipal.kucet@gmail.com",
+      "token_count": 9
+    }
+  ]
+}

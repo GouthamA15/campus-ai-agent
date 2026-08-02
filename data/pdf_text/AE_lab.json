@@ -1,0 +1,23 @@
+{
+  "title": "Scanned with ACE Scanner",
+  "source_pdf": "data/pdfs/AE_lab.pdf",
+  "page_count": 2,
+  "extracted_at": "2026-08-02T18:44:50.106349+00:00",
+  "content_length": 48,
+  "pages": [
+    {
+      "page_number": 1,
+      "content": "Scanned with ACE Scanner"
+    },
+    {
+      "page_number": 2,
+      "content": "Scanned with ACE Scanner"
+    }
+  ],
+  "full_content": "Scanned with ACE Scanner\n\nScanned with ACE Scanner",
+  "document_type": "unknown",
+  "text_extracted": true,
+  "needs_ocr": false,
+  "cleanup_applied": true,
+  "removed_repeated_lines": []
+}

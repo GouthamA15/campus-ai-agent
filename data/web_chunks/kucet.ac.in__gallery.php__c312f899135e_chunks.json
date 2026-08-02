@@ -1,0 +1,37 @@
+{
+  "document_id": "gallery.php.json",
+  "title": "Photo Gallery",
+  "source": "http://kucet.ac.in/gallery.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:19.278908+00:00",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_id": "gallery.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Campus Life",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Campus Life\nGallery",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "gallery.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Photo Gallery",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Photo Gallery\nFilter by Year",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "gallery.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "All Events",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "All Events\n— events\nNo events found for the selected year.\nBack to Gallery\n—\n—\n1 / 1",
+      "token_count": 20
+    }
+  ]
+}

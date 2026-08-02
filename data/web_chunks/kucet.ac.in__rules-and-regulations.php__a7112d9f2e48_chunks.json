@@ -1,0 +1,19 @@
+{
+  "document_id": "rules-and-regulations.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/rules-and-regulations.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:22.522620+00:00",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "rules-and-regulations.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nRules and Regulations",
+      "token_count": 5
+    }
+  ]
+}

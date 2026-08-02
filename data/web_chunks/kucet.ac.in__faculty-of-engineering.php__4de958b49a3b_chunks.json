@@ -1,0 +1,118 @@
+{
+  "document_id": "faculty-of-engineering.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/faculty-of-engineering.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:14.034543+00:00",
+  "chunk_count": 12,
+  "chunks": [
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nFaculty of Engineering & Technology - Dean",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Prof. Manchala Sadanandam",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Prof. Manchala Sadanandam\nDean, Faculty of Engineering and Technology\n: 9440448790, 08070-2448338\n: msadanandam@kakatiya.ac.in\nClick here to view CV\nFaculty of Engineering & Technology - BoS\nComputer Science and Engineering",
+      "token_count": 41
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Asst. Professor",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Asst. Professor",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Dr. T.Archana",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. T.Archana\n: 9849316242\nElectronics and Communication Engineering",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Asst. Professor",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Asst. Professor",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Dr. V. Mahender",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. V. Mahender\n: +91 9603636883\n: mahenderveshala@kakatiya.ac.in\nElectrical and Electronics Engineering",
+      "token_count": 21
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Asst. Professor",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Asst. Professor\nK.Sumalatha\n: +91 9966521708\n: suma.kucet@gmail.com",
+      "token_count": 18
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Asst. Professor",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Asst. Professor",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Dr. T. Archana",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. T. Archana\n: 9849316242",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Civil Engineering",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Civil Engineering\nProfessor",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Maheshwaram Srikanth",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Maheshwaram Srikanth\n: +919849188622\n: ms.ce@kitsw.ac.in",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "faculty-of-engineering.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Asst. Professor",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Asst. Professor\nDr. CH. Radhika\n: +918686876092\n: radhikareddy.chada@kakatiya.ac.in",
+      "token_count": 21
+    }
+  ]
+}

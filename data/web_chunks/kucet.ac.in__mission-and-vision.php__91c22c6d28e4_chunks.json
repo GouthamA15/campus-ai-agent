@@ -1,0 +1,28 @@
+{
+  "document_id": "mission-and-vision.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/mission-and-vision.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:11.637221+00:00",
+  "chunk_count": 2,
+  "chunks": [
+    {
+      "chunk_id": "mission-and-vision.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "VISION:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "VISION:\nTo produce global citizens with knowledge, discipline, and commitment to strive for enhancing quality of life through Engineering and Technical Education to meet socio-economic challenges.",
+      "token_count": 32
+    },
+    {
+      "chunk_id": "mission-and-vision.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "QUALITY POLICY:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "QUALITY POLICY:\nImpart up-to-date knowledge in the chosen fields to develop them into quality engineers. Make the students experience the applications on quality equipment and tools. Provide quality environment and services to all stakeholders. Provide systems, resources, and opportunities for continuous improvement. Maintain global standards in education, academic projects, training, placement, and services.",
+      "token_count": 69
+    }
+  ]
+}

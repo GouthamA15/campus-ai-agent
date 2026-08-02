@@ -1,9 +1,9 @@
 {
   "What is the attendance requirement?": {
     "query": "What is the attendance requirement?",
-    "retrieval_time_ms": 5185,
-    "embedding_time_ms": 44,
-    "search_time_ms": 82,
+    "retrieval_time_ms": 5572,
+    "embedding_time_ms": 50,
+    "search_time_ms": 242,
     "candidate_count": 40,
     "returned_count": 20,
     "ranked_chunks": [
@@ -579,32 +579,14 @@
   },
   "Show Data Science syllabus.": {
     "query": "Show Data Science syllabus.",
-    "retrieval_time_ms": 40,
-    "embedding_time_ms": 22,
-    "search_time_ms": 18,
+    "retrieval_time_ms": 61,
+    "embedding_time_ms": 39,
+    "search_time_ms": 22,
     "candidate_count": 40,
     "returned_count": 20,
     "ranked_chunks": [
       {
         "rank": 1,
-        "score": 0.7527,
-        "chunk_id": "admissions.php.json_chunk_7",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n66\n55\n58\n66"
-      },
-      {
-        "rank": 2,
         "score": 0.7355,
         "chunk_id": "syllabus_new.php.json_chunk_0",
         "document": "http://kucet.ac.in/syllabus_new.php",
@@ -622,7 +604,7 @@
         "text": "ECET:\nSyllabus"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "score": 0.7311,
         "chunk_id": "btech_year4_csd_sem8_unit_1",
         "document": "btech_year4_csd_sem8.pdf",
@@ -651,25 +633,7 @@
         "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
       },
       {
-        "rank": 4,
-        "score": 0.7293,
-        "chunk_id": "admissions.php.json_chunk_15",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n0\n12\n15"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "score": 0.7276,
         "chunk_id": "6_database_management_systems_lab_unit_6",
         "document": "btech_year2_csd_sem4.pdf",
@@ -699,7 +663,7 @@
         "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "score": 0.7276,
         "chunk_id": "cse_po_data_science_2",
         "document": "CSE_PO.pdf",
@@ -729,7 +693,7 @@
         "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "score": 0.7149,
         "chunk_id": "btech_year3_csd_sem5_curriculum",
         "document": "btech_year3_csd_sem5.pdf",
@@ -758,7 +722,7 @@
         "text": "B. Tech. (Data Science) V SEMESTER\nScheme of\nScheme of Lecture\nS. Course Examinatio Credits\nCourse Title Instruction hrs/week\nNo. Code n\nL T P CIE SEE\n1 PCS-501DS Software Engineering 3 1 0 4 30 70 4\n2 PCS-502DS Operating System 3 1 0 4 30 70 4\n3 PE-I* Professional Elective \u2013 I* 3 1 0 4 30 70 4\n4 PCS-503DS Data Mining 3 1 0 4 30 70 4\nManagerial Economics and\n5 HS3108 3 0 0 3 30 70 3\nAccountancy\n6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5\n7 PE-I** Professional Elective \u2013I Lab** 0 0 3 3 25 50 1.5\nTotal 15 4 6 25 200 450 22\n*(PE-I)Professional Elective \u2013 I **(PE-I)Professional Elective \u2013 I Lab\nPE5101CS Web Programming PE5105CS Web Programming Lab\nPE5102CS Advanced Java PE5106CS Advanced Java Lab\nPE5103CS Advanced Data Structures PE5107CS Advanced DS Lab\nPE5104CS Fundamentals of AI PE5108CS AI Lab\nS.\nExaminatio\n1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4\n2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4\n4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4\n5 | HS3108 | Managerial Economics and\n6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5\nSoftware Engineering (PCS-501DS)\nL T P C Internal Marks: 30\n3 1 0 4 External Marks: 70"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "score": 0.7049,
         "chunk_id": "btech_year2_csd_sem3_curriculum",
         "document": "btech_year2_csd_sem3.pdf",
@@ -787,7 +751,7 @@
         "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "score": 0.7028,
         "chunk_id": "machine_learning_lab_textbooks_8",
         "document": "btech_year3_csd_sem6.pdf",
@@ -817,7 +781,7 @@
         "text": "1. Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and\nPresenting Data,EMC Education services Wiley Publication\n2. Practical Statistics for Data Scientists 50+ Essential Concepts Using R\nand Python, O\u2018Reilly Publications 2nd Edition\n3. Practical Text Mining and statistical Analysis for non-structured text data\napplications,1st edition,Grey Miner,Thomas Hill."
       },
       {
-        "rank": 10,
+        "rank": 8,
         "score": 0.6998,
         "chunk_id": "btech_year4_csd_sem8_unit_5",
         "document": "btech_year4_csd_sem8.pdf",
@@ -846,7 +810,7 @@
         "text": "UNIT-V\nApplications of Data Science, Technologies for visualization, Bokeh (Python). Recent trends in various data\ncollection and analysis techniques, various visualization techniques, application development methods of\nused in data science."
       },
       {
-        "rank": 11,
+        "rank": 9,
         "score": 0.6994,
         "chunk_id": "btech_year4_csd_sem8_textbooks",
         "document": "btech_year4_csd_sem8.pdf",
@@ -875,7 +839,7 @@
         "text": "1. Cathy O\u2018Neil and Rachel Schutt. Doing Data Science, Straight Talk from The Frontline. O\u2018Reilly.\n2. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. v2.1, Cambridge\nUniversity Press.\nBIG DATA ANALYTICS (PE4202CS)"
       },
       {
-        "rank": 12,
+        "rank": 10,
         "score": 0.6979,
         "chunk_id": "btech_year3_csd_sem6_curriculum",
         "document": "btech_year3_csd_sem6.pdf",
@@ -904,7 +868,7 @@
         "text": "Scheme of\nScheme of Lecture\nS. Course Examinatio Credits\nCourse Title Instruction hrs/week\nNo. Code n\nL T P CIE SEE\n1 PCS-601DS Computer Networks 3 1 0 4 30 70 4\nIntroduction to Data Analytics & 3 1 0\n2 PCS-602DS 4 30 70 4\nVisualization\nProfessional Elective \u2013II* 3 1 0\n3 PE-II* 4 30 70 4\nOpen Elective-I 3 0 0\n4 OE-I* 3 30 70 3\nMachine Learning 3 1 0\n5 PCS-603DS 4 30 70 4"
       },
       {
-        "rank": 13,
+        "rank": 11,
         "score": 0.697,
         "chunk_id": "syllabus_new.php.json_chunk_5",
         "document": "http://kucet.ac.in/syllabus_new.php",
@@ -922,7 +886,7 @@
         "text": "Sem 8\nSyllabus PDF (Year 4 Sem 7)\nSyllabus PDF (Year 4 Sem 8)"
       },
       {
-        "rank": 14,
+        "rank": 12,
         "score": 0.6962,
         "chunk_id": "syllabus_new.php.json_chunk_2",
         "document": "http://kucet.ac.in/syllabus_new.php",
@@ -940,7 +904,7 @@
         "text": "Sem 2\nSyllabus PDF (Year 1 Sem 1)\nSyllabus PDF (Year 1 Sem 2)"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "score": 0.6954,
         "chunk_id": "btech_year3_cse_sem6_references_7",
         "document": "btech_year3_cse_sem6.pdf",
@@ -969,7 +933,7 @@
         "text": "1.Narasimha Karumanchi, \u201cData Structures and Algorithms Made Easy: Data Structures and Algorithmic\nPuzzles\u201d, Careermonk Publications, 2016, ISBN-No: 978-8193245279."
       },
       {
-        "rank": 16,
+        "rank": 14,
         "score": 0.6942,
         "chunk_id": "machine_learning_lab_references_6",
         "document": "btech_year3_csd_sem6.pdf",
@@ -999,7 +963,7 @@
         "text": "1. Data Mining, Concepts and Techniques: 3rd edition, Jiawei Han, Micheline\nKamber and Jian Pei\n2. Data Analytics using R, Bharati Motwani, Wiley Publications.\n3. Better Data Visualizations A Guide for Scholars, Researchers, and Wonks,\nJonathan Schwabish, Columbia University Press"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "score": 0.6938,
         "chunk_id": "syllabus_new.php.json_chunk_3",
         "document": "http://kucet.ac.in/syllabus_new.php",
@@ -1017,7 +981,7 @@
         "text": "Sem 4\nSyllabus PDF (Year 2 Sem 3)\nSyllabus PDF (Year 2 Sem 4)"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "score": 0.6898,
         "chunk_id": "6_database_management_systems_lab_textbooks_2",
         "document": "btech_year2_csd_sem4.pdf",
@@ -1047,7 +1011,7 @@
         "text": "1. David Cielen, Arno D. B. Meysman, and Mohamed Ali, \u201cIntroducing Data Science\u201d, Manning\nPublications, 2016.\n2. Robert S. Witte and John S. Witte, \u201cStatistics\u201d, Eleventh Edition, Wiley Publications, 2017.\n3. Dr. Mohammed Abdul Hameed, \u201cPython for Data Science\u201d Wiley Publications\n4. Jake VanderPlas, \u201cPython Data Science Handbook\u201d, O\u2019Reilly, 2016."
       },
       {
-        "rank": 19,
+        "rank": 17,
         "score": 0.6898,
         "chunk_id": "btech_year2_csd_sem4_curriculum",
         "document": "btech_year2_csd_sem4.pdf",
@@ -1076,7 +1040,7 @@
         "text": "S. Credits\nCourse Code Course Title L T P\nNo.\n1 PCS-401 Database Management Systems 3 1 0 4\n2 PCS-402 Introduction to Data Science 3 1 0 4\n3 PCS-403 Design and Analysis of Algorithms 3 1 0 4\n4 ESC-401 Elements of Electrical and Electronics 3 0 0 3\nTheory of Computation\n5 PCS-404 3 1 0 4\nPCS-401L"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "score": 0.6896,
         "chunk_id": "cse_timetable_time_table_3",
         "document": "CSE_TIMETABLE.pdf",
@@ -1104,6 +1068,54 @@
           "word_count": 92
         },
         "text": "CLASS WORK w.e.f :08-01-2025\nClass Teacher: M REKHASREE Room No:07\nTime 11.10 to 02.00 to 02.50 to\n09.30 to 10.20 10.20 to 11.10 11.20 to 12.10 12.10 to 1.00 01.00 to 02.00 03.40 to 04.30\nDay 11.20 02.50 03.40\nMON LIB IOT PROJECT WORK DS DS IP\nTUE BREAK IP IP LIB\nIOT IOT DS LIB\nLIB IP\nWED LIB DS\nLUNCH PROJECT WORK\nTHU SEMINAR PROJECT WORK\nSEMINAR\nFRI PROJECT WORK\nSAT SEMINAR PROJECT WORK\nIP - IMAGE PROCESSING - Mr. D RAMESH(DR)\nDS - DATA SCIENCE - Mrs M REKHASREE(MRS)"
+      },
+      {
+        "rank": 19,
+        "score": 0.6882,
+        "chunk_id": "syllabus_new.php.json_chunk_4",
+        "document": "http://kucet.ac.in/syllabus_new.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Sem 6",
+        "metadata": {
+          "heading": "Sem 6",
+          "heading_level": 2,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T18:41:18.700036+00:00",
+          "source": "http://kucet.ac.in/syllabus_new.php",
+          "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY"
+        },
+        "text": "Sem 6\nSyllabus PDF (Year 3 Sem 5)\nSyllabus PDF (Year 3 Sem 6)"
+      },
+      {
+        "rank": 20,
+        "score": 0.6877,
+        "chunk_id": "cse_po_design_2",
+        "document": "CSE_PO.pdf",
+        "source": "pdf",
+        "document_type": "lab_manual",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "lab_sections",
+          "classification_confidence": "LOW",
+          "classifier_score": 16,
+          "confidence_gap": 4,
+          "course_code_valid": false,
+          "document_type": "lab_manual",
+          "feature_summary": "{'course_code_count': 25, 'workshop': True}",
+          "header_removed": false,
+          "merged_small_chunk": true,
+          "parsing_confidence": 0.9,
+          "runner_up_score": 12,
+          "source": "CSE_PO.pdf",
+          "source_pdf": "CSE_PO.pdf",
+          "strong_evidence_count": 2,
+          "validator_reason": "",
+          "validator_result": "passed",
+          "word_count": 45
+        },
+        "text": "DESIGN\nLAB(PE4111CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc | \uf0fc | \uf0fc | \uf0fc\nVIII SEMESTER\nCO2 \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc\nDATA SCIENCE\n(PE4201CS)"
       }
     ],
     "applied_filters": {
@@ -1127,8 +1139,8 @@
       "query_type": "general",
       "intent": "information",
       "entities": [
-        "Syllabus",
-        "Data Science"
+        "Data Science",
+        "Syllabus"
       ],
       "keywords": [
         "data",
@@ -1151,8 +1163,8 @@
   },
   "List scholarship details.": {
     "query": "List scholarship details.",
-    "retrieval_time_ms": 40,
-    "embedding_time_ms": 31,
+    "retrieval_time_ms": 47,
+    "embedding_time_ms": 38,
     "search_time_ms": 8,
     "candidate_count": 40,
     "returned_count": 20,
@@ -1622,50 +1634,14 @@
   },
   "How many seats are available in Data Science?": {
     "query": "How many seats are available in Data Science?",
-    "retrieval_time_ms": 32,
-    "embedding_time_ms": 21,
+    "retrieval_time_ms": 51,
+    "embedding_time_ms": 39,
     "search_time_ms": 11,
     "candidate_count": 40,
     "returned_count": 20,
     "ranked_chunks": [
       {
         "rank": 1,
-        "score": 0.7183,
-        "chunk_id": "admissions.php.json_chunk_7",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n66\n55\n58\n66"
-      },
-      {
-        "rank": 2,
-        "score": 0.7063,
-        "chunk_id": "admissions.php.json_chunk_15",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "DATA SCIENCE",
-        "metadata": {
-          "heading": "DATA SCIENCE",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "DATA SCIENCE\n0\n12\n15"
-      },
-      {
-        "rank": 3,
         "score": 0.6981,
         "chunk_id": "cse_po_data_science_2",
         "document": "CSE_PO.pdf",
@@ -1695,7 +1671,7 @@
         "text": "DATA SCIENCE\n(PE4201CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc |  | \uf0fc | \uf0fc\nBIG DATA"
       },
       {
-        "rank": 4,
+        "rank": 2,
         "score": 0.6806,
         "chunk_id": "btech_year4_csd_sem8_unit_1",
         "document": "btech_year4_csd_sem8.pdf",
@@ -1724,7 +1700,7 @@
         "text": "UNIT \u2013 I\nIntroduction to core concepts and technologies: Introduction, Terminology, data science process, data\nscience toolkit, Types of data, Example applications."
       },
       {
-        "rank": 5,
+        "rank": 3,
         "score": 0.6611,
         "chunk_id": "6_database_management_systems_lab_unit_6",
         "document": "btech_year2_csd_sem4.pdf",
@@ -1754,7 +1730,7 @@
         "text": "UNIT - I\nINTRODUCTION:\nData Science: Benefits and uses \u2013 facets of data - Data Science Process: Overview \u2013 Defining research\ngoals \u2013 Retrieving data \u2013 Data preparation - Exploratory Data analysis \u2013 build the model\u2013 presenting\nfindings and building applications - Data Mining - Data Warehousing \u2013 Basic Statistical descriptions of\nData"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "score": 0.6564,
         "chunk_id": "btech_year2_csd_sem3_curriculum",
         "document": "btech_year2_csd_sem3.pdf",
@@ -1783,7 +1759,7 @@
         "text": "B.Tech (Data Science) III SEMESTER\nSl. Category/\nCourse Title L T P Credits\nNo Code\n1 BSC-301 Mathematics and Statistical 3 0 0 3\nFoundations\n2 PCS-301 Data Structures using \u201cC\u201d 3 1 0 4\n3 PCS-302 Computer Architecture & Organization 3 1 0 4\n4 PCS-303 OOP Through JAVA 3 1 0 4\n5 PCS-304 Elements of Computer Science 3 1 0 4\n6 PCS-301L Data Structures Lab 0 0 4 1.5\n7 PCS-303L OOP Through JAVA Lab 0 0 4 1.5\n8 MC-310 Environment Science 2 0 0 0\nTotal 25 22\n1\nSl.\n1 | BSC-301 | Mathematics and Statistical\n2 | PCS-301 | Data Structures using \u201cC\u201d | 3 | 1 | 0 | 4\n3 | PCS-302 | Computer Architecture & Organization | 3 | 1 | 0 | 4\n4 | PCS-303 | OOP Through JAVA | 3 | 1 | 0 | 4\n5 | PCS-304 | Elements of Computer Science | 3 | 1 | 0 | 4\n6 | PCS-301L | Data Structures Lab | 0 | 0 | 4 | 1.5\n7 | PCS-303L | OOP Through JAVA Lab | 0 | 0 | 4 | 1.5\n8 | MC-310 | Environment Science | 2 | 0 | 0 | 0\nMC 310 Environmental Sciences\n2 0 0 0 External Marks: 70"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "score": 0.6535,
         "chunk_id": "cse_po_design_2",
         "document": "CSE_PO.pdf",
@@ -1813,7 +1789,7 @@
         "text": "DESIGN\nLAB(PE4111CS) |  | CO1 | \uf0fc | \uf0fc | \uf0fc | \uf0fc | \uf0fc |  |  |  |  |  |  | \uf0fc |  | \uf0fc | \uf0fc | \uf0fc | \uf0fc\nVIII SEMESTER\nCO2 \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc \uf0fc\nDATA SCIENCE\n(PE4201CS)"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "score": 0.649,
         "chunk_id": "6_database_management_systems_lab_overview",
         "document": "btech_year2_csd_sem4.pdf",
@@ -1843,7 +1819,7 @@
         "text": "6 Database Management Systems Lab 0 0 3 1.5\nPCS-402L\n7 Data Science Lab 0 0 3 1.5\nMC-410\n8 Constitution of India 2 0 0 0\n27 22\nTotal\nS.\n1 | PCS-401 | Database Management Systems | 3 | 1 | 0 | 4\n2 | PCS-402 | Introduction to Data Science | 3 | 1 | 0 | 4\n3 | PCS-403 | Design and Analysis of Algorithms | 3 | 1 | 0 | 4\n4 | ESC-401 | Elements of Electrical and Electronics | 3 | 0 | 0 | 3\n5 | PCS-404 | Theory of Computation | 3 | 1 | 0 | 4\n6 | PCS-401L | Database Management Systems Lab | 0 | 0 | 3 | 1.5\n7 | PCS-402L | Data Science Lab | 0 | 0 | 3 | 1.5\n8 | MC-410 | Constitution of India | 2 | 0 | 0 | 0\nPCS-401 DATABASE MANAGEMENT SYSTEMS\n3 1 0 4 External Marks: 70"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "score": 0.6456,
         "chunk_id": "Cse-It-Co-Po.php.json_chunk_7",
         "document": "http://kucet.ac.in/Cse-It-Co-Po.php",
@@ -1861,7 +1837,7 @@
         "text": "B.Tech - Data Science | 2021\nPG:\nProgramme | Year of Start"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "score": 0.6451,
         "chunk_id": "automation_laboratory_references_14",
         "document": "btech_year3_ece_sem6.pdf",
@@ -1891,7 +1867,7 @@
         "text": "References:\n1.Narasimha Karumanchi, \u201cData Structures and Algorithms Made Easy: Data Structures and\nAlgorithmic Puzzles\u201d, Careermonk Publications, 2016, ISBN-No: 978-8193245279.\n2.R Venkatesan,S Lovelyn Rose\n8126577149\nABBREVIATIONS\nL : Lectures T : Tutorials\nP : Practicals CIE : Continuous Internal Evaluation\nSEE : Semester End Examination PC : Professional Core\nOE : Open Elective PW : Project Work\n**Students have to undergo summer internship of 6 Weeks duration at the end of semester VI and valuation\nwill be done in VII semester."
       },
       {
-        "rank": 11,
+        "rank": 9,
         "score": 0.6437,
         "chunk_id": "machine_learning_lab_textbooks_8",
         "document": "btech_year3_csd_sem6.pdf",
@@ -1921,7 +1897,7 @@
         "text": "1. Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and\nPresenting Data,EMC Education services Wiley Publication\n2. Practical Statistics for Data Scientists 50+ Essential Concepts Using R\nand Python, O\u2018Reilly Publications 2nd Edition\n3. Practical Text Mining and statistical Analysis for non-structured text data\napplications,1st edition,Grey Miner,Thomas Hill."
       },
       {
-        "rank": 12,
+        "rank": 10,
         "score": 0.6421,
         "chunk_id": "btech_year2_csd_sem4_curriculum",
         "document": "btech_year2_csd_sem4.pdf",
@@ -1950,7 +1926,7 @@
         "text": "S. Credits\nCourse Code Course Title L T P\nNo.\n1 PCS-401 Database Management Systems 3 1 0 4\n2 PCS-402 Introduction to Data Science 3 1 0 4\n3 PCS-403 Design and Analysis of Algorithms 3 1 0 4\n4 ESC-401 Elements of Electrical and Electronics 3 0 0 3\nTheory of Computation\n5 PCS-404 3 1 0 4\nPCS-401L"
       },
       {
-        "rank": 13,
+        "rank": 11,
         "score": 0.6404,
         "chunk_id": "btech_year3_cse_sem6_textbooks_8",
         "document": "btech_year3_cse_sem6.pdf",
@@ -1979,7 +1955,7 @@
         "text": "1.Sahni Horowitz, \u201cFundamentals of data structures in C\u201d, UniversitiesPress, second edition, 2008, ISBN\nNo- 978-8173716058.\n2.R Venkatesan,SLovelynRose,\u201cDatastructures\u201d,Wiley, second edition, 2019, ISBN No-978-8126577149."
       },
       {
-        "rank": 14,
+        "rank": 12,
         "score": 0.6401,
         "chunk_id": "6_database_management_systems_lab_textbooks_2",
         "document": "btech_year2_csd_sem4.pdf",
@@ -2009,7 +1985,7 @@
         "text": "1. David Cielen, Arno D. B. Meysman, and Mohamed Ali, \u201cIntroducing Data Science\u201d, Manning\nPublications, 2016.\n2. Robert S. Witte and John S. Witte, \u201cStatistics\u201d, Eleventh Edition, Wiley Publications, 2017.\n3. Dr. Mohammed Abdul Hameed, \u201cPython for Data Science\u201d Wiley Publications\n4. Jake VanderPlas, \u201cPython Data Science Handbook\u201d, O\u2019Reilly, 2016."
       },
       {
-        "rank": 15,
+        "rank": 13,
         "score": 0.6399,
         "chunk_id": "index.php.json_chunk_24",
         "document": "http://kucet.ac.in/index.php",
@@ -2027,7 +2003,7 @@
         "text": "Orientation Day 2024\nTechnical Quiz by Data Science\nNational Library Week Celebrations (14 \u00e2\u20ac\u201c 20 Nov 2024)"
       },
       {
-        "rank": 16,
+        "rank": 14,
         "score": 0.6395,
         "chunk_id": "btech_year4_csd_sem8_textbooks",
         "document": "btech_year4_csd_sem8.pdf",
@@ -2056,7 +2032,7 @@
         "text": "1. Cathy O\u2018Neil and Rachel Schutt. Doing Data Science, Straight Talk from The Frontline. O\u2018Reilly.\n2. Jure Leskovek, Anand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. v2.1, Cambridge\nUniversity Press.\nBIG DATA ANALYTICS (PE4202CS)"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "score": 0.6388,
         "chunk_id": "btech_year3_cse_sem6_references_4",
         "document": "btech_year3_cse_sem6.pdf",
@@ -2085,7 +2061,7 @@
         "text": "1.. Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom: \u201cDatabase Systems: The Complete Book\u201d,\nSecond Edition, Pearson International Edition"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "score": 0.6383,
         "chunk_id": "placements.php.json_chunk_22",
         "document": "http://kucet.ac.in/placements.php",
@@ -2103,36 +2079,7 @@
         "text": "\ud83c\udfe2 Campus Recruitment Drives"
       },
       {
-        "rank": 19,
-        "score": 0.637,
-        "chunk_id": "btech_year3_civil_sem6_unit_63",
-        "document": "btech_year3_civil_sem6.pdf",
-        "source": "pdf",
-        "document_type": "syllabus",
-        "heading": "No Heading",
-        "metadata": {
-          "boundary_source": "section_heading",
-          "chunk_strategy": "syllabus_sections",
-          "classification_confidence": "MEDIUM",
-          "classifier_score": 24,
-          "confidence_gap": 5,
-          "course_code_valid": false,
-          "document_type": "syllabus",
-          "feature_summary": "{'course_code_count': 32, 'unit_count': 70}",
-          "header_removed": false,
-          "parsing_confidence": 0.95,
-          "runner_up_score": 19,
-          "source": "btech_year3_civil_sem6.pdf",
-          "source_pdf": "btech_year3_civil_sem6.pdf",
-          "strong_evidence_count": 3,
-          "validator_reason": "",
-          "validator_result": "passed",
-          "word_count": 62
-        },
-        "text": "UNIT III\nData Modeling: Spatial data analysis, data retrieval query, simple analysis, recode overlay,\nvector data model, raster data model, digital elevation model, cost and path analysis,\nknowledge based system.\nGIS Analysis and Functions: Organizing data for analysis, analysis function, maintenance\nand analysis of spatial data, buffer analysis, overlay analysis, transformations, conflation,\nedge matching and editing, maintenance and analysis ofspatial andnonspatial data"
-      },
-      {
-        "rank": 20,
+        "rank": 17,
         "score": 0.6361,
         "chunk_id": "data_analytics_visualization_lab_overview",
         "document": "btech_year3_csd_sem6.pdf",
@@ -2160,6 +2107,82 @@
           "word_count": 14
         },
         "text": "Data Analytics & Visualization Lab 0 0 3\n6 PCS-602DSL 3 25 50 1.5"
+      },
+      {
+        "rank": 18,
+        "score": 0.6352,
+        "chunk_id": "btech_year3_cse_sem6_references_7",
+        "document": "btech_year3_cse_sem6.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "section_heading",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 25, 'unit_count': 40, 'textbook_sections': 8, 'amount_count': 1}",
+          "header_removed": true,
+          "parsing_confidence": 0.85,
+          "runner_up_score": 18,
+          "source": "btech_year3_cse_sem6.pdf",
+          "source_pdf": "btech_year3_cse_sem6.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 18
+        },
+        "text": "1.Narasimha Karumanchi, \u201cData Structures and Algorithms Made Easy: Data Structures and Algorithmic\nPuzzles\u201d, Careermonk Publications, 2016, ISBN-No: 978-8193245279."
+      },
+      {
+        "rank": 19,
+        "score": 0.6345,
+        "chunk_id": "admissions.php.json_chunk_0",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "ECET:",
+        "metadata": {
+          "heading": "ECET:",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T21:02:59.479902+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "ECET:\nB.Tech ADMISSIONS\n| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERING | 66 | 61 | 63 | 66 |\n| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 | 62 | 66 |\n| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 66 | 59 | 63 | 64 |\n| 4 | MECHANICAL ENGINEERING | 66 | 51 | 42 | 43 |\n| 5 | INFORMATION TECHMOLOGY | 66 | 56 | 58 | 61 |\n| 6 | CIVIL ENGINEERING | 66 | 5 | 30 | 43 |\n| 7 | DATA SCIENCE | 66 | 55 | 58 | 66 |\n|  | GRAND TOTAL : | 462 | 352 | 376 | 409 |\n| S.NO | COURSE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERING | 14 | 11 | 08 |\n| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 13 | 08 | 11 |\n| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 12 | 10 | 11 |\n| 4 | MECHANICAL ENGINEERING | 22 | 16 | 27 |\n| 5 | INFORMATION TECHMOLOGY | 15 | 17 | 16 |\n| 6 | CIVIL ENGINEERING | 43 | 56 | 36 |\n| 7 | DATA SCIENCE | 0 | 12 | 15 |\n|  | GRAND TOTAL | 119 | 130 | 124 |\n| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERIN | 18 | 10 | 12 | 13 |\n| 2 | DIGITAL COMMUNICATION | 18 | 9 | 124 | 14 |\n| 3 | CAD/CAM | 18 |  | 07 | 07 |\n|  | GRAND TOTAL | 54 | 19 | 29 | 34 |\nLATERAL (2nd Year)\nM.Tech ADMISSIONS"
+      },
+      {
+        "rank": 20,
+        "score": 0.6326,
+        "chunk_id": "btech_year3_csd_sem5_curriculum",
+        "document": "btech_year3_csd_sem5.pdf",
+        "source": "pdf",
+        "document_type": "syllabus",
+        "heading": "No Heading",
+        "metadata": {
+          "boundary_source": "preamble",
+          "chunk_strategy": "syllabus_sections",
+          "classification_confidence": "HIGH",
+          "classifier_score": 39,
+          "confidence_gap": 21,
+          "course_code_valid": false,
+          "document_type": "syllabus",
+          "feature_summary": "{'course_code_count': 14, 'unit_count': 40, 'textbook_sections': 6, 'academic_year': '2023-2024'}",
+          "header_removed": true,
+          "parsing_confidence": 0.95,
+          "runner_up_score": 18,
+          "source": "btech_year3_csd_sem5.pdf",
+          "source_pdf": "btech_year3_csd_sem5.pdf",
+          "strong_evidence_count": 6,
+          "validator_reason": "HIGH confidence \u2014 accepted",
+          "validator_result": "passed",
+          "word_count": 264
+        },
+        "text": "B. Tech. (Data Science) V SEMESTER\nScheme of\nScheme of Lecture\nS. Course Examinatio Credits\nCourse Title Instruction hrs/week\nNo. Code n\nL T P CIE SEE\n1 PCS-501DS Software Engineering 3 1 0 4 30 70 4\n2 PCS-502DS Operating System 3 1 0 4 30 70 4\n3 PE-I* Professional Elective \u2013 I* 3 1 0 4 30 70 4\n4 PCS-503DS Data Mining 3 1 0 4 30 70 4\nManagerial Economics and\n5 HS3108 3 0 0 3 30 70 3\nAccountancy\n6 PCS-501DSL Software Engineering Lab 0 0 3 3 25 50 1.5\n7 PE-I** Professional Elective \u2013I Lab** 0 0 3 3 25 50 1.5\nTotal 15 4 6 25 200 450 22\n*(PE-I)Professional Elective \u2013 I **(PE-I)Professional Elective \u2013 I Lab\nPE5101CS Web Programming PE5105CS Web Programming Lab\nPE5102CS Advanced Java PE5106CS Advanced Java Lab\nPE5103CS Advanced Data Structures PE5107CS Advanced DS Lab\nPE5104CS Fundamentals of AI PE5108CS AI Lab\nS.\nExaminatio\n1 | PCS-501DS | Software Engineering | 3 | 1 | 0 | 4 | 30 | 70 | 4\n2 | PCS-502DS | Operating System | 3 | 1 | 0 | 4 | 30 | 70 | 4\n4 | PCS-503DS | Data Mining | 3 | 1 | 0 | 4 | 30 | 70 | 4\n5 | HS3108 | Managerial Economics and\n6 | PCS-501DSL | Software Engineering Lab | 0 | 0 | 3 | 3 | 25 | 50 | 1.5\nSoftware Engineering (PCS-501DS)\nL T P C Internal Marks: 30\n3 1 0 4 External Marks: 70"
       }
     ],
     "applied_filters": {
@@ -2194,8 +2217,8 @@
   },
   "Where is the Mechanical Engineering department?": {
     "query": "Where is the Mechanical Engineering department?",
-    "retrieval_time_ms": 34,
-    "embedding_time_ms": 25,
+    "retrieval_time_ms": 53,
+    "embedding_time_ms": 43,
     "search_time_ms": 9,
     "candidate_count": 40,
     "returned_count": 20,
@@ -2292,24 +2315,6 @@
       },
       {
         "rank": 6,
-        "score": 0.7188,
-        "chunk_id": "admissions.php.json_chunk_12",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "MECHANICAL ENGINEERING",
-        "metadata": {
-          "heading": "MECHANICAL ENGINEERING",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "MECHANICAL ENGINEERING\n22\n16\n27\n5"
-      },
-      {
-        "rank": 7,
         "score": 0.6959,
         "chunk_id": "MECHANICAL-info.php.json_chunk_4",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -2327,25 +2332,7 @@
         "text": "Mechanical Engineering\nis a versatile and foundational branch of engineering focused on the design, analysis, manufacturing, and maintenance of mechanical systems. It combines principles from physics, mathematics, and materials science to create and improve devices and processes that move, produce energy, or convert energy into motion. From tiny components to massive machines, mechanical engineering is essential to innovation and technological advancement across countless industries."
       },
       {
-        "rank": 8,
-        "score": 0.6952,
-        "chunk_id": "admissions.php.json_chunk_4",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "MECHANICAL ENGINEERING",
-        "metadata": {
-          "heading": "MECHANICAL ENGINEERING",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "MECHANICAL ENGINEERING\n66\n51\n42\n43\n5"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "score": 0.6716,
         "chunk_id": "H&S.php.json_chunk_4",
         "document": "http://kucet.ac.in/H&S.php",
@@ -2363,7 +2350,7 @@
         "text": "Email:\ndrkvijay3004@gmail.com\nPhysics\nThe Physics Department supports the engineering curriculum by teaching core concepts in electronics, mechanics, and materials through theoretical and experimental learning."
       },
       {
-        "rank": 10,
+        "rank": 8,
         "score": 0.6657,
         "chunk_id": "MECHANICAL-info.php.json_chunk_11",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -2381,7 +2368,7 @@
         "text": "Automotive and Aerospace Engineering:\nSpecializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.\nFaculty"
       },
       {
-        "rank": 11,
+        "rank": 9,
         "score": 0.6636,
         "chunk_id": "MTech-cad-info.php.json_chunk_8",
         "document": "http://kucet.ac.in/MTech-cad-info.php",
@@ -2399,7 +2386,7 @@
         "text": "Automotive and Aerospace Engineering:\nSpecializing in the design and production of vehicles, from cars to airplanes, mechanical engineers in this field focus on developing efficient, safe, and sustainable modes of transportation.\nFaculty of CAD / CAM\nDr.Ch.Radhika"
       },
       {
-        "rank": 12,
+        "rank": 10,
         "score": 0.6526,
         "chunk_id": "Cse-It-Co-Po.php.json_chunk_2",
         "document": "http://kucet.ac.in/Cse-It-Co-Po.php",
@@ -2417,7 +2404,7 @@
         "text": "B.Tech - Mechanical Engineering | 2009"
       },
       {
-        "rank": 13,
+        "rank": 11,
         "score": 0.6523,
         "chunk_id": "mtech_cad_syllabus_mtde_19_seminar",
         "document": "mtech_cad_syllabus.pdf",
@@ -2446,7 +2433,7 @@
         "text": "MTDE 19 SEMINAR\nClass: M.Tech. I Semester Sessionals: 100marks\nBranch: Mech. Engg. ( CAD/CAM).\nThe student is required to go through the current developments in the design and\nanalysis procedures for materials and structures, biomechanics, MEMS and nanotechnology,\nAdvanced materials, failure analysis, dynamics of mechanical systems, robotics,\nmicroprocessor applications in mechanical engineering, noise and vibration analysis, friction\nand wear of materials, etc.\nUnder the guidance of the assigned faculty, the students will submit a brief\nreport of the minor project as per specified format and present before the evaluation\nThe seminar evaluation will be based on the day to day work, report submission and\npresentation before the evaluation committee."
       },
       {
-        "rank": 14,
+        "rank": 12,
         "score": 0.6478,
         "chunk_id": "MTech-cad-info.php.json_chunk_0",
         "document": "http://kucet.ac.in/MTech-cad-info.php",
@@ -2464,7 +2451,7 @@
         "text": "ECET:\nCAD / CAM - M.Tech\nDepartment Vision and Mission\nTo evolve as a centre of academic excellence and advanced research in Mechanical Engineering and related areas.\nTo educate and empower the students with the state of art knowledge in the area of mechanical engineering and allied fields.\nTo create, explore and develop innovations through research and consultancy.\nTo develop self learning abilities, leadership qualities and professional ethics among the students to service the society.\nDepartment of CAD / CAM"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "score": 0.6469,
         "chunk_id": "MTech-cse-info.php.json_chunk_6",
         "document": "http://kucet.ac.in/MTech-cse-info.php",
@@ -2482,7 +2469,7 @@
         "text": "Department:\nCSE"
       },
       {
-        "rank": 16,
+        "rank": 14,
         "score": 0.6411,
         "chunk_id": "cse-info.php.json_chunk_1",
         "document": "http://kucet.ac.in/cse-info.php",
@@ -2500,7 +2487,7 @@
         "text": "Dr. Nagavelli Ramana\nPrincipal, HOD of CSE, IT, CSD\n9885288905\nramanauce.ku@gmail.com\nDepartment of Computer Science & Engineering\nThe Department of Computer Science and Engineering was established in 2009 with the launch of the CSE program, followed by the introduction of the Information Technology (IT) program in 2013. Currently, the department offers three undergraduate programs\u2014Computer Science and Engineering, Information Technology, and Data Science\u2014along with a postgraduate program in CSE and PhD programs in related fields. The department features state-of-the-art infrastructure including advanced computing facilities, fully equipped laboratories, air-conditioned seminar halls, well-ventilated classrooms, and a well-stocked library.\nSince its inception, the department has attracted top-ranking students through entrance exams like EAMCET and ECET. Its reputation for academic excellence is the result of dedicated efforts from the administration, faculty, and students. The college also admits international students into its Master's and PhD engineering programs. In addition to the academic curriculum, the department emphasizes value-added programs tailored to industry needs, as well as personality development and communication skills enhancement.\nStudents frequently engage in academic projects at prestigious institutions such as DLRL, DMRL, DRDL, ISRO, BEL RCI, CDAC, and ECIL. The department also organizes campus placement drives with leading multinational companies like TCS, Wipro, and Infosys. To enhance placement outcomes, students participate in hackathons, code debugging contests, and TASK programs. Many students excel in competitive exams like GATE, CAT, PGECET, and TSPSC, with 20% to 40% pursuing higher education abroad annually.\nIn addition to academics, the department fosters a vibrant student community through various extracurricular and co-curricular activities, including NSS, NCC, Freshers\u2019 Day, student fests, Sports Day, and Annual Day celebrations, ensuring holistic student development.\nFaculty"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "score": 0.631,
         "chunk_id": "MECHANICAL-info.php.json_chunk_31",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -2518,7 +2505,7 @@
         "text": "M.Tech (Design Engineering), (Ph.D)"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "score": 0.6305,
         "chunk_id": "faculty-of-engineering.php.json_chunk_9",
         "document": "http://kucet.ac.in/faculty-of-engineering.php",
@@ -2536,7 +2523,7 @@
         "text": "Civil Engineering\nProfessor"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "score": 0.6274,
         "chunk_id": "MTech-cse-info.php.json_chunk_48",
         "document": "http://kucet.ac.in/MTech-cse-info.php",
@@ -2554,7 +2541,7 @@
         "text": "Department:\nIT"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "score": 0.627,
         "chunk_id": "ECE-info.php.json_chunk_7",
         "document": "http://kucet.ac.in/ECE-info.php",
@@ -2570,6 +2557,42 @@
           "title": "ELECTRONICS & COMMUNICATION ENGINEERING"
         },
         "text": "Department:\nECE"
+      },
+      {
+        "rank": 19,
+        "score": 0.6205,
+        "chunk_id": "alumini_main.json_chunk_16",
+        "document": "http://kucet.ac.in/alumini_main",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Mr. Zahid Hussain",
+        "metadata": {
+          "heading": "Mr. Zahid Hussain",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:14.940851+00:00",
+          "source": "http://kucet.ac.in/alumini_main",
+          "title": "ALUMINI"
+        },
+        "text": "Mr. Zahid Hussain\n, Mechanical Engineering \u2013 Scientist B at Baba Atomic Research Centre (BARC), Department of Atomic Energy, Government of India."
+      },
+      {
+        "rank": 20,
+        "score": 0.6175,
+        "chunk_id": "TCS2K26.json_chunk_21",
+        "document": "http://kucet.ac.in/TCS2K26",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "Host Institution",
+        "metadata": {
+          "heading": "Host Institution",
+          "heading_level": 2,
+          "page_type": "department",
+          "scraped_at": "2026-08-02T18:41:20.186960+00:00",
+          "source": "http://kucet.ac.in/TCS2K26",
+          "title": "Aethera"
+        },
+        "text": "Host Institution\nLocation"
       }
     ],
     "applied_filters": {
@@ -2617,9 +2640,9 @@
   },
   "What are the eligibility criteria for B.Tech admission?": {
     "query": "What are the eligibility criteria for B.Tech admission?",
-    "retrieval_time_ms": 33,
-    "embedding_time_ms": 27,
-    "search_time_ms": 6,
+    "retrieval_time_ms": 49,
+    "embedding_time_ms": 38,
+    "search_time_ms": 10,
     "candidate_count": 40,
     "returned_count": 20,
     "ranked_chunks": [
@@ -2731,6 +2754,24 @@
       },
       {
         "rank": 5,
+        "score": 0.7398,
+        "chunk_id": "admissions.php.json_chunk_0",
+        "document": "http://kucet.ac.in/admissions.php",
+        "source": "web",
+        "document_type": "Unknown",
+        "heading": "ECET:",
+        "metadata": {
+          "heading": "ECET:",
+          "heading_level": 1,
+          "page_type": "general",
+          "scraped_at": "2026-08-02T21:02:59.479902+00:00",
+          "source": "http://kucet.ac.in/admissions.php",
+          "title": "B.Tech ADMISSIONS"
+        },
+        "text": "ECET:\nB.Tech ADMISSIONS\n| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERING | 66 | 61 | 63 | 66 |\n| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 | 62 | 66 |\n| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 66 | 59 | 63 | 64 |\n| 4 | MECHANICAL ENGINEERING | 66 | 51 | 42 | 43 |\n| 5 | INFORMATION TECHMOLOGY | 66 | 56 | 58 | 61 |\n| 6 | CIVIL ENGINEERING | 66 | 5 | 30 | 43 |\n| 7 | DATA SCIENCE | 66 | 55 | 58 | 66 |\n|  | GRAND TOTAL : | 462 | 352 | 376 | 409 |\n| S.NO | COURSE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERING | 14 | 11 | 08 |\n| 2 | ELECTRONICS & COMMUNICATION ENGINEERING | 13 | 08 | 11 |\n| 3 | ELECTRICAL& ELECTRONICS ENGINEERING | 12 | 10 | 11 |\n| 4 | MECHANICAL ENGINEERING | 22 | 16 | 27 |\n| 5 | INFORMATION TECHMOLOGY | 15 | 17 | 16 |\n| 6 | CIVIL ENGINEERING | 43 | 56 | 36 |\n| 7 | DATA SCIENCE | 0 | 12 | 15 |\n|  | GRAND TOTAL | 119 | 130 | 124 |\n| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERIN | 18 | 10 | 12 | 13 |\n| 2 | DIGITAL COMMUNICATION | 18 | 9 | 124 | 14 |\n| 3 | CAD/CAM | 18 |  | 07 | 07 |\n|  | GRAND TOTAL | 54 | 19 | 29 | 34 |\nLATERAL (2nd Year)\nM.Tech ADMISSIONS"
+      },
+      {
+        "rank": 6,
         "score": 0.7358,
         "chunk_id": "ECE-info.php.json_chunk_24",
         "document": "http://kucet.ac.in/ECE-info.php",
@@ -2748,7 +2789,7 @@
         "text": "Qualification:\nM.Tech"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "score": 0.7317,
         "chunk_id": "MECHANICAL-info.php.json_chunk_26",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -2766,7 +2807,7 @@
         "text": "Qualification:\nM.Tech (CAD/CAM)"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "score": 0.7301,
         "chunk_id": "Cse-It-Co-Po.php.json_chunk_1",
         "document": "http://kucet.ac.in/Cse-It-Co-Po.php",
@@ -2784,7 +2825,7 @@
         "text": "B.Tech - Civil Engineering | -"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "score": 0.7272,
         "chunk_id": "MECHANICAL-info.php.json_chunk_49",
         "document": "http://kucet.ac.in/MECHANICAL-info.php",
@@ -2802,7 +2843,7 @@
         "text": "Qualification:\nM.Tech CAD/CAM (Ph.D)"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "score": 0.7264,
         "chunk_id": "mtech_dc_syllabus_curriculum",
         "document": "mtech_dc_syllabus.pdf",
@@ -2829,24 +2870,6 @@
           "word_count": 3085
         },
         "text": "M.Tech.(Digital Communications)\nRules, Regulations, Scheme of Instruction & Evaluation and Syllabi\nwith effect from\nBOARD OF STUDIES\nIN\nELECTRONICS & INSTRUMENTATION ENGINEERING\nWARANGAL-506009\nJuly, 2010\nRULES AND REGULATIONS FOR FOUR SEMESTER\nM.TECH. DEGREE PROGRAMME\n(w.e.f. 2010-2011)\n1.0 MINIMUM QUALIFICATION FOR ADMISSION\n1.0.1 For GATE candidates\nThe candidates should have passed BE/B.Tech./AMIE in ECE,\nAMIE(Electronics & Telecommunication Engg.)/AMIETE and Electronics\nTelematics Engg. B.E./B.Tech. Degree in Electrical or Electrical &\nElectronics Engineering, EIE and Bio-Medical Engineering or equivalent.\nThey should have qualified at the GATE and possess a valid GATE score.\nThe seats will be assigned purely on the basis of merit of GATE.\n1.0.2 For Sponsored seats\nThe candidates should have passed BE/B.Tech./AMIE in ECE,\nAMIE(Electronics & Telecommunication Engg.)/AMIETE and Electronics\nTelematics Engg. B.E./B.Tech. Degree in Electrical or Electrical &\nElectronics Engineering, EIE and Bio-Medical Engineering or equivalent.\nThe criterion for selection of sponsored candidates shall be by their merit\nat the entrance examination to be conducted by the PGECET\n\u2022 Admission shall made into sponsored category only with the\ncandidates who are qualified either GATE/ PGECET or as\ndecided by the admission committee.\n\u2022 His/ Her application shall be duly recommended by the\nsponsoring agency for admission to the course and forwarded to\nthe Convener, PGECET\n\u2022 He/ She must be permanent employee with the sponsoring\nagency for at least two years, after obtaining the qualifying\ndegree.\n\u2022 The sponsoring agency must be a Government establishment or a\npublic-sector undertaking, or a reputed private engineering\ncollege\n\u2022 The sponsoring agency shall certify that the candidates will be\ngranted leave for pursuing the M.E./ M.Tech. Regular course of\nstudy.\n\u2022 The candidates who are working Research Projects approved by\nthe competent authority are also required to fulfill the above\nconditions before they are sponsored for admission\n2.0 CONFERMENT OF THE DEGREE\nThe degree of Master of Technology in a specified Branch of Engineering will be\nconferred on a candidate who has fulfilled the following conditions.\n2.0.1 The candidate, after admission to the first year of the two year M.Tech.\nProgram, has to pursue a regular course of study for two academic years\n2.0.2 The candidate must have satisfied the academic requirements of the\nspecified field of specialization in each semester / year herein after\nprescribed.\n3.0 THE PROGRAMMES OF STUDY\nThe programs of study prescribed for the degree of Master of Technology shall\nprovide for specialization in the following branch.\n3.0.1 Electronics & Instrumentation Engineering with specialization in Digital\nCommunications.\n4.0 REGULAR PROGRAMME OF STUDY\nA candidate will be deemed to have pursued a regular program of study as a full\ntime student provided he/she satisfied the following condition:\n4.0.1. The candidate must not have enrolled as a student in any other degree or\ndiploma program recognized by the Government or Kakatiya University.\n5.0 ATTENDANCE REQUIREMENTS\n5.0.1 Attendance requirements of a semester shall be deemed to have been\nsatisfied provided:\n5.0.1.1 The candidate puts in a minimum attendance of 75 per cent in\neach course of instruction prescribed for the semester.\n5.0.2. A candidate, who failed to satisfy the above requirements of attendance\nshall be detained and will not be permitted to appear at the University\nexaminations. A maximum of 10% of attendance can be condoned, on\nmedical grounds, by the Vice-Chancellor of Kakatiya University with a\nprior intimation for all the courses of that semester.\n6.0 DURATION OF A SEMESTER\n6.0.1 Each semester of the M.Tech. degree Programme shall consist of 18 weeks\nof instruction, including the period of mid-session tests and the University\nexaminations.\n6.0.2 Third semester of the M.Tech. degree program shall consist of 8 weeks of\nIndustrial Training followed by 18 weeks of dissertation work.\n6.0.3 Fourth Semester of M.Tech. degree shall consist of 24 weeks of Dissertation\nwork.\n7.0 REGISTRATION\n7.0.1 All the students are required to get themselves registered for the course\nwork by paying the prescribed tuition fee before the start of course work\nof each semester failing which they shall not be allowed to attend the\ncourse work prescribed for that semester.\n7.0.2 Candidates detained due to shortage of attendance are to register within 7\ndays of commencement of semester failing which they shall not be allowed\nto attend the course work prescribed for that semester with the approval of\n7.0.3 Registration shall be the sole responsibility of the student.\n8.0 EVALUATION\n8.0.1 The performance of the student in every semester thereafter shall be\nevaluated course-wise as detailed in the scheme of instruction and\nevaluation.\n8.0.2 The pattern of allocation of marks for University Examinations and\nsessional work shall be the following.\n8.0.2.1 Theory courses:\nUniversity Examinations 100\nInternal Examination 50\n8.0.2.2 Laboratory/Seminar/Comprehensive Viva/ Project Work\nLab Seminar Comprehensive Project Work\nViva-voce\nUniversity Examinations 50 -- 100 200\nInternal Examinations 50 100 -- 100\n(by Continuous Evaluation)\n8.0.3 Internal evaluation of theory courses in each of the semesters shall be based\non two mid-session tests of two hours duration. Best of the two tests shall be\nconsidered for the award of Internal marks.\n8.0.4 For the elective course the department has the \u201cchoice\u201d not to offier the\nelective course if five or less than students only have opted for the course.\n8.0.5 Guidelines for Evaluating Laboratory Classes:\nThe evaluation of Laboratory classes should be divided in to two major\ncomponents namely, Evaluation on a continued basis and end semester test.\nComponent 1: (Evaluation on continued basis)\nIt is recommended to allocate 35 marks to this component. These marks are\nto be awarded for every experiment carried out by the student in his/her\nregular practical class on weekly basis.\nComponent 1.1: Experiment (20 marks)\nThe student is required to write the principle, theory and calculation\nmethod of the experiment allotted to him either in the observation\nnotebook or on a separate sheet immediately after entering the\nlaboratory. At the end of the experiment the student should show the\nobservations and the result to the teacher. The marks of this sub-\ncomponent are to be awarded taking all the points mentioned above\ninto consideration.\nComponent 1.2 : Submission of Record Book ( 15 marks)\nThe student has to submit the practical record book updated every\nweek. The teacher has to ask a few viva questions based on the\nexperiment carried out by the student in the previous class. The\nmarks awarded in this sub-component should be reduced depending\non the extent of delay in the submission of record book.\nThe marks of component 1.1 & component 1.2 are to be entered\nseparately by the staff members in students attendance registers\nregularly.\nComponent 2: (Evaluation at the end of the semester): (15 Marks)\nAn internal assessment laboratory test and the viva-voce are to be conducted\nat the end of the semester.\n8.0.6 Guidelines for Seminar:\n8.0.6.1 The Students of M.Tech. I semester are to register a relevant topic\nwith in 4 weeks of commencement of semester class work and\nsubmit the same to the department.\n8.0.6.2 Evaluation of seminar consists of two components namely Report\n(50 marks) and Presentation (50 marks)\n8.0.6.2.1 Report: Students are required to submit a report on the\nchosen seminar topic as per the prescribed format and last\ndate specified by the Departmental Post Graduate Review\nCommittee (DPGRC)\n8.0.6.2 Presentation: The students are required to deliver the\nseminar before the DPGRC as per the schedule notified\nby the department.\nDPGRC will decide the course of action on the students who fail to\nsubmit the report and present the seminar.\n8.0.7 Guidelines for Industrial Training:\n8.0.7.1 M.Tech. Coordinator in consultation with the Training &\nPlacement section has to procure training-cum-dissertation slots,\nfor the students before the last day of instruction of II semester.\n8.0.7.2 The students are to confirm their training slot by the last day of II\n8.0.7.3 The students after 8 weeks of Industrial Training shall submit a\ncertificate, a report in prescribed format before the last date\nspecified by the DPGRC.\nThe DPGRC will decide the course of action on the students who fail\nto submit the training certificate and report.\n8.0.8 Guidelines for Dissertation:\nThe Department Post-Graduate Review committee is to be\nconstituted with 5 members i.e. Chairman \u2013 Head of the Department,\nConvenor \u2013 M.Tech. Coordinator and 3 other faculty members including\nsupervisor.\nThe committee is to evaluate the progress of the Dissertation\nconducting 2 presentations in third semester and monthly presentations in\nfourth semester.\nIII \u2013 Semester Total Marks \u2013 100\n50 marks for presentations\n50 marks for regular evaluation by supervisor.\n1st presentation (Registration Seminar) after 6 weeks from the\ncommencement of the semester for 25 marks \u2013 Registration Seminar:\nProject proposal (problem specification, expected out come)\n2nd presentation (Progress Seminar) after 12 weeks from the\ncommencement of the semester for 25 marks - Progress Seminar: Status\nof the dissertation \u2013 work already carried out, balance of work to be carried\nout; Progress seminars are to be delivered between 1st and 5th of every\nmonth.\nIV \u2013 Semester Total Marks \u2013 200\nSynopsis Seminar: Together with synopsis a presentation to be made and\nthe dissertation should be demonstrated two weeks before the submission\ndate.\nSupervisors are to evaluate the Dissertation regularly, based on the\nprogress report submitted by the students every week and the same should\nbe recorded.\nProject work will be carried out in III and IV semesters under the\nsupervision of a faculty member from within the respective department.\nStudents may be permitted to work under the joint guidance of two members\nof the faculty \u2013 in which case, one of the guides may be from an allied\ndepartment.\nA student may, however, be permitted by the Head of the Department\nconcerned to work on a project in an Industrial / Research organization, in\nthe project semesters. In such case, the faculty guiding the student shall be\ncalled the internal guide and the scientist / manager guiding, the student (at\nsite) shall be called the external guide.\nNo student will be allowed to submit the project report before 48 weeks and\nafter 52 weeks from commencement of III semester.\nThe DPGRC will decide the course of action on the students who fail to\nsubmit the dissertation.\n8.0.9 Guidelines for Comprehensive Viva-voce:\nComprehensive Viva-voce examination would be conducted with both\nInternal and External Examiners as panel members immediately after the\nend of II semester along with the other Laboratory Examinations. It would\nbe evaluate for 100 marks. All the members of the faculty should also be\npresent for the same.\n9.0 MINIMUM REQUIREMENTS FOR PASSING A COURSE:\n9.0.1 A candidate shall be deemed to have passed in a course if he/she secured 40\npercent of the marks assigned to the University examination of the course,\n9.0.2 40 percent of the marks assigned to the sessionals and University\nexamination of the course taken together.\n10.0 EXAMINATIONS\n10.0.1 Examinations for each semester will be conducted once in an academic year.\n10.0.2 A candidate who failed in a course (theory or practical) can appear at a\nsubsequent University examination in the same course. However, the\nsessional marks secured by the candidate in that course during the semester\nof study shall remain unaltered.\n10.0.3 Any candidate appearing for examinations in any subject, after two years\nfrom his admission will be governed by the syllabus in force.\n11.0 ELIGIBILITY FOR AWARD OF DEGREE\n11.0.1 A candidate shall be deemed to have satisfied the requirements for the\naward of the M.Tech. degree provided he/she passes in all the courses\nincluding dissertation prescribed in the scheme of instruction within a period\nof four consecutive years from the year of admission to the Programme.\n11.0.2 A candidate who fails to fulfil all the requirements for the award of M.Tech.\ndegree in a period of four consecutive academic years from the year of\nhis/her admission to the M.Tech. degree Programme shall forfeit his/her\nenrolment to the Programme.\n11.0.3 A candidate who is permitted to discontinue may rejoin the course at the\nappropriate semester only along with the regular students at the time of\nnormal commencement of that semester.\n11.0.4 A candidate who discontinues and rejoins shall be governed by the rules,\nregulations, courses of study and syllabus in force, at the time of his/ her\nrejoining the course.\n11.0.5 A student may be permitted by the Head of the Institute to withdraw from the\nprogramme for a year, for reasons of ill-health or other valid reasons on the\nrecommendation of the Head of the Department. Such student who\ndiscontinues and rejoins shall be governed by the rules, regulations, courses\nof study and syllabus in force, at the time of his/ her rejoining the course.\n12.0 AWARD OF DIVISION\nDivision is awarded as follows: Based on the marks weighted by credits\nFirst Class with Distinction:\nSingle attempt in every exam & securing 70% or more in aggregate.\nFirst Class:\nSecuring 60% or more in aggregate provided the candidate passes all the papers\nwithin four years, the maximum period allowed for obtaining the degree.\nSecond Class:\nSecuring less than 60% and more than 40% in aggregate.\nThe student on successful completion of his course, transcript shall be awarded on the basis\nof Credit systems. The details are as follows.\n\u2022 For I Semester .. 27 Credits\n\u2022 For II Semester .. 27 Credits\n\u2022 For III Semester .. 2 Credits\n\u2022 For IV Semester .. 8 Credits\n13.0 GENERAL\n13.0.1 The award of degree to a candidate shall be withheld if:-\n13.0.1.1 He/she has not cleared dues to the institution / Hostel and/or\n13.0.1.2 A case of disciplinary action is pending against him/her\n13.0.2 The marks secured in sessional evaluation and University examinations shall\nbe shown separately in the marks sheet.\n13.0.3 Whenever ambiguities arise in interpreting the regulations, the Standing\nCommittee of Kakatiya University shall have the power to make rules or to\nissue clarifications for removing such ambiguities.\n13.0.4 The Academic Regulations should be read as a whole for purposes of any\ninterpretation.\n13.0.4.1 These academic regulations shall come into force from the year\n2010-2011 for the batches of students who will be admitted in\n2010-2011 and subsequent academic years.\n13.0.5 The Total duration for the course shall normally be 24 calendar months. No\ncourse shall commence more than once in an academic year.\n13.0.6 A candidate shall have to appear in overall comprehensive Viva-voce\nexaminations as laid down in the schemes of instruction and evaluation.\n13.0.7 A candidate who has completed the course work of two-semester shall be\nrequired to register in third semester of Master of Technology to the\ndissertation and defend it through oral Examination after the fourth\n13.0.8 A candidate who fails in the oral examination for dissertation shall have to\ndefend it again as per recommendation of the Departmental Post-Graduate\nReview Committee.\n13.0.9 For evaluation of each theory examination there shall be two examiners,\none from Kakatiya University and another from outside Kakatiya\nUniversity. Theory papers evaluated in such manner shall be subjected to\nmoderation as per the norms of the Kakatiya University.\nFor laboratory examination there shall be two examiners, one from Kakatiya\nUniversity (internal examiner) and another from outside Kakatiya\nUniversity (external examiner). In case the external examiner does not turn\nup, another internal examiner appointed by Chief Supdt. of Exams will\nconduct exam as per schedule.\n13.0.10 An examination board will be set up for comprehensive Viva-voce for\nM.Tech. course as per scheme of instruction and evaluation. The Boards\nshall consist of the following.\n(i) Four internal faculty including the Chairman of DPGRC and\n(ii) One external examiner.\nThe Chairman, DPGRC and the external examiner will award marks.\n13.0.11 For each dissertation examination there shall be a panel of examiners\nconsisting of one supervisor and one external examiner.\n13.0.12 Every student has to under go Industrial Training for 8 weeks after second\nsemester course work. However the students who are from\nindustry/organization are exempted from undergoing industrial Training.\n-.-\nSEMESTER-I\nPeriods End Semester\nSessionals\nCourse Name of the per week Examination\nTotal Credits\nCode course Time Max. Time Max\nMTDC Detection & 4 - 2 50 3 100 150 4\n11 Estimation\nTheory\nMTDC Data & 3 - 2 50 3 100 150 3\n12 Computer\n(DCC)\nMTDC Advanced 3 - 2 50 3 100 150 3\n13 Digital Signal\nProcessing\n(ADSP)\nMTDC Microwave & 3 - 2 50 3 100 150 3\n14 Optical Fiber\nCommunication\nSystems\nMTDC Data 3 - 2 50 3 100 150 3\n15 Compression\nTechniques\n(DCT)\nMTDC Elective-I 3 - 2 50 3 100 150 3\n16\nMTDC Seminar - 3 Report & 100 - - 100 4\n17 Presentation\nMTDC Digital - 3 - 50 3 50 100 2\n18 Communications\nLab\nMTDC Microwave & - 3 - 50 3 50 100 2\n19 Optical Fiber\nCommunication\nSystems Lab\nTotal 19 7 500 700 1200 27\nMTDC 16 - Elective-I:\n(a) Advanced Digital Design (ADD)\n(b) Artificial Neural Networks (ANN)\n(c) Embedded System Design(ESD)\n(d) Low Power VLSI(LPVLSI)\nEstimation\nComputer\nProcessing\nOptical Fiber\nCommunication\nCompression\nTechniques\nOptical Fiber\nCommunication\nSEMESTER-II\nPeriods Credits\nEnd Semester\nper Sessionals\nCourse Name of the Examination\nweek Total\nCode course\nTime Max. Time Max\nMTDC Coding 3 - 2 50 3 100 150 3\n21 Theory(CT)\nMTDC Communication 3 - 2 50 3 100 150 3\n22 System\nModeling (CSM)\nMTDC Multimedia 3 - 2 50 3 100 150 3\n23 Communications\n& System Design\n(MCSD)\nMTDC Digital Image 3 - 2 50 3 100 150 3\n24 Processing (DIP)\nMTDC Elective-II 3 - 2 50 3 100 150 3\n25\nMTDC Elective-III 3 - 2 50 3 100 150 3\n26\nMTDC Advanced - 3 - 50 3 50 100 2\n27 Digital Signal\nProcessing Lab\nMTDC Communication - 3 - 50 3 50 100 2\n28 System\nModeling &\nSimulation Lab\nMTDC Comprehensive - - - - - 100 100 5\n29 Viva Voce\nTotal 18 6 400 - 800 1200 27\nMTDC 25 - Elective-II: MTDC 26 - Elective-III:\n(a) DSP Processors (a) Adaptive Signal Processing\n(b) Satellite Communications (b) Wireless & Mobile Communications\n(c) Radar Signal Processing (c) Adhoc & Wireless Sensor Networks\n(d) Radio Navigational Aids (d) Quantum Communications\nper\nSystem\n& System Design\nSystem\nModeling &\nSEMESTER-III\nCourse Name of Duration Sessionals End Total Credits\nCode the Course semester\nexamination\nMTDC Industrial 8 weeks Report Submission Satisfactory/\n31 training Not satisfactory\nMTDC Dissertation 18 weeks 100 -- 100 2\n32\nSEMESTER-IV\nCourse Code Name of Duration Sessionals End semester Total Credits\nthe Course examination\nMTDC 41 Dissertation 24 weeks 100 100 200 8\nsemester\nNot satisfactory |\nMTDC 11 DETECTION & ESTIMATION THEORY"
-      },
-      {
-        "rank": 10,
-        "score": 0.7231,
-        "chunk_id": "admissions.php.json_chunk_0",
-        "document": "http://kucet.ac.in/admissions.php",
-        "source": "web",
-        "document_type": "Unknown",
-        "heading": "ECET:",
-        "metadata": {
-          "heading": "ECET:",
-          "heading_level": 1,
-          "page_type": "general",
-          "scraped_at": "2026-08-02T18:41:15.415952+00:00",
-          "source": "http://kucet.ac.in/admissions.php",
-          "title": "B.Tech ADMISSIONS"
-        },
-        "text": "ECET:\nB.Tech ADMISSIONS\nS.NO\nCOURSE\nINTAKE\n2022-23\n2023-24\n2024-25\n1"
       },
       {
         "rank": 11,
@@ -3147,9 +3170,9 @@
   },
   "What certificates can students request through the college?": {
     "query": "What certificates can students request through the college?",
-    "retrieval_time_ms": 27,
-    "embedding_time_ms": 19,
-    "search_time_ms": 7,
+    "retrieval_time_ms": 63,
+    "embedding_time_ms": 52,
+    "search_time_ms": 10,
     "candidate_count": 40,
     "returned_count": 20,
     "ranked_chunks": [

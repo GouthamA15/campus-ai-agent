@@ -63,14 +63,14 @@
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the rules.pdf document, a \"regular programme of study\" means putting in attendance of not less than 75%.",
-      "input_tokens": 2966,
-      "output_tokens": 26,
-      "total_tokens": 2992,
-      "latency_ms": 413,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 145,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 3990. Please try again in 33m59.904s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -81,8 +81,8 @@
       "query_type": "general",
       "intent": "information",
       "entities": [
-        "Syllabus",
-        "Data Science"
+        "Data Science",
+        "Syllabus"
       ],
       "keywords": [
         "data",
@@ -106,11 +106,6 @@
       "count": 20,
       "top_chunks": [
         {
-          "id": "admissions.php.json_chunk_7",
-          "score": 0.7527,
-          "doc": "http://kucet.ac.in/admissions.php"
-        },
-        {
           "id": "syllabus_new.php.json_chunk_0",
           "score": 0.7355,
           "doc": "http://kucet.ac.in/syllabus_new.php"
@@ -121,33 +116,38 @@
           "doc": "btech_year4_csd_sem8.pdf"
         },
         {
-          "id": "admissions.php.json_chunk_15",
-          "score": 0.7293,
-          "doc": "http://kucet.ac.in/admissions.php"
-        },
-        {
           "id": "6_database_management_systems_lab_unit_6",
           "score": 0.7276,
           "doc": "btech_year2_csd_sem4.pdf"
+        },
+        {
+          "id": "cse_po_data_science_2",
+          "score": 0.7276,
+          "doc": "CSE_PO.pdf"
+        },
+        {
+          "id": "btech_year3_csd_sem5_curriculum",
+          "score": 0.7149,
+          "doc": "btech_year3_csd_sem5.pdf"
         }
       ]
     },
     "context_stats": {
       "initial_chunks": 20,
       "final_blocks": 20,
-      "documents_included": 10
+      "documents_included": 9
     },
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the provided context, the Data Science syllabus is available in the following documents:\n\n1. btech_year4_csd_sem8.pdf: \n   - UNIT \u2013 I: Introduction to core concepts and technologies\n   - UNIT-V: Applications of Data Science, Technologies for visualization, Bokeh (Python)\n\n2. btech_year2_csd_sem4.pdf: \n   - UNIT - I: INTRODUCTION - Data Science: Benefits and uses, Data Science Process, Data Mining, Data Warehousing\n   - Course Code and Titles: \n     - PCS-401 Database Management Systems\n     - PCS-402 Introduction to Data Science\n     - PCS-403 Design and Analysis of Algorithms\n     - PCS-404 (no title mentioned)\n     - PCS-401L (lab)\n\n3. btech_year3_csd_sem5.pdf: \n   - Course Code and Titles: \n     - PCS-501DS Software Engineering\n     - PCS-502DS Operating System\n     - PE-I* Professional Elective \u2013 I*\n     - PCS-503DS Data Mining\n     - HS3108 Managerial Economics and Accountancy\n     - PCS-501DSL Software Engineering Lab\n     - PE-I** Professional Elective \u2013I Lab**\n\n4. btech_year2_csd_sem3.pdf: \n   - Course Code and Titles: \n     - BSC-301 Mathematics and Statistical Foundations\n     - PCS-301 Data Structures using \u201cC\u201d\n     - PCS-302 Computer Architecture & Organization\n     - PCS-303 OOP Through JAVA\n     - PCS-304 Elements of Computer Science\n     - PCS-301L Data Structures Lab\n     - PCS-303L OOP Through JAVA Lab\n     - MC-310 Environment Science\n\n5. btech_year3_csd_sem6.pdf: \n   - Course Code and Titles: \n     - PCS-601DS Computer Networks\n     - PCS-602DS Introduction to Data Analytics & Visualization\n     - PE-II* Professional Elective \u2013II*\n     - OE-I* Open Elective-I\n     - PCS-603DS Machine Learning\n\nPlease refer to the respective documents for detailed information on the Data Science syllabus.",
-      "input_tokens": 2912,
-      "output_tokens": 446,
-      "total_tokens": 3358,
-      "latency_ms": 1176,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 37,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 4041. Please try again in 34m43.967999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -208,14 +208,14 @@
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the provided context, the following scholarship details are available:\n\n1. Scholarship Program \u2013 25 Jan 2025 (for First Year Girls)\n2. Student Support & Scholarships: Offering merit-based or need-based scholarships, funding student projects, or supporting students for conferences and competitions.\n3. Documents required for Fresh and Renewal Scholarship (mentioned in the office_main.php document)\n\nAdditionally, the Gold_Medal_List_July_2025_.pdf document lists various gold medals awarded to students, including:\n\n1. DR.D.S. REDDY GOLD MEDAL\n2. SRI J. LAXMAIAH TEACHER GOLD MEDAL\n3. SRI BARU VENKATA RAMANA RAO MEMORIAL GOLD MEDAL\n4. SMT.R. LAXMI BAI AND R.LAXMINARAYANA REDDY GOLD MEDAL\n5. MARELLAPUDY SURYANARAYANA MURTHY GOLD MEDAL\n6. SRI GUJJULA SHARAT CHANDRA MEMORIAL GOLD MEDAL\n7. LATE SRI M.S. RANGACHARY MEMORIAL GOLD MEDAL\n\nPlease note that the information available is limited to the provided context, and more details might be available on the university's website or other sources.",
-      "input_tokens": 5465,
-      "output_tokens": 269,
-      "total_tokens": 5734,
-      "latency_ms": 3863,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 36,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 6489. Please try again in 1h9m59.04s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -247,16 +247,6 @@
       "count": 20,
       "top_chunks": [
         {
-          "id": "admissions.php.json_chunk_7",
-          "score": 0.7183,
-          "doc": "http://kucet.ac.in/admissions.php"
-        },
-        {
-          "id": "admissions.php.json_chunk_15",
-          "score": 0.7063,
-          "doc": "http://kucet.ac.in/admissions.php"
-        },
-        {
           "id": "cse_po_data_science_2",
           "score": 0.6981,
           "doc": "CSE_PO.pdf"
@@ -270,6 +260,16 @@
           "id": "6_database_management_systems_lab_unit_6",
           "score": 0.6611,
           "doc": "btech_year2_csd_sem4.pdf"
+        },
+        {
+          "id": "btech_year2_csd_sem3_curriculum",
+          "score": 0.6564,
+          "doc": "btech_year2_csd_sem3.pdf"
+        },
+        {
+          "id": "cse_po_design_2",
+          "score": 0.6535,
+          "doc": "CSE_PO.pdf"
         }
       ]
     },
@@ -281,14 +281,14 @@
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the admissions page (http://kucet.ac.in/admissions.php), the seat intake for Data Science is not explicitly stated. However, two sets of numbers are provided: 66, 55, 58, 66 and 0, 12, 15. Without clear column headers, it's difficult to determine the exact meaning of these numbers. Therefore, the information on the number of seats available in Data Science is unavailable in the current knowledge base.",
-      "input_tokens": 2604,
-      "output_tokens": 97,
-      "total_tokens": 2701,
-      "latency_ms": 9682,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 40,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 4561. Please try again in 42m13.248s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -353,19 +353,19 @@
     "context_stats": {
       "initial_chunks": 20,
       "final_blocks": 19,
-      "documents_included": 10
+      "documents_included": 11
     },
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "The physical location of the Mechanical Engineering department is not available in the current knowledge base. However, you can visit the department's webpage at http://kucet.ac.in/MECHANICAL-info.php for more information.",
-      "input_tokens": 2042,
-      "output_tokens": 45,
-      "total_tokens": 2087,
-      "latency_ms": 11399,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 35,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 3065. Please try again in 20m40.704s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -419,28 +419,28 @@
           "doc": "http://kucet.ac.in/MTech-cse-info.php"
         },
         {
-          "id": "ECE-info.php.json_chunk_24",
-          "score": 0.7358,
-          "doc": "http://kucet.ac.in/ECE-info.php"
+          "id": "admissions.php.json_chunk_0",
+          "score": 0.7398,
+          "doc": "http://kucet.ac.in/admissions.php"
         }
       ]
     },
     "context_stats": {
       "initial_chunks": 20,
-      "final_blocks": 8,
-      "documents_included": 6
+      "final_blocks": 9,
+      "documents_included": 7
     },
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the rules.pdf document, the eligibility criteria for B.Tech admission are as follows: \n\nA candidate for admission to the Four Year Degree Program in Engineering & Technology must have passed the Intermediate Examination of the Board of Intermediate Education, Government of Telangana with Mathematics, Physics, and Chemistry as optional courses, or any other examination recognized by the Kakatiya University as equivalent thereto. \n\nAdditionally, all eligible applicants shall have to qualify at the common Entrance Examination, and the candidates will be admitted strictly in accordance with the merit secured at the Entrance Examination (EAMCET) conducted by the state government of Telangana.",
-      "input_tokens": 2123,
-      "output_tokens": 129,
-      "total_tokens": 2252,
-      "latency_ms": 13540,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 36,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 3707. Please try again in 29m55.392s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   },
   {
@@ -503,14 +503,14 @@
     "llm_stats": {
       "provider": "groq",
       "model": "llama-3.3-70b-versatile",
-      "response": "According to the provided context, specifically the \"Office\" page on the KUCET website (http://kucet.ac.in/office_main.php), students can request certificates related to \"Fresh and Renewal Scholarship\" and possibly other certificates, but the specific types are not detailed. Additionally, as mentioned in the rules.pdf document, students who have been declared successful in the whole examination can be given a Provisional Certificate, and they also have to obtain a Degree Certificate (convocation) from the University.",
-      "input_tokens": 4069,
-      "output_tokens": 103,
-      "total_tokens": 4172,
-      "latency_ms": 20784,
-      "finish_reason": "stop",
-      "success": true,
-      "error": null
+      "response": "",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "total_tokens": 0,
+      "latency_ms": 36,
+      "finish_reason": "error",
+      "success": false,
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01k88kpezpetjt7c49p1y5djmg` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98371, Requested 5093. Please try again in 49m52.895999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     }
   }
 ]

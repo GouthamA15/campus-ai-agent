@@ -1,0 +1,91 @@
+{
+  "document_id": "anti_ragging_squad.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/anti_ragging_squad.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:10.949496+00:00",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nS.NO | Name | Phone Number",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "1 | Dr. B.Anil Kumar | 9700381439",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "1 | Dr. B.Anil Kumar | 9700381439",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "2 | Mrs. E.Rajeshwari | 9985842080",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "2 | Mrs. E.Rajeshwari | 9985842080",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "3 | Mrs. M.Soujanya | 9010610430",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "3 | Mrs. M.Soujanya | 9010610430",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "4 | Mr. V.Amarendar | 8519802818",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "4 | Mr. V.Amarendar | 8519802818\n5 | Dr. M.Kalpana devi | 7780370212\n6 | Dr. K.Vijay kumar | 9441795295\n7 | Mr. RD Prasad | 9603192848",
+      "token_count": 37
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "8 | Mr. R.Dayakar | 9603221369",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "8 | Mr. R.Dayakar | 9603221369",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "9 | Mr. P.Yeshvender | 7416563887",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "9 | Mr. P.Yeshvender | 7416563887\n10 | Mr. N.Satyashiva prasad | 9963310441",
+      "token_count": 19
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "11 | Mrs. H.Lakshmi | 9989660311",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "11 | Mrs. H.Lakshmi | 9989660311",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "anti_ragging_squad.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "12 | Mrs. T.Swapna | 9177422922",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "12 | Mrs. T.Swapna | 9177422922",
+      "token_count": 9
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+2026-08-03 02:25:40,428 | INFO | Scraping URL: http://kucet.ac.in/admissions.php
+2026-08-03 02:25:40,782 | INFO | Saved JSON: data\processed\kucet.ac.in__admissions.php__f4fcd46d16a7.json
+2026-08-03 02:25:40,782 | INFO | Title: B.Tech ADMISSIONS
+2026-08-03 02:25:40,782 | INFO | Page type: general
+2026-08-03 02:25:40,782 | INFO | Content length: 1123
+2026-08-03 02:32:59,181 | INFO | Scraping URL: http://kucet.ac.in/admissions.php
+2026-08-03 02:32:59,480 | INFO | Saved JSON: data\processed\kucet.ac.in__admissions.php__f4fcd46d16a7.json
+2026-08-03 02:32:59,480 | INFO | Title: B.Tech ADMISSIONS
+2026-08-03 02:32:59,480 | INFO | Page type: general
+2026-08-03 02:32:59,480 | INFO | Content length: 1431

@@ -1,0 +1,82 @@
+{
+  "document_id": "coordinators.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/coordinators.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:24.045894+00:00",
+  "chunk_count": 8,
+  "chunks": [
+    {
+      "chunk_id": "coordinators.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nList of Co-Ordinators for Alumini Affairs",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "S.No. | Name | Designation | Department | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Department | Mobile Number | Email Id\n1 | Ms. M. Vani | Asst. Professor (C) | CSE, IT, CSD | 8919611798 | makula.vani@gmail.com\n2 | Mr. Rekha Sree | Asst. Professor (C) | CSE, IT, CSD | 8074151879 | rekhasreenivasgone@gmail.com\n3 | Ms. M. Vennela | Asst. Professor (C) | CIVIL | 9515068515 | manupativennala@gmail.com\n4 | Dr. J. Ramchander | Asst. Professor (C) | ECE | 8247300529 | ramchander4ece@gmail.com\n5 | Ms. B. Vandana Siri | Asst. Professor (C) | EEE | 9701243547 | vndsr26@gmail.com\n6 | Mr. R.D. Prasad | Asst. Professor (C) | MECH | 9603192848 | prasadrd.215@gmail.com\nList of Director, Training and Placement Officer for Placements",
+      "token_count": 184
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "S.No. | Name | Designation | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Mobile Number | Email Id\n1 | Mr. V. Ramana Babu | Director | 9133612366 | ramana.vrb@gmail.com\n2 | Mr. Pakala Santhosh Kumar | Training & Placement Officer | 7396586731 | santhoshguptha507@gmail.com\n3 | Mr. Arukonda Siddartha | Training & Placement Officer | 9397666906 | siddartha.arukonda@gmail.com\nList of Co-Ordinators for Internship Cell",
+      "token_count": 83
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "S.No. | Name | Designation | Department | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Department | Mobile Number | Email Id\n1 | Mr. N. Satyashiva Prasad | Internship Coordinator | CIVIL | 9133612366 | satya4249@gmail.com\n2 | Mrs. M. Sowjanya | Internship Coordinator | CSE, IT, CSD | 9010610430 | soujanyavedh@gmail.com\n3 | Mrs D. Priyanka | Internship Coordinator | CSE, IT, CSD | 8106061311 | priyankadamera1223@gmail.com\n4 | Farheen Fathima | Internship Cell Incharge | ECE | 9052860093 | farheenfathima794@gmail.com\n5 | Mr. R. Subhash | Internship Coordinator | EEE | 9701046054 | rsubhash51@gmail.com\n6 | Dr. Md. Owais Ahmad Sajjad | Internship Coordinator | MECH | 9908716004 | sajjad.owais44@gmail.com\nList of Co-Ordinators for Extra Curricular Activities",
+      "token_count": 155
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "S.No. | Name | Designation | Department | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Department | Mobile Number | Email Id\n1 | Ms. A. Shirisha | Incharge | MECH | 9949904971 | adupashirisha@gmail.com\n2 | Ms. R. Sushmitha | Coordinator | CSE, IT, CSD | 8341381402 | sushmacse511@gmail.com\n3 | Mr. R. Laxman Naik | Coordinator | CSE, IT, CSD | 9177644143 | lakshman.ramavathu@gmail.com\n4 | Ms. D. Bhagya Laxmi | Coordinator | CSE, IT, CSD | 7330858534 | bhagyakmp519@gmail.com\n5 | Mr. V. Ramana Babu | Coordinator | CSE, IT, CSD | 9346313635 | ramana.vrb@gmail.com\n6 | Ms. V. Rajasree | Coordinator | ECE | 9963311463 | rajasree.mitta@gmail.com\n7 | Dr. D. Sailaja | Coordinator | ECE | 9866491832 | sailajadasare@gmail.com\n8 | Mrs. H. Lakshmi | Coordinator | EEE | 9989660311 | lakshmi.kucet@gmail.com\n9 | Ms. Rumana Abideen | Coordinator | EEE | 8341199645 | rumana.276@gmail.com\n10 | Mr. P. Yeshvender | Coordinator | MECH | 7416563887 | yeshvenders@gmail.com\n11 | Ms. P. Rukmini | Coordinator | MECH | 8897885118 | rukmini.kucet@gmail.com\n12 | Mr. N. Satyashiva Prasad | Coordinator | CIVIL | 9133612366 | satya4249@gmail.com\nList of NSS Program Officers",
+      "token_count": 280
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "S.No. | Name | Designation | Department | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Department | Mobile Number | Email Id\n1 | Dr. D. Sailaja | Program Officer | ECE | 9866491832 | sailajadasare@gmail.com\n2 | M. Soujanya | Program Officer | IT | 9010610430 | soujanyavedh@gmail.com\nAssociate NCC Officer",
+      "token_count": 57
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "S.No. | Name | Designation | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Mobile Number | Email Id\n1 | Lt. Dr. K. Vijay Kumar | NCC ANO Officer | 8074972649 | drkvijay3004@gmail.com\nNCC -  Airwing Coordinator",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "coordinators.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "S.No. | Name | Designation | Mobile Number | Email Id",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "S.No. | Name | Designation | Mobile Number | Email Id\n1 | Dr. B. Anil Kumar | NCC Officer (CTO) | 9700381439 | anil.kucet@gmail.com",
+      "token_count": 38
+    }
+  ]
+}

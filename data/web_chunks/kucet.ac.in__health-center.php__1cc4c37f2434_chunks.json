@@ -1,0 +1,64 @@
+{
+  "document_id": "health-center.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/health-center.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:21.367189+00:00",
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "chunk_id": "health-center.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Health Center",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Health Center\nAbout\nThe University Health Centre was established in 1976, initially with modest facilities and a dedicated Medical Officer at the University Campus. An additional unit was set up at the University Arts & Science College, Subedari, to serve the students and staff of University PG College and University College of Law, Subedari.\nBoth Health Centre-I and Health Centre-II are committed to providing comprehensive medical facilities to University students, research scholars, teaching staff, non-gazetted officers, Class-IV employees, daily-wage employees, and their families, adhering to the standards set by the Medical and Health Department of Andhra Pradesh.",
+      "token_count": 121
+    },
+    {
+      "chunk_id": "health-center.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Our Medical Staff & Schedule",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Our Medical Staff & Schedule\nS.NO | Name of the Doctor | Consultant | Available Days | Timings\n1 | DR. Vippa Indusri M.B.B.S | Medical Officer | Monday - Saturday | 11:00 AM to 2:00 PM\n2 | Dr. K.Sudhakar Reddy M.S | Surgeon | Tuesday - Friday | 4:00 PM to 6:00 PM\n3 | Dr. K.Buchi Reddy MD | Physician | Wednesday - Saturday\n4 | Dr. B.Sandhya rani MD DGO | Gynecologist | Monday & Friday\n5 | Dr. V. Ramesh MD DD | Dermatologist | Tuesday & Thursday",
+      "token_count": 123
+    },
+    {
+      "chunk_id": "health-center.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "6 | Prof. N.Prasad | Member Incharge",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "6 | Prof. N.Prasad | Member Incharge",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "health-center.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Key Services & Initiatives",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Key Services & Initiatives\nOur Health Centre is staffed by a dedicated team of medical professionals and paramedical staff, ensuring comprehensive care for the university community.\nMedical Officer attending both University Centre-I & University Arts & Science College Health Centre -II.\nConsulting Surgeon available on Tuesdays & Thursdays.\nConsulting Physician available on Wednesdays & Saturdays.\nConsulting Skin Specialist available on Fridays.",
+      "token_count": 70
+    },
+    {
+      "chunk_id": "health-center.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Paramedical Staff at University Health Centre-I:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Paramedical Staff at University Health Centre-I:\nLaboratory Technician; Laboratory Assistant; Pharmacist; Dresser; Ambulance Driver; Kamati; Office Attendant; Male Casual and Female Casual Labour.",
+      "token_count": 34
+    },
+    {
+      "chunk_id": "health-center.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Paramedical Staff at University Arts & Science College Health Centre-II:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Paramedical Staff at University Arts & Science College Health Centre-II:\nPharmacist; M.N.O. and Kamati.\nThe Health Centre serves approximately 45,000 patients annually, and we are continuously striving to enhance our medical facilities to cater to everyone's needs.\nEach year, the Centre actively organizes various health programs, including Blood Donation Camps, Diabetic and Hypertension Detection Camps, and AIDS awareness programs, contributing to the overall well-being of the university population.\nClick here to view more details",
+      "token_count": 98
+    }
+  ]
+}

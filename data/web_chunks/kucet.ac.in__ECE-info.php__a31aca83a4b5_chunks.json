@@ -1,0 +1,577 @@
+{
+  "document_id": "ECE-info.php.json",
+  "title": "ELECTRONICS & COMMUNICATION ENGINEERING",
+  "source": "http://kucet.ac.in/ECE-info.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:12.137784+00:00",
+  "chunk_count": 63,
+  "chunks": [
+    {
+      "chunk_id": "ECE-info.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ELECTRONICS & COMMUNICATION ENGINEERING",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ELECTRONICS & COMMUNICATION ENGINEERING\nDepartment Vision and Mission\nTo produce globally competitive engineering graduates with social awareness and become centre of excellence through research in the areas of Electronics & Communication Engineering.\nTo impart quality education to the students through quality faculty in the domain of Electronics & Communication Engineering and related fields to make them globally competitive in employment and higher education.\nTo pursue research in Electronics & Communication Engineering and related disciplines in order to serve the needs of the society.\nDevelop self-learning abilities and professional ethics to remain professionally competent so as to serve the society.\nDepartment of Electronics & Communication Engineering\nThe Department of\nElectronics and Communication Engineering (ECE)\ncombines the study of electronics with modern communication systems to equip students with the knowledge and skills necessary to design, develop, and manage advanced electronic and communication technologies.",
+      "token_count": 152
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "This field covers essential areas like:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "This field covers essential areas like:",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Electronics:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Electronics:\nFocusing on the design and functioning of electronic devices and circuits, including analog and digital systems, semiconductors, transistors, microprocessors, and microcontrollers.",
+      "token_count": 29
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Communication Systems:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Communication Systems:\nEmphasizing the principles of data transmission and communication networks, with topics such as wireless communication, satellite systems, fiber optics, and network protocols.",
+      "token_count": 30
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Signal Processing:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Signal Processing:\nTeaching students to analyze and interpret various types of signals (e.g., audio, video, digital data) for applications like image processing, audio enhancement, and speech recognition.\nThe ECE department aims to prepare students for careers in rapidly evolving technology fields, from telecommunications and broadcasting to embedded systems and IoT (Internet of Things).\nFaculty",
+      "token_count": 70
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Dr. V.Mahender",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. V.Mahender",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9603636883",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmahi415@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Dr.Md Asim Iqbal",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Md Asim Iqbal",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9553570960",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nmdasiiqbal605@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9177422922",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nswapnathota@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Dr. Ramchander. Jatooth",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Ramchander. Jatooth",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8247300529",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nramchander4ece@gmail.com\nB.Srilatha",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nM.Tech",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8328549463",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsrilathabasani@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_28",
+      "chunk_index": 28,
+      "heading": "K. Rajesh Reddy",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "K. Rajesh Reddy",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_29",
+      "chunk_index": 29,
+      "heading": "M.Tech (Embedded Systems)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Embedded Systems)",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_30",
+      "chunk_index": 30,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_31",
+      "chunk_index": 31,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n8142006991",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_32",
+      "chunk_index": 32,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrajeshreddy.488@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_33",
+      "chunk_index": 33,
+      "heading": "Pakala Santhosh Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Pakala Santhosh Kumar",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_34",
+      "chunk_index": 34,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_35",
+      "chunk_index": 35,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_36",
+      "chunk_index": 36,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n7396586731",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_37",
+      "chunk_index": 37,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsanthoshguptha507@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_38",
+      "chunk_index": 38,
+      "heading": "V. Rajasree",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "V. Rajasree",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_39",
+      "chunk_index": 39,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_40",
+      "chunk_index": 40,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_41",
+      "chunk_index": 41,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9963311463",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_42",
+      "chunk_index": 42,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nrajasree.mitta@gmail.com",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_43",
+      "chunk_index": 43,
+      "heading": "Dr.Dasari Sailaja",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr.Dasari Sailaja",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_44",
+      "chunk_index": 44,
+      "heading": "Qualification:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Qualification:\nPh.D",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_45",
+      "chunk_index": 45,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_46",
+      "chunk_index": 46,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9866491832",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_47",
+      "chunk_index": 47,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nsailajadasare@gmail.com",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_48",
+      "chunk_index": 48,
+      "heading": "M.Tech (Ph.D)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "M.Tech (Ph.D)",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_49",
+      "chunk_index": 49,
+      "heading": "Department:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Department:\nECE",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_50",
+      "chunk_index": 50,
+      "heading": "Mobile:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Mobile:\n9052860093",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_51",
+      "chunk_index": 51,
+      "heading": "Email:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Email:\nfarheenfathima794@gmail.com\nB.Tech ADMISSIONS",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_52",
+      "chunk_index": 52,
+      "heading": "COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25",
+      "token_count": 15
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_53",
+      "chunk_index": 53,
+      "heading": "ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 (+15) | 62 (+15) | 66 (+15)",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ELECTRONICS & COMMUNICATION ENGINEERING | 66 | 65 (+15) | 62 (+15) | 66 (+15)\nINFRASTRUCTURE",
+      "token_count": 25
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_54",
+      "chunk_index": 54,
+      "heading": "Electronic Devices and Circuits Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Electronic Devices and Circuits Lab:\nThis lab introduces students to the fundamentals of electronic components and circuits.\nEquipped with oscilloscopes, function generators, and multimeters, students design and analyze various analog circuits, gaining insights into their real-world applications.",
+      "token_count": 46
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_55",
+      "chunk_index": 55,
+      "heading": "Digital Electronics Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Digital Electronics Lab:\nFocusing on the principles of digital systems, this lab allows students to work with logic gates, flip-flops, counters, and multiplexers.\nThrough practical experiments, students understand the design and functioning of digital circuits.",
+      "token_count": 45
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_56",
+      "chunk_index": 56,
+      "heading": "Microprocessors and Microcontrollers Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Microprocessors and Microcontrollers Lab:\nThis lab provides an in-depth understanding of microprocessor and microcontroller architectures.\nStudents engage in programming exercises, interfacing peripherals, and developing embedded systems, laying the foundation for advanced applications in automation and control.",
+      "token_count": 44
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_57",
+      "chunk_index": 57,
+      "heading": "Analog and Digital Communication Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Analog and Digital Communication Lab:\nStudents explore the concepts of modulation, demodulation, and signal transmission in this lab.  Using various trainer kits and simulation tools, they analyze the performance of communication systems, both analog and digital.",
+      "token_count": 43
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_58",
+      "chunk_index": 58,
+      "heading": "Digital Signal Processing Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Digital Signal Processing Lab:\nThis lab emphasizes the processing of signals using digital techniques.\nStudents utilize software tools like MATLAB to perform operations such as filtering, Fourier analysis, and convolution, enhancing their analytical skills.",
+      "token_count": 40
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_59",
+      "chunk_index": 59,
+      "heading": "VLSI Design Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "VLSI Design Lab:\nFocusing on Very Large Scale Integration (VLSI) technology, this lab introduces students to the design and simulation of integrated circuits.\nUsing industry-standard software, they develop and test complex digital systems.",
+      "token_count": 42
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_60",
+      "chunk_index": 60,
+      "heading": "Embedded Systems Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Embedded Systems Lab:\nThis lab offers insights into the design and implementation of embedded systems.\nStudents work on real-time applications, interfacing sensors and actuators, and developing firmware, preparing them for challenges in the IoT and automation sectors.",
+      "token_count": 45
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_61",
+      "chunk_index": 61,
+      "heading": "Microwave and Optical Communication Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Microwave and Optical Communication Lab:\nStudents delve into high-frequency communication systems in this lab.\nExperiments include studying microwave components, waveguides, and optical fibers, providing a comprehensive understanding of advanced communication technologies.",
+      "token_count": 39
+    },
+    {
+      "chunk_id": "ECE-info.php.json_chunk_62",
+      "chunk_index": 62,
+      "heading": "Analog Electronics Lab:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Analog Electronics Lab:\nThe Analog Electronics Lab is designed to provide students with practical, hands-on experience in the design, analysis, and testing of analog electronic circuits.\nThis lab complements theoretical coursework by allowing students to implement and verify the behavior of various analog components and systems.\nStudents will work with components such as resistors, capacitors, diodes, transistors (BJT and MOSFET), and operational amplifiers.\nThey will gain proficiency in using essential electronic instruments such as oscilloscopes, function generators, multimeters, and regulated power supplies.",
+      "token_count": 101
+    }
+  ]
+}

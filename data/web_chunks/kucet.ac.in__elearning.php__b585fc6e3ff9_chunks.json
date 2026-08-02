@@ -1,0 +1,37 @@
+{
+  "document_id": "elearning.php.json",
+  "title": "eLearning Portal",
+  "source": "http://kucet.ac.in/elearning.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:10.469996+00:00",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_id": "elearning.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "eLearning Portal",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "eLearning Portal\nCSE\nECE\nEEE\nMECH\nCIVIL\nCSE Department eLearning Materials",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "elearning.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Sl. No. | Material Name | Action",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Sl. No. | Material Name | Action\n1 | Introduction to AI | Dr. N. Ramana | Open\n2 | Knowledge about AI | Dr. N. Ramana | Open\n3 | OOPs Concets | Dr. N. Ramana | Open",
+      "token_count": 47
+    },
+    {
+      "chunk_id": "elearning.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "4 | Java Packages | Dr. N. Ramana | Open",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "4 | Java Packages | Dr. N. Ramana | Open\n5 | Introduction to DS Concepts and technologies | Dr. N. Ramana | Open\n6 | DS Data Collection and Management | Dr. N. Ramana | Open\n7 | Introduction to ML and it's Types | Dr. N. Ramana | Open\n8 | ML designing of Learning Systems | Dr. N. Ramana | Open\n9 | Introduction to IoT | Dr. N. Ramana | Open\nECE eLearning materials coming soon...\nEEE eLearning materials coming soon...\nMECH eLearning materials coming soon...\nCIVIL eLearning materials coming soon...",
+      "token_count": 121
+    }
+  ]
+}

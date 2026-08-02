@@ -1,0 +1,262 @@
+{
+  "document_id": "sports.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/sports.php",
+  "page_type": "department",
+  "scraped_at": "2026-08-02T18:41:20.708597+00:00",
+  "chunk_count": 28,
+  "chunks": [
+    {
+      "chunk_id": "sports.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\n💪 Motto of Physical Education – KUCE&T\nAt KUCE&T, the Physical Education motto emphasizes holistic development including physical fitness, mental well-being, and strong moral character.\nVision\nKUCE&T envisions a vibrant sports culture where games such as Badminton, Football, Volleyball, Handball, Table Tennis, Lawn Tennis, Kho-Kho, Kabaddi, Chess, and Cricket are actively incorporated.\nYoga and Martial Arts are integrated to nurture mental focus and inner peace.\nMission\nFostering all-round growth with physical and mental resilience\nInstilling discipline, team spirit, and sportsmanship\nEmphasizing stress management, focus, and fair play\nIntroduction\nUnder the dedicated guidance of",
+      "token_count": 126
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Dr. Kota Sridhar Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Kota Sridhar Kumar\n, the Physical Education department actively organized and participated in various tournaments at university, district, state, and national levels.\nThis report highlights the participation, achievements, and overall contribution of the students and staff in promoting a vibrant sports culture at KUCE&T.\nPhysical Director of Sports",
+      "token_count": 59
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Dr. Kota Sridhar Kumar",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Dr. Kota Sridhar Kumar",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Kabaddi – 10",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kabaddi – 10",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Chess – 4",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Chess – 4",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Volleyball – 10",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Volleyball – 10",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Kho-Kho – 15",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kho-Kho – 15\nMen:",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Football – 18",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Football – 18",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Volleyball – 10",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Volleyball – 10",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Basketball – 8",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Basketball – 8",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Kabaddi – 10",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Kabaddi – 10",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Lawn Tennis – 5",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Lawn Tennis – 5",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "Shuttle – 7",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Shuttle – 7",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_13",
+      "chunk_index": 13,
+      "heading": "Chess – 5",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Chess – 5",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_14",
+      "chunk_index": 14,
+      "heading": "Table Tennis – 5",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Table Tennis – 5",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_15",
+      "chunk_index": 15,
+      "heading": "Hockey – 15",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Hockey – 15",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_16",
+      "chunk_index": 16,
+      "heading": "Cricket:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Cricket:\nParticipated",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_17",
+      "chunk_index": 17,
+      "heading": "South Zone & All India Inter-University Participants",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "South Zone & All India Inter-University Participants",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_18",
+      "chunk_index": 18,
+      "heading": "Name | Sport | Branch",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Name | Sport | Branch\nArun | Chess | IT 4th Year\nSai Teja | Football | MECH 4th Year\nPrem | Kho-Kho | CIVIL 4th Year\nVarun Tej | Hockey | EEE 4th Year\nBindhu | Kabaddi | IT 2nd Year\nPranay | Lawn Tennis | MECH 4th Year\nAkshith | Swimming | IT 4th Year\nMadhurya | Chess | CSD 3rd Year\nPoojitha | Badminton | EEE 4th Year\nPranay | Basketball | IT 2nd Year\nSravani | Gymnastics | CSD 1st Year",
+      "token_count": 87
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_19",
+      "chunk_index": 19,
+      "heading": "Inter-Collegiate Tournament Achievements",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Inter-Collegiate Tournament Achievements\nRunners-Up",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_20",
+      "chunk_index": 20,
+      "heading": "– Table Tennis",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "– Table Tennis\nRunners-Up",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_21",
+      "chunk_index": 21,
+      "heading": "– Football",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "– Football\nKUCET Men's Football Team\nKU Campus ABVP Tournaments\nCricket\nVolleyball\nBadminton\nKho-Kho\nKUCET Cricket Team – Runner-Up\nKITS Trophy - District Engineering College Tournaments\nKabaddi\nVolleyball\nBadminton",
+      "token_count": 35
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_22",
+      "chunk_index": 22,
+      "heading": "Table Tennis",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Table Tennis\nKU Intra-Murals Tournaments (Feb 29 – Mar 19, 2025)\nFootball\nVolleyball\nBasketball\nKabaddi",
+      "token_count": 20
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_23",
+      "chunk_index": 23,
+      "heading": "Lawn Tennis",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Lawn Tennis\nCarroms\nShuttle\nChess",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_24",
+      "chunk_index": 24,
+      "heading": "Table Tennis",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Table Tennis\nHockey",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_25",
+      "chunk_index": 25,
+      "heading": "Staff Participation",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Staff Participation\nCricket\nVolleyball",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_26",
+      "chunk_index": 26,
+      "heading": "Shot Put",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Shot Put\nCarroms\nChess",
+      "token_count": 4
+    },
+    {
+      "chunk_id": "sports.php.json_chunk_27",
+      "chunk_index": 27,
+      "heading": "Cultural & Annual Day Celebrations",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Cultural & Annual Day Celebrations\nHeld on 17th March 2025 to celebrate sports & academic excellence.\nAthletes were felicitated for achievements.",
+      "token_count": 23
+    }
+  ]
+}

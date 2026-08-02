@@ -1,0 +1,19 @@
+{
+  "document_id": "NccArmy&NccAirwing.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/NccArmy&NccAirwing",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:21.751779+00:00",
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_id": "NccArmy&NccAirwing.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nNational Cadet Crops - NCC\nNational Cadet Crops (NCC) - Army\nNational Cadet Crops (NCC) - Airwing",
+      "token_count": 23
+    }
+  ]
+}

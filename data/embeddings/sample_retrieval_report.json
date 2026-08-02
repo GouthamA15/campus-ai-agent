@@ -1,0 +1,302 @@
+{
+  "model": "BAAI/bge-small-en-v1.5",
+  "total_documents_searched": 59,
+  "results": [
+    {
+      "query": "What is the attendance requirement?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.7460806895245305,
+          "chunk_id": "rules_examination",
+          "source": "rules.pdf",
+          "text_preview": "3.2 \"A regular programme of study\" means putting in attendance of not less than 75%.\n(The cumulative monthly attendance in each subject and the aggreg...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 460,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.6708162226716052,
+          "chunk_id": "rules_examination_branch_as_per_the_notification_issued",
+          "source": "rules.pdf",
+          "text_preview": "Examination branch as per the notification issued\n9.5 No candidate shall be allowed to put in attendance for multiple programme and appear\nat examinat...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 95,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.64815197835516,
+          "chunk_id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+          "source": "rules.pdf",
+          "text_preview": "Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the\ncandidate to appear in the Examination, and this Hall-Ticket shall have ...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 130,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        }
+      ]
+    },
+    {
+      "query": "What are B.Tech admissions?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.7714781414043262,
+          "chunk_id": "admissions.php.json_chunk_0",
+          "source": "http://kucet.ac.in/admissions.php",
+          "text_preview": "ECET:\nB.Tech ADMISSIONS\n| S.NO | COURSE | INTAKE | 2022-23 | 2023-24 | 2024-25 |\n| 1 | COMPUTER SCIENCE AND ENGINEERING | 66 | 61 | 63 | 66 |\n| 2 | EL...",
+          "metadata": {
+            "title": "B.Tech ADMISSIONS",
+            "page_type": "general",
+            "scraped_at": "2026-08-02T21:02:59.479902+00:00",
+            "heading": "ECET:",
+            "heading_level": 1
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.6498563822100217,
+          "chunk_id": "b.tech_cbcs_ii_sem_notification__notification",
+          "source": "B.TECH_CBCS_II_SEM_Notification_.pdf",
+          "text_preview": "No. 258 / E9/KU/2025 Date: 09-06-2025\nNOTIFICATION\nIt is hereby notified that B. Tech [CE, ME, CSE, EEE, ECE, IT, DS, AI & ML and Mining Engg]\n(CBCS) ...",
+          "metadata": {
+            "source_pdf": "B.TECH_CBCS_II_SEM_Notification_.pdf",
+            "document_type": "fee_notice",
+            "chunk_strategy": "notification_sections",
+            "word_count": 90,
+            "classification_confidence": "MEDIUM",
+            "classifier_score": 23,
+            "runner_up_score": 17,
+            "confidence_gap": 6,
+            "strong_evidence_count": 4,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 2,
+              "date_count": 5,
+              "amount_count": 13,
+              "academic_year": "2024-25"
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.6446932404918807,
+          "chunk_id": "rules_rules_and_regulations",
+          "source": "rules.pdf",
+          "text_preview": "BACHELOR OF ENGINEERING AND TECHNOLOGY\n(A Four Year Degree Programme)\nRULES AND REGULATIONS\n(With effect from the Academic year 2018 2019}\nNote: All t...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 492,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false,
+            "merged_small_chunk": true
+          }
+        }
+      ]
+    },
+    {
+      "query": "How can I apply for scholarship?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.5648861390003629,
+          "chunk_id": "rules_examination_the_coe_k_u_shall_furnish_him_with_a_hall_ticket_enabling_the",
+          "source": "rules.pdf",
+          "text_preview": "Examination, the COE, K.U. shall furnish him with a Hall Ticket, enabling the\ncandidate to appear in the Examination, and this Hall-Ticket shall have ...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 130,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.5519733564330737,
+          "chunk_id": "rules_7_2_award_of_gold_medal",
+          "source": "rules.pdf",
+          "text_preview": "7.2 AWARD OF GOLD MEDAL:\nA student securing highest CGPA in single attempt is eligible for award of Gold\nMedal.\nKUCE & T Rules and Regulations for Und...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 156,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.5450490290074776,
+          "chunk_id": "rules_examination_2",
+          "source": "rules.pdf",
+          "text_preview": "Note: * Registration means obtaining a Hall ticket for the said examination\n1. If a candidate has more Than permitted number of credits as backlogs, h...",
+          "metadata": {
+            "source_pdf": "rules.pdf",
+            "document_type": "notification",
+            "chunk_strategy": "notification_sections",
+            "word_count": 301,
+            "classification_confidence": "LOW",
+            "classifier_score": 15,
+            "runner_up_score": 14,
+            "confidence_gap": 1,
+            "strong_evidence_count": 2,
+            "validator_result": "passed",
+            "validator_reason": "",
+            "feature_summary": {
+              "course_code_count": 3
+            },
+            "parsing_confidence": 0.9,
+            "boundary_source": "section_heading",
+            "course_code_valid": false,
+            "header_removed": false
+          }
+        }
+      ]
+    },
+    {
+      "query": "Where is the college located?",
+      "top_k": [
+        {
+          "rank": 1,
+          "score": 0.5911208421810951,
+          "chunk_id": "faculty-of-engineering.php.json_chunk_2",
+          "source": "http://kucet.ac.in/faculty-of-engineering.php",
+          "text_preview": "Asst. Professor",
+          "metadata": {
+            "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:14.034543+00:00",
+            "heading": "Asst. Professor",
+            "heading_level": 2
+          }
+        },
+        {
+          "rank": 2,
+          "score": 0.5502517724510377,
+          "chunk_id": "faculty-of-engineering.php.json_chunk_9",
+          "source": "http://kucet.ac.in/faculty-of-engineering.php",
+          "text_preview": "Civil Engineering\nProfessor",
+          "metadata": {
+            "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:14.034543+00:00",
+            "heading": "Civil Engineering",
+            "heading_level": 2
+          }
+        },
+        {
+          "rank": 3,
+          "score": 0.533376633760929,
+          "chunk_id": "faculty-of-engineering.php.json_chunk_1",
+          "source": "http://kucet.ac.in/faculty-of-engineering.php",
+          "text_preview": "Prof. Manchala Sadanandam\nDean, Faculty of Engineering and Technology\n: 9440448790, 08070-2448338\n: msadanandam@kakatiya.ac.in\nClick here to view CV\nF...",
+          "metadata": {
+            "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "page_type": "department",
+            "scraped_at": "2026-08-02T18:41:14.034543+00:00",
+            "heading": "Prof. Manchala Sadanandam",
+            "heading_level": 2
+          }
+        }
+      ]
+    }
+  ]
+}

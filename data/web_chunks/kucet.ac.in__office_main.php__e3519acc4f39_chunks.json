@@ -1,0 +1,127 @@
+{
+  "document_id": "office_main.php.json",
+  "title": "Office",
+  "source": "http://kucet.ac.in/office_main.php",
+  "page_type": "notice",
+  "scraped_at": "2026-08-02T18:41:11.401655+00:00",
+  "chunk_count": 13,
+  "chunks": [
+    {
+      "chunk_id": "office_main.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nOffice\nAcademics\nS.NO | Name | Designation",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "1 | B. Prabhakar | Superintendent",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "1 | B. Prabhakar | Superintendent",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "2 | Smt. N. Narmada | Book Keeper",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "2 | Smt. N. Narmada | Book Keeper",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "3 | S. Ephraim Raj | Senior Assistant (Contractual)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "3 | S. Ephraim Raj | Senior Assistant (Contractual)",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "4 | S. Anand | Junior Assistant (Contractual)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "4 | S. Anand | Junior Assistant (Contractual)",
+      "token_count": 11
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "5 | S. Rajamouli | D.E.O (Cont)",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "5 | S. Rajamouli | D.E.O (Cont)",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "6 | K. Rajendraprasad | D.E.O Outsourcing",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "6 | K. Rajendraprasad | D.E.O Outsourcing",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "7 | M. Punnamchander | D.E.O Outsourcing",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "7 | M. Punnamchander | D.E.O Outsourcing",
+      "token_count": 12
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "8 | Smt P. Gouthami | D.E.O Outsourcing",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "8 | Smt P. Gouthami | D.E.O Outsourcing",
+      "token_count": 13
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "9 | M. Kishore Kumar | Outsourcing",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "9 | M. Kishore Kumar | Outsourcing",
+      "token_count": 8
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "10 | Smt. A. Lavanya | Outsourcing",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "10 | Smt. A. Lavanya | Outsourcing\nCharges – TC & Bonafide",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Certificate Issue Duration",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Certificate Issue Duration\nDocuments required for Fresh and Renewal Scholarship",
+      "token_count": 10
+    },
+    {
+      "chunk_id": "office_main.php.json_chunk_12",
+      "chunk_index": 12,
+      "heading": "View No Due Sample",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "View No Due Sample",
+      "token_count": 4
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "document_id": "CommunityGrievance.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/CommunityGrievance.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:25.984937+00:00",
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_id": "CommunityGrievance.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "Community Grievance",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Community Grievance\nLodge your Grievance",
+      "token_count": 5
+    },
+    {
+      "chunk_id": "CommunityGrievance.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "General Grievance",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "General Grievance\nCommunity based Grievance\nHome",
+      "token_count": 6
+    },
+    {
+      "chunk_id": "CommunityGrievance.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "» Community Grievance",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "» Community Grievance",
+      "token_count": 3
+    }
+  ]
+}

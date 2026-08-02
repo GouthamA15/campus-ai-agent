@@ -1,0 +1,118 @@
+{
+  "document_id": "fee-details.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/fee-details.php",
+  "page_type": "general",
+  "scraped_at": "2026-08-02T18:41:20.445772+00:00",
+  "chunk_count": 12,
+  "chunks": [
+    {
+      "chunk_id": "fee-details.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "ECET:",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "ECET:\nB.Tech Courses - CSE, ECE, EEE, Mech",
+      "token_count": 14
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_1",
+      "chunk_index": 1,
+      "heading": "Tuition Fee:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Tuition Fee:",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_2",
+      "chunk_index": 2,
+      "heading": "Rs. 35,000/-",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Rs. 35,000/-",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_3",
+      "chunk_index": 3,
+      "heading": "Note:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Note:\nHostel facility is available to boys and girls from second year onwards.\nB.Tech - Self Financed (Civil, DS & IT)",
+      "token_count": 28
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_4",
+      "chunk_index": 4,
+      "heading": "Tuition Fee:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Tuition Fee:",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_5",
+      "chunk_index": 5,
+      "heading": "Rs. 70,000/-",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Rs. 70,000/-",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_6",
+      "chunk_index": 6,
+      "heading": "Note:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Note:\nHostel facility is subject to availability for SFC course students.\nM.Tech (CSE, DC & CAD/CAM) SF",
+      "token_count": 26
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_7",
+      "chunk_index": 7,
+      "heading": "Tuition Fee:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Tuition Fee:",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_8",
+      "chunk_index": 8,
+      "heading": "Rs. 59,770/-",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Rs. 59,770/-",
+      "token_count": 7
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_9",
+      "chunk_index": 9,
+      "heading": "Other Charges:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Other Charges:",
+      "token_count": 3
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_10",
+      "chunk_index": 10,
+      "heading": "Approx. Rs. 9,990/-",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Approx. Rs. 9,990/-",
+      "token_count": 9
+    },
+    {
+      "chunk_id": "fee-details.php.json_chunk_11",
+      "chunk_index": 11,
+      "heading": "Note:",
+      "heading_level": 2,
+      "chunk_type": "paragraph",
+      "text": "Note:\nHostel facility is not available for M.Tech students.",
+      "token_count": 13
+    }
+  ]
+}

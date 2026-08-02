@@ -1,0 +1,853 @@
+2026-08-03 00:07:44,101 | INFO | Starting crawl: http://kucet.ac.in/
+2026-08-03 00:07:44,101 | INFO | Allowed domain: kucet.ac.in
+2026-08-03 00:07:44,101 | INFO | Max pages: 200
+2026-08-03 00:07:44,101 | INFO | Max depth: 5
+2026-08-03 00:07:44,101 | INFO | Crawling (1/200) | depth=0/5 | queue=0 | url=http://kucet.ac.in/
+2026-08-03 00:07:44,108 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:44,363 | DEBUG | http://kucet.ac.in:80 "GET / HTTP/1.1" 200 19388
+2026-08-03 00:07:44,378 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:44,415 | DEBUG | Found 114 internal links on page
+2026-08-03 00:07:44,418 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/supporting-staff.php
+2026-08-03 00:07:44,418 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/MECHANICAL-info.php
+2026-08-03 00:07:44,418 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/syllabus_new.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/hostels.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/contact-us.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/fee-details.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Two-cadet-cops.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/elearning.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/gallery.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/seminar-hall.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/health-center.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/office_main
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/eapcet
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/orientation-2024.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Anti_Ragging.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/bathukamma.php
+2026-08-03 00:07:44,419 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/anti_ragging_squad.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/H&S.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/ncc.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/succession_of_principals.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/best-practices.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/world_standards_day.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Depositor_Education&Awareness.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/coordinators.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/admissions.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/mission-and-vision.php
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/sports
+2026-08-03 00:07:44,420 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Six-week-program.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/cse-info.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/principal.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/ECE-info.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/internship_cell.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/eapcet.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/NccArmy&NccAirwing
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/faculty-of-engineering.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/nss
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/office_main.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/credits.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/placements
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/CIVIL-info.php
+2026-08-03 00:07:44,421 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/college.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/sports.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/TCS2K26
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/student-activities.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/ncc-airwing.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/library-event.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/constitution-of-india.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/grievance.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/library.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/nss.php
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Extra_Curricular_Activities
+2026-08-03 00:07:44,422 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/international-day-of-education.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Cse-It-Co-Po.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Extra_Curricular_Activities.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/college
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/alumini_main
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/Anti_Ragging_Committe.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/placement&internships.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/rules-and-regulations.php
+2026-08-03 00:07:44,423 | DEBUG | Enqueued new URL (depth=1): http://kucet.ac.in/EEE-info.php
+2026-08-03 00:07:44,423 | INFO | Links | found=114 | newly_enqueued=60 | queue=60
+2026-08-03 00:07:44,574 | INFO | Saved: data\processed\kucet.ac.in__root__dea637b06d05.json
+2026-08-03 00:07:44,574 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:44,575 | INFO | Page type: homepage
+2026-08-03 00:07:44,575 | INFO | Content length: 7328
+2026-08-03 00:07:44,575 | INFO | Crawling (2/200) | depth=1/5 | queue=59 | url=http://kucet.ac.in/supporting-staff.php
+2026-08-03 00:07:44,577 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:44,691 | DEBUG | http://kucet.ac.in:80 "GET /supporting-staff.php HTTP/1.1" 302 259
+2026-08-03 00:07:44,764 | DEBUG | http://kucet.ac.in:80 "GET /supporting-staff HTTP/1.1" 200 5504
+2026-08-03 00:07:44,767 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:44,782 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:44,783 | INFO | Links | found=41 | newly_enqueued=0 | queue=59
+2026-08-03 00:07:44,835 | INFO | Saved: data\processed\kucet.ac.in__supporting-staff.php__7ebd42c7b36a.json
+2026-08-03 00:07:44,836 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:44,836 | INFO | Page type: general
+2026-08-03 00:07:44,836 | INFO | Content length: 2593
+2026-08-03 00:07:44,836 | INFO | Crawling (3/200) | depth=1/5 | queue=58 | url=http://kucet.ac.in/MECHANICAL-info.php
+2026-08-03 00:07:44,837 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:44,953 | DEBUG | http://kucet.ac.in:80 "GET /MECHANICAL-info.php HTTP/1.1" 302 258
+2026-08-03 00:07:45,024 | DEBUG | http://kucet.ac.in:80 "GET /MECHANICAL-info HTTP/1.1" 200 10542
+2026-08-03 00:07:45,032 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:45,049 | DEBUG | Found 46 internal links on page
+2026-08-03 00:07:45,049 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/internship_cell
+2026-08-03 00:07:45,049 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/syllabus_new
+2026-08-03 00:07:45,049 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/MTech-cad-info.php
+2026-08-03 00:07:45,049 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/faculty-of-engineering
+2026-08-03 00:07:45,049 | INFO | Links | found=46 | newly_enqueued=4 | queue=62
+2026-08-03 00:07:45,080 | INFO | Saved: data\processed\kucet.ac.in__MECHANICAL-info.php__65f4234784f9.json
+2026-08-03 00:07:45,080 | INFO | Title: MECHANICAL ENGINEERING
+2026-08-03 00:07:45,080 | INFO | Page type: department
+2026-08-03 00:07:45,080 | INFO | Content length: 8016
+2026-08-03 00:07:45,080 | INFO | Crawling (4/200) | depth=1/5 | queue=61 | url=http://kucet.ac.in/syllabus_new.php
+2026-08-03 00:07:45,080 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:45,198 | DEBUG | http://kucet.ac.in:80 "GET /syllabus_new.php HTTP/1.1" 302 255
+2026-08-03 00:07:45,271 | DEBUG | http://kucet.ac.in:80 "GET /syllabus_new HTTP/1.1" 200 6908
+2026-08-03 00:07:45,278 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:45,298 | DEBUG | Found 87 internal links on page
+2026-08-03 00:07:45,303 | INFO | Links | found=87 | newly_enqueued=0 | queue=61
+2026-08-03 00:07:45,360 | INFO | Saved: data\processed\kucet.ac.in__syllabus_new.php__fca81faf7fdf.json
+2026-08-03 00:07:45,360 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:45,362 | INFO | Page type: general
+2026-08-03 00:07:45,362 | INFO | Content length: 2332
+2026-08-03 00:07:45,362 | INFO | Crawling (5/200) | depth=1/5 | queue=60 | url=http://kucet.ac.in/hostels.php
+2026-08-03 00:07:45,362 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:45,485 | DEBUG | http://kucet.ac.in:80 "GET /hostels.php HTTP/1.1" 302 250
+2026-08-03 00:07:45,551 | DEBUG | http://kucet.ac.in:80 "GET /hostels HTTP/1.1" 200 6499
+2026-08-03 00:07:45,562 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:45,579 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:45,579 | INFO | Links | found=41 | newly_enqueued=0 | queue=60
+2026-08-03 00:07:45,602 | INFO | Saved: data\processed\kucet.ac.in__hostels.php__2546bbf6183c.json
+2026-08-03 00:07:45,602 | INFO | Title: HOSTELS
+2026-08-03 00:07:45,602 | INFO | Page type: general
+2026-08-03 00:07:45,602 | INFO | Content length: 2608
+2026-08-03 00:07:45,602 | INFO | Crawling (6/200) | depth=1/5 | queue=59 | url=http://kucet.ac.in/contact-us.php
+2026-08-03 00:07:45,602 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:45,714 | DEBUG | http://kucet.ac.in:80 "GET /contact-us.php HTTP/1.1" 302 253
+2026-08-03 00:07:45,799 | DEBUG | http://kucet.ac.in:80 "GET /contact-us HTTP/1.1" 200 5311
+2026-08-03 00:07:45,802 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:45,807 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:45,812 | INFO | Links | found=41 | newly_enqueued=0 | queue=59
+2026-08-03 00:07:45,823 | INFO | Saved: data\processed\kucet.ac.in__contact-us.php__f04937d759ec.json
+2026-08-03 00:07:45,823 | INFO | Title: CONTACT US
+2026-08-03 00:07:45,823 | INFO | Page type: general
+2026-08-03 00:07:45,823 | INFO | Content length: 396
+2026-08-03 00:07:45,823 | INFO | Crawling (7/200) | depth=1/5 | queue=58 | url=http://kucet.ac.in/fee-details.php
+2026-08-03 00:07:45,828 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:45,943 | DEBUG | http://kucet.ac.in:80 "GET /fee-details.php HTTP/1.1" 302 254
+2026-08-03 00:07:46,018 | DEBUG | http://kucet.ac.in:80 "GET /fee-details HTTP/1.1" 200 4871
+2026-08-03 00:07:46,022 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:46,034 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:46,038 | INFO | Links | found=41 | newly_enqueued=0 | queue=58
+2026-08-03 00:07:46,062 | INFO | Saved: data\processed\kucet.ac.in__fee-details.php__eb7f4417a26f.json
+2026-08-03 00:07:46,062 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:46,062 | INFO | Page type: general
+2026-08-03 00:07:46,062 | INFO | Content length: 655
+2026-08-03 00:07:46,062 | INFO | Crawling (8/200) | depth=1/5 | queue=57 | url=http://kucet.ac.in/Two-cadet-cops.php
+2026-08-03 00:07:46,067 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:46,204 | DEBUG | http://kucet.ac.in:80 "GET /Two-cadet-cops.php HTTP/1.1" 302 257
+2026-08-03 00:07:46,278 | DEBUG | http://kucet.ac.in:80 "GET /Two-cadet-cops HTTP/1.1" 200 4730
+2026-08-03 00:07:46,278 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:46,290 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:46,291 | INFO | Links | found=41 | newly_enqueued=0 | queue=57
+2026-08-03 00:07:46,312 | INFO | Saved: data\processed\kucet.ac.in__Two-cadet-cops.php__89dc6758942f.json
+2026-08-03 00:07:46,312 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:46,312 | INFO | Page type: general
+2026-08-03 00:07:46,312 | INFO | Content length: 222
+2026-08-03 00:07:46,312 | INFO | Crawling (9/200) | depth=1/5 | queue=56 | url=http://kucet.ac.in/elearning.php
+2026-08-03 00:07:46,312 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:46,442 | DEBUG | http://kucet.ac.in:80 "GET /elearning.php HTTP/1.1" 302 252
+2026-08-03 00:07:46,513 | DEBUG | http://kucet.ac.in:80 "GET /elearning HTTP/1.1" 200 5686
+2026-08-03 00:07:46,516 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:46,529 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:46,532 | INFO | Links | found=41 | newly_enqueued=0 | queue=56
+2026-08-03 00:07:46,552 | INFO | Saved: data\processed\kucet.ac.in__elearning.php__b585fc6e3ff9.json
+2026-08-03 00:07:46,552 | INFO | Title: eLearning Portal
+2026-08-03 00:07:46,553 | INFO | Page type: department
+2026-08-03 00:07:46,553 | INFO | Content length: 740
+2026-08-03 00:07:46,553 | INFO | Crawling (10/200) | depth=1/5 | queue=55 | url=http://kucet.ac.in/gallery.php
+2026-08-03 00:07:46,553 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:46,671 | DEBUG | http://kucet.ac.in:80 "GET /gallery.php HTTP/1.1" 302 250
+2026-08-03 00:07:46,740 | DEBUG | http://kucet.ac.in:80 "GET /gallery HTTP/1.1" 200 10619
+2026-08-03 00:07:46,747 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:46,767 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:46,769 | INFO | Links | found=41 | newly_enqueued=0 | queue=55
+2026-08-03 00:07:46,778 | INFO | Saved: data\processed\kucet.ac.in__gallery.php__c312f899135e.json
+2026-08-03 00:07:46,778 | INFO | Title: Photo Gallery
+2026-08-03 00:07:46,778 | INFO | Page type: general
+2026-08-03 00:07:46,778 | INFO | Content length: 456
+2026-08-03 00:07:46,778 | INFO | Crawling (11/200) | depth=1/5 | queue=54 | url=http://kucet.ac.in/seminar-hall.php
+2026-08-03 00:07:46,785 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:46,902 | DEBUG | http://kucet.ac.in:80 "GET /seminar-hall.php HTTP/1.1" 302 255
+2026-08-03 00:07:46,975 | DEBUG | http://kucet.ac.in:80 "GET /seminar-hall HTTP/1.1" 200 6394
+2026-08-03 00:07:46,979 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:46,988 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:46,988 | INFO | Links | found=41 | newly_enqueued=0 | queue=54
+2026-08-03 00:07:47,004 | INFO | Saved: data\processed\kucet.ac.in__seminar-hall.php__f3609740f86c.json
+2026-08-03 00:07:47,004 | INFO | Title: Seminar Hall
+2026-08-03 00:07:47,004 | INFO | Page type: general
+2026-08-03 00:07:47,004 | INFO | Content length: 956
+2026-08-03 00:07:47,004 | INFO | Crawling (12/200) | depth=1/5 | queue=53 | url=http://kucet.ac.in/health-center.php
+2026-08-03 00:07:47,006 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:47,131 | DEBUG | http://kucet.ac.in:80 "GET /health-center.php HTTP/1.1" 302 256
+2026-08-03 00:07:47,214 | DEBUG | http://kucet.ac.in:80 "GET /health-center HTTP/1.1" 200 7470
+2026-08-03 00:07:47,225 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:47,235 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:47,237 | INFO | Links | found=41 | newly_enqueued=0 | queue=53
+2026-08-03 00:07:47,269 | INFO | Saved: data\processed\kucet.ac.in__health-center.php__1cc4c37f2434.json
+2026-08-03 00:07:47,269 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:47,270 | INFO | Page type: department
+2026-08-03 00:07:47,270 | INFO | Content length: 2567
+2026-08-03 00:07:47,270 | INFO | Crawling (13/200) | depth=1/5 | queue=52 | url=http://kucet.ac.in/office_main
+2026-08-03 00:07:47,271 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:47,406 | DEBUG | http://kucet.ac.in:80 "GET /office_main HTTP/1.1" 200 5405
+2026-08-03 00:07:47,412 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:47,424 | DEBUG | Found 43 internal links on page
+2026-08-03 00:07:47,426 | INFO | Links | found=43 | newly_enqueued=0 | queue=52
+2026-08-03 00:07:47,442 | INFO | Saved: data\processed\kucet.ac.in__office_main__52fa7b199269.json
+2026-08-03 00:07:47,442 | INFO | Title: Office
+2026-08-03 00:07:47,442 | INFO | Page type: notice
+2026-08-03 00:07:47,442 | INFO | Content length: 792
+2026-08-03 00:07:47,442 | INFO | Crawling (14/200) | depth=1/5 | queue=51 | url=http://kucet.ac.in/eapcet
+2026-08-03 00:07:47,442 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:47,581 | DEBUG | http://kucet.ac.in:80 "GET /eapcet HTTP/1.1" 200 8512
+2026-08-03 00:07:47,592 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:47,616 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:47,617 | INFO | Links | found=41 | newly_enqueued=0 | queue=51
+2026-08-03 00:07:47,664 | INFO | Saved: data\processed\kucet.ac.in__eapcet__69dc7642380b.json
+2026-08-03 00:07:47,664 | INFO | Title: EAPCET Rank Cutoff
+2026-08-03 00:07:47,664 | INFO | Page type: general
+2026-08-03 00:07:47,664 | INFO | Content length: 4071
+2026-08-03 00:07:47,664 | INFO | Crawling (15/200) | depth=1/5 | queue=50 | url=http://kucet.ac.in/orientation-2024.php
+2026-08-03 00:07:47,664 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:47,789 | DEBUG | http://kucet.ac.in:80 "GET /orientation-2024.php HTTP/1.1" 302 259
+2026-08-03 00:07:47,862 | DEBUG | http://kucet.ac.in:80 "GET /orientation-2024 HTTP/1.1" 200 5172
+2026-08-03 00:07:47,864 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:47,873 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:47,879 | INFO | Links | found=41 | newly_enqueued=0 | queue=50
+2026-08-03 00:07:47,893 | INFO | Saved: data\processed\kucet.ac.in__orientation-2024.php__8a477d224ebf.json
+2026-08-03 00:07:47,893 | INFO | Title: ORIENTATION DAY 2024
+2026-08-03 00:07:47,893 | INFO | Page type: department
+2026-08-03 00:07:47,893 | INFO | Content length: 1246
+2026-08-03 00:07:47,893 | INFO | Crawling (16/200) | depth=1/5 | queue=49 | url=http://kucet.ac.in/Anti_Ragging.php
+2026-08-03 00:07:47,894 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:48,009 | DEBUG | http://kucet.ac.in:80 "GET /Anti_Ragging.php HTTP/1.1" 302 255
+2026-08-03 00:07:48,082 | DEBUG | http://kucet.ac.in:80 "GET /Anti_Ragging HTTP/1.1" 200 5791
+2026-08-03 00:07:48,082 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:48,097 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:48,099 | INFO | Links | found=41 | newly_enqueued=0 | queue=49
+2026-08-03 00:07:48,127 | INFO | Saved: data\processed\kucet.ac.in__Anti_Ragging.php__83ab9505b202.json
+2026-08-03 00:07:48,127 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:48,128 | INFO | Page type: general
+2026-08-03 00:07:48,128 | INFO | Content length: 2107
+2026-08-03 00:07:48,128 | INFO | Crawling (17/200) | depth=1/5 | queue=48 | url=http://kucet.ac.in/bathukamma.php
+2026-08-03 00:07:48,129 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:48,243 | DEBUG | http://kucet.ac.in:80 "GET /bathukamma.php HTTP/1.1" 302 253
+2026-08-03 00:07:48,313 | DEBUG | http://kucet.ac.in:80 "GET /bathukamma HTTP/1.1" 200 5266
+2026-08-03 00:07:48,313 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:48,330 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:48,331 | INFO | Links | found=41 | newly_enqueued=0 | queue=48
+2026-08-03 00:07:48,344 | INFO | Saved: data\processed\kucet.ac.in__bathukamma.php__55840d480e7d.json
+2026-08-03 00:07:48,344 | INFO | Title: BATHUKAMMA CELEBRATIONS 2024
+2026-08-03 00:07:48,345 | INFO | Page type: general
+2026-08-03 00:07:48,345 | INFO | Content length: 1370
+2026-08-03 00:07:48,345 | INFO | Crawling (18/200) | depth=1/5 | queue=47 | url=http://kucet.ac.in/anti_ragging_squad.php
+2026-08-03 00:07:48,346 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:48,460 | DEBUG | http://kucet.ac.in:80 "GET /anti_ragging_squad.php HTTP/1.1" 302 261
+2026-08-03 00:07:48,536 | DEBUG | http://kucet.ac.in:80 "GET /anti_ragging_squad HTTP/1.1" 200 4940
+2026-08-03 00:07:48,537 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:48,551 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:48,553 | INFO | Links | found=41 | newly_enqueued=0 | queue=47
+2026-08-03 00:07:48,581 | INFO | Saved: data\processed\kucet.ac.in__anti_ragging_squad.php__4257603c67a7.json
+2026-08-03 00:07:48,581 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:48,581 | INFO | Page type: general
+2026-08-03 00:07:48,581 | INFO | Content length: 658
+2026-08-03 00:07:48,581 | INFO | Crawling (19/200) | depth=1/5 | queue=46 | url=http://kucet.ac.in/H&S.php
+2026-08-03 00:07:48,582 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:48,712 | DEBUG | http://kucet.ac.in:80 "GET /H&S.php HTTP/1.1" 302 250
+2026-08-03 00:07:48,784 | DEBUG | http://kucet.ac.in:80 "GET /H&S HTTP/1.1" 200 5461
+2026-08-03 00:07:48,784 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:48,800 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:48,803 | INFO | Links | found=41 | newly_enqueued=0 | queue=46
+2026-08-03 00:07:48,815 | INFO | Saved: data\processed\kucet.ac.in__H&S.php__6adf591a4a78.json
+2026-08-03 00:07:48,815 | INFO | Title: Humanities and Social Science
+2026-08-03 00:07:48,815 | INFO | Page type: department
+2026-08-03 00:07:48,815 | INFO | Content length: 1206
+2026-08-03 00:07:48,815 | INFO | Crawling (20/200) | depth=1/5 | queue=45 | url=http://kucet.ac.in/ncc.php
+2026-08-03 00:07:48,815 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:48,940 | DEBUG | http://kucet.ac.in:80 "GET /ncc.php HTTP/1.1" 302 246
+2026-08-03 00:07:49,013 | DEBUG | http://kucet.ac.in:80 "GET /ncc HTTP/1.1" 200 9064
+2026-08-03 00:07:49,013 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:49,042 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:49,044 | INFO | Links | found=41 | newly_enqueued=0 | queue=45
+2026-08-03 00:07:49,140 | INFO | Saved: data\processed\kucet.ac.in__ncc.php__6551832af157.json
+2026-08-03 00:07:49,140 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:49,140 | INFO | Page type: general
+2026-08-03 00:07:49,140 | INFO | Content length: 9902
+2026-08-03 00:07:49,140 | INFO | Crawling (21/200) | depth=1/5 | queue=44 | url=http://kucet.ac.in/succession_of_principals.php
+2026-08-03 00:07:49,140 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:49,279 | DEBUG | http://kucet.ac.in:80 "GET /succession_of_principals.php HTTP/1.1" 302 267
+2026-08-03 00:07:49,352 | DEBUG | http://kucet.ac.in:80 "GET /succession_of_principals HTTP/1.1" 200 4983
+2026-08-03 00:07:49,352 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:49,364 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:49,368 | INFO | Links | found=41 | newly_enqueued=0 | queue=44
+2026-08-03 00:07:49,398 | INFO | Saved: data\processed\kucet.ac.in__succession_of_principals.php__1d468aea446d.json
+2026-08-03 00:07:49,398 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:49,398 | INFO | Page type: general
+2026-08-03 00:07:49,398 | INFO | Content length: 991
+2026-08-03 00:07:49,398 | INFO | Crawling (22/200) | depth=1/5 | queue=43 | url=http://kucet.ac.in/best-practices.php
+2026-08-03 00:07:49,399 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:49,524 | DEBUG | http://kucet.ac.in:80 "GET /best-practices.php HTTP/1.1" 302 257
+2026-08-03 00:07:49,600 | DEBUG | http://kucet.ac.in:80 "GET /best-practices HTTP/1.1" 200 9363
+2026-08-03 00:07:49,600 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:49,620 | DEBUG | Found 49 internal links on page
+2026-08-03 00:07:49,621 | INFO | Links | found=49 | newly_enqueued=0 | queue=43
+2026-08-03 00:07:49,634 | INFO | Saved: data\processed\kucet.ac.in__best-practices.php__fb74e121b0f8.json
+2026-08-03 00:07:49,634 | INFO | Title: Exams Section
+2026-08-03 00:07:49,634 | INFO | Page type: department
+2026-08-03 00:07:49,634 | INFO | Content length: 1185
+2026-08-03 00:07:49,634 | INFO | Crawling (23/200) | depth=1/5 | queue=42 | url=http://kucet.ac.in/world_standards_day.php
+2026-08-03 00:07:49,640 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:49,767 | DEBUG | http://kucet.ac.in:80 "GET /world_standards_day.php HTTP/1.1" 302 262
+2026-08-03 00:07:49,847 | DEBUG | http://kucet.ac.in:80 "GET /world_standards_day HTTP/1.1" 200 5122
+2026-08-03 00:07:49,850 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:49,861 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:49,862 | INFO | Links | found=41 | newly_enqueued=0 | queue=42
+2026-08-03 00:07:49,879 | INFO | Saved: data\processed\kucet.ac.in__world_standards_day.php__8daf5354c5d3.json
+2026-08-03 00:07:49,879 | INFO | Title: WORLD STANDARDS DAY
+2026-08-03 00:07:49,879 | INFO | Page type: general
+2026-08-03 00:07:49,879 | INFO | Content length: 1216
+2026-08-03 00:07:49,879 | INFO | Crawling (24/200) | depth=1/5 | queue=41 | url=http://kucet.ac.in/Depositor_Education&Awareness.php
+2026-08-03 00:07:49,879 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:50,012 | DEBUG | http://kucet.ac.in:80 "GET /Depositor_Education&Awareness.php HTTP/1.1" 302 276
+2026-08-03 00:07:50,084 | DEBUG | http://kucet.ac.in:80 "GET /Depositor_Education&Awareness HTTP/1.1" 200 5161
+2026-08-03 00:07:50,084 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:50,098 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:50,100 | INFO | Links | found=41 | newly_enqueued=0 | queue=41
+2026-08-03 00:07:50,112 | INFO | Saved: data\processed\kucet.ac.in__Depositor_Education&Awareness.php__f0abd25f7124.json
+2026-08-03 00:07:50,113 | INFO | Title: DEPOSITER EDUCATION AND AWARENESS PROGRAMME
+2026-08-03 00:07:50,113 | INFO | Page type: department
+2026-08-03 00:07:50,113 | INFO | Content length: 1215
+2026-08-03 00:07:50,113 | INFO | Crawling (25/200) | depth=1/5 | queue=40 | url=http://kucet.ac.in/coordinators.php
+2026-08-03 00:07:50,115 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:50,246 | DEBUG | http://kucet.ac.in:80 "GET /coordinators.php HTTP/1.1" 302 255
+2026-08-03 00:07:50,322 | DEBUG | http://kucet.ac.in:80 "GET /coordinators HTTP/1.1" 200 5792
+2026-08-03 00:07:50,329 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:50,345 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:50,345 | INFO | Links | found=41 | newly_enqueued=0 | queue=40
+2026-08-03 00:07:50,404 | INFO | Saved: data\processed\kucet.ac.in__coordinators.php__9fafe91b3afb.json
+2026-08-03 00:07:50,404 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:50,404 | INFO | Page type: department
+2026-08-03 00:07:50,404 | INFO | Content length: 3659
+2026-08-03 00:07:50,404 | INFO | Crawling (26/200) | depth=1/5 | queue=39 | url=http://kucet.ac.in/admissions.php
+2026-08-03 00:07:50,404 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:50,537 | DEBUG | http://kucet.ac.in:80 "GET /admissions.php HTTP/1.1" 302 253
+2026-08-03 00:07:50,622 | DEBUG | http://kucet.ac.in:80 "GET /admissions HTTP/1.1" 200 5093
+2026-08-03 00:07:50,624 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:50,640 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:50,641 | INFO | Links | found=41 | newly_enqueued=0 | queue=39
+2026-08-03 00:07:50,665 | INFO | Saved: data\processed\kucet.ac.in__admissions.php__f4fcd46d16a7.json
+2026-08-03 00:07:50,666 | INFO | Title: B.Tech ADMISSIONS
+2026-08-03 00:07:50,666 | INFO | Page type: general
+2026-08-03 00:07:50,666 | INFO | Content length: 1123
+2026-08-03 00:07:50,666 | INFO | Crawling (27/200) | depth=1/5 | queue=38 | url=http://kucet.ac.in/mission-and-vision.php
+2026-08-03 00:07:50,666 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:50,789 | DEBUG | http://kucet.ac.in:80 "GET /mission-and-vision.php HTTP/1.1" 302 261
+2026-08-03 00:07:50,863 | DEBUG | http://kucet.ac.in:80 "GET /mission-and-vision HTTP/1.1" 200 4918
+2026-08-03 00:07:50,863 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:50,873 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:50,878 | INFO | Links | found=41 | newly_enqueued=0 | queue=38
+2026-08-03 00:07:50,900 | INFO | Saved: data\processed\kucet.ac.in__mission-and-vision.php__91c22c6d28e4.json
+2026-08-03 00:07:50,901 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:50,902 | INFO | Page type: general
+2026-08-03 00:07:50,902 | INFO | Content length: 1022
+2026-08-03 00:07:50,902 | INFO | Crawling (28/200) | depth=1/5 | queue=37 | url=http://kucet.ac.in/sports
+2026-08-03 00:07:50,902 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:51,045 | DEBUG | http://kucet.ac.in:80 "GET /sports HTTP/1.1" 200 6399
+2026-08-03 00:07:51,045 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:51,065 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:51,067 | INFO | Links | found=41 | newly_enqueued=0 | queue=37
+2026-08-03 00:07:51,119 | INFO | Saved: data\processed\kucet.ac.in__sports__dcf7faadb4cf.json
+2026-08-03 00:07:51,119 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:51,119 | INFO | Page type: department
+2026-08-03 00:07:51,119 | INFO | Content length: 2864
+2026-08-03 00:07:51,119 | INFO | Crawling (29/200) | depth=1/5 | queue=36 | url=http://kucet.ac.in/Six-week-program.php
+2026-08-03 00:07:51,119 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:51,233 | DEBUG | http://kucet.ac.in:80 "GET /Six-week-program.php HTTP/1.1" 302 259
+2026-08-03 00:07:51,319 | DEBUG | http://kucet.ac.in:80 "GET /Six-week-program HTTP/1.1" 200 4639
+2026-08-03 00:07:51,329 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:51,339 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:51,340 | INFO | Links | found=41 | newly_enqueued=0 | queue=36
+2026-08-03 00:07:51,352 | INFO | Saved: data\processed\kucet.ac.in__Six-week-program.php__3a02b03c8a82.json
+2026-08-03 00:07:51,352 | INFO | Title: SIX WEEKS ENTREPRENUERSHIP SKILL DEVELOPMENT PROGRAM
+2026-08-03 00:07:51,352 | INFO | Page type: general
+2026-08-03 00:07:51,352 | INFO | Content length: 275
+2026-08-03 00:07:51,352 | INFO | Crawling (30/200) | depth=1/5 | queue=35 | url=http://kucet.ac.in/cse-info.php
+2026-08-03 00:07:51,352 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:51,485 | DEBUG | http://kucet.ac.in:80 "GET /cse-info.php HTTP/1.1" 302 251
+2026-08-03 00:07:51,549 | DEBUG | http://kucet.ac.in:80 "GET /cse-info HTTP/1.1" 200 10205
+2026-08-03 00:07:51,560 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:51,578 | DEBUG | Found 48 internal links on page
+2026-08-03 00:07:51,580 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/cse-info
+2026-08-03 00:07:51,580 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/MTech-cse-info.php
+2026-08-03 00:07:51,580 | INFO | Links | found=48 | newly_enqueued=2 | queue=37
+2026-08-03 00:07:51,612 | INFO | Saved: data\processed\kucet.ac.in__cse-info.php__0b9cb0c09709.json
+2026-08-03 00:07:51,612 | INFO | Title: COMPUTER SCIENCE & ENGINEERING
+2026-08-03 00:07:51,612 | INFO | Page type: department
+2026-08-03 00:07:51,612 | INFO | Content length: 7537
+2026-08-03 00:07:51,612 | INFO | Crawling (31/200) | depth=1/5 | queue=36 | url=http://kucet.ac.in/principal.php
+2026-08-03 00:07:51,612 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:51,730 | DEBUG | http://kucet.ac.in:80 "GET /principal.php HTTP/1.1" 302 252
+2026-08-03 00:07:51,808 | DEBUG | http://kucet.ac.in:80 "GET /principal HTTP/1.1" 200 5041
+2026-08-03 00:07:51,810 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:51,822 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:51,823 | INFO | Links | found=41 | newly_enqueued=0 | queue=36
+2026-08-03 00:07:51,849 | INFO | Saved: data\processed\kucet.ac.in__principal.php__701a3a876ad9.json
+2026-08-03 00:07:51,849 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:51,849 | INFO | Page type: department
+2026-08-03 00:07:51,849 | INFO | Content length: 1177
+2026-08-03 00:07:51,849 | INFO | Crawling (32/200) | depth=1/5 | queue=35 | url=http://kucet.ac.in/ECE-info.php
+2026-08-03 00:07:51,851 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:51,967 | DEBUG | http://kucet.ac.in:80 "GET /ECE-info.php HTTP/1.1" 302 251
+2026-08-03 00:07:52,046 | DEBUG | http://kucet.ac.in:80 "GET /ECE-info HTTP/1.1" 200 9566
+2026-08-03 00:07:52,050 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:52,067 | DEBUG | Found 46 internal links on page
+2026-08-03 00:07:52,067 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/MTech-dc-info.php
+2026-08-03 00:07:52,067 | INFO | Links | found=46 | newly_enqueued=1 | queue=36
+2026-08-03 00:07:52,097 | INFO | Saved: data\processed\kucet.ac.in__ECE-info.php__a31aca83a4b5.json
+2026-08-03 00:07:52,097 | INFO | Title: ELECTRONICS & COMMUNICATION ENGINEERING
+2026-08-03 00:07:52,097 | INFO | Page type: department
+2026-08-03 00:07:52,097 | INFO | Content length: 6141
+2026-08-03 00:07:52,098 | INFO | Crawling (33/200) | depth=1/5 | queue=35 | url=http://kucet.ac.in/internship_cell.php
+2026-08-03 00:07:52,099 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:52,237 | DEBUG | http://kucet.ac.in:80 "GET /internship_cell.php HTTP/1.1" 302 258
+2026-08-03 00:07:52,311 | DEBUG | http://kucet.ac.in:80 "GET /internship_cell HTTP/1.1" 200 6851
+2026-08-03 00:07:52,313 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:52,322 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:52,327 | INFO | Links | found=41 | newly_enqueued=0 | queue=35
+2026-08-03 00:07:52,364 | INFO | Saved: data\processed\kucet.ac.in__internship_cell.php__fc189f1c0019.json
+2026-08-03 00:07:52,364 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:52,364 | INFO | Page type: general
+2026-08-03 00:07:52,365 | INFO | Content length: 2062
+2026-08-03 00:07:52,365 | INFO | Crawling (34/200) | depth=1/5 | queue=34 | url=http://kucet.ac.in/eapcet.php
+2026-08-03 00:07:52,366 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:52,495 | DEBUG | http://kucet.ac.in:80 "GET /eapcet.php HTTP/1.1" 302 249
+2026-08-03 00:07:52,564 | DEBUG | http://kucet.ac.in:80 "GET /eapcet HTTP/1.1" 200 8512
+2026-08-03 00:07:52,564 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:52,587 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:52,588 | INFO | Links | found=41 | newly_enqueued=0 | queue=34
+2026-08-03 00:07:52,637 | INFO | Saved: data\processed\kucet.ac.in__eapcet.php__04a085d8c1c9.json
+2026-08-03 00:07:52,637 | INFO | Title: EAPCET Rank Cutoff
+2026-08-03 00:07:52,637 | INFO | Page type: general
+2026-08-03 00:07:52,637 | INFO | Content length: 4071
+2026-08-03 00:07:52,637 | INFO | Crawling (35/200) | depth=1/5 | queue=33 | url=http://kucet.ac.in/NccArmy&NccAirwing
+2026-08-03 00:07:52,637 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:52,770 | DEBUG | http://kucet.ac.in:80 "GET /NccArmy&NccAirwing HTTP/1.1" 200 5226
+2026-08-03 00:07:52,771 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:52,782 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:52,784 | INFO | Links | found=41 | newly_enqueued=0 | queue=33
+2026-08-03 00:07:52,808 | INFO | Saved: data\processed\kucet.ac.in__NccArmy&NccAirwing__20efbc2d0e59.json
+2026-08-03 00:07:52,808 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:52,808 | INFO | Page type: general
+2026-08-03 00:07:52,808 | INFO | Content length: 320
+2026-08-03 00:07:52,808 | INFO | Crawling (36/200) | depth=1/5 | queue=32 | url=http://kucet.ac.in/faculty-of-engineering.php
+2026-08-03 00:07:52,809 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:52,918 | DEBUG | http://kucet.ac.in:80 "GET /faculty-of-engineering.php HTTP/1.1" 302 265
+2026-08-03 00:07:52,991 | DEBUG | http://kucet.ac.in:80 "GET /faculty-of-engineering HTTP/1.1" 200 5579
+2026-08-03 00:07:52,994 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:53,003 | DEBUG | Found 42 internal links on page
+2026-08-03 00:07:53,007 | INFO | Links | found=42 | newly_enqueued=0 | queue=32
+2026-08-03 00:07:53,039 | INFO | Saved: data\processed\kucet.ac.in__faculty-of-engineering.php__4de958b49a3b.json
+2026-08-03 00:07:53,039 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:53,040 | INFO | Page type: department
+2026-08-03 00:07:53,040 | INFO | Content length: 1022
+2026-08-03 00:07:53,040 | INFO | Crawling (37/200) | depth=1/5 | queue=31 | url=http://kucet.ac.in/nss
+2026-08-03 00:07:53,041 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:53,183 | DEBUG | http://kucet.ac.in:80 "GET /nss HTTP/1.1" 200 13794
+2026-08-03 00:07:53,189 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:53,203 | DEBUG | Found 45 internal links on page
+2026-08-03 00:07:53,212 | INFO | Links | found=45 | newly_enqueued=0 | queue=31
+2026-08-03 00:07:53,246 | INFO | Saved: data\processed\kucet.ac.in__nss__7217280f6fa8.json
+2026-08-03 00:07:53,246 | INFO | Title: National Service Scheme
+2026-08-03 00:07:53,246 | INFO | Page type: general
+2026-08-03 00:07:53,246 | INFO | Content length: 13107
+2026-08-03 00:07:53,246 | INFO | Crawling (38/200) | depth=1/5 | queue=30 | url=http://kucet.ac.in/office_main.php
+2026-08-03 00:07:53,254 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:53,362 | DEBUG | http://kucet.ac.in:80 "GET /office_main.php HTTP/1.1" 302 254
+2026-08-03 00:07:53,431 | DEBUG | http://kucet.ac.in:80 "GET /office_main HTTP/1.1" 200 5405
+2026-08-03 00:07:53,438 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:53,445 | DEBUG | Found 43 internal links on page
+2026-08-03 00:07:53,451 | INFO | Links | found=43 | newly_enqueued=0 | queue=30
+2026-08-03 00:07:53,465 | INFO | Saved: data\processed\kucet.ac.in__office_main.php__e3519acc4f39.json
+2026-08-03 00:07:53,465 | INFO | Title: Office
+2026-08-03 00:07:53,465 | INFO | Page type: notice
+2026-08-03 00:07:53,465 | INFO | Content length: 792
+2026-08-03 00:07:53,465 | INFO | Crawling (39/200) | depth=1/5 | queue=29 | url=http://kucet.ac.in/credits.php
+2026-08-03 00:07:53,465 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:53,579 | DEBUG | http://kucet.ac.in:80 "GET /credits.php HTTP/1.1" 302 250
+2026-08-03 00:07:53,656 | DEBUG | http://kucet.ac.in:80 "GET /credits HTTP/1.1" 200 5896
+2026-08-03 00:07:53,661 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:53,672 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:53,674 | INFO | Links | found=41 | newly_enqueued=0 | queue=29
+2026-08-03 00:07:53,691 | INFO | Saved: data\processed\kucet.ac.in__credits.php__b1608a20df52.json
+2026-08-03 00:07:53,691 | INFO | Title: Website Redevelopment Team - 2025
+2026-08-03 00:07:53,691 | INFO | Page type: department
+2026-08-03 00:07:53,691 | INFO | Content length: 1041
+2026-08-03 00:07:53,691 | INFO | Crawling (40/200) | depth=1/5 | queue=28 | url=http://kucet.ac.in/placements
+2026-08-03 00:07:53,691 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:53,815 | DEBUG | http://kucet.ac.in:80 "GET /placements HTTP/1.1" 200 8980
+2026-08-03 00:07:53,817 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:53,832 | DEBUG | Found 43 internal links on page
+2026-08-03 00:07:53,835 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/index.php
+2026-08-03 00:07:53,835 | INFO | Links | found=43 | newly_enqueued=1 | queue=29
+2026-08-03 00:07:53,881 | INFO | Saved: data\processed\kucet.ac.in__placements__147262c8d571.json
+2026-08-03 00:07:53,881 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:53,881 | INFO | Page type: alumni
+2026-08-03 00:07:53,881 | INFO | Content length: 4989
+2026-08-03 00:07:53,887 | INFO | Crawling (41/200) | depth=1/5 | queue=28 | url=http://kucet.ac.in/CIVIL-info.php
+2026-08-03 00:07:53,888 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:54,016 | DEBUG | http://kucet.ac.in:80 "GET /CIVIL-info.php HTTP/1.1" 302 253
+2026-08-03 00:07:54,097 | DEBUG | http://kucet.ac.in:80 "GET /CIVIL-info HTTP/1.1" 200 9933
+2026-08-03 00:07:54,100 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:54,128 | DEBUG | Found 45 internal links on page
+2026-08-03 00:07:54,130 | INFO | Links | found=45 | newly_enqueued=0 | queue=28
+2026-08-03 00:07:54,157 | INFO | Saved: data\processed\kucet.ac.in__CIVIL-info.php__f90f7042ec3e.json
+2026-08-03 00:07:54,157 | INFO | Title: CIVIL ENGINEERING
+2026-08-03 00:07:54,158 | INFO | Page type: department
+2026-08-03 00:07:54,158 | INFO | Content length: 7718
+2026-08-03 00:07:54,158 | INFO | Crawling (42/200) | depth=1/5 | queue=27 | url=http://kucet.ac.in/college.php
+2026-08-03 00:07:54,159 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:54,267 | DEBUG | http://kucet.ac.in:80 "GET /college.php HTTP/1.1" 302 250
+2026-08-03 00:07:54,346 | DEBUG | http://kucet.ac.in:80 "GET /college HTTP/1.1" 200 5801
+2026-08-03 00:07:54,346 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:54,358 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:54,359 | INFO | Links | found=41 | newly_enqueued=0 | queue=27
+2026-08-03 00:07:54,380 | INFO | Saved: data\processed\kucet.ac.in__college.php__7f1eed099aba.json
+2026-08-03 00:07:54,380 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:54,380 | INFO | Page type: department
+2026-08-03 00:07:54,380 | INFO | Content length: 2772
+2026-08-03 00:07:54,380 | INFO | Crawling (43/200) | depth=1/5 | queue=26 | url=http://kucet.ac.in/sports.php
+2026-08-03 00:07:54,380 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:54,499 | DEBUG | http://kucet.ac.in:80 "GET /sports.php HTTP/1.1" 302 249
+2026-08-03 00:07:54,568 | DEBUG | http://kucet.ac.in:80 "GET /sports HTTP/1.1" 200 6399
+2026-08-03 00:07:54,568 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:54,582 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:54,585 | INFO | Links | found=41 | newly_enqueued=0 | queue=26
+2026-08-03 00:07:54,626 | INFO | Saved: data\processed\kucet.ac.in__sports.php__6574a26f29df.json
+2026-08-03 00:07:54,627 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:54,627 | INFO | Page type: department
+2026-08-03 00:07:54,627 | INFO | Content length: 2864
+2026-08-03 00:07:54,627 | INFO | Crawling (44/200) | depth=1/5 | queue=25 | url=http://kucet.ac.in/TCS2K26
+2026-08-03 00:07:54,627 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:54,754 | DEBUG | http://kucet.ac.in:80 "GET /TCS2K26 HTTP/1.1" 200 10492
+2026-08-03 00:07:54,757 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:54,776 | DEBUG | Found 4 internal links on page
+2026-08-03 00:07:54,776 | INFO | Links | found=4 | newly_enqueued=0 | queue=25
+2026-08-03 00:07:54,806 | INFO | Saved: data\processed\kucet.ac.in__TCS2K26__a0d9ba06f883.json
+2026-08-03 00:07:54,806 | INFO | Title: Aethera
+2026-08-03 00:07:54,806 | INFO | Page type: department
+2026-08-03 00:07:54,806 | INFO | Content length: 3566
+2026-08-03 00:07:54,807 | INFO | Crawling (45/200) | depth=1/5 | queue=24 | url=http://kucet.ac.in/student-activities.php
+2026-08-03 00:07:54,807 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:54,920 | DEBUG | http://kucet.ac.in:80 "GET /student-activities.php HTTP/1.1" 302 261
+2026-08-03 00:07:54,996 | DEBUG | http://kucet.ac.in:80 "GET /student-activities HTTP/1.1" 200 5318
+2026-08-03 00:07:54,999 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:55,005 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:55,011 | INFO | Links | found=41 | newly_enqueued=0 | queue=24
+2026-08-03 00:07:55,026 | INFO | Saved: data\processed\kucet.ac.in__student-activities.php__85e87412ad96.json
+2026-08-03 00:07:55,029 | INFO | Title: Student Activities
+2026-08-03 00:07:55,029 | INFO | Page type: general
+2026-08-03 00:07:55,029 | INFO | Content length: 616
+2026-08-03 00:07:55,029 | INFO | Crawling (46/200) | depth=1/5 | queue=23 | url=http://kucet.ac.in/ncc-airwing.php
+2026-08-03 00:07:55,031 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:55,158 | DEBUG | http://kucet.ac.in:80 "GET /ncc-airwing.php HTTP/1.1" 302 254
+2026-08-03 00:07:55,231 | DEBUG | http://kucet.ac.in:80 "GET /ncc-airwing HTTP/1.1" 200 11693
+2026-08-03 00:07:55,234 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:55,250 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:55,255 | INFO | Links | found=41 | newly_enqueued=0 | queue=23
+2026-08-03 00:07:55,307 | INFO | Saved: data\processed\kucet.ac.in__ncc-airwing.php__4768f4a5e6ff.json
+2026-08-03 00:07:55,307 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:55,307 | INFO | Page type: general
+2026-08-03 00:07:55,307 | INFO | Content length: 10166
+2026-08-03 00:07:55,307 | INFO | Crawling (47/200) | depth=1/5 | queue=22 | url=http://kucet.ac.in/library-event.php
+2026-08-03 00:07:55,307 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:55,416 | DEBUG | http://kucet.ac.in:80 "GET /library-event.php HTTP/1.1" 302 256
+2026-08-03 00:07:55,498 | DEBUG | http://kucet.ac.in:80 "GET /library-event HTTP/1.1" 200 5195
+2026-08-03 00:07:55,502 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:55,512 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:55,514 | INFO | Links | found=41 | newly_enqueued=0 | queue=22
+2026-08-03 00:07:55,519 | INFO | Saved: data\processed\kucet.ac.in__library-event.php__9170c1086f44.json
+2026-08-03 00:07:55,528 | INFO | Title: NATIONAL LIBRARY WEEK CELEBRATIONS 2024
+2026-08-03 00:07:55,528 | INFO | Page type: department
+2026-08-03 00:07:55,528 | INFO | Content length: 1389
+2026-08-03 00:07:55,528 | INFO | Crawling (48/200) | depth=1/5 | queue=21 | url=http://kucet.ac.in/constitution-of-india.php
+2026-08-03 00:07:55,529 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:55,643 | DEBUG | http://kucet.ac.in:80 "GET /constitution-of-india.php HTTP/1.1" 302 264
+2026-08-03 00:07:55,717 | DEBUG | http://kucet.ac.in:80 "GET /constitution-of-india HTTP/1.1" 200 5195
+2026-08-03 00:07:55,721 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:55,731 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:55,731 | INFO | Links | found=41 | newly_enqueued=0 | queue=21
+2026-08-03 00:07:55,746 | INFO | Saved: data\processed\kucet.ac.in__constitution-of-india.php__c7f7e3d3a131.json
+2026-08-03 00:07:55,746 | INFO | Title: CONSTITUTION OF INDIA
+2026-08-03 00:07:55,746 | INFO | Page type: general
+2026-08-03 00:07:55,748 | INFO | Content length: 1300
+2026-08-03 00:07:55,748 | INFO | Crawling (49/200) | depth=1/5 | queue=20 | url=http://kucet.ac.in/grievance.php
+2026-08-03 00:07:55,748 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:55,863 | DEBUG | http://kucet.ac.in:80 "GET /grievance.php HTTP/1.1" 302 252
+2026-08-03 00:07:55,943 | DEBUG | http://kucet.ac.in:80 "GET /grievance HTTP/1.1" 200 6580
+2026-08-03 00:07:55,946 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:55,958 | DEBUG | Found 44 internal links on page
+2026-08-03 00:07:55,959 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/GeneralGrivance.php
+2026-08-03 00:07:55,959 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/CommunityGrievance.php
+2026-08-03 00:07:55,959 | INFO | Links | found=44 | newly_enqueued=2 | queue=22
+2026-08-03 00:07:55,990 | INFO | Saved: data\processed\kucet.ac.in__grievance.php__268e88207a64.json
+2026-08-03 00:07:55,991 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:55,991 | INFO | Page type: general
+2026-08-03 00:07:55,991 | INFO | Content length: 2272
+2026-08-03 00:07:55,991 | INFO | Crawling (50/200) | depth=1/5 | queue=21 | url=http://kucet.ac.in/library.php
+2026-08-03 00:07:55,992 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:56,105 | DEBUG | http://kucet.ac.in:80 "GET /library.php HTTP/1.1" 302 250
+2026-08-03 00:07:56,175 | DEBUG | http://kucet.ac.in:80 "GET /library HTTP/1.1" 200 6075
+2026-08-03 00:07:56,179 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:56,191 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:56,192 | INFO | Links | found=41 | newly_enqueued=0 | queue=21
+2026-08-03 00:07:56,224 | INFO | Saved: data\processed\kucet.ac.in__library.php__e09db0f5e838.json
+2026-08-03 00:07:56,224 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:56,224 | INFO | Page type: department
+2026-08-03 00:07:56,224 | INFO | Content length: 1546
+2026-08-03 00:07:56,224 | INFO | Crawling (51/200) | depth=1/5 | queue=20 | url=http://kucet.ac.in/nss.php
+2026-08-03 00:07:56,225 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:56,341 | DEBUG | http://kucet.ac.in:80 "GET /nss.php HTTP/1.1" 302 246
+2026-08-03 00:07:56,413 | DEBUG | http://kucet.ac.in:80 "GET /nss HTTP/1.1" 200 13794
+2026-08-03 00:07:56,415 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:56,436 | DEBUG | Found 45 internal links on page
+2026-08-03 00:07:56,439 | INFO | Links | found=45 | newly_enqueued=0 | queue=20
+2026-08-03 00:07:56,479 | INFO | Saved: data\processed\kucet.ac.in__nss.php__d9e4adb33968.json
+2026-08-03 00:07:56,479 | INFO | Title: National Service Scheme
+2026-08-03 00:07:56,479 | INFO | Page type: general
+2026-08-03 00:07:56,479 | INFO | Content length: 13107
+2026-08-03 00:07:56,479 | INFO | Crawling (52/200) | depth=1/5 | queue=19 | url=http://kucet.ac.in/Extra_Curricular_Activities
+2026-08-03 00:07:56,479 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:56,606 | DEBUG | http://kucet.ac.in:80 "GET /Extra_Curricular_Activities HTTP/1.1" 200 7946
+2026-08-03 00:07:56,613 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:56,628 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:56,628 | INFO | Links | found=41 | newly_enqueued=0 | queue=19
+2026-08-03 00:07:56,660 | INFO | Saved: data\processed\kucet.ac.in__Extra_Curricular_Activities__4391a4f6a594.json
+2026-08-03 00:07:56,660 | INFO | Title: Extra Curricular Activities
+2026-08-03 00:07:56,660 | INFO | Page type: department
+2026-08-03 00:07:56,660 | INFO | Content length: 5645
+2026-08-03 00:07:56,660 | INFO | Crawling (53/200) | depth=1/5 | queue=18 | url=http://kucet.ac.in/international-day-of-education.php
+2026-08-03 00:07:56,662 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:56,773 | DEBUG | http://kucet.ac.in:80 "GET /international-day-of-education.php HTTP/1.1" 302 273
+2026-08-03 00:07:56,845 | DEBUG | http://kucet.ac.in:80 "GET /international-day-of-education HTTP/1.1" 200 5130
+2026-08-03 00:07:56,850 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:56,862 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:56,862 | INFO | Links | found=41 | newly_enqueued=0 | queue=18
+2026-08-03 00:07:56,876 | INFO | Saved: data\processed\kucet.ac.in__international-day-of-education.php__6b0da0777c9e.json
+2026-08-03 00:07:56,876 | INFO | Title: INTERNATIONAL DAY OF EDUCATION 2025
+2026-08-03 00:07:56,876 | INFO | Page type: department
+2026-08-03 00:07:56,876 | INFO | Content length: 1269
+2026-08-03 00:07:56,876 | INFO | Crawling (54/200) | depth=1/5 | queue=17 | url=http://kucet.ac.in/Cse-It-Co-Po.php
+2026-08-03 00:07:56,877 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:57,027 | DEBUG | http://kucet.ac.in:80 "GET /Cse-It-Co-Po.php HTTP/1.1" 302 255
+2026-08-03 00:07:57,097 | DEBUG | http://kucet.ac.in:80 "GET /Cse-It-Co-Po HTTP/1.1" 200 4842
+2026-08-03 00:07:57,097 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:57,113 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:57,118 | INFO | Links | found=41 | newly_enqueued=0 | queue=17
+2026-08-03 00:07:57,134 | INFO | Saved: data\processed\kucet.ac.in__Cse-It-Co-Po.php__ce49a2800db4.json
+2026-08-03 00:07:57,135 | INFO | Title: Courses Offered
+2026-08-03 00:07:57,135 | INFO | Page type: general
+2026-08-03 00:07:57,135 | INFO | Content length: 705
+2026-08-03 00:07:57,135 | INFO | Crawling (55/200) | depth=1/5 | queue=16 | url=http://kucet.ac.in/Extra_Curricular_Activities.php
+2026-08-03 00:07:57,136 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:57,246 | DEBUG | http://kucet.ac.in:80 "GET /Extra_Curricular_Activities.php HTTP/1.1" 302 270
+2026-08-03 00:07:57,314 | DEBUG | http://kucet.ac.in:80 "GET /Extra_Curricular_Activities HTTP/1.1" 200 7946
+2026-08-03 00:07:57,319 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:57,332 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:57,334 | INFO | Links | found=41 | newly_enqueued=0 | queue=16
+2026-08-03 00:07:57,362 | INFO | Saved: data\processed\kucet.ac.in__Extra_Curricular_Activities.php__a47cbc493d93.json
+2026-08-03 00:07:57,362 | INFO | Title: Extra Curricular Activities
+2026-08-03 00:07:57,362 | INFO | Page type: department
+2026-08-03 00:07:57,362 | INFO | Content length: 5645
+2026-08-03 00:07:57,362 | INFO | Crawling (56/200) | depth=1/5 | queue=15 | url=http://kucet.ac.in/college
+2026-08-03 00:07:57,362 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:57,496 | DEBUG | http://kucet.ac.in:80 "GET /college HTTP/1.1" 200 5801
+2026-08-03 00:07:57,497 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:57,506 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:57,508 | INFO | Links | found=41 | newly_enqueued=0 | queue=15
+2026-08-03 00:07:57,529 | INFO | Saved: data\processed\kucet.ac.in__college__ffbd304e9e1d.json
+2026-08-03 00:07:57,529 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:57,529 | INFO | Page type: department
+2026-08-03 00:07:57,529 | INFO | Content length: 2772
+2026-08-03 00:07:57,529 | INFO | Crawling (57/200) | depth=1/5 | queue=14 | url=http://kucet.ac.in/alumini_main
+2026-08-03 00:07:57,529 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:57,650 | DEBUG | http://kucet.ac.in:80 "GET /alumini_main HTTP/1.1" 200 7501
+2026-08-03 00:07:57,650 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:57,671 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:57,675 | INFO | Links | found=41 | newly_enqueued=0 | queue=14
+2026-08-03 00:07:57,702 | INFO | Saved: data\processed\kucet.ac.in__alumini_main__4626742cd708.json
+2026-08-03 00:07:57,702 | INFO | Title: ALUMINI
+2026-08-03 00:07:57,702 | INFO | Page type: department
+2026-08-03 00:07:57,702 | INFO | Content length: 5419
+2026-08-03 00:07:57,702 | INFO | Crawling (58/200) | depth=1/5 | queue=13 | url=http://kucet.ac.in/Anti_Ragging_Committe.php
+2026-08-03 00:07:57,703 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:57,829 | DEBUG | http://kucet.ac.in:80 "GET /Anti_Ragging_Committe.php HTTP/1.1" 302 264
+2026-08-03 00:07:57,903 | DEBUG | http://kucet.ac.in:80 "GET /Anti_Ragging_Committe HTTP/1.1" 200 4968
+2026-08-03 00:07:57,905 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:57,917 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:57,920 | INFO | Links | found=41 | newly_enqueued=0 | queue=13
+2026-08-03 00:07:57,949 | INFO | Saved: data\processed\kucet.ac.in__Anti_Ragging_Committe.php__b64d85996e4a.json
+2026-08-03 00:07:57,950 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:57,950 | INFO | Page type: general
+2026-08-03 00:07:57,950 | INFO | Content length: 763
+2026-08-03 00:07:57,950 | INFO | Crawling (59/200) | depth=1/5 | queue=12 | url=http://kucet.ac.in/placement&internships.php
+2026-08-03 00:07:57,951 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:58,067 | DEBUG | http://kucet.ac.in:80 "GET /placement&internships.php HTTP/1.1" 302 268
+2026-08-03 00:07:58,136 | DEBUG | http://kucet.ac.in:80 "GET /placement&internships HTTP/1.1" 200 5236
+2026-08-03 00:07:58,139 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:58,148 | DEBUG | Found 43 internal links on page
+2026-08-03 00:07:58,150 | DEBUG | Enqueued new URL (depth=2): http://kucet.ac.in/placements.php
+2026-08-03 00:07:58,150 | INFO | Links | found=43 | newly_enqueued=1 | queue=13
+2026-08-03 00:07:58,172 | INFO | Saved: data\processed\kucet.ac.in__placement&internships.php__5fa27483c78e.json
+2026-08-03 00:07:58,172 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:58,172 | INFO | Page type: general
+2026-08-03 00:07:58,172 | INFO | Content length: 275
+2026-08-03 00:07:58,172 | INFO | Crawling (60/200) | depth=1/5 | queue=12 | url=http://kucet.ac.in/rules-and-regulations.php
+2026-08-03 00:07:58,172 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:58,306 | DEBUG | http://kucet.ac.in:80 "GET /rules-and-regulations.php HTTP/1.1" 302 264
+2026-08-03 00:07:58,369 | DEBUG | http://kucet.ac.in:80 "GET /rules-and-regulations HTTP/1.1" 200 4536
+2026-08-03 00:07:58,383 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:58,393 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:58,395 | INFO | Links | found=41 | newly_enqueued=0 | queue=12
+2026-08-03 00:07:58,420 | INFO | Saved: data\processed\kucet.ac.in__rules-and-regulations.php__a7112d9f2e48.json
+2026-08-03 00:07:58,420 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:58,421 | INFO | Page type: general
+2026-08-03 00:07:58,421 | INFO | Content length: 244
+2026-08-03 00:07:58,421 | INFO | Crawling (61/200) | depth=1/5 | queue=11 | url=http://kucet.ac.in/EEE-info.php
+2026-08-03 00:07:58,421 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:58,545 | DEBUG | http://kucet.ac.in:80 "GET /EEE-info.php HTTP/1.1" 302 251
+2026-08-03 00:07:58,615 | DEBUG | http://kucet.ac.in:80 "GET /EEE-info HTTP/1.1" 200 9561
+2026-08-03 00:07:58,622 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:58,636 | DEBUG | Found 45 internal links on page
+2026-08-03 00:07:58,638 | INFO | Links | found=45 | newly_enqueued=0 | queue=11
+2026-08-03 00:07:58,664 | INFO | Saved: data\processed\kucet.ac.in__EEE-info.php__d9f5a538bb9e.json
+2026-08-03 00:07:58,664 | INFO | Title: ELECTRICAL& ELECTRONICS ENGINEERING
+2026-08-03 00:07:58,664 | INFO | Page type: department
+2026-08-03 00:07:58,664 | INFO | Content length: 6905
+2026-08-03 00:07:58,664 | INFO | Crawling (62/200) | depth=2/5 | queue=10 | url=http://kucet.ac.in/internship_cell
+2026-08-03 00:07:58,665 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:58,804 | DEBUG | http://kucet.ac.in:80 "GET /internship_cell HTTP/1.1" 200 6851
+2026-08-03 00:07:58,804 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:58,820 | DEBUG | Found 41 internal links on page
+2026-08-03 00:07:58,822 | INFO | Links | found=41 | newly_enqueued=0 | queue=10
+2026-08-03 00:07:58,854 | INFO | Saved: data\processed\kucet.ac.in__internship_cell__d208439b394f.json
+2026-08-03 00:07:58,855 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:58,855 | INFO | Page type: general
+2026-08-03 00:07:58,855 | INFO | Content length: 2062
+2026-08-03 00:07:58,855 | INFO | Crawling (63/200) | depth=2/5 | queue=9 | url=http://kucet.ac.in/syllabus_new
+2026-08-03 00:07:58,856 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:58,990 | DEBUG | http://kucet.ac.in:80 "GET /syllabus_new HTTP/1.1" 200 6908
+2026-08-03 00:07:58,990 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:59,015 | DEBUG | Found 87 internal links on page
+2026-08-03 00:07:59,017 | INFO | Links | found=87 | newly_enqueued=0 | queue=9
+2026-08-03 00:07:59,073 | INFO | Saved: data\processed\kucet.ac.in__syllabus_new__3b41b2a8dd36.json
+2026-08-03 00:07:59,073 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:59,073 | INFO | Page type: general
+2026-08-03 00:07:59,073 | INFO | Content length: 2332
+2026-08-03 00:07:59,073 | INFO | Crawling (64/200) | depth=2/5 | queue=8 | url=http://kucet.ac.in/MTech-cad-info.php
+2026-08-03 00:07:59,073 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:59,209 | DEBUG | http://kucet.ac.in:80 "GET /MTech-cad-info.php HTTP/1.1" 302 257
+2026-08-03 00:07:59,296 | DEBUG | http://kucet.ac.in:80 "GET /MTech-cad-info HTTP/1.1" 200 8962
+2026-08-03 00:07:59,304 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:59,320 | DEBUG | Found 46 internal links on page
+2026-08-03 00:07:59,322 | INFO | Links | found=46 | newly_enqueued=0 | queue=8
+2026-08-03 00:07:59,346 | INFO | Saved: data\processed\kucet.ac.in__MTech-cad-info.php__e9cdcbc308d6.json
+2026-08-03 00:07:59,346 | INFO | Title: CAD / CAM - M.Tech
+2026-08-03 00:07:59,346 | INFO | Page type: department
+2026-08-03 00:07:59,346 | INFO | Content length: 4309
+2026-08-03 00:07:59,346 | INFO | Crawling (65/200) | depth=2/5 | queue=7 | url=http://kucet.ac.in/faculty-of-engineering
+2026-08-03 00:07:59,347 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:59,479 | DEBUG | http://kucet.ac.in:80 "GET /faculty-of-engineering HTTP/1.1" 200 5579
+2026-08-03 00:07:59,479 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:59,495 | DEBUG | Found 42 internal links on page
+2026-08-03 00:07:59,497 | INFO | Links | found=42 | newly_enqueued=0 | queue=7
+2026-08-03 00:07:59,525 | INFO | Saved: data\processed\kucet.ac.in__faculty-of-engineering__5b0df4776226.json
+2026-08-03 00:07:59,525 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:07:59,525 | INFO | Page type: department
+2026-08-03 00:07:59,525 | INFO | Content length: 1022
+2026-08-03 00:07:59,528 | INFO | Crawling (66/200) | depth=2/5 | queue=6 | url=http://kucet.ac.in/cse-info
+2026-08-03 00:07:59,528 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:59,662 | DEBUG | http://kucet.ac.in:80 "GET /cse-info HTTP/1.1" 200 10205
+2026-08-03 00:07:59,662 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:59,681 | DEBUG | Found 48 internal links on page
+2026-08-03 00:07:59,683 | INFO | Links | found=48 | newly_enqueued=0 | queue=6
+2026-08-03 00:07:59,713 | INFO | Saved: data\processed\kucet.ac.in__cse-info__65585ffbdadb.json
+2026-08-03 00:07:59,713 | INFO | Title: COMPUTER SCIENCE & ENGINEERING
+2026-08-03 00:07:59,713 | INFO | Page type: department
+2026-08-03 00:07:59,713 | INFO | Content length: 7537
+2026-08-03 00:07:59,713 | INFO | Crawling (67/200) | depth=2/5 | queue=5 | url=http://kucet.ac.in/MTech-cse-info.php
+2026-08-03 00:07:59,713 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:07:59,839 | DEBUG | http://kucet.ac.in:80 "GET /MTech-cse-info.php HTTP/1.1" 302 257
+2026-08-03 00:07:59,913 | DEBUG | http://kucet.ac.in:80 "GET /MTech-cse-info HTTP/1.1" 200 9276
+2026-08-03 00:07:59,913 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:07:59,929 | DEBUG | Found 46 internal links on page
+2026-08-03 00:07:59,933 | INFO | Links | found=46 | newly_enqueued=0 | queue=5
+2026-08-03 00:07:59,962 | INFO | Saved: data\processed\kucet.ac.in__MTech-cse-info.php__0ebdbf111628.json
+2026-08-03 00:07:59,963 | INFO | Title: COMPUTER SCIENCE & ENGINEERING - M.Tech
+2026-08-03 00:07:59,963 | INFO | Page type: department
+2026-08-03 00:07:59,963 | INFO | Content length: 6871
+2026-08-03 00:07:59,963 | INFO | Crawling (68/200) | depth=2/5 | queue=4 | url=http://kucet.ac.in/MTech-dc-info.php
+2026-08-03 00:07:59,964 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:08:00,102 | DEBUG | http://kucet.ac.in:80 "GET /MTech-dc-info.php HTTP/1.1" 302 256
+2026-08-03 00:08:00,178 | DEBUG | http://kucet.ac.in:80 "GET /MTech-dc-info HTTP/1.1" 200 8407
+2026-08-03 00:08:00,185 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:08:00,200 | DEBUG | Found 46 internal links on page
+2026-08-03 00:08:00,202 | INFO | Links | found=46 | newly_enqueued=0 | queue=4
+2026-08-03 00:08:00,225 | INFO | Saved: data\processed\kucet.ac.in__MTech-dc-info.php__7c6021e2e24d.json
+2026-08-03 00:08:00,225 | INFO | Title: DC - M.Tech
+2026-08-03 00:08:00,226 | INFO | Page type: department
+2026-08-03 00:08:00,226 | INFO | Content length: 3196
+2026-08-03 00:08:00,226 | INFO | Crawling (69/200) | depth=2/5 | queue=3 | url=http://kucet.ac.in/index.php
+2026-08-03 00:08:00,227 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:08:00,357 | DEBUG | http://kucet.ac.in:80 "GET /index.php HTTP/1.1" 302 248
+2026-08-03 00:08:00,436 | DEBUG | http://kucet.ac.in:80 "GET /index HTTP/1.1" 200 19388
+2026-08-03 00:08:00,436 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:08:00,473 | DEBUG | Found 114 internal links on page
+2026-08-03 00:08:00,477 | INFO | Links | found=114 | newly_enqueued=0 | queue=3
+2026-08-03 00:08:00,581 | INFO | Saved: data\processed\kucet.ac.in__index.php__bdb9662e808b.json
+2026-08-03 00:08:00,581 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:08:00,581 | INFO | Page type: homepage
+2026-08-03 00:08:00,581 | INFO | Content length: 7328
+2026-08-03 00:08:00,581 | INFO | Crawling (70/200) | depth=2/5 | queue=2 | url=http://kucet.ac.in/GeneralGrivance.php
+2026-08-03 00:08:00,581 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:08:00,707 | DEBUG | http://kucet.ac.in:80 "GET /GeneralGrivance.php HTTP/1.1" 302 258
+2026-08-03 00:08:00,787 | DEBUG | http://kucet.ac.in:80 "GET /GeneralGrivance HTTP/1.1" 200 6244
+2026-08-03 00:08:00,792 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:08:00,802 | DEBUG | Found 44 internal links on page
+2026-08-03 00:08:00,802 | INFO | Links | found=44 | newly_enqueued=0 | queue=2
+2026-08-03 00:08:00,833 | INFO | Saved: data\processed\kucet.ac.in__GeneralGrivance.php__95d7b9c5168c.json
+2026-08-03 00:08:00,833 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:08:00,833 | INFO | Page type: general
+2026-08-03 00:08:00,833 | INFO | Content length: 330
+2026-08-03 00:08:00,833 | INFO | Crawling (71/200) | depth=2/5 | queue=1 | url=http://kucet.ac.in/CommunityGrievance.php
+2026-08-03 00:08:00,833 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:08:00,973 | DEBUG | http://kucet.ac.in:80 "GET /CommunityGrievance.php HTTP/1.1" 302 261
+2026-08-03 00:08:01,056 | DEBUG | http://kucet.ac.in:80 "GET /CommunityGrievance HTTP/1.1" 200 6241
+2026-08-03 00:08:01,056 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:08:01,071 | DEBUG | Found 44 internal links on page
+2026-08-03 00:08:01,074 | INFO | Links | found=44 | newly_enqueued=0 | queue=1
+2026-08-03 00:08:01,101 | INFO | Saved: data\processed\kucet.ac.in__CommunityGrievance.php__18b1990ce9eb.json
+2026-08-03 00:08:01,101 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:08:01,101 | INFO | Page type: general
+2026-08-03 00:08:01,101 | INFO | Content length: 334
+2026-08-03 00:08:01,102 | INFO | Crawling (72/200) | depth=2/5 | queue=0 | url=http://kucet.ac.in/placements.php
+2026-08-03 00:08:01,102 | DEBUG | Starting new HTTP connection (1): kucet.ac.in:80
+2026-08-03 00:08:01,220 | DEBUG | http://kucet.ac.in:80 "GET /placements.php HTTP/1.1" 302 253
+2026-08-03 00:08:01,296 | DEBUG | http://kucet.ac.in:80 "GET /placements HTTP/1.1" 200 8980
+2026-08-03 00:08:01,297 | DEBUG | Encoding detection: utf_8 is most likely the one.
+2026-08-03 00:08:01,329 | DEBUG | Found 43 internal links on page
+2026-08-03 00:08:01,329 | INFO | Links | found=43 | newly_enqueued=0 | queue=0
+2026-08-03 00:08:01,382 | INFO | Saved: data\processed\kucet.ac.in__placements.php__340af5c2f0dd.json
+2026-08-03 00:08:01,382 | INFO | Title: KU COLLEGE OF ENGINEERING AND TECHNOLOGY
+2026-08-03 00:08:01,382 | INFO | Page type: alumni
+2026-08-03 00:08:01,383 | INFO | Content length: 4989
+2026-08-03 00:08:01,383 | INFO | Crawl summary: {'pages_crawled': 72, 'pages_saved': 72, 'links_discovered': 191, 'failed_pages': 0, 'max_depth_reached': 2}
