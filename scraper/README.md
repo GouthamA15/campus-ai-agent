@@ -1,11 +1,9 @@
 # Scraper (Phase 1.5) + Crawler (Phase 2)
 
-This module scrapes **one HTML page** and saves the result as **one JSON file** in `data/processed/`.
+This module scrapes **one HTML page**, cleans the raw HTML (removing scripts, styles, sidebars, and navigation), and saves the plain text result as **one JSON file** in `data/processed/`.
 
 Out of scope in this repo stage:
-- PDFs
-- chunking
-- embeddings / vector DB
+- Embeddings / vector DB
 - RAG retrieval
 
 ## Run
@@ -198,13 +196,13 @@ This reads only the parsed PDF JSON from `data/pdf_text/` and writes retrieval-r
 Run on one file:
 
 ```bash
-python -m scraper.pdf_chunker --file data/pdf_text/example.json
+python -m pipeline.pdf_chunker --file data/pdf_text/example.json
 ```
 
 Run on all parsed PDF JSON files:
 
 ```bash
-python -m scraper.pdf_chunker --all
+python -m pipeline.pdf.pdf_chunker --all
 ```
 
 Chunking modes:
@@ -238,5 +236,50 @@ Output schema:
 			}
 		}
 	]
+}
+```
+
+## Phase 2.5: Web Chunking Engine
+
+Once web pages have been scraped and flattened into plain text in `data/processed/`, they must be chunked for retrieval. This is handled by the **Web Chunker** located in the `pipeline/web/` package.
+
+The Web Chunker reads the scraped JSON files and converts them into semantic chunks using a deterministic, rule-based approach (No ML/LLM).
+
+Run the web chunker:
+
+```bash
+python -m pipeline.web.web_chunker --input-dir data/processed --output-dir data/web_chunks
+```
+
+### How Web Chunking Works:
+
+1. **Junk Filtering:** The chunker explicitly ignores lines matching known useless patterns like "Copyrights", "Developed by", "Navigation", "Quick Links", and repeating college banners.
+2. **Heading Detection:** It uses heuristics to detect structural boundaries. Lines that are short, Title Cased, or ALL CAPS are treated as section headings.
+3. **Semantic Grouping:** Text is grouped under its closest heading. It respects a `MAX_TOKENS` limit (~400) to prevent oversized chunks.
+4. **Boundary Respect:** The chunker never splits inside a paragraph, table row, or list item. Splits only occur at natural line break boundaries.
+
+### Output JSON Format
+
+Chunks are saved in `data/web_chunks/` (one file per webpage):
+
+```json
+{
+  "document_id": "college.php.json",
+  "title": "KU COLLEGE OF ENGINEERING AND TECHNOLOGY",
+  "source": "http://kucet.ac.in/college.php",
+  "page_type": "department",
+  "scraped_at": "2026-05-29T14:20:10.831602+00:00",
+  "chunk_count": 2,
+  "chunks": [
+    {
+      "chunk_id": "college.php.json_chunk_0",
+      "chunk_index": 0,
+      "heading": "KUWL",
+      "heading_level": 1,
+      "chunk_type": "paragraph",
+      "text": "It was established in the year 2009 with the mission and vision...",
+      "token_count": 416
+    }
+  ]
 }
 ```
